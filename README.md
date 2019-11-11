@@ -8,7 +8,7 @@ If you have questions, please check here:
 
 - [Link to generated music demo](https://youtu.be/RrHrRqZ3pUM?list=PL2BYDiR6uDOJzYCJ7QuuQz-hWvQeYN5Nx)
 
-- [Link to specification](https://eecs183.github.io/creative-ai/docs/Home)
+- [Link to specification](https://eecs183.github.io/creative-ai)
 
 Here are a few notes to get you started:
 
