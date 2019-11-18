@@ -21,7 +21,7 @@ def returnDictionary(D):
     >>> returnDictionary(lyrics) == {'a': 'hard', 'days': 'night'}
     True
     """
-    pass
+    return D
 
 def keyInDict(D, K):
     """
@@ -37,7 +37,7 @@ def keyInDict(D, K):
     >>> keyInDict(lyrics, 'postman')
     False
     """
-    pass
+    return K in D
 
 def returnKeyVal(D, K):
     """
@@ -50,7 +50,7 @@ def returnKeyVal(D, K):
     >>> returnKeyVal(lyrics, 'postman')
     {}
     """
-    pass
+    return D[K]
 
 def setKeyVal(D, K, V):
     """
@@ -63,7 +63,8 @@ def setKeyVal(D, K, V):
     >>> setKeyVal({'where do': 'they all'}, 'come', 'from') == {'where do': 'they all', 'come': 'from'}
     True
     """
-    pass
+    D[K] = V
+    return D
 
 def setKeyValList(D, K, V1, V2, V3, V4):
     """
@@ -75,7 +76,8 @@ def setKeyValList(D, K, V1, V2, V3, V4):
     >>> setKeyValList({}, 'taxman', 'cause', 'im', 'the', 'taxman') == {'taxman': ['cause', 'im', 'the', 'taxman']}
     True
     """
-    pass
+    D[K] = [V1, V2, V3, V4]
+    return D
 
 def asciiAssociate():
     """
@@ -90,7 +92,10 @@ def asciiAssociate():
     """
     # You may find this useful
     from string import ascii_lowercase as alphabet
-    pass
+    asciiDict = {}
+    for i in range(97, 123):
+        setKeyVal(asciiDict, chr(i), i)
+    return asciiDict
 
 def nestedAscii():
     """
@@ -104,7 +109,10 @@ def nestedAscii():
     """
     # You may find this useful
     from string import ascii_lowercase as alphabet
-    pass
+    D = {}
+    for i in alphabet:
+        setKeyVal(D, i, {})
+    return D
 
 def getNote(song, note):
     """
@@ -119,7 +127,7 @@ def getNote(song, note):
     >>> getNote({'backbeat': ['e1', 'g1']}, 'backbeat')
     'e1'
     """
-    pass
+    return song[note][0]
 
 def translate(vocab, word, language):
     """
@@ -135,7 +143,7 @@ def translate(vocab, word, language):
     >>> translate({'river': {'Spanish': 'rio', 'French': 'riviere'}}, 'river', 'French')
     'riviere'
     """
-    pass
+    return vocab[word][language]
 
 def nestedDictionary3D(L1, L2):
     """
@@ -152,7 +160,12 @@ def nestedDictionary3D(L1, L2):
     >>> nestedDictionary3D(albums, attributes)
     {'help': {'sales': {}, 'songs': {}}, 'revolver': {'sales': {}, 'songs': {}}}
     """
-    pass
+    D = {}
+    for i in L1:
+        setKeyVal(D, i, {})
+        for j in L2:
+            setKeyVal(D[i], j, {})
+    return D
 
 def valueFrom3D(D, K1, K2, K3):
     """
@@ -168,7 +181,7 @@ def valueFrom3D(D, K1, K2, K3):
     >>> valueFrom3D({'twist': {'and': {'shout': 5}}}, 'twist', 'and', 'shout')
     5
     """
-    pass
+    return D[K1][K2][K3]
 
 def keysIn2D(D, L1, L2):
     """
@@ -185,7 +198,7 @@ def keysIn2D(D, L1, L2):
     >>> keysIn2D(D, ['c4', 'f#6'], ['ab3', 'd5', 'e3'])
     True
     """
-    pass
+    return (L1[-1] in D and L2[-1] in D[L1[-1]])
 
 class warmup(object):
     """A simple class with methods to get you used to how python classes work."""
@@ -201,7 +214,8 @@ class warmup(object):
         >>> w.bandName
         'The Beatles'
         """
-        pass
+        self.bandName = band
+        return
 
     def setAlbum(self, album):
         """
@@ -214,7 +228,8 @@ class warmup(object):
         >>> w.album
         'Abbey Road'
         """
-        pass
+        self.album = album
+        return
 
     def printAlbum(self):
         """
@@ -227,7 +242,8 @@ class warmup(object):
         >>> w.printAlbum()
         'Twist and Shout by The Beatles'
         """
-        pass
+        return self.album + " by " + self.bandName
+
 
     #hint: use the functions you defined above!
     def __init__(self, name_in = " ", album_in = " "):
@@ -248,8 +264,13 @@ class warmup(object):
         >>> a.album
         'Astro Lounge'
         """
-        pass
-
+        if name_in == " " and album_in == ' ':
+            self.bandName = "No name"
+            self.album = "No album"
+        else:
+            self.bandName = name_in
+            self.album = album_in
+        return
 
 ###############################################################################
 # Main
