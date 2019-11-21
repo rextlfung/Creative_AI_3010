@@ -174,7 +174,7 @@ def generateTokenSentence(model, desiredLength):
         if sentenceTooLong(desiredLength, currentLength):
             break
         #Add new word to sentence
-        sentence += [model.selectNGramModel(sentence).getNextToken(sentence)]
+        sentence.append(model.selectNGramModel(sentence).getNextToken(sentence))
     #Clear ending character if present
     if sentence[-1] == "$:::$":
         sentence.remove("$:::$")
