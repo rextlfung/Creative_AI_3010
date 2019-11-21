@@ -163,7 +163,23 @@ def generateTokenSentence(model, desiredLength):
               For more details about generating a sentence using the
               NGramModels, see the spec.
     """
-    pass
+    #Create sentence with starting characters
+    sentence = ["^::^", "^:::^"]
+    #Continuously add new words until sentence needs to end
+    while True:
+        if sentence[-1] == "$:::$":
+            break
+        #Discount starting characters
+        currentLength = len(sentence) - 2
+        if sentenceTooLong(desiredLength, currentLength):
+            break
+        #Add new word to sentence
+        sentence += [model.selectNGramModel(sentence).getNextToken(sentence)]
+    #Clear ending character if present
+    if sentence[-1] == "$:::$":
+        sentence.remove("$:::$")
+    #Return sentence without starting characters
+    return sentence[2:]
 
 ###############################################################################
 # End Core
