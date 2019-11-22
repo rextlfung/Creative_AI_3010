@@ -41,6 +41,7 @@ class UnigramModel():
                   self.nGramCounts, see the spec.
                   Returns self.nGramCounts
         """
+        temp_dict = self.nGramCounts.copy()
         word_count = 0
         joined_text = []
         for i in text:
@@ -48,7 +49,13 @@ class UnigramModel():
         for word in joined_text:
             if ((word != '^::^') and (word != '^:::^')):
                 word_count = joined_text.count(word)
-                self.nGramCounts[word] = word_count
+                temp_dict[word] = word_count
+        for word in self.nGramCounts:
+            if word in temp_dict:
+                temp_val = self.nGramCounts[word]
+                temp_val2 = temp_dict[word]
+                temp_dict[word] = temp_val + temp_val2
+        self.nGramCounts = temp_dict
 
         return self.nGramCounts
 
