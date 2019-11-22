@@ -21,7 +21,7 @@ class UnigramModel():
         Effects:  Returns the string to print when you call print on an
                   NGramModel object. This string will be formatted in JSON
                   and display the currently trained dataset.
-        
+
         This function is done for you.
         """
 
@@ -41,7 +41,16 @@ class UnigramModel():
                   self.nGramCounts, see the spec.
                   Returns self.nGramCounts
         """
-        pass
+        word_count = 0
+        joined_text = []
+        for i in text:
+            joined_text += i
+        for word in joined_text:
+            if ((word != '^::^') and (word != '^:::^')):
+                word_count = joined_text.count(word)
+                self.nGramCounts[word] = word_count
+
+        return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
         """
@@ -51,7 +60,10 @@ class UnigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the UnigramModel, see the spec.
         """
-        pass
+        if len(self.nGramCounts) > 0:
+            return True
+        else:
+            return False
 
     def getCandidateDictionary(self, sentence):
         """
@@ -62,7 +74,7 @@ class UnigramModel():
                   to the current sentence. For details on which words the
                   UnigramModel sees as candidates, see the spec.
         """
-        pass
+        return self.nGramCounts
 
 ###############################################################################
 # End Core
@@ -93,3 +105,5 @@ if __name__ == '__main__':
     print(uni.trainingDataHasNGram(sentence)) # should be False
     uni.trainModel(text)
     print(uni.trainingDataHasNGram(sentence)) # should be True
+    # Tests getCandidateDictionary, returns dictionary
+    print(uni.getCandidateDictionary(sentence))
