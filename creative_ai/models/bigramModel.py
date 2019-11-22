@@ -42,20 +42,17 @@ class BigramModel():
                   {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
-        word_count = 0
-        joined_text = []
-        for i in text:
-            joined_text += i
-        for word1 in joined_text:
-            index = joined_text.index(word1)
-            if index < len(joined_text) - 1:
-                word2 = joined_text[index + 1]
-                bigram = word1 + word2
-                joined_words = ''.join(joined_text)
-                word_count = joined_words.count(bigram)
-                d2 = {}
-                d2[word2] = word_count
-                self.nGramCounts[word1] = d2
+        for list in text:
+            for word in list:
+                index = list.index(word)
+                if index < len(list) - 1:
+                    if list[index] in self.nGramCounts:
+                        if list[index + 1] in self.nGramCounts[list[index]]:
+                            self.nGramCounts[list[index]][list[index + 1]] += 1
+                        else:
+                            self.nGramCounts[list[index]][list[index + 1]] = 1
+                    else:
+                        self.nGramCounts[list[index]] = {list[index + 1]: 1}
 
         return self.nGramCounts
 
@@ -69,8 +66,7 @@ class BigramModel():
         """
         possible_keys = []
         possible_keys = self.nGramCounts.keys()
-        sentence_list = sentence.split()
-        if sentence_list[-1] in possible_keys:
+        if sentence[-1] in possible_keys:
             return True
         else:
             return False
@@ -84,15 +80,7 @@ class BigramModel():
                   to the current sentence. For details on which words the
                   BigramModel sees as candidates, see the spec.
         """
-        # FIX ME
-        return_dict = {}
-        sentence_list = sentence.split()
-        word = sentence_list[-1]
-        possible_values = []
-        possible_values = self.nGramCounts.values()
-        for pair in possible_values:
-            return_dict[word] = pair
-            return return_dict
+        return self.nGramCounts[sentence[-1]]
 
 ###############################################################################
 # End Core
@@ -114,13 +102,13 @@ if __name__ == '__main__':
     print(bi)
 
     bi = BigramModel()
-    sentence = "Eagles fly in the sky"
+    sentence = ['Eagles', 'fly', 'in', 'the', 'sky']
     print(bi.trainingDataHasNGram(sentence))
     bi.trainModel(text)
     print(bi.trainingDataHasNGram(sentence))
 
     bi = BigramModel()
-    sentence = "Eagles are brown"
+    sentence = ['Eagles', 'are', 'brown']
     text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'brown', 'fox'] ]
     bi.trainModel(text)
     print(bi.trainingDataHasNGram(sentence))
