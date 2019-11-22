@@ -44,7 +44,18 @@ class TrigramModel():
                   and dictionaries of {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
-        pass
+        for list in text:
+            if list[0] in self.nGramCounts:
+                if list[1] in self.nGramCounts[list[0]]:
+                    if list[2] in self.nGramCounts[list[0]][list[1]]:
+                        self.nGramCounts[list[0]][list[1]][list[2]] += 1
+                    else:
+                        self.nGramCounts[list[0]][list[1]][list[2]] = 1
+                else:
+                    self.nGramCounts[list[0]][list[1]] = {list[2] : 1}
+            else:
+                self.nGramCounts[list[0]] = {list[1]: {list[2]: 1}}
+        return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
         """
@@ -54,7 +65,11 @@ class TrigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the TrigramModel, see the spec.
         """
-        pass
+        if sentence[-1] in self.nGramCounts:
+            if sentence[-2] in self.nGramCounts[sentence[-1]]:
+                return True
+        return False
+        
 
     def getCandidateDictionary(self, sentence):
         """
@@ -65,7 +80,7 @@ class TrigramModel():
                   to the current sentence. For details on which words the
                   TrigramModel sees as candidates, see the spec.
         """
-        pass
+        return self.nGramCounts[sentence[-2]][sentence[-1]]
 
 ###############################################################################
 # End Core
@@ -79,7 +94,13 @@ if __name__ == '__main__':
     # An example trainModel test case
     uni = TrigramModel()
 
+    text1 = [ ['the', 'brown', 'fox']]
+    uni.trainModel(text1)
+
     text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
     uni.trainModel(text)
     
     print(uni)
+    
+    sentence = ['he', 'smelled', 'the', 'brown']
+    print(uni.getCandidateDictionary(sentence))
