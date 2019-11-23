@@ -78,6 +78,13 @@ class LanguageModel():
                   current sentence based on the n-grams that the models know.
                   (Remember that you wrote a function that checks if a model can
                   be used to pick a word for a sentence!)
+
+        self sorts by tri-, bi-, unigrams
+        sentence is a list of strings
+
+        using n-grams, returns best model for current sentence
+        use function that checks if a model can be used to pick a word for that sentence
+
         """
         pass
 
@@ -88,6 +95,10 @@ class LanguageModel():
         Modifies: nothing
         Effects:  returns a candidate item (a key in the candidates dictionary)
                   based on the algorithm described in the spec.
+        
+        choose things from a dictionary      
+        returns an item described by the algorithm from the spec
+                  
         """
         pass
 
@@ -105,6 +116,13 @@ class LanguageModel():
                   If a filter is being used, and none of the models
                   can produce a next token using the filter, then a random
                   token from the filter is returned instead.
+
+        sentence is list of strings
+        this is used to choose the next token or word for the current sentence
+
+        calls getCandidateDictionary and weightedChoice
+        if filter is used, while no model produces a next token through the filter, filter chooses random token
+
         """
         pass
 
