@@ -44,12 +44,15 @@ class UnigramModel():
         temp_dict = self.nGramCounts.copy()
         word_count = 0
         joined_text = []
+        # Merges all lists in text into single list of words
         for i in text:
             joined_text += i
+        # Adds new word to temporary dictionary if in text
         for word in joined_text:
             if ((word != '^::^') and (word != '^:::^')):
                 word_count = joined_text.count(word)
                 temp_dict[word] = word_count
+        # Combines existing dict values with temp dict values to existing dict
         for word in self.nGramCounts:
             if word in temp_dict:
                 temp_val = self.nGramCounts[word]
@@ -67,6 +70,7 @@ class UnigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the UnigramModel, see the spec.
         """
+        # Returns true iff self.nGramCounts is not empty
         if len(self.nGramCounts) > 0:
             return True
         else:
@@ -81,6 +85,7 @@ class UnigramModel():
                   to the current sentence. For details on which words the
                   UnigramModel sees as candidates, see the spec.
         """
+        # Returns self.nGramCounts dictionary
         return self.nGramCounts
 
 ###############################################################################
