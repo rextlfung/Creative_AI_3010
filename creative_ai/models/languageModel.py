@@ -100,8 +100,17 @@ class LanguageModel():
         returns an item described by the algorithm from the spec
                   
         """
-        pass
-
+        min = 0
+        max = 0
+        for index in candidates:
+            max += candidates[index]
+        cumulative_count = 0
+        for index in candidates:
+            cumulative_count += candidates[index]
+            if random.randrange(min, max) < cumulative_count:
+                continue
+            else:
+                return index
 
     def getNextToken(self, sentence, filter=None):
         """
