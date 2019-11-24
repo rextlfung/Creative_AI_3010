@@ -42,9 +42,11 @@ class BigramModel():
                   {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
+        # Iterates through each word in text
         for list in text:
             for word in list:
                 index = list.index(word)
+                # Updates frequency of word in dictionary if within bounds
                 if index < len(list) - 1:
                     if list[index] in self.nGramCounts:
                         if list[index + 1] in self.nGramCounts[list[index]]:
@@ -64,6 +66,7 @@ class BigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the BigramModel, see the spec.
         """
+        # Returns true iff last word in sentence exists as start of bigram
         possible_keys = []
         possible_keys = self.nGramCounts.keys()
         if sentence[-1] in possible_keys:
@@ -80,6 +83,7 @@ class BigramModel():
                   to the current sentence. For details on which words the
                   BigramModel sees as candidates, see the spec.
         """
+        # Returns dict of bigrams starting with last word of sentence
         return self.nGramCounts[sentence[-1]]
 
 ###############################################################################

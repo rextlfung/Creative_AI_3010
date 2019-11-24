@@ -44,9 +44,11 @@ class TrigramModel():
                   and dictionaries of {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
+        # Iterates through each word in text
         for list in text:
             for word in list:
                 i = list.index(word)
+                # Updates frequency of word in dictionary if within bounds
                 if i < len(list) - 2:
                     if list[i] in self.nGramCounts:
                         if list[i + 1] in self.nGramCounts[list[i]]:
@@ -69,6 +71,7 @@ class TrigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the TrigramModel, see the spec.
         """
+        # Returns true iff last word in sentence exists as start of trigram
         if sentence[-1] in self.nGramCounts:
             if sentence[-2] in self.nGramCounts[sentence[-1]]:
                 return True
@@ -84,6 +87,7 @@ class TrigramModel():
                   to the current sentence. For details on which words the
                   TrigramModel sees as candidates, see the spec.
         """
+        # Returns dict of candidate trigrams
         return self.nGramCounts[sentence[-2]][sentence[-1]]
 
 ###############################################################################
