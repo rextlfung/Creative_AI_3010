@@ -140,19 +140,30 @@ class LanguageModel():
         if filter is used, while no model produces a next token through the filter, filter chooses random token
 
         """
-        
-        if self == TrigramModel():
+        #gives dictionary to use, whichever of the three models
+        if self.selectNGramModel(sentence) == TrigramModel():
             Dictionary = TrigramModel.getCandidateDictionary(sentence)
-        elif self == BigramModel():
+        elif self.selectNGramModel(sentence) == BigramModel():
             Dictionary = BigramModel.getCandidateDictionary(sentence)
-        elif self == UnigramModel():
+        elif self.selectNGramModel(sentence) == UnigramModel():
             Dictionary = UnigramModel.getCandidateDictionary(sentence)
         
+        #returns a choice from weighted dictionary
         if filter == None:
             return self.weightedChoice(Dictionary)
+
+        #if there are strings in filter
         else:
-            random.choice(myList)
-            self.weightedChoice(filteredCandidates)
+            filteredCandidates = {}
+            for index, value in Dictionary:
+                if index in filter:
+                    filteredCandidates[index] = value
+        #if there are no items in filteredCandidates
+            if filteredCandidates == None:
+                random.choice(filter)
+        #if there are items in filteredCandidates
+            else:
+                self.weightedChoice(filteredCandidates)
 
 ###############################################################################
 # End Core
