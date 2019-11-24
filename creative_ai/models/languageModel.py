@@ -155,15 +155,15 @@ class LanguageModel():
         #if there are strings in filter
         else:
             filteredCandidates = {}
-            for index, value in Dictionary:
+            for index, value in Dictionary.items():
                 if index in filter:
                     filteredCandidates[index] = value
         #if there are no items in filteredCandidates
             if filteredCandidates == {}:
-                random.choice(filter)
+                return random.choice(filter)
         #if there are items in filteredCandidates
             else:
-                self.weightedChoice(filteredCandidates)
+                return self.weightedChoice(filteredCandidates)
 
 ###############################################################################
 # End Core
