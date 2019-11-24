@@ -141,6 +141,7 @@ class LanguageModel():
 
         """
         #gives dictionary to use, whichever of the three models
+        Dictionary = {}
         if self.selectNGramModel(sentence) == self.models[0]:
             Dictionary = self.models[0].getCandidateDictionary(sentence)
         elif self.selectNGramModel(sentence) == self.models[1]:
