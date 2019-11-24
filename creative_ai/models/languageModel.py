@@ -86,6 +86,9 @@ class LanguageModel():
         use function that checks if a model can be used to pick a word for that sentence
 
         """
+        getNextToken(self, sentence, filter = none)
+
+
         pass
 
     def weightedChoice(self, candidates):
@@ -105,9 +108,10 @@ class LanguageModel():
         for index in candidates:
             max += candidates[index]
         cumulative_count = 0
+        randomNumber = random.randrange(min, max)
         for index in candidates:
             cumulative_count += candidates[index]
-            if random.randrange(min, max) < cumulative_count:
+            if randomNumber < cumulative_count:
                 continue
             else:
                 return index
@@ -133,6 +137,17 @@ class LanguageModel():
         if filter is used, while no model produces a next token through the filter, filter chooses random token
 
         """
+        
+        if filter == none:
+            triDictionary = TrigramModel.getCandidateDictionary(self, sentence)
+            weightedChoice(TrigramModel, triDictionary)
+            biDictionary = BigramModel.getCandidateDictionary(self, sentence)
+            weightedChoice(BigramModel, biDictionary)
+            uniDictionary = UnigramModel.getCandidateDictionary(self, sentence)
+            weightedChoice(UnigramModel, uniDictionary)
+        else:
+            filteredCandidates
+        weightedChoice(self, sentence)
         pass
 
 ###############################################################################
