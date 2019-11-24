@@ -86,10 +86,13 @@ class LanguageModel():
         use function that checks if a model can be used to pick a word for that sentence
 
         """
-        getNextToken(self, sentence, filter = none)
 
-
-        pass
+        if self.models[2].trainingDataHasNGram(sentence) == True:
+            return self.models[2]
+        elif self.models[1].trainingDataHasNGram(sentence) == True:
+            return self.models[1]
+        else:
+            return self.models[0]
 
     def weightedChoice(self, candidates):
         """
@@ -138,20 +141,19 @@ class LanguageModel():
 
         """
         
+        if self == TrigramModel():
+            Dictionary = TrigramModel.getCandidateDictionary(sentence)
+        elif self == BigramModel():
+            Dictionary = BigramModel.getCandidateDictionary(sentence)
+        elif self == UnigramModel():
+            Dictionary = UnigramModel.getCandidateDictionary(sentence)
+        
         if filter == None:
-            if self == TrigramModel():
-                triDictionary = TrigramModel.getCandidateDictionary(self, sentence)
-                self.weightedChoice(triDictionary)
-            elif self == BigramModel():
-                biDictionary = BigramModel.getCandidateDictionary(self, sentence)
-                self.weightedChoice(biDictionary)
-            else:
-                uniDictionary = UnigramModel.getCandidateDictionary(self, sentence)
-                self.weightedChoice(uniDictionary)
+            return self.weightedChoice(Dictionary)
         else:
-            filteredCandidates
-        weightedChoice(self, sentence)
-        pass
+            filteredCandidates = 
+            random.choice(myList)
+            self.weightedChoice(filteredCandidates)
 
 ###############################################################################
 # End Core
