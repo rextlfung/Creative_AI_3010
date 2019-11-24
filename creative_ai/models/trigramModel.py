@@ -72,8 +72,8 @@ class TrigramModel():
                   is determined for the TrigramModel, see the spec.
         """
         # Returns true iff last word in sentence exists as start of trigram
-        if sentence[-1] in self.nGramCounts:
-            if sentence[-2] in self.nGramCounts[sentence[-1]]:
+        if sentence[-2] in self.nGramCounts:
+            if sentence[-1] in self.nGramCounts[sentence[-2]]:
                 return True
         return False
 
