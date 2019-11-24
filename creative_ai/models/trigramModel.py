@@ -8,7 +8,7 @@ class TrigramModel():
         Modifies: self (this instance of the NGramModel object)
         Effects:  This is the NGramModel constructor. It sets up an empty
                   dictionary as a member variable.
-        
+
         This function is done for you.
         """
 
@@ -21,7 +21,7 @@ class TrigramModel():
         Effects:  Returns the string to print when you call print on an
                   NGramModel object. This string will be formatted in JSON
                   and display the currently trained dataset.
-        
+
         This function is done for you.
         """
 
@@ -45,16 +45,20 @@ class TrigramModel():
                   Returns self.nGramCounts
         """
         for list in text:
-            if list[0] in self.nGramCounts:
-                if list[1] in self.nGramCounts[list[0]]:
-                    if list[2] in self.nGramCounts[list[0]][list[1]]:
-                        self.nGramCounts[list[0]][list[1]][list[2]] += 1
+            for word in list:
+                i = list.index(word)
+                if i < len(list) - 2:
+                    if list[i] in self.nGramCounts:
+                        if list[i + 1] in self.nGramCounts[list[i]]:
+                            if list[i + 2] in self.nGramCounts[list[i]][list[i + 1]]:
+                                self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] += 1
+                            else:
+                                self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] = 1
+                        else:
+                            self.nGramCounts[list[i]][list[i + 1]] = {list[i + 2] : 1}
                     else:
-                        self.nGramCounts[list[0]][list[1]][list[2]] = 1
-                else:
-                    self.nGramCounts[list[0]][list[1]] = {list[2] : 1}
-            else:
-                self.nGramCounts[list[0]] = {list[1]: {list[2]: 1}}
+                        self.nGramCounts[list[i]] = {list[i + 1]: {list[i + 2]: 1}}
+
         return self.nGramCounts
 
     def trainingDataHasNGram(self, sentence):
@@ -69,7 +73,7 @@ class TrigramModel():
             if sentence[-2] in self.nGramCounts[sentence[-1]]:
                 return True
         return False
-        
+
 
     def getCandidateDictionary(self, sentence):
         """
@@ -97,10 +101,10 @@ if __name__ == '__main__':
     text1 = [ ['the', 'brown', 'fox']]
     uni.trainModel(text1)
 
-    text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'dog'] ]
+    text = [ ['the', 'brown', 'fox', 'fled'], ['the', 'lazy', 'dog'] ]
     uni.trainModel(text)
-    
+
     print(uni)
-    
+
     sentence = ['he', 'smelled', 'the', 'brown']
     print(uni.getCandidateDictionary(sentence))
