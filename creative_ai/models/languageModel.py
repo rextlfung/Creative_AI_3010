@@ -13,7 +13,7 @@ class LanguageModel():
         Modifies: self (this instance of the LanguageModel object)
         Effects:  This is the LanguageModel constructor. It sets up an empty
                   dictionary as a member variable.
-        
+
         This function is done for you.
         """
 
@@ -31,7 +31,7 @@ class LanguageModel():
                   It will show the number of trained paths
                   for each model it contains. It may be
                   useful for testing.
-        
+
         This function is done for you.
         """
 
@@ -101,10 +101,10 @@ class LanguageModel():
         Modifies: nothing
         Effects:  returns a candidate item (a key in the candidates dictionary)
                   based on the algorithm described in the spec.
-        
-        choose things from a dictionary      
+
+        choose things from a dictionary
         returns an item described by the algorithm from the spec
-                  
+
         """
         min = 0
         max = 0
@@ -147,7 +147,7 @@ class LanguageModel():
             Dictionary = BigramModel.getCandidateDictionary(sentence)
         elif self.selectNGramModel(sentence) == UnigramModel():
             Dictionary = UnigramModel.getCandidateDictionary(sentence)
-        
+
         #returns a choice from weighted dictionary
         if filter == None:
             return self.weightedChoice(Dictionary)
@@ -159,7 +159,7 @@ class LanguageModel():
                 if index in filter:
                     filteredCandidates[index] = value
         #if there are no items in filteredCandidates
-            if filteredCandidates == None:
+            if filteredCandidates == {}:
                 random.choice(filter)
         #if there are items in filteredCandidates
             else:
@@ -175,7 +175,7 @@ class LanguageModel():
 
 if __name__ == '__main__':
     # remove 'pass' before adding test cases
-    
+
     testModel = languageModel()
     testDictionary1 = {'north': 4, 'south': 1, 'east': 3, 'west': 2}
     testModel.weightedChoice(testDictionary1)
