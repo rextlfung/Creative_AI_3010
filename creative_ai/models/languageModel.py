@@ -87,12 +87,12 @@ class LanguageModel():
 
         """
 
-        if self.models[2].trainingDataHasNGram(sentence) == True:
-            return self.models[2]
+        if self.models[0].trainingDataHasNGram(sentence) == True:
+            return self.models[0]
         elif self.models[1].trainingDataHasNGram(sentence) == True:
             return self.models[1]
         else:
-            return self.models[0]
+            return self.models[2]
 
     def weightedChoice(self, candidates):
         """
@@ -141,12 +141,12 @@ class LanguageModel():
 
         """
         #gives dictionary to use, whichever of the three models
-        if self.selectNGramModel(sentence) == TrigramModel():
-            Dictionary = TrigramModel.getCandidateDictionary(sentence)
-        elif self.selectNGramModel(sentence) == BigramModel():
-            Dictionary = BigramModel.getCandidateDictionary(sentence)
-        elif self.selectNGramModel(sentence) == UnigramModel():
-            Dictionary = UnigramModel.getCandidateDictionary(sentence)
+        if self.selectNGramModel(sentence) == self.models[0]:
+            Dictionary = self.models[0].getCandidateDictionary(sentence)
+        elif self.selectNGramModel(sentence) == self.models[1]:
+            Dictionary = self.models[1].getCandidateDictionary(sentence)
+        elif self.selectNGramModel(sentence) == self.models[2]:
+            Dictionary = self.models[2].getCandidateDictionary(sentence)
 
         #returns a choice from weighted dictionary
         if filter == None:
