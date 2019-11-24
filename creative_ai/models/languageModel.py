@@ -151,7 +151,6 @@ class LanguageModel():
         if filter == None:
             return self.weightedChoice(Dictionary)
         else:
-            filteredCandidates = 
             random.choice(myList)
             self.weightedChoice(filteredCandidates)
 
