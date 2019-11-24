@@ -111,7 +111,7 @@ class LanguageModel():
         randomNumber = random.randrange(min, max)
         for index in candidates:
             cumulative_count += candidates[index]
-            if randomNumber < cumulative_count:
+            if randomNumber > cumulative_count:
                 continue
             else:
                 return index
@@ -138,13 +138,16 @@ class LanguageModel():
 
         """
         
-        if filter == none:
-            triDictionary = TrigramModel.getCandidateDictionary(self, sentence)
-            weightedChoice(TrigramModel, triDictionary)
-            biDictionary = BigramModel.getCandidateDictionary(self, sentence)
-            weightedChoice(BigramModel, biDictionary)
-            uniDictionary = UnigramModel.getCandidateDictionary(self, sentence)
-            weightedChoice(UnigramModel, uniDictionary)
+        if filter == None:
+            if self == TrigramModel():
+                triDictionary = TrigramModel.getCandidateDictionary(self, sentence)
+                self.weightedChoice(triDictionary)
+            elif self == BigramModel():
+                biDictionary = BigramModel.getCandidateDictionary(self, sentence)
+                self.weightedChoice(biDictionary)
+            else:
+                uniDictionary = UnigramModel.getCandidateDictionary(self, sentence)
+                self.weightedChoice(uniDictionary)
         else:
             filteredCandidates
         weightedChoice(self, sentence)
@@ -160,5 +163,10 @@ class LanguageModel():
 
 if __name__ == '__main__':
     # remove 'pass' before adding test cases
-    pass
+    
+    testModel = languageModel()
+    testDictionary1 = {'north': 4, 'south': 1, 'east': 3, 'west': 2}
+    testModel.weightedChoice(testDictionary1)
+
+
     # test cases here
