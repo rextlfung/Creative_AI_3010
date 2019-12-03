@@ -44,22 +44,21 @@ class TrigramModel():
                   and dictionaries of {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
-        # Iterates through each word in text
+        # Iterates through each sentence in text
         for list in text:
-            for word in list:
-                i = list.index(word)
-                # Updates frequency of word in dictionary if within bounds
-                if i < len(list) - 2:
-                    if list[i] in self.nGramCounts:
-                        if list[i + 1] in self.nGramCounts[list[i]]:
-                            if list[i + 2] in self.nGramCounts[list[i]][list[i + 1]]:
-                                self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] += 1
-                            else:
-                                self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] = 1
+            # Iterates through each word other than last two
+            for i in range(len(list) - 2):
+                # Updates trigram model
+                if list[i] in self.nGramCounts:
+                    if list[i + 1] in self.nGramCounts[list[i]]:
+                        if list[i + 2] in self.nGramCounts[list[i]][list[i + 1]]:
+                            self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] += 1
                         else:
-                            self.nGramCounts[list[i]][list[i + 1]] = {list[i + 2] : 1}
+                            self.nGramCounts[list[i]][list[i + 1]][list[i + 2]] = 1
                     else:
-                        self.nGramCounts[list[i]] = {list[i + 1]: {list[i + 2]: 1}}
+                        self.nGramCounts[list[i]][list[i + 1]] = {list[i + 2] : 1}
+                else:
+                    self.nGramCounts[list[i]] = {list[i + 1]: {list[i + 2]: 1}}
 
         return self.nGramCounts
 
@@ -71,10 +70,12 @@ class TrigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the TrigramModel, see the spec.
         """
-        # Returns true iff last word in sentence exists as start of trigram
-        if sentence[-2] in self.nGramCounts:
-            if sentence[-1] in self.nGramCounts[sentence[-2]]:
-                return True
+        # Checks if sentence consists of 2 or more words
+        if len(sentence) > 1:
+            # Returns true if last two words in the start of a trigram
+            if sentence[-2] in self.nGramCounts:
+                if sentence[-1] in self.nGramCounts[sentence[-2]]:
+                    return True
         return False
 
 
@@ -105,10 +106,11 @@ if __name__ == '__main__':
     text1 = [ ['the', 'brown', 'fox']]
     uni.trainModel(text1)
 
-    text = [ ['the', 'brown', 'fox', 'fled'], ['the', 'lazy', 'dog'] ]
-    uni.trainModel(text)
+    uni2 = TrigramModel()
+    text = [ ['the', 'brown', 'fox', 'fled','the', 'brown', 'fox'], ['the', 'brown', 'fox'] ]
+    uni2.trainModel(text)
 
-    print(uni)
+    print(uni2)
 
     sentence = ['he', 'smelled', 'the', 'brown']
     print(uni.getCandidateDictionary(sentence))
