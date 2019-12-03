@@ -42,19 +42,18 @@ class BigramModel():
                   {string: integer} pairs as values.
                   Returns self.nGramCounts
         """
-        # Iterates through each word in text
+        # Iterates through each sentence in text
         for list in text:
-            for word in list:
-                index = list.index(word)
-                # Updates frequency of word in dictionary if within bounds
-                if index < len(list) - 1:
-                    if list[index] in self.nGramCounts:
-                        if list[index + 1] in self.nGramCounts[list[index]]:
-                            self.nGramCounts[list[index]][list[index + 1]] += 1
-                        else:
-                            self.nGramCounts[list[index]][list[index + 1]] = 1
+            # Iterates through each word other than last
+            for index in range(len(list) - 1):
+                # Updates bigram model
+                if list[index] in self.nGramCounts:
+                    if list[index + 1] in self.nGramCounts[list[index]]:
+                        self.nGramCounts[list[index]][list[index + 1]] += 1
                     else:
-                        self.nGramCounts[list[index]] = {list[index + 1]: 1}
+                        self.nGramCounts[list[index]][list[index + 1]] = 1
+                else:
+                    self.nGramCounts[list[index]] = {list[index + 1]: 1}
 
         return self.nGramCounts
 
@@ -66,13 +65,12 @@ class BigramModel():
                   the next token for the sentence. For explanations of how this
                   is determined for the BigramModel, see the spec.
         """
-        # Returns true iff last word in sentence exists as start of bigram
-        possible_keys = []
-        possible_keys = self.nGramCounts.keys()
-        if sentence[-1] in possible_keys:
-            return True
-        else:
-            return False
+        # Checks if sentence consists of 1 or more words
+        if len(sentence) > 0:
+            # Returns true if last word in sentence in a start of a bigram
+            if sentence[-1] in self.nGramCounts:
+                return True
+        return False
 
     def getCandidateDictionary(self, sentence):
         """
@@ -101,7 +99,7 @@ if __name__ == '__main__':
     bi.trainModel(text)
     print(bi)
 
-    text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'brown', 'fox'] ]
+    text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'brown', 'fox'],['the', 'brown', 'fox'] ]
     bi.trainModel(text)
     print(bi)
 
