@@ -99,7 +99,7 @@ if __name__ == '__main__':
     bi.trainModel(text)
     print(bi)
 
-    text = [ ['the', 'brown', 'fox'], ['the', 'lazy', 'brown', 'fox'],['the', 'brown', 'fox'] ]
+    text = [['the', 'brown', 'fox'], ['the', 'lazy', 'the', 'brown', 'fox']]
     bi.trainModel(text)
     print(bi)
 

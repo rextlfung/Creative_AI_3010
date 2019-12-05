@@ -106,8 +106,10 @@ class LanguageModel():
         returns an item described by the algorithm from the spec
 
         """
+        # Isaac's original code
+        """
         min = 0
-        max = 0
+        max = 1 #FIXME
         for index in candidates:
             max += candidates[index]
         cumulative_count = 0
@@ -118,6 +120,19 @@ class LanguageModel():
                 continue
             else:
                 return index
+        """
+        tokens = []
+        cumulativeCount = []
+        totalCount = 0
+        for k, v in candidates.items():
+            tokens.append(k)
+            totalCount += v
+            cumulativeCount.append(totalCount)
+        randNum = random.randrange(0, cumulativeCount[-1])
+        for i in range(len(cumulativeCount)):
+            if cumulativeCount[i] > randNum:
+                return tokens[i]
+        return "FIXME"
 
     def getNextToken(self, sentence, filter=None):
         """
@@ -177,9 +192,9 @@ class LanguageModel():
 if __name__ == '__main__':
     # remove 'pass' before adding test cases
 
-    testModel = languageModel()
+    testModel = LanguageModel()
     testDictionary1 = {'north': 4, 'south': 1, 'east': 3, 'west': 2}
-    testModel.weightedChoice(testDictionary1)
+    print(testModel.weightedChoice(testDictionary1))
 
 
     # test cases here
