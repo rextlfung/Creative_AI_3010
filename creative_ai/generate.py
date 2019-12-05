@@ -15,7 +15,7 @@ TEAM = 'Garden Man'
 LYRICSDIRS = ['the_beatles']
 TESTLYRICSDIRS = ['the_beatles_test']
 MUSICDIRS = ['gamecube']
-WAVDIR = 'wav/'
+WAVDIR = 'creative_ai/wav/'
 
 def output_models(val, output_fn = None):
     """
@@ -133,16 +133,27 @@ def runMusicGenerator(models, songName):
     verseTwo = []
     chorus = []
 
-    for i in range(4):
-        verseOne.extend(generateTokenSentence(models, 7))
-        verseTwo.extend(generateTokenSentence(models, 7))
-        chorus.extend(generateTokenSentence(models, 9))
+    for i in range(1):
+        # Reuse sentence: ABCC
+        A = generateTokenSentence(models, 8)
+        B = generateTokenSentence(models, 8)
+        C = generateTokenSentence(models, 8)
+        verseOne.extend(A + B + C + C)
+        # Reuse sentence: ABCB
+        A = generateTokenSentence(models, 8)
+        B = generateTokenSentence(models, 8)
+        C = generateTokenSentence(models, 8)
+        verseTwo.extend(A + B + C + B)
+        # Reuse sentence: ABAC
+        A = generateTokenSentence(models, 8)
+        B = generateTokenSentence(models, 8)
+        C = generateTokenSentence(models, 8)
+        chorus.extend(A + B + A + C)
 
     song = []
     song.extend(verseOne)
-    song.extend(verseTwo)
     song.extend(chorus)
-    song.extend(verseOne)
+    song.extend(verseTwo)
     song.extend(chorus)
 
     pysynth.make_wav(song, fn=songName)
