@@ -4,7 +4,8 @@ sys.dont_write_bytecode = True # Suppress .pyc files
 
 import random
 
-import pysynth
+import pysynth_b
+import numpy
 from creative_ai.utils.menu import Menu
 from creative_ai.data.dataLoader import *
 from creative_ai.models.musicInfo import *
@@ -128,27 +129,28 @@ def runMusicGenerator(models, songName):
     Effects:  uses models to generate a song and write it to the file
               named songName.wav
     """
-
     verseOne = []
     verseTwo = []
     chorus = []
 
-    for i in range(1):
-        # Reuse sentence: ABCC
-        A = generateTokenSentence(models, 8)
-        B = generateTokenSentence(models, 8)
-        C = generateTokenSentence(models, 8)
-        verseOne.extend(A + B + C + C)
+    for i in range(2):
+        # Reuse sentence: ABCB Motif: D---
+        A = generateTokenSentence(models, 3)
+        B = generateTokenSentence(models, 3)
+        C = generateTokenSentence(models, 3)
+        D = generateTokenSentence(models, 1)
+        verseOne.extend(D+A+D+B+D+C+D+B)
         # Reuse sentence: ABCB
-        A = generateTokenSentence(models, 8)
-        B = generateTokenSentence(models, 8)
-        C = generateTokenSentence(models, 8)
+        A = generateTokenSentence(models, 4)
+        B = generateTokenSentence(models, 4)
+        C = generateTokenSentence(models, 4)
         verseTwo.extend(A + B + C + B)
-        # Reuse sentence: ABAC
-        A = generateTokenSentence(models, 8)
-        B = generateTokenSentence(models, 8)
-        C = generateTokenSentence(models, 8)
-        chorus.extend(A + B + A + C)
+        # Reuse sentence: ABCB Motif: D-
+        A = generateTokenSentence(models, 4)
+        B = generateTokenSentence(models, 4)
+        C = generateTokenSentence(models, 4)
+        D = generateTokenSentence(models, 4)
+        chorus.extend(D+A+D+B+D+C+D+B)
 
     song = []
     song.extend(verseOne)
@@ -156,7 +158,7 @@ def runMusicGenerator(models, songName):
     song.extend(verseTwo)
     song.extend(chorus)
 
-    pysynth.make_wav(song, fn=songName)
+    pysynth_b.make_wav(song, fn=songName)
 
 ###############################################################################
 # Begin Core >> FOR CORE IMPLEMENTION, DO NOT EDIT OUTSIDE OF THIS SECTION <<
@@ -179,17 +181,24 @@ def generateTokenSentence(model, desiredLength):
     #Continuously add new words until sentence needs to end
     while True:
         if sentence[-1] == "$:::$":
-            break
+            #break
+            # ensure consistent sentence length
+            sentence.pop()
+            continue
         #Discount starting characters
         currentLength = len(sentence) - 2
-        if sentenceTooLong(desiredLength, currentLength):
+        if currentLength >= desiredLength:
             break
+        #disabled sentenceTooLong to increase song consistency
+        #if sentenceTooLong(desiredLength, currentLength):
+        #    break
         #Add new word to sentence
         sentence.append(model.getNextToken(sentence))
     #Clear ending character if present
     if sentence[-1] == "$:::$":
         sentence.remove("$:::$")
     #Return sentence without starting characters
+    print("lol")
     return sentence[2:]
 
 ###############################################################################
@@ -202,7 +211,7 @@ def generateTokenSentence(model, desiredLength):
 
 PROMPT = [
     'Generate song lyrics by The Beatles',
-    'Generate a song using data from Nintendo Gamecube',
+    'Generate a song using data from Nintendo Gamecube or a library of your choice',
     'Quit the music generator'
 ]
 
@@ -235,6 +244,14 @@ def main():
 
         elif userInput == 2:
             if not musicTrained:
+                ''' Not sure why this doesn't work
+                print("Please enter music directory(s) separated by commas :")
+                userDirs = input().split(",")
+                MUSICDIRS = []
+                MUSICDIRS.extend(userDirs)
+                if MUSICDIRS == []:
+                    MUSICDIRS = ["gamecube"]
+                '''
                 print('Starting music generator...')
                 musicModel = trainMusicModels(MUSICDIRS)
                 musicTrained = True
