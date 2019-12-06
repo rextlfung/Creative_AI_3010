@@ -102,6 +102,8 @@ class VGMusicScraper(BaseScraper):
 
                 convertCommand = "../midi/mid2asc " + midiFile + \
                                  " > " + midiTextFile
+                print(midiFile)
+                print(midiTextFile)
                 FNULL = open(os.devnull, "w")
                 returnCode = subprocess.call(convertCommand, stdout=FNULL, \
                                              stderr=subprocess.STDOUT, \
@@ -116,7 +118,7 @@ class VGMusicScraper(BaseScraper):
                 else:
                     success += 1
 
-        totalpf = fail + success            
+        totalpf = fail + success
         print("\nSuccessfully converted {}/{} midi files in {} to txt files.".format(str(success), str(totalpf), self.fullPlatform))
 
 
@@ -125,4 +127,3 @@ if __name__ == "__main__":
     platform, path = scraper.getUserPlatform()
     scraper.scrape(platform, path)
     scraper.convertMidiToAscii("../midi/" + platform)
-
