@@ -128,15 +128,20 @@ def loadMusic(dirName):
 
         song = []
         for line in lines:
+            # Fix irregular spacing
+            '''
+            if not line[::2].strip():
+                line = line[1::2]
+            '''
             line = line.split()
 
             # extract pitch and duration from .txt song data, convert
             # those values to pysynth format, and add the
             # (pitch, duration) tuple to the song list
-            if "TR" in line and line[line.index("TR") + 1] == "1" \
+            if "TR" in line and int(line[line.index("TR") + 1]) == 1 \
                     and "NT" in line:
                 noteIndex = line.index("NT")
-                pitch = line[noteIndex + 1]
+                pitch = line[noteIndex + 1].replace(" ", "")
                 pitch = formatPitch(pitch)
 
                 duration = line[noteIndex + 2]
@@ -238,6 +243,10 @@ def formatDuration(asciiDuration):
     return duration
 
 if __name__ == "__main__":
+    '''
     lyrics = loadLyrics('the_beatles')
     for line in lyrics:
         print(line)
+    '''
+    dir = input("Enter directory:")
+    print(loadMusic(dir))

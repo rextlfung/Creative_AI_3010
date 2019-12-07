@@ -4,6 +4,8 @@ sys.dont_write_bytecode = True # Suppress .pyc files
 
 import random
 
+import pysynth_s
+import pysynth_e
 import pysynth_b
 import numpy
 from creative_ai.utils.menu import Menu
@@ -15,7 +17,7 @@ from creative_ai.models.languageModel import LanguageModel
 TEAM = 'Garden Man'
 LYRICSDIRS = ['the_beatles']
 TESTLYRICSDIRS = ['the_beatles_test']
-MUSICDIRS = ['gamecube']
+MUSICDIRS = ['jojo']
 WAVDIR = 'creative_ai/wav/'
 
 def output_models(val, output_fn = None):
@@ -122,6 +124,64 @@ def runLyricsGenerator(models):
 
     printSongLyrics(verseOne, verseTwo, chorus)
 
+def makeSongComponent(model, desiredBars):
+    '''
+    Requires: model is a single trained languageModel object.
+              desiredBars is number of bars wanted for this componenet.
+    Modifies: nothing.
+    Returns: a sentence (music componenet) of desired length (measured in bars).
+    '''
+    # Create sentence with starting characters
+    sentence = ["^::^", "^:::^"]
+    currentBars = 0.0
+    # Continue adding notes until it has desired amount of bars
+    while True:
+        sentence.append(model.getNextToken(sentence))
+        # Don't want ending character in songs
+        if sentence[-1] == "$:::$":
+            sentence.pop()
+            continue
+        # Longer notes = smaller duration value
+        currentNoteDuration = 1.0 / sentence[-1][1]
+        currentBars += currentNoteDuration
+        # Break if reached desiredBars
+        if currentBars == desiredBars:
+            break
+        # Shorten final note of exceeding desiredBars
+        if currentBars > desiredBars:
+            newDuration = 1.0 / (currentBars - desiredBars)
+            replaceNote = (sentence[-1][0], newDuration)
+            sentence[-1] = replaceNote
+            break
+    # Return sentence without starting characters
+    return sentence[2:]
+
+def buildupSong(source, desiredBars, magnitude=2):
+    '''
+    Requires: source is a list of pysynth tuples, desiredBars is a number,
+              magnitude is a number
+    Modifies: nothing
+    Returns: A new song componenet made by duplicating a portion of source
+    '''
+    # Create return list
+    sentence = []
+    currentBars = 0.0
+    # Copy notes from source until desired length (bars) / magnitude
+    desiredBars /= magnitude
+    for note in source:
+        sentence.append(note)
+        currentBars += 1.0 / note[1]
+        if currentBars == desiredBars:
+            break
+        if currentBars > desiredBars:
+            newDuration = 1.0 / (currentBars - desiredBars)
+            replaceNote = (sentence[-1][0], newDuration)
+            sentence[-1] = replaceNote
+            break
+    # multiply sentence to match desired length (bars)
+    sentence *= magnitude
+    return sentence
+
 def runMusicGenerator(models, songName):
     """
     Requires: models is a list of trained models
@@ -129,36 +189,64 @@ def runMusicGenerator(models, songName):
     Effects:  uses models to generate a song and write it to the file
               named songName.wav
     """
-    verseOne = []
-    verseTwo = []
-    chorus = []
+    verseOne = [] #8 Bars
+    verseTwo = [] #8 Bars
+    preChorus = [] #4 Bars
+    chorus = [] #8 Bars
 
-    for i in range(2):
-        # Reuse sentence: ABCB Motif: D---
-        A = generateTokenSentence(models, 3)
-        B = generateTokenSentence(models, 3)
-        C = generateTokenSentence(models, 3)
-        D = generateTokenSentence(models, 1)
-        verseOne.extend(D+A+D+B+D+C+D+B)
+    for i in range(1):
         # Reuse sentence: ABCB
-        A = generateTokenSentence(models, 4)
-        B = generateTokenSentence(models, 4)
-        C = generateTokenSentence(models, 4)
-        verseTwo.extend(A + B + C + B)
+        A = makeSongComponent(models, 2)
+        B = makeSongComponent(models, 2)
+        C = makeSongComponent(models, 2)
+        verseOne.extend(A+B+C+B)
+        # Reuse sentence: ABCB Motif: D---
+        A = makeSongComponent(models, 1.5)
+        B = makeSongComponent(models, 1.5)
+        C = makeSongComponent(models, 1.5)
+        D = makeSongComponent(models, 0.5)
+        verseTwo.extend(D+A+D+B+D+C+D+B)
         # Reuse sentence: ABCB Motif: D-
-        A = generateTokenSentence(models, 4)
-        B = generateTokenSentence(models, 4)
-        C = generateTokenSentence(models, 4)
-        D = generateTokenSentence(models, 4)
+        A = makeSongComponent(models, 1)
+        B = makeSongComponent(models, 1)
+        C = makeSongComponent(models, 1)
+        D = makeSongComponent(models, 1)
         chorus.extend(D+A+D+B+D+C+D+B)
 
+    # Reuse sentence: buildup every 2 bars over 8 bars
+    A = makeSongComponent(models, 1)
+    B = buildupSong(A, 1)
+    C = buildupSong(B, 1)
+    D = buildupSong(C, 1)
+    preChorus.extend(A+B+C+D)
+
+    # Make song
     song = []
     song.extend(verseOne)
+    song.extend(preChorus)
     song.extend(chorus)
     song.extend(verseTwo)
+    song.extend(preChorus)
     song.extend(chorus)
 
-    pysynth_b.make_wav(song, fn=songName)
+    # Calculate songDuration:
+    songBars = 0.0
+    for note in song:
+        songBars += (1.0 / note[1]) #longer notes have smaller duration values
+
+    #Disabled backbeat since it doesn't sound good
+
+    # Generate corresponding backbeat
+    #backbeatKick = [('a0', 4), ('r', 4), ('a0', 4), ('r', 4)]
+    #backbeatKick *= int(songBars)
+    #backbeatSnare = [('r', 4), ('a0', 4), ('r', 4), ('a0', 4)]
+    #backbeatSnare *= int(songBars)
+
+    pysynth_e.make_wav(song, fn=songName)
+    #pysynth_b.make_wav(backbeatKick, fn=songName[:-4] + "Kick.wav")
+    #pysynth_e.make_wav(backbeatSnare, fn=songName[:-4] + "Snare.wav")
+    #pysynth_s.mix_files(songName[:-4] + "Kick.wav", songName[:-4] + "Snare.wav", songName[:-4] + "Backbeat.wav")
+    #pysynth_s.mix_files(songName, songName[:-4] + "Backbeat.wav", songName[:-4] + "Mixed.wav")
 
 ###############################################################################
 # Begin Core >> FOR CORE IMPLEMENTION, DO NOT EDIT OUTSIDE OF THIS SECTION <<
@@ -181,24 +269,19 @@ def generateTokenSentence(model, desiredLength):
     #Continuously add new words until sentence needs to end
     while True:
         if sentence[-1] == "$:::$":
-            #break
-            # ensure consistent sentence length
-            sentence.pop()
-            continue
+            break
         #Discount starting characters
         currentLength = len(sentence) - 2
         if currentLength >= desiredLength:
             break
-        #disabled sentenceTooLong to increase song consistency
-        #if sentenceTooLong(desiredLength, currentLength):
-        #    break
+        if sentenceTooLong(desiredLength, currentLength):
+            break
         #Add new word to sentence
         sentence.append(model.getNextToken(sentence))
     #Clear ending character if present
     if sentence[-1] == "$:::$":
         sentence.remove("$:::$")
     #Return sentence without starting characters
-    print("lol")
     return sentence[2:]
 
 ###############################################################################
