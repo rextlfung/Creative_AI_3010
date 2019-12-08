@@ -17,7 +17,7 @@ from creative_ai.models.languageModel import LanguageModel
 TEAM = 'Garden Man'
 LYRICSDIRS = ['the_beatles']
 TESTLYRICSDIRS = ['the_beatles_test']
-MUSICDIRS = ['jojo']
+MUSICDIRS = ['theworld']
 WAVDIR = 'creative_ai/wav/'
 
 def output_models(val, output_fn = None):
@@ -142,12 +142,12 @@ def makeSongComponent(model, desiredBars):
             sentence.pop()
             continue
         # Longer notes = smaller duration value
-        currentNoteDuration = 1.0 / sentence[-1][1]
+        currentNoteDuration = abs(1.0 / sentence[-1][1])
         currentBars += currentNoteDuration
         # Break if reached desiredBars
         if currentBars == desiredBars:
             break
-        # Shorten final note of exceeding desiredBars
+        # Shorten final note exceeding desiredBars
         if currentBars > desiredBars:
             newDuration = 1.0 / (currentBars - desiredBars)
             replaceNote = (sentence[-1][0], newDuration)
@@ -156,24 +156,25 @@ def makeSongComponent(model, desiredBars):
     # Return sentence without starting characters
     return sentence[2:]
 
-def buildupSong(source, desiredBars, magnitude=2):
+def buildupSong(source, sourceBars, magnitude=2):
     '''
-    Requires: source is a list of pysynth tuples, desiredBars is a number,
-              magnitude is a number
+    Requires: source is a list of pysynth tuples, sourceBars is the length of
+              source measured in bars, magnitude is an integer
     Modifies: nothing
-    Returns: A new song componenet made by duplicating a portion of source
+    Returns: A new song componenet of same length made by multiplying a portion
+             of source
     '''
     # Create return list
     sentence = []
     currentBars = 0.0
-    # Copy notes from source until desired length (bars) / magnitude
-    desiredBars /= magnitude
+    # Copy notes from source until sourceBars / magnitude
+    desiredBars = sourceBars / magnitude
     for note in source:
         sentence.append(note)
-        currentBars += 1.0 / note[1]
+        currentBars += abs(1.0 / note[1])
         if currentBars == desiredBars:
             break
-        if currentBars > desiredBars:
+        elif currentBars > sourceBars:
             newDuration = 1.0 / (currentBars - desiredBars)
             replaceNote = (sentence[-1][0], newDuration)
             sentence[-1] = replaceNote
@@ -195,44 +196,45 @@ def runMusicGenerator(models, songName):
     chorus = [] #8 Bars
 
     for i in range(1):
-        # Reuse sentence: ABCB
-        A = makeSongComponent(models, 2)
-        B = makeSongComponent(models, 2)
-        C = makeSongComponent(models, 2)
-        verseOne.extend(A+B+C+B)
-        # Reuse sentence: ABCB Motif: D---
-        A = makeSongComponent(models, 1.5)
-        B = makeSongComponent(models, 1.5)
-        C = makeSongComponent(models, 1.5)
-        D = makeSongComponent(models, 0.5)
-        verseTwo.extend(D+A+D+B+D+C+D+B)
-        # Reuse sentence: ABCB Motif: D-
+        # Reuse sentence: AABBCCBB
         A = makeSongComponent(models, 1)
         B = makeSongComponent(models, 1)
         C = makeSongComponent(models, 1)
-        D = makeSongComponent(models, 1)
+        verseOne.extend(A*2+B*2+C*2+B*2)
+        # Reuse sentence: AABBCCBB
+        A = makeSongComponent(models, 1)
+        B = makeSongComponent(models, 1)
+        C = makeSongComponent(models, 1)
+        verseTwo.extend(A*2+B*2+C*2+B*2)
+        # Reuse sentence: ABCB Motif: DDD-
+        A = makeSongComponent(models, 0.5)
+        B = makeSongComponent(models, 0.5)
+        C = makeSongComponent(models, 0.5)
+        D = makeSongComponent(models, 1.5)
         chorus.extend(D+A+D+B+D+C+D+B)
 
-    # Reuse sentence: buildup every 2 bars over 8 bars
+    # Reuse sentence: buildup every bar over 4 bars
     A = makeSongComponent(models, 1)
     B = buildupSong(A, 1)
-    C = buildupSong(B, 1)
-    D = buildupSong(C, 1)
+    C = buildupSong(A, 1, 4)
+    D = buildupSong(A, 1, 8)
     preChorus.extend(A+B+C+D)
 
     # Make song
     song = []
     song.extend(verseOne)
     song.extend(preChorus)
+    song.extend([("r", 1)])
     song.extend(chorus)
     song.extend(verseTwo)
     song.extend(preChorus)
+    song.extend([("r", 1)])
     song.extend(chorus)
 
     # Calculate songDuration:
-    songBars = 0.0
-    for note in song:
-        songBars += (1.0 / note[1]) #longer notes have smaller duration values
+    #songBars = 0.0
+    #for note in song:
+        #songBars += (1.0 / note[1]) #longer notes have smaller duration values
 
     #Disabled backbeat since it doesn't sound good
 
