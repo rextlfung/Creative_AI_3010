@@ -133,8 +133,8 @@ def loadMusic(dirName):
             # extract pitch and duration from .txt song data, convert
             # those values to pysynth format, and add the
             # (pitch, duration) tuple to the song list
-            if "TR" in line and int(line[line.index("TR") + 1]) <= 4 \
-                    and "NT" in line:
+            if "TR" in line and (int(line[line.index("TR") + 1]) == 1 \
+                    or int(line[line.index("TR") + 1]) == 4) and "NT" in line:
                 noteIndex = line.index("NT")
                 pitch = line[noteIndex + 1].replace(" ", "")
                 pitch = formatPitch(pitch)
