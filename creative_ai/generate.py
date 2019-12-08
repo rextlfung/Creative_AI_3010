@@ -12,6 +12,7 @@ from creative_ai.utils.menu import Menu
 from creative_ai.data.dataLoader import *
 from creative_ai.models.musicInfo import *
 from creative_ai.models.languageModel import LanguageModel
+from creative_ai.plotly.barChart import *
 
 # FIXME Add your team name
 TEAM = 'Garden Man'
@@ -189,6 +190,7 @@ def runMusicGenerator(models, songName):
     Modifies: nothing
     Effects:  uses models to generate a song and write it to the file
               named songName.wav
+    Returns:  the generated song as a list of tuples
     """
     verseOne = [] #8 Bars
     verseTwo = [] #8 Bars
@@ -220,7 +222,7 @@ def runMusicGenerator(models, songName):
     song.extend(chorus)
     song.extend(verseOne)
     song.extend(preChorus)
-    song.extend([("r", 4/3), ("a0", 4)])
+    song.extend([("r", 4), ("a0", 4)])
     song.extend(chorus)
 
     # Calculate songDuration:
@@ -241,6 +243,8 @@ def runMusicGenerator(models, songName):
     #pysynth_e.make_wav(backbeatSnare, fn=songName[:-4] + "Snare.wav")
     #pysynth_s.mix_files(songName[:-4] + "Kick.wav", songName[:-4] + "Snare.wav", songName[:-4] + "Backbeat.wav")
     #pysynth_s.mix_files(songName, songName[:-4] + "Backbeat.wav", songName[:-4] + "Mixed.wav")
+
+    return song
 
 ###############################################################################
 # Begin Core >> FOR CORE IMPLEMENTION, DO NOT EDIT OUTSIDE OF THIS SECTION <<
@@ -335,7 +339,9 @@ def main():
 
             songName = input('What would you like to name your song? ')
 
-            runMusicGenerator(musicModel, WAVDIR + songName + '.wav')
+            song = runMusicGenerator(musicModel, WAVDIR + songName + '.wav')
+
+            makeBarChart(song, WAVDIR, songName)
 
         elif userInput == 3:
             print('Thank you for using the {} music generator!'.format(TEAM))
