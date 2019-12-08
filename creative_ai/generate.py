@@ -17,7 +17,7 @@ from creative_ai.models.languageModel import LanguageModel
 TEAM = 'Garden Man'
 LYRICSDIRS = ['the_beatles']
 TESTLYRICSDIRS = ['the_beatles_test']
-MUSICDIRS = ['giorno']
+MUSICDIRS = ['kirby']
 WAVDIR = 'creative_ai/wav/'
 
 def output_models(val, output_fn = None):
