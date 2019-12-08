@@ -17,7 +17,7 @@ from creative_ai.models.languageModel import LanguageModel
 TEAM = 'Garden Man'
 LYRICSDIRS = ['the_beatles']
 TESTLYRICSDIRS = ['the_beatles_test']
-MUSICDIRS = ['theworld']
+MUSICDIRS = ['giorno']
 WAVDIR = 'creative_ai/wav/'
 
 def output_models(val, output_fn = None):
@@ -192,7 +192,7 @@ def runMusicGenerator(models, songName):
     """
     verseOne = [] #8 Bars
     verseTwo = [] #8 Bars
-    preChorus = [] #4 Bars
+    preChorus = [] #7 Bars
     chorus = [] #8 Bars
 
     for i in range(1):
@@ -201,34 +201,26 @@ def runMusicGenerator(models, songName):
         B = makeSongComponent(models, 1)
         C = makeSongComponent(models, 1)
         verseOne.extend(A*2+B*2+C*2+B*2)
-        # Reuse sentence: AABBCCBB
-        A = makeSongComponent(models, 1)
-        B = makeSongComponent(models, 1)
-        C = makeSongComponent(models, 1)
-        verseTwo.extend(A*2+B*2+C*2+B*2)
         # Reuse sentence: ABCB Motif: DDD-
-        A = makeSongComponent(models, 0.5)
-        B = makeSongComponent(models, 0.5)
-        C = makeSongComponent(models, 0.5)
-        D = makeSongComponent(models, 1.5)
+        A = makeSongComponent(models, 1/2)
+        B = makeSongComponent(models, 1/2)
+        C = makeSongComponent(models, 1/2)
+        D = makeSongComponent(models, 3/2)
         chorus.extend(D+A+D+B+D+C+D+B)
 
-    # Reuse sentence: buildup every bar over 4 bars
-    A = makeSongComponent(models, 1)
-    B = buildupSong(A, 1)
+    # Reuse sentence: buildup over 8 bars
+    A = makeSongComponent(models, 3)
+    B = buildupSong(A, 2)
     C = buildupSong(A, 1, 4)
     D = buildupSong(A, 1, 8)
     preChorus.extend(A+B+C+D)
 
     # Make song
     song = []
+    song.extend(chorus)
     song.extend(verseOne)
     song.extend(preChorus)
-    song.extend([("r", 1)])
-    song.extend(chorus)
-    song.extend(verseTwo)
-    song.extend(preChorus)
-    song.extend([("r", 1)])
+    song.extend([("r", 4/3), ("a0", 4)])
     song.extend(chorus)
 
     # Calculate songDuration:
