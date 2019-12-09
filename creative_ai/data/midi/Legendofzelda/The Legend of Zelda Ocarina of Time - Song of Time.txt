@@ -1,0 +1,131 @@
+format=1 tracks=3 division=1024
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &54   0 0 0 0 0
+BA    1   CR         0   TR  0   CH 16   Time signature 1/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 120.0003
+BA    1   CR         0   TR  0   CH 16   Tempo 120.0003
+BA    1   CR         0   TR  0   CH 16   Tempo 119.9993
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &09   83 109 97 114 116 77 117 115 105 99 32 83 111 102 116 83 121 110 116 104 32 49
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Instrument 1"
+BA    1   CR         0   TR  1   CH  1   Instrument 2
+BA    1   CR         0   TR  1   CH  1   Channel volume 101
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &09   83 109 97 114 116 77 117 115 105 99 32 83 111 102 116 83 121 110 116 104 32 49
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Piano"
+BA    1   CR         0   TR  2   CH  1   Instrument 2
+BA    1   CR         0   TR  2   CH  1   Channel volume 101
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   Channel volume 102
+BA    1   CR         0   TR  2   CH  1   Channel volume 110
+BA    1   CR    3/1024   TR  2   CH  1   ST &B0 &64 &00
+BA    1   CR    3/1024   TR  2   CH  1   ST &B0 &65 &00
+BA    1   CR    3/1024   TR  2   CH  1   ST &B0 &64 &00
+BA    1   CR    3/1024   TR  2   CH  1   ST &B0 &65 &00
+BA    1   CR     1/256   TR  2   CH  1   ST &B0 &06 &0C
+BA    1   CR     1/256   TR  2   CH  1   ST &B0 &06 &0C
+BA    1   CR    5/1024   TR  2   CH  1   ST &B0 &26 &00
+BA    1   CR    5/1024   TR  2   CH  1   ST &B0 &26 &00
+BA    1   CR     5/512   TR  2   CH  1   NT  A       1+29/1024   von=75   voff=0
+BA    1   CR       1/2   TR  0   CH 16   Tempo 119.9993
+BA    1   CR   137/256   TR  0   CH 16   Tempo 119.472
+BA    1   CR    73/128   TR  0   CH 16   Tempo 118.9453
+BA    1   CR   155/256   TR  0   CH 16   Tempo 118.9453
+BA    1   CR     41/64   TR  0   CH 16   Tempo 118.476
+BA    1   CR   173/256   TR  0   CH 16   Tempo 118.476
+BA    1   CR    91/128   TR  0   CH 16   Tempo 117.9485
+BA    1   CR   191/256   TR  0   CH 16   Tempo 117.4799
+
+BA    2   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    2   CR         0   TR  0   CH 16   Tempo 119.9993
+BA    2   CR     1/256   TR  2   CH  1   NT  D       2+97/1024   voff=0
+BA    2   CR         2   TR  0   CH 16   Tempo 119.9993
+BA    2   CR 2+21/1024   TR  2   CH  1   NT  F        1+15/512   voff=0
+BA    2   CR     2+1/4   TR  0   CH 16   Tempo 118.9453
+BA    2   CR     2+1/2   TR  0   CH 16   Tempo 118.476
+BA    2   CR     2+3/4   TR  0   CH 16   Tempo 117.9485
+BA    2   CR         3   TR  0   CH 16   Tempo 116.9525
+BA    2   CR   3+3/256   TR  2   CH  1   NT  A       1+27/1024   voff=0
+BA    2   CR     3+1/4   TR  0   CH 16   Tempo 116.4839
+BA    2   CR     3+1/2   TR  0   CH 16   Tempo 115.9564
+BA    2   CR     3+3/4   TR  0   CH 16   Tempo 115.4879
+
+BA    3   CR     1/256   TR  2   CH  1   NT  D       2+97/1024   voff=0
+BA    3   CR       1/4   TR  0   CH 16   Tempo 119.9993
+BA    3   CR 2+21/1024   TR  2   CH  1   NT  F        1+15/512   voff=0
+BA    3   CR   3+3/256   TR  2   CH  1   NT  A        565/1024   voff=0
+BA    3   CR 3+517/1024   TR  2   CH  1   NT  C'       567/1024   voff=0
+
+BA    4   CR     1/256   TR  2   CH  1   NT  B       1+65/1024   voff=0
+BA    4   CR  1+15/512   TR  2   CH  1   NT  G        1+15/512   voff=0
+BA    4   CR 2+21/1024   TR  2   CH  1   NT  F         285/512   voff=0
+BA    4   CR 2+531/1024   TR  2   CH  1   NT  G        565/1024   voff=0
+BA    4   CR   3+3/256   TR  2   CH  1   NT  A       1+27/1024   voff=0
+
+BA    5   CR     1/256   TR  2   CH  1   NT  D       1+65/1024   voff=0
+BA    5   CR  1+15/512   TR  2   CH  1   NT  C        565/1024   voff=0
+BA    5   CR 1+535/1024   TR  2   CH  1   NT  E         285/512   voff=0
+BA    5   CR 2+21/1024   TR  2   CH  1   NT  D       4+957/1024   voff=0
+
+BA    6   CR         0   TR  0   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+
+BA    7   CR         0   TR  0   CH 16   Time signature 1/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    7   CR         0   TR  0   CH 16   Tempo 120.0003
+BA    7   CR         0   TR  0   CH 16   Tempo 119.9993
+BA    7   CR         0   TR  2   CH  1   Channel volume 102
+BA    7   CR         0   TR  2   CH  1   Channel volume 110
+BA    7   CR    3/1024   TR  2   CH  1   ST &B0 &64 &00
+BA    7   CR    3/1024   TR  2   CH  1   ST &B0 &65 &00
+BA    7   CR    3/1024   TR  2   CH  1   ST &B0 &64 &00
+BA    7   CR    3/1024   TR  2   CH  1   ST &B0 &65 &00
+BA    7   CR     1/256   TR  2   CH  1   ST &B0 &06 &0C
+BA    7   CR     1/256   TR  2   CH  1   ST &B0 &06 &0C
+BA    7   CR    5/1024   TR  2   CH  1   ST &B0 &26 &00
+BA    7   CR    5/1024   TR  2   CH  1   ST &B0 &26 &00
+BA    7   CR     5/512   TR  2   CH  1   NT  A       1+29/1024   voff=0
+BA    7   CR       1/2   TR  0   CH 16   Tempo 119.9993
+BA    7   CR   137/256   TR  0   CH 16   Tempo 119.472
+BA    7   CR    73/128   TR  0   CH 16   Tempo 118.9453
+BA    7   CR   155/256   TR  0   CH 16   Tempo 118.9453
+BA    7   CR     41/64   TR  0   CH 16   Tempo 118.476
+BA    7   CR   173/256   TR  0   CH 16   Tempo 118.476
+BA    7   CR    91/128   TR  0   CH 16   Tempo 117.9485
+BA    7   CR   191/256   TR  0   CH 16   Tempo 117.4799
+
+BA    8   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    8   CR         0   TR  0   CH 16   Tempo 119.9993
+BA    8   CR     1/256   TR  2   CH  1   NT  D       2+97/1024   voff=0
+BA    8   CR         2   TR  0   CH 16   Tempo 119.9993
+BA    8   CR 2+21/1024   TR  2   CH  1   NT  F        1+15/512   voff=0
+BA    8   CR     2+1/4   TR  0   CH 16   Tempo 118.9453
+BA    8   CR     2+1/2   TR  0   CH 16   Tempo 118.476
+BA    8   CR     2+3/4   TR  0   CH 16   Tempo 117.9485
+BA    8   CR         3   TR  0   CH 16   Tempo 116.9525
+BA    8   CR   3+3/256   TR  2   CH  1   NT  A       1+27/1024   voff=0
+BA    8   CR     3+1/4   TR  0   CH 16   Tempo 116.4839
+BA    8   CR     3+1/2   TR  0   CH 16   Tempo 115.9564
+BA    8   CR     3+3/4   TR  0   CH 16   Tempo 115.4879
+
+BA    9   CR     1/256   TR  2   CH  1   NT  D       2+97/1024   voff=0
+BA    9   CR       1/4   TR  0   CH 16   Tempo 119.9993
+BA    9   CR 2+21/1024   TR  2   CH  1   NT  F        1+15/512   voff=0
+BA    9   CR   3+3/256   TR  2   CH  1   NT  A        565/1024   voff=0
+BA    9   CR 3+517/1024   TR  2   CH  1   NT  C'       567/1024   voff=0
+
+BA   10   CR     1/256   TR  2   CH  1   NT  B       1+65/1024   voff=0
+BA   10   CR  1+15/512   TR  2   CH  1   NT  G        1+15/512   voff=0
+BA   10   CR 2+21/1024   TR  2   CH  1   NT  F         285/512   voff=0
+BA   10   CR 2+531/1024   TR  2   CH  1   NT  G        565/1024   voff=0
+BA   10   CR   3+3/256   TR  2   CH  1   NT  A       1+27/1024   voff=0
+
+BA   11   CR     1/256   TR  2   CH  1   NT  D       1+65/1024   voff=0
+BA   11   CR  1+15/512   TR  2   CH  1   NT  C        565/1024   voff=0
+BA   11   CR 1+535/1024   TR  2   CH  1   NT  E         285/512   voff=0
+BA   11   CR 2+21/1024   TR  2   CH  1   NT  D       4+957/1024   voff=0
+
+BA   12   CR         0   TR  0   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+BA   12   CR 2+979/1024   TR  0   CH 16   End of track
+BA   12   CR 2+979/1024   TR  1   CH 16   End of track
+BA   12   CR 2+979/1024   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 20.038 seconds
