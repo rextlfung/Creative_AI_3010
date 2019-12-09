@@ -294,6 +294,7 @@ def generateTokenSentence(model, desiredLength):
 PROMPT = [
     'Generate song lyrics by The Beatles',
     'Generate a song using data from Nintendo Gamecube or a library of your choice',
+    'Generate a bot post of video game music *Limited to one post every 10 minutes*',
     'Quit the music generator'
 ]
 
@@ -345,6 +346,9 @@ def main():
             makeBarChart(song, WAVDIR, songName)
 
         elif userInput == 3:
+            reddit_write()
+
+        elif userInput == 4:
             print('Thank you for using the {} music generator!'.format(TEAM))
             sys.exit()
 
