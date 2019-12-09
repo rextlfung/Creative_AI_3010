@@ -12,7 +12,7 @@ from creative_ai.utils.menu import Menu
 from creative_ai.data.dataLoader import *
 from creative_ai.models.musicInfo import *
 from creative_ai.models.languageModel import LanguageModel
-from creative_ai.reddit.readPosts import *
+from creative_ai.reddit.writePosts import *
 
 # FIXME Add your team name
 TEAM = 'Garden Man'
