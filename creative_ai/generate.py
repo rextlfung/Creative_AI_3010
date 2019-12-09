@@ -325,14 +325,14 @@ def main():
 
         elif userInput == 2:
             if not musicTrained:
-                ''' Not sure why this doesn't work
-                print("Please enter music directory(s) separated by commas :")
+                # Prompt user for music directories
+                print("Please enter music directory(s) separated by commas: (default is Nintendo Gamecube)")
                 userDirs = input().split(",")
                 MUSICDIRS = []
                 MUSICDIRS.extend(userDirs)
                 if MUSICDIRS == []:
                     MUSICDIRS = ["gamecube"]
-                '''
+
                 print('Starting music generator...')
                 musicModel = trainMusicModels(MUSICDIRS)
                 musicTrained = True

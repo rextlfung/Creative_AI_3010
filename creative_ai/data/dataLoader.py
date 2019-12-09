@@ -5,6 +5,7 @@ import string
 from creative_ai.utils.print_helpers import ppListJson
 import json
 from tqdm import tqdm
+import random
 
 def prepData(text):
     """
@@ -129,6 +130,11 @@ def loadMusic(dirName):
         song = []
         for line in lines:
             line = line.split()
+
+            # allow extraction of one addition random track
+            randTrack = 1
+            while randTrack == 1:
+                randTrack = random.randrange(0,5)
 
             # extract pitch and duration from .txt song data, convert
             # those values to pysynth format, and add the
