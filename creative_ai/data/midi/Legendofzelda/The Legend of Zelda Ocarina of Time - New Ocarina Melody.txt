@@ -1,0 +1,55 @@
+format=1 tracks=2 division=1024
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &54   96 0 0 0 0
+BA    1   CR         0   TR  0   CH 16   Time signature 6/8, clocks/mtick 36, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 83.9996
+BA    1   CR         0   TR  0   CH 16   Tempo 83.9996
+BA    1   CR         0   TR  0   CH 16   Tempo 83.9648
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &09   83 109 97 114 116 77 117 115 105 99 32 83 111 102 116 83 121 110 116 104 32 49
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Piano"
+BA    1   CR         0   TR  1   CH  1   Instrument 2
+BA    1   CR         0   TR  1   CH  1   Channel volume 101
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 102
+BA    1   CR         0   TR  1   CH  1   Channel volume 110
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR     1/256   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR     1/256   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR    5/1024   TR  1   CH  1   ST &B0 &26 &00
+BA    1   CR    5/1024   TR  1   CH  1   ST &B0 &26 &00
+BA    1   CR     5/512   TR  1   CH  1   Channel volume 102
+BA    1   CR     5/512   TR  1   CH  1   Channel volume 110
+BA    1   CR     5/512   TR  1   CH  1   NT  C'      1+131/256   von=59   voff=0
+BA    1   CR     5/512   TR  1   CH  1   NT  F'      1+131/256   voff=0
+BA    1   CR     5/512   TR  1   CH  1   NT  A'      1+131/256   von=73   voff=0
+BA    1   CR     5/512   TR  1   CH  1   NT  F--      593/1024   von=62   voff=0
+BA    1   CR  543/1024   TR  1   CH  1   NT  C-       563/1024   voff=0
+BA    1   CR  1+11/512   TR  1   CH  1   NT  F-      1+485/512   voff=0
+BA    1   CR 1+535/1024   TR  1   CH  1   NT  C'        285/512   voff=0
+BA    1   CR 2+21/1024   TR  1   CH  1   NT  F'         69/128   voff=0
+BA    1   CR 2+513/1024   TR  1   CH  1   NT  A'       571/1024   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  D'      1+267/512   von=49   voff=0
+BA    2   CR         0   TR  1   CH  1   NT  G'      1+267/512   voff=0
+BA    2   CR         0   TR  1   CH  1   NT  B'      1+267/512   von=63   voff=0
+BA    2   CR         0   TR  1   CH  1   NT  G--      603/1024   von=62   voff=0
+BA    2   CR  543/1024   TR  1   CH  1   NT  D-       563/1024   voff=0
+BA    2   CR  1+11/512   TR  1   CH  1   NT  G-      1+485/512   voff=0
+BA    2   CR 1+535/1024   TR  1   CH  1   NT  D'        285/512   voff=0
+BA    2   CR 2+21/1024   TR  1   CH  1   NT  G'         69/128   voff=0
+BA    2   CR 2+513/1024   TR  1   CH  1   NT  B'       571/1024   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  E'        2+31/32   von=49   voff=0
+BA    3   CR         0   TR  1   CH  1   NT  A'        2+31/32   voff=0
+BA    3   CR         0   TR  1   CH  1   NT  C#''      2+31/32   von=63   voff=0
+BA    3   CR         0   TR  1   CH  1   NT  A--      603/1024   von=62   voff=0
+BA    3   CR  543/1024   TR  1   CH  1   NT  E-       563/1024   voff=0
+BA    3   CR  1+11/512   TR  1   CH  1   NT  A-      1+377/512   voff=0
+BA    3   CR   2+31/32   TR  0   CH 16   End of track
+BA    3   CR   2+31/32   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 6.40893 seconds

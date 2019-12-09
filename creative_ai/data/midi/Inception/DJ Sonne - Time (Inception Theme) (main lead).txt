@@ -1,0 +1,331 @@
+format=1 tracks=8 division=96
+
+BA    1   CR         0   TR  0   CH 16   Tempo 140
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Pad"
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Bassline"
+BA    1   CR         0   TR  2   CH 16   End of track
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Strings"
+BA    1   CR         0   TR  3   CH 16   End of track
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Beat"
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Saw"
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "MIDI out"
+BA    1   CR         0   TR  6   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  6   CH  1   Channel volume 100
+BA    1   CR         0   TR  6   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  6   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  6   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  6   CH  1   Channel volume 100
+BA    1   CR         0   TR  6   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  6   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  6   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  6   CH  1   Channel volume 100
+BA    1   CR         0   TR  6   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  6   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  6   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  6   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  6   CH  1   Channel volume 100
+BA    1   CR         0   TR  6   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  6   CH  1   NT  C'          17/96   von=127
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Crash"
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR       1/4   TR  6   CH  1   NT  A--         17/96
+BA    1   CR       1/2   TR  6   CH  1   NT  A-          17/96
+BA    1   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    1   CR         1   TR  6   CH  1   NT  A--         17/96
+BA    1   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    1   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    1   CR     1+3/4   TR  6   CH  1   NT  A-          17/96
+BA    1   CR         2   TR  6   CH  1   NT  A           17/96
+BA    1   CR     2+1/4   TR  6   CH  1   NT  A--         17/96
+BA    1   CR     2+1/2   TR  6   CH  1   NT  A-          17/96
+BA    1   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    1   CR         3   TR  6   CH  1   NT  A--         17/96
+BA    1   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    1   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    1   CR     3+3/4   TR  6   CH  1   NT  A-          17/96
+
+BA    2   CR         0   TR  6   CH  1   NT  A           17/96
+BA    2   CR       1/4   TR  6   CH  1   NT  A--         17/96
+BA    2   CR       1/2   TR  6   CH  1   NT  A-          17/96
+BA    2   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    2   CR         1   TR  6   CH  1   NT  A--         17/96
+BA    2   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    2   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    2   CR     1+3/4   TR  6   CH  1   NT  A-          17/96
+BA    2   CR         2   TR  6   CH  1   NT  A           17/96
+BA    2   CR     2+1/4   TR  6   CH  1   NT  A--         17/96
+BA    2   CR     2+1/2   TR  6   CH  1   NT  A-          17/96
+BA    2   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    2   CR         3   TR  6   CH  1   NT  A--         17/96
+BA    2   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    2   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    2   CR     3+3/4   TR  6   CH  1   NT  A-          17/96
+
+BA    3   CR         0   TR  6   CH  1   NT  G           17/96
+BA    3   CR       1/4   TR  6   CH  1   NT  E--         17/96
+BA    3   CR       1/2   TR  6   CH  1   NT  E-          17/96
+BA    3   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    3   CR         1   TR  6   CH  1   NT  E--         17/96
+BA    3   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    3   CR     1+1/2   TR  6   CH  1   NT  G           17/96
+BA    3   CR     1+3/4   TR  6   CH  1   NT  E-          17/96
+BA    3   CR         2   TR  6   CH  1   NT  A           17/96
+BA    3   CR     2+1/4   TR  6   CH  1   NT  E--         17/96
+BA    3   CR     2+1/2   TR  6   CH  1   NT  E-          17/96
+BA    3   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    3   CR         3   TR  6   CH  1   NT  E--         17/96
+BA    3   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    3   CR     3+1/2   TR  6   CH  1   NT  G           17/96
+BA    3   CR     3+3/4   TR  6   CH  1   NT  E-          17/96
+
+BA    4   CR         0   TR  6   CH  1   NT  A           17/96
+BA    4   CR       1/4   TR  6   CH  1   NT  E--         17/96
+BA    4   CR       1/2   TR  6   CH  1   NT  E-          17/96
+BA    4   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    4   CR         1   TR  6   CH  1   NT  E--         17/96
+BA    4   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    4   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    4   CR     1+3/4   TR  6   CH  1   NT  E-          17/96
+BA    4   CR         2   TR  6   CH  1   NT  A           17/96
+BA    4   CR     2+1/4   TR  6   CH  1   NT  E--         17/96
+BA    4   CR     2+1/2   TR  6   CH  1   NT  E-          17/96
+BA    4   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    4   CR         3   TR  6   CH  1   NT  E--         17/96
+BA    4   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    4   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    4   CR     3+3/4   TR  6   CH  1   NT  E-          17/96
+
+BA    5   CR         0   TR  6   CH  1   NT  B           17/96
+BA    5   CR       1/4   TR  6   CH  1   NT  G--         17/96
+BA    5   CR       1/2   TR  6   CH  1   NT  G-          17/96
+BA    5   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    5   CR         1   TR  6   CH  1   NT  G--         17/96
+BA    5   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    5   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    5   CR     1+3/4   TR  6   CH  1   NT  G-          17/96
+BA    5   CR         2   TR  6   CH  1   NT  A           17/96
+BA    5   CR     2+1/4   TR  6   CH  1   NT  G--         17/96
+BA    5   CR     2+1/2   TR  6   CH  1   NT  G-          17/96
+BA    5   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    5   CR         3   TR  6   CH  1   NT  G--         17/96
+BA    5   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    5   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    5   CR     3+3/4   TR  6   CH  1   NT  G-          17/96
+
+BA    6   CR         0   TR  6   CH  1   NT  A           17/96
+BA    6   CR       1/4   TR  6   CH  1   NT  G--         17/96
+BA    6   CR       1/2   TR  6   CH  1   NT  G-          17/96
+BA    6   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    6   CR         1   TR  6   CH  1   NT  G--         17/96
+BA    6   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    6   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    6   CR     1+3/4   TR  6   CH  1   NT  G-          17/96
+BA    6   CR         2   TR  6   CH  1   NT  A           17/96
+BA    6   CR     2+1/4   TR  6   CH  1   NT  G--         17/96
+BA    6   CR     2+1/2   TR  6   CH  1   NT  G-          17/96
+BA    6   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    6   CR         3   TR  6   CH  1   NT  G--         17/96
+BA    6   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    6   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    6   CR     3+3/4   TR  6   CH  1   NT  G-          17/96
+
+BA    7   CR         0   TR  6   CH  1   NT  F#          17/96
+BA    7   CR       1/4   TR  6   CH  1   NT  D--         17/96
+BA    7   CR       1/2   TR  6   CH  1   NT  D-          17/96
+BA    7   CR       3/4   TR  6   CH  1   NT  A           17/96
+BA    7   CR         1   TR  6   CH  1   NT  D--         17/96
+BA    7   CR     1+1/4   TR  6   CH  1   NT  A           17/96
+BA    7   CR     1+1/2   TR  6   CH  1   NT  D           17/96
+BA    7   CR     1+3/4   TR  6   CH  1   NT  D-          17/96
+BA    7   CR         2   TR  6   CH  1   NT  F#          17/96
+BA    7   CR     2+1/4   TR  6   CH  1   NT  D--         17/96
+BA    7   CR     2+1/2   TR  6   CH  1   NT  D-          17/96
+BA    7   CR     2+3/4   TR  6   CH  1   NT  A           17/96
+BA    7   CR         3   TR  6   CH  1   NT  D--         17/96
+BA    7   CR     3+1/4   TR  6   CH  1   NT  A           17/96
+BA    7   CR     3+1/2   TR  6   CH  1   NT  D           17/96
+BA    7   CR     3+3/4   TR  6   CH  1   NT  D-          17/96
+
+BA    8   CR         0   TR  6   CH  1   NT  F#          17/96
+BA    8   CR       1/4   TR  6   CH  1   NT  D--         17/96
+BA    8   CR       1/2   TR  6   CH  1   NT  D-          17/96
+BA    8   CR       3/4   TR  6   CH  1   NT  A           17/96
+BA    8   CR         1   TR  6   CH  1   NT  D--         17/96
+BA    8   CR     1+1/4   TR  6   CH  1   NT  A           17/96
+BA    8   CR     1+1/2   TR  6   CH  1   NT  D           17/96
+BA    8   CR     1+3/4   TR  6   CH  1   NT  D-          17/96
+BA    8   CR         2   TR  6   CH  1   NT  F#          17/96
+BA    8   CR     2+1/4   TR  6   CH  1   NT  D--         17/96
+BA    8   CR     2+1/2   TR  6   CH  1   NT  D-          17/96
+BA    8   CR     2+3/4   TR  6   CH  1   NT  A           17/96
+BA    8   CR         3   TR  6   CH  1   NT  D--         17/96
+BA    8   CR     3+1/4   TR  6   CH  1   NT  A           17/96
+BA    8   CR     3+1/2   TR  6   CH  1   NT  D           17/96
+BA    8   CR     3+3/4   TR  6   CH  1   NT  D-          17/96
+
+BA    9   CR         0   TR  6   CH  1   NT  C'          17/96
+BA    9   CR       1/4   TR  6   CH  1   NT  A--         17/96
+BA    9   CR       1/2   TR  6   CH  1   NT  A-          17/96
+BA    9   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA    9   CR         1   TR  6   CH  1   NT  A--         17/96
+BA    9   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA    9   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA    9   CR     1+3/4   TR  6   CH  1   NT  A-          17/96
+BA    9   CR         2   TR  6   CH  1   NT  A           17/96
+BA    9   CR     2+1/4   TR  6   CH  1   NT  A--         17/96
+BA    9   CR     2+1/2   TR  6   CH  1   NT  A-          17/96
+BA    9   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA    9   CR         3   TR  6   CH  1   NT  A--         17/96
+BA    9   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA    9   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA    9   CR     3+3/4   TR  6   CH  1   NT  A-          17/96
+
+BA   10   CR         0   TR  6   CH  1   NT  A           17/96
+BA   10   CR       1/4   TR  6   CH  1   NT  A--         17/96
+BA   10   CR       1/2   TR  6   CH  1   NT  A-          17/96
+BA   10   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA   10   CR         1   TR  6   CH  1   NT  A--         17/96
+BA   10   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA   10   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA   10   CR     1+3/4   TR  6   CH  1   NT  A-          17/96
+BA   10   CR         2   TR  6   CH  1   NT  A           17/96
+BA   10   CR     2+1/4   TR  6   CH  1   NT  A--         17/96
+BA   10   CR     2+1/2   TR  6   CH  1   NT  A-          17/96
+BA   10   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA   10   CR         3   TR  6   CH  1   NT  A--         17/96
+BA   10   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA   10   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA   10   CR     3+3/4   TR  6   CH  1   NT  A-          17/96
+
+BA   11   CR         0   TR  6   CH  1   NT  B           17/96
+BA   11   CR       1/4   TR  6   CH  1   NT  C--         17/96
+BA   11   CR       1/2   TR  6   CH  1   NT  C-          17/96
+BA   11   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA   11   CR         1   TR  6   CH  1   NT  C--         17/96
+BA   11   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA   11   CR     1+1/2   TR  6   CH  1   NT  G           17/96
+BA   11   CR     1+3/4   TR  6   CH  1   NT  C-          17/96
+BA   11   CR         2   TR  6   CH  1   NT  A           17/96
+BA   11   CR     2+1/4   TR  6   CH  1   NT  C--         17/96
+BA   11   CR     2+1/2   TR  6   CH  1   NT  C-          17/96
+BA   11   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA   11   CR         3   TR  6   CH  1   NT  C--         17/96
+BA   11   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA   11   CR     3+1/2   TR  6   CH  1   NT  G           17/96
+BA   11   CR     3+3/4   TR  6   CH  1   NT  C-          17/96
+
+BA   12   CR         0   TR  6   CH  1   NT  A           17/96
+BA   12   CR       1/4   TR  6   CH  1   NT  C--         17/96
+BA   12   CR       1/2   TR  6   CH  1   NT  C-          17/96
+BA   12   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA   12   CR         1   TR  6   CH  1   NT  C--         17/96
+BA   12   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA   12   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA   12   CR     1+3/4   TR  6   CH  1   NT  C-          17/96
+BA   12   CR         2   TR  6   CH  1   NT  A           17/96
+BA   12   CR     2+1/4   TR  6   CH  1   NT  C--         17/96
+BA   12   CR     2+1/2   TR  6   CH  1   NT  C-          17/96
+BA   12   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA   12   CR         3   TR  6   CH  1   NT  C--         17/96
+BA   12   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA   12   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA   12   CR     3+3/4   TR  6   CH  1   NT  C-          17/96
+
+BA   13   CR         0   TR  6   CH  1   NT  B           17/96
+BA   13   CR       1/4   TR  6   CH  1   NT  G--         17/96
+BA   13   CR       1/2   TR  6   CH  1   NT  G-          17/96
+BA   13   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA   13   CR         1   TR  6   CH  1   NT  G--         17/96
+BA   13   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA   13   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA   13   CR     1+3/4   TR  6   CH  1   NT  G-          17/96
+BA   13   CR         2   TR  6   CH  1   NT  A           17/96
+BA   13   CR     2+1/4   TR  6   CH  1   NT  G--         17/96
+BA   13   CR     2+1/2   TR  6   CH  1   NT  G-          17/96
+BA   13   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA   13   CR         3   TR  6   CH  1   NT  G--         17/96
+BA   13   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA   13   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA   13   CR     3+3/4   TR  6   CH  1   NT  G-          17/96
+
+BA   14   CR         0   TR  6   CH  1   NT  A           17/96
+BA   14   CR       1/4   TR  6   CH  1   NT  G--         17/96
+BA   14   CR       1/2   TR  6   CH  1   NT  G-          17/96
+BA   14   CR       3/4   TR  6   CH  1   NT  B           17/96
+BA   14   CR         1   TR  6   CH  1   NT  G--         17/96
+BA   14   CR     1+1/4   TR  6   CH  1   NT  B           17/96
+BA   14   CR     1+1/2   TR  6   CH  1   NT  E           17/96
+BA   14   CR     1+3/4   TR  6   CH  1   NT  G-          17/96
+BA   14   CR         2   TR  6   CH  1   NT  A           17/96
+BA   14   CR     2+1/4   TR  6   CH  1   NT  G--         17/96
+BA   14   CR     2+1/2   TR  6   CH  1   NT  G-          17/96
+BA   14   CR     2+3/4   TR  6   CH  1   NT  B           17/96
+BA   14   CR         3   TR  6   CH  1   NT  G--         17/96
+BA   14   CR     3+1/4   TR  6   CH  1   NT  B           17/96
+BA   14   CR     3+1/2   TR  6   CH  1   NT  E           17/96
+BA   14   CR     3+3/4   TR  6   CH  1   NT  G-          17/96
+
+BA   15   CR         0   TR  6   CH  1   NT  F#          17/96
+BA   15   CR       1/4   TR  6   CH  1   NT  D--         17/96
+BA   15   CR       1/2   TR  6   CH  1   NT  D-          17/96
+BA   15   CR       3/4   TR  6   CH  1   NT  A           17/96
+BA   15   CR         1   TR  6   CH  1   NT  D--         17/96
+BA   15   CR     1+1/4   TR  6   CH  1   NT  A           17/96
+BA   15   CR     1+1/2   TR  6   CH  1   NT  D           17/96
+BA   15   CR     1+3/4   TR  6   CH  1   NT  D-          17/96
+BA   15   CR         2   TR  6   CH  1   NT  F#          17/96
+BA   15   CR     2+1/4   TR  6   CH  1   NT  D--         17/96
+BA   15   CR     2+1/2   TR  6   CH  1   NT  D-          17/96
+BA   15   CR     2+3/4   TR  6   CH  1   NT  A           17/96
+BA   15   CR         3   TR  6   CH  1   NT  D--         17/96
+BA   15   CR     3+1/4   TR  6   CH  1   NT  A           17/96
+BA   15   CR     3+1/2   TR  6   CH  1   NT  D           17/96
+BA   15   CR     3+3/4   TR  6   CH  1   NT  D-          17/96
+
+BA   16   CR         0   TR  6   CH  1   NT  F#          17/96
+BA   16   CR       1/4   TR  6   CH  1   NT  D--         17/96
+BA   16   CR       1/2   TR  6   CH  1   NT  D-          17/96
+BA   16   CR       3/4   TR  6   CH  1   NT  A           17/96
+BA   16   CR         1   TR  6   CH  1   NT  D--         17/96
+BA   16   CR     1+1/4   TR  6   CH  1   NT  A           17/96
+BA   16   CR     1+1/2   TR  6   CH  1   NT  D           17/96
+BA   16   CR     1+3/4   TR  6   CH  1   NT  D-          17/96
+BA   16   CR         2   TR  6   CH  1   NT  F#          17/96
+BA   16   CR     2+1/4   TR  6   CH  1   NT  D--         17/96
+BA   16   CR     2+1/2   TR  6   CH  1   NT  D-          17/96
+BA   16   CR     2+3/4   TR  6   CH  1   NT  A           17/96
+BA   16   CR         3   TR  6   CH  1   NT  D--         17/96
+BA   16   CR     3+1/4   TR  6   CH  1   NT  A           17/96
+BA   16   CR     3+1/2   TR  6   CH  1   NT  D           17/96
+BA   16   CR     3+3/4   TR  6   CH  1   NT  D-          17/96
+
+BA   17   CR         0   TR  6   CH  1   ST &B0 &65 &00
+BA   17   CR         0   TR  6   CH  1   ST &B0 &64 &00
+BA   17   CR         0   TR  6   CH  1   ST &B0 &06 &0C
+BA   17   CR         0   TR  6   CH  1   ST &B0 &0A &40
+BA   17   CR         0   TR  6   CH  1   Channel volume 100
+BA   17   CR         0   TR  6   CH  1   ST &E0 &00 &40
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &65 &00
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &64 &00
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &06 &0C
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &0A &40
+BA   17   CR      1/96   TR  6   CH  1   Channel volume 100
+BA   17   CR      1/96   TR  6   CH  1   ST &E0 &00 &40
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &65 &00
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &64 &00
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &06 &0C
+BA   17   CR      1/96   TR  6   CH  1   ST &B0 &0A &40
+BA   17   CR      1/96   TR  6   CH  1   Channel volume 100
+BA   17   CR      1/96   TR  6   CH  1   ST &E0 &00 &40
+BA   17   CR      1/96   TR  6   CH 16   End of track
+# Successfully parsed
+# Duration = 27.433 seconds
