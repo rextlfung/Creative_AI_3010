@@ -13,7 +13,7 @@ from creative_ai.data.dataLoader import *
 from creative_ai.models.musicInfo import *
 from creative_ai.models.languageModel import LanguageModel
 from creative_ai.plotly.barChart import *
-from creative_at.reddit.writePosts import *
+from creative_ai.reddit.writePosts import *
 
 # FIXME Add your team name
 TEAM = 'Garden Man'
