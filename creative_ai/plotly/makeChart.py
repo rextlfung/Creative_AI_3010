@@ -83,12 +83,20 @@ def makeSynthesia(song, WAVDIR, songName):
         title=("Synthesia-styled representation of " + songName + ".wav"),
         xaxis=dict(
             tickvals=list(range(len(notes))),
-            ticktext=notes
+            ticktext=notes,
+            autorange=False,
+            range=[0,74]
         ),
         yaxis=dict(
             tick0=0,
-            dtick=1
-        )
+            dtick=1,
+            autorange=False,
+            rangemode="nonnegative",
+            range=[0,32]
+        ),
+        autosize=False,
+        height=7000,
+        width=1700
     )
     # Add in rectangles representative of note durations
     cumulativeBar = 0.0

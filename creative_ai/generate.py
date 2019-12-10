@@ -198,19 +198,17 @@ def runMusicGenerator(models, songName):
     preChorus = [] #7 Bars
     chorus = [] #8 Bars
 
-    for i in range(1):
-        # Reuse sentence: AABBCCBB
-        A = makeSongComponent(models, 1)
-        B = makeSongComponent(models, 1)
-        C = makeSongComponent(models, 1)
-        verseOne.extend(A*2+B*2+C*2+B*2)
-        # Reuse sentence: ABCB Motif: DDD-
-        A = makeSongComponent(models, 1/2)
-        B = makeSongComponent(models, 1/2)
-        C = makeSongComponent(models, 1/2)
-        D = makeSongComponent(models, 3/2)
-        chorus.extend(D+A+D+B+D+C+D+B)
-
+    # Reuse sentence: AABBCCBB
+    A = makeSongComponent(models, 1)
+    B = makeSongComponent(models, 1)
+    C = makeSongComponent(models, 1)
+    verseOne.extend(A*2+B*2+C*2+B*2)
+    # Reuse sentence: ABCB Motif: DDD-
+    A = makeSongComponent(models, 1/2)
+    B = makeSongComponent(models, 1/2)
+    C = makeSongComponent(models, 1/2)
+    D = makeSongComponent(models, 3/2)
+    chorus.extend(D+A+D+B+D+C+D+B)
     # Reuse sentence: buildup over 8 bars
     A = makeSongComponent(models, 3)
     B = buildupSong(A, 2)
@@ -343,8 +341,12 @@ def main():
 
             song = runMusicGenerator(musicModel, WAVDIR + songName + '.wav')
 
-            makeBarChart(song, WAVDIR, songName)
-            makeSynthesia(song, WAVDIR, songName)
+            choice = input("Would you like to see its bar graph? (y/n): ")
+            if choice == "y":
+                makeBarChart(song, WAVDIR, songName)
+            choice = input("Would you like to see its synthesia? (y/n): ")
+            if choice == "y":
+                makeSynthesia(song, WAVDIR, songName)
 
         elif userInput == 3:
             reddit_write()
