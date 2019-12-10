@@ -7,7 +7,7 @@ from creative_ai.reddit.wavLinks import *
 from prawcore import NotFound
 
 def test_sub_exists(sub):
-    reddit = praw.Reddit('bot1')
+    reddit = praw.Reddit('garden_music_bot')
     exists_status = True
     try:
         reddit.subreddits.search_by_name(sub, exact=True)
@@ -19,7 +19,7 @@ def reddit_write():
     print('\nOur bot randomly selects previously generated video game music and comments on posts that include the word "music".')
     print("**Limited to 1 post every 10 minutes by Reddit post frequency rules**")
     sub_reddit_entry = input("Please enter a SubReddit you would like our bot to post a comment in: ")
-    reddit = praw.Reddit('bot1')
+    reddit = praw.Reddit('garden_music_bot')
 
     if not os.path.isfile("posts_replied_to.txt"):
         posts_replied_to = []
