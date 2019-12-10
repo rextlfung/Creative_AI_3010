@@ -87,7 +87,7 @@ def makeSynthesia(song, WAVDIR, songName):
         ),
         yaxis=dict(
             tick0=0,
-            dtick=0.5
+            dtick=1
         )
     )
     # Add in rectangles representative of note durations
