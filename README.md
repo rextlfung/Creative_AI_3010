@@ -23,9 +23,9 @@ Reddit Account Information:
 Username: GardenMan183 | Password: EECS183Project
 
 Reddit Bot Information:
-[bot1]
-client_id=iTHFgNE__q9PXw
-client_secret=HOJWDBWYykXxR7qD1L-_wDrf7ys
-password=EECS183Project
-username=GardenMan183
-user_agent=Game Music Bot 0.1
+- [bot1]
+- client_id=iTHFgNE__q9PXw
+- client_secret=HOJWDBWYykXxR7qD1L-_wDrf7ys
+- password=EECS183Project
+- username=GardenMan183
+- user_agent=Game Music Bot 0.1
