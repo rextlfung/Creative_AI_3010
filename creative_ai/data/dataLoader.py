@@ -188,6 +188,18 @@ def formatPitch(asciiPitch):
     elif pitch.count("b") > 2:
         pitch = pitch[0] + "b"
 
+    # convert all flats to sharp for ease of data visualization
+    if pitch == "bb":
+        pitch = "a#"
+    elif pitch == "db":
+        pitch = "c#"
+    elif pitch == "eb":
+        pitch = "d#"
+    elif pitch == "gb":
+        pitch = "f#"
+    elif pitch == "ab":
+        pitch = "g#"
+
     pitch += str(octave)
     return pitch
 

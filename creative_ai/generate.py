@@ -12,7 +12,7 @@ from creative_ai.utils.menu import Menu
 from creative_ai.data.dataLoader import *
 from creative_ai.models.musicInfo import *
 from creative_ai.models.languageModel import LanguageModel
-from creative_ai.plotly.barChart import *
+from creative_ai.plotly.makeChart import *
 from creative_ai.reddit.writePosts import *
 
 # FIXME Add your team name
@@ -328,7 +328,7 @@ def main():
         elif userInput == 2:
             if not musicTrained:
                 # Prompt user for music directories
-                print("Please enter music directory(s) separated by commas: (default is Nintendo Gamecube)")
+                print("Please enter music directory(s) separated by a single comma: (default is Nintendo Gamecube)")
                 userDirs = input().split(",")
                 MUSICDIRS = []
                 MUSICDIRS.extend(userDirs)
@@ -344,6 +344,7 @@ def main():
             song = runMusicGenerator(musicModel, WAVDIR + songName + '.wav')
 
             makeBarChart(song, WAVDIR, songName)
+            makeSynthesia(song, WAVDIR, songName)
 
         elif userInput == 3:
             reddit_write()
