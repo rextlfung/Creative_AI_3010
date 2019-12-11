@@ -1,0 +1,153 @@
+format=1 tracks=10 division=192
+
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  1   CH  1   Sysex event &F0  &41 &10 &42 &12 &40 &00 &7F &00 &41 &F7
+BA    1   CR         0   TR  1   CH  1   Instrument 57
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Track 2"
+BA    1   CR         0   TR  2   CH  2   Instrument 49
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Track 3"
+BA    1   CR         0   TR  3   CH  3   Instrument 58
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Track 4"
+BA    1   CR         0   TR  4   CH  4   Instrument 47
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Track 5"
+BA    1   CR         0   TR  5   CH  5   Instrument 49
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Track 6"
+BA    1   CR         0   TR  6   CH  6   Instrument 49
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Track 7"
+BA    1   CR         0   TR  7   CH  7   Instrument 57
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Track 9"
+BA    1   CR         0   TR  8   CH  9   Instrument 120
+BA    1   CR         0   TR  9   CH 16   Text type 3: "Track 10"
+BA    1   CR         0   TR  9   CH 10   Instrument 49
+BA    1   CR         0   TR  9   CH 10   Channel volume 95
+BA    1   CR      1/96   TR  9   CH 10   Channel volume 95
+BA    1   CR      1/48   TR  9   CH 10   Channel volume 95
+BA    1   CR      1/32   TR  9   CH 10   Channel volume 95
+BA    1   CR      1/24   TR  9   CH 10   Channel volume 95
+BA    1   CR     1+5/8   TR  9   CH 10   NT  E--           1/8   von=70   voff=0
+BA    1   CR     1+3/4   TR  9   CH 10   NT  E--           1/8   von=80   voff=0
+BA    1   CR     1+7/8   TR  9   CH 10   NT  E--           1/8   von=90   voff=0
+BA    1   CR         2   TR  1   CH  1   ST &B0 &0A &37
+BA    1   CR         2   TR  1   CH  1   Channel volume 121
+BA    1   CR         2   TR  1   CH  1   NT  D             1/4   von=100   voff=0
+BA    1   CR         2   TR  3   CH  3   ST &B2 &0A &59
+BA    1   CR         2   TR  3   CH  3   NT  Bb-         3+1/2   von=100   voff=0
+BA    1   CR         2   TR  3   CH  3   NT  D           3+1/2   voff=0
+BA    1   CR         2   TR  4   CH  4   Channel volume 100
+BA    1   CR         2   TR  4   CH  4   NT  Bb--          1/4   von=80   voff=0
+BA    1   CR         2   TR  5   CH  5   Channel volume 92
+BA    1   CR         2   TR  5   CH  5   NT  Eb--        3+3/4   von=120   voff=0
+BA    1   CR         2   TR  6   CH  6   ST &B5 &0A &2A
+BA    1   CR         2   TR  6   CH  6   Channel volume 79
+BA    1   CR         2   TR  6   CH  6   NT  Bb-         3+1/2   von=100   voff=0
+BA    1   CR         2   TR  6   CH  6   NT  D           3+1/2   voff=0
+BA    1   CR         2   TR  9   CH 10   NT  E--           1/8   von=100   voff=0
+BA    1   CR    2+1/96   TR  1   CH  1   ST &B0 &0A &37
+BA    1   CR    2+1/96   TR  1   CH  1   Channel volume 121
+BA    1   CR    2+1/96   TR  3   CH  3   Channel volume 87
+BA    1   CR    2+1/96   TR  3   CH  3   ST &B2 &0A &59
+BA    1   CR    2+1/96   TR  4   CH  4   Channel volume 100
+BA    1   CR    2+1/96   TR  5   CH  5   Channel volume 92
+BA    1   CR    2+1/96   TR  6   CH  6   ST &B5 &0A &2A
+BA    1   CR    2+1/96   TR  6   CH  6   Channel volume 79
+BA    1   CR    2+1/48   TR  1   CH  1   ST &B0 &0A &37
+BA    1   CR    2+1/48   TR  1   CH  1   Channel volume 121
+BA    1   CR    2+1/48   TR  3   CH  3   Channel volume 87
+BA    1   CR    2+1/48   TR  3   CH  3   ST &B2 &0A &59
+BA    1   CR    2+1/48   TR  4   CH  4   Channel volume 100
+BA    1   CR    2+1/48   TR  5   CH  5   Channel volume 92
+BA    1   CR    2+1/48   TR  6   CH  6   ST &B5 &0A &2A
+BA    1   CR    2+1/48   TR  6   CH  6   Channel volume 79
+BA    1   CR    2+1/32   TR  1   CH  1   ST &B0 &0A &37
+BA    1   CR    2+1/32   TR  1   CH  1   Channel volume 124
+BA    1   CR    2+1/32   TR  3   CH  3   ST &B2 &0A &59
+BA    1   CR    2+1/32   TR  4   CH  4   Channel volume 100
+BA    1   CR    2+1/32   TR  6   CH  6   Channel volume 79
+BA    1   CR    2+1/24   TR  1   CH  1   ST &B0 &0A &37
+BA    1   CR     2+1/4   TR  7   CH  7   Channel volume 50
+BA    1   CR     2+1/4   TR  7   CH  7   NT  D             1/4   von=100   voff=0
+BA    1   CR   2+25/96   TR  7   CH  7   Channel volume 50
+BA    1   CR   2+13/48   TR  7   CH  7   Channel volume 50
+BA    1   CR     2+1/2   TR  4   CH  4   NT  G-            1/4   von=85   voff=0
+BA    1   CR         3   TR  1   CH  1   NT  Bb              1   voff=0
+BA    1   CR         3   TR  4   CH  4   NT  D             1/4   voff=0
+BA    1   CR     3+1/4   TR  7   CH  7   NT  Bb              1   voff=0
+BA    1   CR     3+1/2   TR  4   CH  4   NT  G             1/4   von=90   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  A             1/4   voff=0
+BA    2   CR         0   TR  4   CH  4   NT  D'            1/4   von=100   voff=0
+BA    2   CR       1/4   TR  7   CH  7   NT  A             1/4   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  F               1   voff=0
+BA    2   CR     1+1/4   TR  7   CH  7   NT  F               1   voff=0
+BA    2   CR         2   TR  1   CH  1   NT  E           1+1/4   voff=0
+BA    2   CR         2   TR  2   CH  2   Channel volume 103
+BA    2   CR         2   TR  2   CH  2   ST &B1 &0A &4C
+BA    2   CR         2   TR  2   CH  2   NT  G             1/4   von=100   voff=0
+BA    2   CR         2   TR  2   CH  2   NT  E'            1/4   voff=0
+BA    2   CR         2   TR  3   CH  3   NT  C           3+1/2   voff=0
+BA    2   CR         2   TR  3   CH  3   NT  E           3+1/2   voff=0
+BA    2   CR         2   TR  4   CH  4   NT  C-            1/4   von=80   voff=0
+BA    2   CR         2   TR  5   CH  5   NT  F--         3+3/4   voff=0
+BA    2   CR         2   TR  6   CH  6   NT  C           3+1/2   voff=0
+BA    2   CR         2   TR  6   CH  6   NT  E           3+1/2   voff=0
+BA    2   CR    2+1/96   TR  2   CH  2   Channel volume 103
+BA    2   CR    2+1/96   TR  2   CH  2   ST &B1 &0A &4C
+BA    2   CR    2+1/48   TR  2   CH  2   Channel volume 103
+BA    2   CR    2+1/48   TR  2   CH  2   ST &B1 &0A &4C
+BA    2   CR    2+1/32   TR  2   CH  2   ST &B1 &0A &4C
+BA    2   CR    2+1/24   TR  2   CH  2   ST &B1 &0A &4C
+BA    2   CR     2+1/4   TR  7   CH  7   NT  E           1+1/4   voff=0
+BA    2   CR     2+1/2   TR  4   CH  4   NT  A-            1/4   von=85   voff=0
+BA    2   CR         3   TR  2   CH  2   NT  E'              1   voff=0
+BA    2   CR         3   TR  2   CH  2   NT  C''             1   voff=0
+BA    2   CR         3   TR  4   CH  4   NT  E             1/4   voff=0
+BA    2   CR     3+1/3   TR  1   CH  1   NT  D             1/4   voff=0
+BA    2   CR     3+1/2   TR  4   CH  4   NT  A             1/4   von=90   voff=0
+BA    2   CR    3+7/12   TR  7   CH  7   NT  D             1/4   voff=0
+BA    2   CR     3+2/3   TR  1   CH  1   NT  C             1/4   voff=0
+BA    2   CR   3+11/12   TR  7   CH  7   NT  C             1/4   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  E               2   voff=0
+BA    3   CR         0   TR  2   CH  2   NT  D'            1/4   voff=0
+BA    3   CR         0   TR  2   CH  2   NT  B'            1/4   voff=0
+BA    3   CR         0   TR  4   CH  4   NT  E'            1/4   von=100   voff=0
+BA    3   CR      1/96   TR  8   CH  9   Channel volume 105
+BA    3   CR      1/48   TR  8   CH  9   Channel volume 105
+BA    3   CR       1/4   TR  7   CH  7   NT  E               2   voff=0
+BA    3   CR         1   TR  2   CH  2   NT  B               1   voff=0
+BA    3   CR         1   TR  2   CH  2   NT  G'              1   voff=0
+BA    3   CR         1   TR  8   CH  9   NT  F               1   von=100   voff=0
+BA    3   CR         1   TR  8   CH  9   NT  C'              1   voff=0
+BA    3   CR         2   TR  2   CH  2   NT  B           3+1/2   voff=0
+BA    3   CR         2   TR  2   CH  2   NT  F#'         3+1/2   voff=0
+BA    3   CR         2   TR  3   CH  3   NT  D           3+1/2   voff=0
+BA    3   CR         2   TR  3   CH  3   NT  F#          3+1/2   voff=0
+BA    3   CR         2   TR  4   CH  4   NT  F#-           1/8   voff=0
+BA    3   CR         2   TR  5   CH  5   NT  G--         3+5/8   voff=0
+BA    3   CR         2   TR  6   CH  6   NT  B-          3+1/2   voff=0
+BA    3   CR         2   TR  6   CH  6   NT  D           3+1/2   voff=0
+BA    3   CR         2   TR  6   CH  6   NT  F#          3+1/2   voff=0
+BA    3   CR         2   TR  8   CH 16   End of track
+BA    3   CR         2   TR  9   CH 10   NT  A-              2   voff=0
+BA    3   CR         2   TR  9   CH 10   NT  B-              2   voff=0
+BA    3   CR     2+1/8   TR  4   CH  4   NT  B-            1/8   voff=0
+BA    3   CR     2+1/4   TR  4   CH  4   NT  F#            1/8   voff=0
+BA    3   CR     2+1/4   TR  7   CH 16   End of track
+BA    3   CR     2+3/8   TR  4   CH  4   NT  B             1/8   voff=0
+BA    3   CR     2+1/2   TR  4   CH  4   NT  F#'           1/8   voff=0
+BA    3   CR     2+5/8   TR  4   CH 16   End of track
+
+BA    4   CR         0   TR  9   CH 16   End of track
+BA    4   CR     1+1/2   TR  2   CH 16   End of track
+BA    4   CR     1+1/2   TR  3   CH 16   End of track
+BA    4   CR     1+1/2   TR  6   CH 16   End of track
+BA    4   CR     1+5/8   TR  5   CH 16   End of track
+
+BA    5   CR     1+7/8   TR  1   CH  1   NT  E             1/8   von=1   voff=0
+BA    5   CR         2   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 9 seconds

@@ -1,0 +1,53 @@
+format=1 tracks=4 division=256
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Golden Bug"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Koji Kondo, Asuka Ohta, Toru Minegishi"
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Copyright Anthony Jakob(C) "
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key F major
+BA    1   CR         0   TR  0   CH 16   Tempo 200
+BA    1   CR         0   TR  0   CH 16   Key F major
+BA    1   CR         0   TR  0   CH 16   Tempo 200
+BA    1   CR         0   TR  1   CH  1   ST &B0 &79 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &3C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &33
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   Instrument 101
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Synthesizer"
+BA    1   CR         0   TR  1   CH  1   NT  F'            1/4   von=69
+BA    1   CR         0   TR  2   CH  2   ST &B1 &79 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &5B &3C
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &33
+BA    1   CR         0   TR  2   CH  2   Channel volume 61
+BA    1   CR         0   TR  2   CH  2   Instrument 101
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Synthesizer"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &79 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &40 &00
+BA    1   CR         0   TR  3   CH  3   ST &B2 &5B &3C
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &33
+BA    1   CR         0   TR  3   CH  3   Channel volume 38
+BA    1   CR         0   TR  3   CH  3   Instrument 101
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Synthesizer"
+BA    1   CR     1/256   TR  0   CH 16   End of track
+BA    1   CR       1/2   TR  1   CH  1   NT  Bb'           1/4   von=64
+BA    1   CR         1   TR  1   CH  1   NT  Eb''          1/4   von=60
+BA    1   CR         1   TR  2   CH  2   NT  F'            1/4   von=67
+BA    1   CR     1+1/2   TR  1   CH  1   NT  Bb''          1/4   von=68
+BA    1   CR     1+1/2   TR  2   CH  2   NT  Bb'           1/4   von=68
+BA    1   CR         2   TR  1   CH  1   NT  F''           1/4   von=66
+BA    1   CR         2   TR  2   CH  2   NT  Eb''          1/4   von=67
+BA    1   CR         2   TR  3   CH  3   NT  F'            1/4   von=72
+BA    1   CR  2+65/256   TR  1   CH 16   End of track
+BA    1   CR     2+1/2   TR  2   CH  2   NT  Bb''          1/4
+BA    1   CR     2+1/2   TR  3   CH  3   NT  Bb'           1/4   von=66
+BA    1   CR         3   TR  2   CH  2   NT  F''           1/4   von=66
+BA    1   CR         3   TR  3   CH  3   NT  Eb''          1/4
+BA    1   CR  3+65/256   TR  2   CH 16   End of track
+BA    1   CR     3+1/2   TR  3   CH  3   NT  Bb''          1/4   von=69
+
+BA    2   CR         0   TR  3   CH  3   NT  F''           1/4   von=65
+BA    2   CR    65/256   TR  3   CH 16   End of track
+# Successfully parsed
+# Duration = 1.27617 seconds

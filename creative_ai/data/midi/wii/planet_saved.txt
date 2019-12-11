@@ -1,0 +1,278 @@
+format=1 tracks=9 division=1000
+
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH 16   Text type 3: "French Horn Ensemble"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 61
+BA    1   CR         0   TR  1   CH  1   NT  Bb-             1   von=110   voff=127
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Crash Cymbal Tuned"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &0B
+BA    1   CR         0   TR  2   CH  2   Instrument 120
+BA    1   CR         0   TR  2   CH  2   NT  C----           8   von=127   voff=127
+BA    1   CR         0   TR  2   CH  2   NT  C-----          8   voff=127
+BA    1   CR         0   TR  3   CH 16   Text type 3: "KIT- Orchestral Kit"
+BA    1   CR         0   TR  3   CH 10   Instrument 49
+BA    1   CR         0   TR  3   CH 10   NT  D--           1/2   von=127   voff=127
+BA    1   CR         0   TR  3   CH 10   NT  B-            1/2   voff=127
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Timpani"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 48
+BA    1   CR         0   TR  4   CH  4   NT  Eb-             2   von=127   voff=127
+BA    1   CR         0   TR  4   CH  4   NT  Bb--            2   voff=127
+BA    1   CR         0   TR  4   CH  4   NT  G--             2   voff=127
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Tuba"
+BA    1   CR         0   TR  5   CH  5   ST &B4 &00 &00
+BA    1   CR         0   TR  5   CH  5   Instrument 59
+BA    1   CR         0   TR  5   CH  5   NT  Bb-             2   von=110   voff=110
+BA    1   CR         0   TR  5   CH  5   NT  Eb              2   voff=110
+BA    1   CR         0   TR  5   CH  5   NT  G               2   voff=110
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Saxophone Octet"
+BA    1   CR         0   TR  6   CH  6   ST &B5 &00 &00
+BA    1   CR         0   TR  6   CH  6   Instrument 68
+BA    1   CR         0   TR  6   CH  6   NT  Eb-           1/4   von=110   voff=110
+BA    1   CR         0   TR  6   CH  6   NT  Bb-             1   voff=110
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Orchestra Movements"
+BA    1   CR         0   TR  7   CH  7   ST &B6 &00 &0C
+BA    1   CR         0   TR  7   CH  7   Instrument 49
+BA    1   CR         0   TR  7   CH  7   NT  Bb              1   von=110   voff=127
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Mono Strings Velo"
+BA    1   CR         0   TR  8   CH  8   ST &B7 &00 &0C
+BA    1   CR         0   TR  8   CH  8   Instrument 50
+BA    1   CR         0   TR  8   CH  8   NT  Bb              1   von=110   voff=127
+BA    1   CR       1/2   TR  6   CH  6   NT  Eb-           1/4   voff=110
+BA    1   CR       3/4   TR  6   CH  6   NT  Eb-           1/4   voff=110
+BA    1   CR         1   TR  1   CH  1   NT  Eb              1   voff=127
+BA    1   CR         1   TR  3   CH 10   NT  D--           1/2   voff=127
+BA    1   CR         1   TR  6   CH  6   NT  Eb-           1/2   voff=110
+BA    1   CR         1   TR  6   CH  6   NT  Bb-             1   voff=110
+BA    1   CR         1   TR  7   CH  7   NT  Eb'             1   voff=127
+BA    1   CR         1   TR  8   CH  8   NT  Eb'             1   voff=127
+BA    1   CR         2   TR  0   CH 16   Tempo 75
+BA    1   CR         2   TR  1   CH  1   NT  F             3/4   voff=127
+BA    1   CR         2   TR  3   CH 10   NT  B-            1/2   voff=127
+BA    1   CR         2   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    1   CR         2   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    1   CR         2   TR  5   CH  5   NT  C               2   voff=110
+BA    1   CR         2   TR  5   CH  5   NT  F               2   voff=110
+BA    1   CR         2   TR  5   CH  5   NT  G#              2   voff=110
+BA    1   CR         2   TR  6   CH  6   NT  F-              1   voff=110
+BA    1   CR         2   TR  6   CH  6   NT  G#-           3/4   voff=110
+BA    1   CR         2   TR  7   CH  7   NT  G#'           3/4   voff=127
+BA    1   CR         2   TR  8   CH  8   NT  G#'           3/4   voff=127
+BA    1   CR     2+1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    1   CR     2+1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+BA    1   CR     2+3/4   TR  1   CH  1   NT  Eb            3/4   voff=127
+BA    1   CR     2+3/4   TR  6   CH  6   NT  G#-           3/4   voff=110
+BA    1   CR     2+3/4   TR  7   CH  7   NT  G'            3/4   voff=127
+BA    1   CR     2+3/4   TR  8   CH  8   NT  G'            3/4   voff=127
+BA    1   CR         3   TR  3   CH 10   NT  D--           1/2   voff=127
+BA    1   CR         3   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    1   CR         3   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    1   CR     3+1/2   TR  1   CH  1   NT  D             1/2   voff=127
+BA    1   CR     3+1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    1   CR     3+1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+BA    1   CR     3+1/2   TR  6   CH  6   NT  G#-           1/2   voff=110
+BA    1   CR     3+1/2   TR  7   CH  7   NT  F'            1/2   voff=127
+BA    1   CR     3+1/2   TR  8   CH  8   NT  F'            1/2   voff=127
+
+BA    2   CR         0   TR  0   CH 16   Tempo 70.0001
+BA    2   CR         0   TR  1   CH  1   NT  Eb              4   voff=110
+BA    2   CR         0   TR  1   CH  1   NT  G               4   voff=110
+BA    2   CR         0   TR  3   CH 10   NT  D--           1/2   voff=127
+BA    2   CR         0   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    2   CR         0   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    2   CR         0   TR  5   CH  5   NT  G               4   voff=110
+BA    2   CR         0   TR  5   CH  5   NT  Eb              4   voff=110
+BA    2   CR         0   TR  5   CH  5   NT  Bb-             4   voff=110
+BA    2   CR         0   TR  6   CH  6   NT  G-              4   voff=110
+BA    2   CR         0   TR  6   CH  6   NT  Bb-             4   voff=110
+BA    2   CR         0   TR  6   CH  6   NT  Eb-             4   voff=110
+BA    2   CR         0   TR  7   CH  7   NT  Eb'             4   voff=127
+BA    2   CR         0   TR  7   CH  7   NT  G'              4   voff=127
+BA    2   CR         0   TR  7   CH  7   NT  Bb              4   voff=110
+BA    2   CR         0   TR  7   CH  7   NT  Bb'             4   voff=110
+BA    2   CR         0   TR  8   CH  8   NT  Eb'             4   voff=127
+BA    2   CR         0   TR  8   CH  8   NT  G'              4   voff=127
+BA    2   CR         0   TR  8   CH  8   NT  Bb              4   voff=110
+BA    2   CR         0   TR  8   CH  8   NT  Bb'             4   voff=110
+BA    2   CR       1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    2   CR       1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+BA    2   CR         1   TR  0   CH 16   Tempo 67
+BA    2   CR         1   TR  0   CH 16   End of track
+BA    2   CR         1   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    2   CR         1   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    2   CR     1+1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    2   CR     1+1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+BA    2   CR         2   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    2   CR         2   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    2   CR     2+1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    2   CR     2+1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+BA    2   CR         3   TR  4   CH  4   NT  Eb-           1/2   voff=127
+BA    2   CR         3   TR  4   CH  4   NT  G--           1/2   voff=127
+BA    2   CR     3+1/2   TR  4   CH  4   NT  Bb--          1/2   voff=127
+BA    2   CR     3+1/2   TR  4   CH  4   NT  Eb--          1/2   voff=127
+
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    3   CR         0   TR  1   CH 16   End of track
+BA    3   CR         0   TR  2   CH  2   NT  C----           8   voff=127
+BA    3   CR         0   TR  2   CH  2   NT  C-----          8   voff=127
+BA    3   CR         0   TR  3   CH 10   NT  B-            1/2   voff=127
+BA    3   CR         0   TR  4   CH  4   NT  Eb-             4   voff=127
+BA    3   CR         0   TR  4   CH  4   NT  Bb--            4   voff=127
+BA    3   CR         0   TR  4   CH  4   NT  G--             4   voff=127
+BA    3   CR         0   TR  4   CH  4   NT  Eb--            4   voff=127
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH  5   ST &B4 &40 &00
+BA    3   CR         0   TR  5   CH 16   End of track
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH  6   ST &B5 &40 &00
+BA    3   CR         0   TR  6   CH 16   End of track
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH  7   ST &B6 &40 &00
+BA    3   CR         0   TR  7   CH 16   End of track
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH  8   ST &B7 &40 &00
+BA    3   CR         0   TR  8   CH 16   End of track
+
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    4   CR         0   TR  3   CH 16   End of track
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH  4   ST &B3 &40 &00
+BA    4   CR         0   TR  4   CH 16   End of track
+
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    5   CR         0   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 13.8079 seconds

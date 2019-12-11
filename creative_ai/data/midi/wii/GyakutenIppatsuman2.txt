@@ -1,0 +1,3178 @@
+format=1 tracks=11 division=480
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 150
+BA    1   CR         0   TR  0   CH 16   Tempo 150
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Melody"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 63
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &3F
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR         0   TR  1   CH  1   NT  E         233/480   von=127
+BA    1   CR         0   TR  1   CH  1   NT  E'        233/480
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Bass"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 37
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &3F
+BA    1   CR         0   TR  2   CH  2   Channel volume 127
+BA    1   CR         0   TR  2   CH  2   NT  E--       233/480   von=127
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Accompaniment"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 62
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA    1   CR         0   TR  3   CH  3   Channel volume 96
+BA    1   CR         0   TR  3   CH  3   Channel volume 96
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA    1   CR         0   TR  3   CH  3   NT  E'      6+473/480   von=127
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Flute"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 74
+BA    1   CR         0   TR  4   CH  4   Channel volume 105
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &3F
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &3F
+BA    1   CR         0   TR  4   CH  4   Channel volume 105
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Trombone"
+BA    1   CR         0   TR  5   CH  5   ST &B4 &00 &00
+BA    1   CR         0   TR  5   CH  5   Instrument 58
+BA    1   CR         0   TR  5   CH  5   Channel volume 105
+BA    1   CR         0   TR  5   CH  5   ST &B4 &0A &01
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Acoustic Guitar (steel)"
+BA    1   CR         0   TR  6   CH  6   ST &B5 &00 &00
+BA    1   CR         0   TR  6   CH  6   Instrument 26
+BA    1   CR         0   TR  6   CH  6   ST &B5 &0A &01
+BA    1   CR         0   TR  6   CH  6   Channel volume 65
+BA    1   CR         0   TR  7   CH 16   Text type 3: "String Ensemble 2"
+BA    1   CR         0   TR  7   CH  7   ST &B6 &00 &00
+BA    1   CR         0   TR  7   CH  7   Instrument 50
+BA    1   CR         0   TR  7   CH  7   Channel volume 100
+BA    1   CR         0   TR  7   CH  7   ST &B6 &0A &01
+BA    1   CR         0   TR  7   CH  7   NT  E'      6+473/480   von=96
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Distortion Guitar"
+BA    1   CR         0   TR  8   CH  8   ST &B7 &00 &00
+BA    1   CR         0   TR  8   CH  8   Instrument 31
+BA    1   CR         0   TR  8   CH  8   ST &B7 &0A &3F
+BA    1   CR         0   TR  8   CH  8   Channel volume 105
+BA    1   CR         0   TR  9   CH 16   Text type 3: "FX 5 (brightness)"
+BA    1   CR         0   TR  9   CH  9   ST &B8 &00 &00
+BA    1   CR         0   TR  9   CH  9   Instrument 101
+BA    1   CR         0   TR  9   CH  9   ST &B8 &0A &7F
+BA    1   CR         0   TR  9   CH  9   Channel volume 65
+BA    1   CR         0   TR 10   CH 16   Text type 3: "Drums"
+BA    1   CR         0   TR 10   CH 10   ST &B9 &00 &00
+BA    1   CR         0   TR 10   CH 10   Instrument 1
+BA    1   CR         0   TR 10   CH 10   Channel volume 96
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &3F
+BA    1   CR         0   TR 10   CH 10   ST &B9 &0A &3F
+BA    1   CR         0   TR 10   CH 10   Channel volume 96
+BA    1   CR         0   TR 10   CH 10   NT  A-        233/480   von=127
+BA    1   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    1   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    1   CR       1/2   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA    1   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA    1   CR       1/2   TR  2   CH  2   NT  B--       113/480
+BA    1   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA    1   CR       3/4   TR  2   CH  2   NT  E-        113/480
+BA    1   CR         1   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR         1   TR  1   CH  1   NT  G#        233/480
+BA    1   CR         1   TR  1   CH  1   NT  G#'       233/480
+BA    1   CR         1   TR  2   CH  2   NT  E--       233/480
+BA    1   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    1   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    1   CR     1+1/2   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR     1+1/2   TR  1   CH  1   NT  G#        233/480
+BA    1   CR     1+1/2   TR  1   CH  1   NT  G#'       233/480
+BA    1   CR     1+1/2   TR  2   CH  2   NT  B--       113/480
+BA    1   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA    1   CR     1+3/4   TR  2   CH  2   NT  E-        113/480
+BA    1   CR         2   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR         2   TR  1   CH  1   NT  B         233/480
+BA    1   CR         2   TR  1   CH  1   NT  B'        233/480
+BA    1   CR         2   TR  2   CH  2   NT  E--       233/480
+BA    1   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    1   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    1   CR     2+1/2   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR     2+1/2   TR  1   CH  1   NT  B         233/480
+BA    1   CR     2+1/2   TR  1   CH  1   NT  B'        233/480
+BA    1   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA    1   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA    1   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA    1   CR         3   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR         3   TR  1   CH  1   NT  D'        233/480
+BA    1   CR         3   TR  1   CH  1   NT  D''       233/480
+BA    1   CR         3   TR  2   CH  2   NT  E--       233/480
+BA    1   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    1   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    1   CR     3+1/2   TR  1   CH 16   Text type 5: "pa "
+BA    1   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA    1   CR     3+1/2   TR  1   CH  1   NT  D''       233/480
+BA    1   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA    1   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA    1   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA    2   CR         0   TR  1   CH 16   Text type 5: "pa "
+BA    2   CR         0   TR  1   CH  1   NT  E'      1+473/480
+BA    2   CR         0   TR  1   CH  1   NT  E''     1+473/480
+BA    2   CR         0   TR  2   CH  2   NT  E--     1+473/480
+BA    2   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    2   CR         0   TR 10   CH 10   NT  A-        473/480
+BA    2   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    2   CR       1/2   TR  4   CH  4   NT  G#        113/480   von=96
+BA    2   CR       1/2   TR  4   CH  4   NT  B         113/480
+BA    2   CR       1/2   TR  4   CH  4   NT  E'        113/480
+BA    2   CR       1/2   TR  6   CH  6   NT  E''       113/480   von=96
+BA    2   CR       1/2   TR  6   CH  6   NT  B'        113/480
+BA    2   CR       1/2   TR  6   CH  6   NT  G#'       113/480
+BA    2   CR       1/2   TR  8   CH  8   NT  E'        113/480   von=96
+BA    2   CR       3/4   TR  4   CH  4   NT  G#        113/480
+BA    2   CR       3/4   TR  4   CH  4   NT  B         113/480
+BA    2   CR       3/4   TR  4   CH  4   NT  E'        113/480
+BA    2   CR       3/4   TR  6   CH  6   NT  E''       113/480
+BA    2   CR       3/4   TR  6   CH  6   NT  B'        113/480
+BA    2   CR       3/4   TR  6   CH  6   NT  G#'       113/480
+BA    2   CR       3/4   TR  8   CH  8   NT  E'      2+473/480   von=92
+BA    2   CR         1   TR  4   CH  4   NT  G#      1+473/480
+BA    2   CR         1   TR  4   CH  4   NT  B       1+473/480
+BA    2   CR         1   TR  4   CH  4   NT  E'      1+473/480
+BA    2   CR         1   TR  6   CH  6   NT  E''     1+473/480
+BA    2   CR         1   TR  6   CH  6   NT  B'      1+473/480
+BA    2   CR         1   TR  6   CH  6   NT  G#'     1+473/480
+BA    2   CR         2   TR  1   CH 16   Text type 5: "i "
+BA    2   CR         2   TR  1   CH  1   NT  E         473/480
+BA    2   CR         2   TR  1   CH  1   NT  E'        473/480
+BA    2   CR         2   TR  2   CH  2   NT  B---      473/480
+BA    2   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    2   CR         2   TR 10   CH 10   NT  A-        233/480
+BA    2   CR         3   TR  1   CH 16   Text type 5: "pat "
+BA    2   CR         3   TR  1   CH  1   NT  C'        233/480
+BA    2   CR         3   TR  1   CH  1   NT  C''       233/480
+BA    2   CR         3   TR  2   CH  2   NT  Bb---     473/480
+BA    2   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    2   CR         3   TR 10   CH 10   NT  A-        233/480
+BA    2   CR     3+5/8   TR  1   CH 16   Text type 5: "su "
+BA    2   CR     3+5/8   TR  1   CH  1   NT  C'        173/480
+BA    2   CR     3+5/8   TR  1   CH  1   NT  C''       173/480
+
+BA    3   CR         0   TR  1   CH 16   Text type 5: "man "
+BA    3   CR         0   TR  1   CH  1   NT  A       3+473/480
+BA    3   CR         0   TR  1   CH  1   NT  A'      3+473/480
+BA    3   CR         0   TR  2   CH  2   NT  A---      233/480
+BA    3   CR         0   TR  3   CH  3   ST &B2 &0A &00
+BA    3   CR         0   TR  3   CH  3   NT  A'      3+473/480
+BA    3   CR         0   TR  4   CH  4   NT  C       3+473/480
+BA    3   CR         0   TR  4   CH  4   NT  A-      3+473/480
+BA    3   CR         0   TR  4   CH  4   NT  E       3+473/480
+BA    3   CR         0   TR  4   CH  4   NT  A       3+473/480
+BA    3   CR         0   TR  7   CH  7   NT  A'      6+473/480
+BA    3   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    3   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    3   CR         0   TR 10   CH 10   NT  A-        233/480
+BA    3   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA    3   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    3   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    3   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    3   CR         2   TR  2   CH  2   NT  A---      233/480
+BA    3   CR         2   TR  3   CH  3   NT  F-         53/480
+BA    3   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    3   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    3   CR     2+1/8   TR  3   CH  3   NT  G-         53/480
+BA    3   CR     2+1/4   TR  3   CH  3   ST &B2 &0A &1E
+BA    3   CR     2+1/4   TR  3   CH  3   NT  A-         53/480
+BA    3   CR     2+3/8   TR  3   CH  3   NT  B-         53/480
+BA    3   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA    3   CR     2+1/2   TR  3   CH  3   NT  C          53/480
+BA    3   CR     2+5/8   TR  3   CH  3   NT  D          53/480
+BA    3   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA    3   CR     2+3/4   TR  3   CH  3   NT  E          53/480
+BA    3   CR     2+7/8   TR  3   CH  3   ST &B2 &0A &3F
+BA    3   CR     2+7/8   TR  3   CH  3   NT  F          53/480
+BA    3   CR         3   TR  2   CH  2   NT  A---      233/480
+BA    3   CR         3   TR  3   CH  3   NT  G          53/480
+BA    3   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    3   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    3   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    3   CR     3+1/8   TR  3   CH  3   NT  A          53/480
+BA    3   CR     3+1/4   TR  3   CH  3   NT  B          53/480
+BA    3   CR     3+3/8   TR  3   CH  3   ST &B2 &0A &60
+BA    3   CR     3+3/8   TR  3   CH  3   NT  C'         53/480
+BA    3   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA    3   CR     3+1/2   TR  3   CH  3   NT  D'         53/480
+BA    3   CR     3+5/8   TR  3   CH  3   NT  E'         53/480
+BA    3   CR     3+3/4   TR  3   CH  3   ST &B2 &0A &7E
+BA    3   CR     3+3/4   TR  3   CH  3   NT  F'         53/480
+BA    3   CR     3+7/8   TR  3   CH  3   NT  G'         53/480
+
+BA    4   CR         0   TR  2   CH  2   NT  A---      233/480
+BA    4   CR         0   TR  3   CH  3   NT  A'         53/480
+BA    4   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    4   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    4   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA    4   CR         1   TR  1   CH  1   NT  A-        113/480
+BA    4   CR         1   TR  1   CH  1   NT  C         113/480
+BA    4   CR         1   TR  1   CH  1   NT  E         113/480
+BA    4   CR         1   TR  1   CH  1   NT  A         113/480
+BA    4   CR         1   TR  4   CH  4   NT  A-        113/480
+BA    4   CR         1   TR  4   CH  4   NT  C         113/480
+BA    4   CR         1   TR  4   CH  4   NT  E         113/480
+BA    4   CR         1   TR  4   CH  4   NT  A         113/480
+BA    4   CR         1   TR  5   CH  5   NT  A-        113/480   von=96
+BA    4   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    4   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    4   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    4   CR     1+1/4   TR  1   CH  1   NT  A-        113/480
+BA    4   CR     1+1/4   TR  1   CH  1   NT  C         113/480
+BA    4   CR     1+1/4   TR  1   CH  1   NT  E         113/480
+BA    4   CR     1+1/4   TR  1   CH  1   NT  A         113/480
+BA    4   CR     1+1/4   TR  4   CH  4   NT  A-        113/480
+BA    4   CR     1+1/4   TR  4   CH  4   NT  C         113/480
+BA    4   CR     1+1/4   TR  4   CH  4   NT  E         113/480
+BA    4   CR     1+1/4   TR  4   CH  4   NT  A         113/480
+BA    4   CR     1+1/4   TR  5   CH  5   NT  A-        113/480
+BA    4   CR     1+1/2   TR  1   CH  1   NT  A-        113/480
+BA    4   CR     1+1/2   TR  1   CH  1   NT  C         113/480
+BA    4   CR     1+1/2   TR  1   CH  1   NT  E         113/480
+BA    4   CR     1+1/2   TR  1   CH  1   NT  A         113/480
+BA    4   CR     1+1/2   TR  4   CH  4   NT  A-        113/480
+BA    4   CR     1+1/2   TR  4   CH  4   NT  C         113/480
+BA    4   CR     1+1/2   TR  4   CH  4   NT  E         113/480
+BA    4   CR     1+1/2   TR  4   CH  4   NT  A         113/480
+BA    4   CR     1+1/2   TR  5   CH  5   NT  A-        113/480
+BA    4   CR     1+3/4   TR  1   CH  1   NT  A-        113/480
+BA    4   CR     1+3/4   TR  1   CH  1   NT  C         113/480
+BA    4   CR     1+3/4   TR  1   CH  1   NT  E         113/480
+BA    4   CR     1+3/4   TR  1   CH  1   NT  A         113/480
+BA    4   CR     1+3/4   TR  4   CH  4   NT  A-        113/480
+BA    4   CR     1+3/4   TR  4   CH  4   NT  C         113/480
+BA    4   CR     1+3/4   TR  4   CH  4   NT  E         113/480
+BA    4   CR     1+3/4   TR  4   CH  4   NT  A         113/480
+BA    4   CR     1+3/4   TR  5   CH  5   NT  A-        113/480
+BA    4   CR         2   TR  1   CH  1   NT  G-        113/480
+BA    4   CR         2   TR  1   CH  1   NT  B-        113/480
+BA    4   CR         2   TR  1   CH  1   NT  D         113/480
+BA    4   CR         2   TR  1   CH  1   NT  G         113/480
+BA    4   CR         2   TR  2   CH  2   NT  A---      233/480
+BA    4   CR         2   TR  4   CH  4   NT  G-        113/480
+BA    4   CR         2   TR  4   CH  4   NT  B-        113/480
+BA    4   CR         2   TR  4   CH  4   NT  D         113/480
+BA    4   CR         2   TR  4   CH  4   NT  G         113/480
+BA    4   CR         2   TR  5   CH  5   NT  G-        113/480
+BA    4   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    4   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    4   CR     2+1/2   TR  1   CH  1   NT  A-        473/480
+BA    4   CR     2+1/2   TR  1   CH  1   NT  C         473/480
+BA    4   CR     2+1/2   TR  1   CH  1   NT  E         473/480
+BA    4   CR     2+1/2   TR  1   CH  1   NT  A         473/480
+BA    4   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA    4   CR     2+1/2   TR  4   CH  4   NT  A-      1+233/480
+BA    4   CR     2+1/2   TR  4   CH  4   NT  C       1+233/480
+BA    4   CR     2+1/2   TR  4   CH  4   NT  E       1+233/480
+BA    4   CR     2+1/2   TR  4   CH  4   NT  A       1+233/480
+BA    4   CR     2+1/2   TR  5   CH  5   NT  A-      1+233/480
+BA    4   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA    4   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA    4   CR         3   TR  2   CH  2   NT  A---      233/480
+BA    4   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    4   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    4   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    4   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA    4   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA    4   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA    5   CR         0   TR  1   CH 16   Text type 5: "su "
+BA    5   CR         0   TR  1   CH  1   NT  E         233/480
+BA    5   CR         0   TR  2   CH  2   NT  A---      233/480
+BA    5   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    5   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    5   CR         0   TR 10   CH 10   NT  A-        113/480
+BA    5   CR       1/2   TR  1   CH 16   Text type 5: "ki "
+BA    5   CR       1/2   TR  1   CH  1   NT  F         233/480
+BA    5   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA    5   CR       1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA    5   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA    5   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA    5   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA    5   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA    5   CR         1   TR  1   CH 16   Text type 5: "da "
+BA    5   CR         1   TR  1   CH  1   NT  E         233/480
+BA    5   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    5   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    5   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    5   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA    5   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA    5   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA    5   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA    5   CR         2   TR  1   CH 16   Text type 5: "su "
+BA    5   CR         2   TR  1   CH  1   NT  E         233/480
+BA    5   CR         2   TR  2   CH  2   NT  A---      233/480
+BA    5   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    5   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    5   CR     2+1/2   TR  1   CH 16   Text type 5: "ki "
+BA    5   CR     2+1/2   TR  1   CH  1   NT  F         233/480
+BA    5   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA    5   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA    5   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA    5   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA    5   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA    5   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA    5   CR         3   TR  1   CH 16   Text type 5: "da "
+BA    5   CR         3   TR  1   CH  1   NT  E         233/480
+BA    5   CR         3   TR  2   CH  2   NT  A---      233/480
+BA    5   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    5   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    5   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    5   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA    5   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA    5   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA    5   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA    5   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA    6   CR         0   TR  1   CH 16   Text type 5: "a "
+BA    6   CR         0   TR  1   CH  1   NT  B-        233/480
+BA    6   CR         0   TR  2   CH  2   NT  E--       233/480
+BA    6   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    6   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    6   CR       1/2   TR  1   CH 16   Text type 5: "no "
+BA    6   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    6   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA    6   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA    6   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA    6   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA    6   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA    6   CR         1   TR  1   CH 16   Text type 5: "e "
+BA    6   CR         1   TR  1   CH  1   NT  C         233/480
+BA    6   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    6   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    6   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    6   CR     1+1/2   TR  1   CH 16   Text type 5: "ga "
+BA    6   CR     1+1/2   TR  1   CH  1   NT  B-        233/480
+BA    6   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA    6   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA    6   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA    6   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA    6   CR         2   TR  1   CH 16   Text type 5: "o "
+BA    6   CR         2   TR  1   CH  1   NT  A-      1+473/480
+BA    6   CR         2   TR  2   CH  2   NT  A---      233/480
+BA    6   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    6   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    6   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA    6   CR     2+1/2   TR  3   CH  3   NT  A         113/480
+BA    6   CR     2+1/2   TR  4   CH  4   NT  A-        113/480
+BA    6   CR     2+1/2   TR  4   CH  4   NT  C         113/480
+BA    6   CR     2+1/2   TR  4   CH  4   NT  E         113/480
+BA    6   CR     2+1/2   TR  4   CH  4   NT  A         113/480
+BA    6   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA    6   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA    6   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA    6   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA    6   CR     2+1/2   TR  8   CH  8   NT  A       1+233/480   von=96
+BA    6   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA    6   CR     2+3/4   TR  3   CH  3   NT  A         113/480
+BA    6   CR     2+3/4   TR  4   CH  4   NT  A-        113/480
+BA    6   CR     2+3/4   TR  4   CH  4   NT  C         113/480
+BA    6   CR     2+3/4   TR  4   CH  4   NT  E         113/480
+BA    6   CR     2+3/4   TR  4   CH  4   NT  A         113/480
+BA    6   CR         3   TR  2   CH  2   NT  A---      233/480
+BA    6   CR         3   TR  3   CH  3   NT  A         473/480
+BA    6   CR         3   TR  4   CH  4   NT  A-        473/480
+BA    6   CR         3   TR  4   CH  4   NT  C         473/480
+BA    6   CR         3   TR  4   CH  4   NT  E         473/480
+BA    6   CR         3   TR  4   CH  4   NT  A         473/480
+BA    6   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    6   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    6   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    6   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA    6   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA    6   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA    6   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA    6   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA    6   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA    7   CR         0   TR  1   CH 16   Text type 5: "yu "
+BA    7   CR         0   TR  1   CH  1   NT  F         233/480
+BA    7   CR         0   TR  2   CH  2   NT  D--       233/480
+BA    7   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    7   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    7   CR       1/2   TR  1   CH 16   Text type 5: "me "
+BA    7   CR       1/2   TR  1   CH  1   NT  G         233/480
+BA    7   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA    7   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA    7   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA    7   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA    7   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA    7   CR         1   TR  1   CH 16   Text type 5: "o "
+BA    7   CR         1   TR  1   CH  1   NT  F         233/480
+BA    7   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    7   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    7   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    7   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA    7   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA    7   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA    7   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA    7   CR         2   TR  1   CH 16   Text type 5: "yu "
+BA    7   CR         2   TR  1   CH  1   NT  F         233/480
+BA    7   CR         2   TR  2   CH  2   NT  D--       233/480
+BA    7   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    7   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    7   CR     2+1/2   TR  1   CH 16   Text type 5: "me "
+BA    7   CR     2+1/2   TR  1   CH  1   NT  G         233/480
+BA    7   CR     2+1/2   TR  2   CH  2   NT  A--       113/480
+BA    7   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA    7   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA    7   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA    7   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA    7   CR     2+3/4   TR  2   CH  2   NT  D-        113/480
+BA    7   CR         3   TR  1   CH 16   Text type 5: "o "
+BA    7   CR         3   TR  1   CH  1   NT  F         233/480
+BA    7   CR         3   TR  2   CH  2   NT  D--       233/480
+BA    7   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    7   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    7   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    7   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA    7   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA    7   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA    7   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA    7   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+
+BA    8   CR         0   TR  1   CH 16   Text type 5: "da "
+BA    8   CR         0   TR  1   CH  1   NT  D         233/480
+BA    8   CR         0   TR  2   CH  2   NT  B---      233/480
+BA    8   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    8   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    8   CR       1/2   TR  1   CH 16   Text type 5: "ki "
+BA    8   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA    8   CR       1/2   TR  2   CH  2   NT  B--       233/480
+BA    8   CR       1/2   TR  6   CH  6   NT  B-        233/480
+BA    8   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA    8   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA    8   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA    8   CR         1   TR  1   CH 16   Text type 5: "shi "
+BA    8   CR         1   TR  1   CH  1   NT  E         233/480
+BA    8   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    8   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    8   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    8   CR     1+1/2   TR  1   CH 16   Text type 5: "me "
+BA    8   CR     1+1/2   TR  1   CH  1   NT  F         233/480
+BA    8   CR     1+1/2   TR  6   CH  6   NT  B-        233/480
+BA    8   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA    8   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA    8   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA    8   CR         2   TR  1   CH 16   Text type 5: "te "
+BA    8   CR         2   TR  1   CH  1   NT  E       1+473/480
+BA    8   CR         2   TR  2   CH  2   NT  E--       233/480
+BA    8   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    8   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    8   CR     2+1/2   TR  1   CH  1   NT  Eb'       233/480
+BA    8   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA    8   CR     2+1/2   TR  3   CH  3   NT  Eb        233/480
+BA    8   CR     2+1/2   TR  5   CH  5   NT  Eb'       233/480
+BA    8   CR     2+1/2   TR  5   CH  5   NT  Eb        233/480
+BA    8   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA    8   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA    8   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA    8   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA    8   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA    8   CR         3   TR  1   CH  1   NT  E'        233/480
+BA    8   CR         3   TR  2   CH  2   NT  E--       233/480
+BA    8   CR         3   TR  3   CH  3   NT  E         233/480
+BA    8   CR         3   TR  5   CH  5   NT  E'        233/480
+BA    8   CR         3   TR  5   CH  5   NT  E         233/480
+BA    8   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    8   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    8   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    8   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA    8   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA    8   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA    8   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA    8   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+
+BA    9   CR         0   TR  1   CH 16   Text type 5: "yo "
+BA    9   CR         0   TR  1   CH  1   NT  E         233/480
+BA    9   CR         0   TR  2   CH  2   NT  A---      233/480
+BA    9   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA    9   CR         0   TR 10   CH 10   NT  C--       473/480
+BA    9   CR       1/2   TR  1   CH 16   Text type 5: "be "
+BA    9   CR       1/2   TR  1   CH  1   NT  F         233/480
+BA    9   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA    9   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA    9   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA    9   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA    9   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA    9   CR         1   TR  1   CH 16   Text type 5: "ba "
+BA    9   CR         1   TR  1   CH  1   NT  E         233/480
+BA    9   CR         1   TR 10   CH 10   NT  E--       233/480
+BA    9   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA    9   CR         1   TR 10   CH 10   NT  C--       473/480
+BA    9   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA    9   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA    9   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA    9   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA    9   CR         2   TR  1   CH 16   Text type 5: "yo "
+BA    9   CR         2   TR  1   CH  1   NT  E         233/480
+BA    9   CR         2   TR  2   CH  2   NT  A---      233/480
+BA    9   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA    9   CR         2   TR 10   CH 10   NT  C--       473/480
+BA    9   CR     2+1/2   TR  1   CH 16   Text type 5: "be "
+BA    9   CR     2+1/2   TR  1   CH  1   NT  F         233/480
+BA    9   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA    9   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA    9   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA    9   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA    9   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA    9   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA    9   CR         3   TR  1   CH 16   Text type 5: "ba "
+BA    9   CR         3   TR  1   CH  1   NT  E         233/480
+BA    9   CR         3   TR  2   CH  2   NT  A---      233/480
+BA    9   CR         3   TR 10   CH 10   NT  E--       233/480
+BA    9   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA    9   CR         3   TR 10   CH 10   NT  C--       473/480
+BA    9   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA    9   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA    9   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA    9   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA    9   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA   10   CR         0   TR  1   CH 16   Text type 5: "a "
+BA   10   CR         0   TR  1   CH  1   NT  B-        233/480
+BA   10   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   10   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   10   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   10   CR       1/2   TR  1   CH 16   Text type 5: "ra "
+BA   10   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   10   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   10   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   10   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   10   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   10   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA   10   CR         1   TR  1   CH 16   Text type 5: "wa "
+BA   10   CR         1   TR  1   CH  1   NT  C         233/480
+BA   10   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   10   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   10   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   10   CR     1+1/2   TR  1   CH 16   Text type 5: "re "
+BA   10   CR     1+1/2   TR  1   CH  1   NT  B-        233/480
+BA   10   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   10   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   10   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   10   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA   10   CR         2   TR  1   CH 16   Text type 5: "ru "
+BA   10   CR         2   TR  1   CH  1   NT  A-      1+473/480
+BA   10   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   10   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   10   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   10   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   10   CR     2+1/2   TR  3   CH  3   NT  A         113/480
+BA   10   CR     2+1/2   TR  4   CH  4   NT  A-        113/480
+BA   10   CR     2+1/2   TR  4   CH  4   NT  C         113/480
+BA   10   CR     2+1/2   TR  4   CH  4   NT  E         113/480
+BA   10   CR     2+1/2   TR  4   CH  4   NT  A         113/480
+BA   10   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   10   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   10   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   10   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   10   CR     2+1/2   TR  8   CH  8   NT  A       1+233/480
+BA   10   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   10   CR     2+3/4   TR  3   CH  3   NT  A         113/480
+BA   10   CR     2+3/4   TR  4   CH  4   NT  A-        113/480
+BA   10   CR     2+3/4   TR  4   CH  4   NT  C         113/480
+BA   10   CR     2+3/4   TR  4   CH  4   NT  E         113/480
+BA   10   CR     2+3/4   TR  4   CH  4   NT  A         113/480
+BA   10   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   10   CR         3   TR  3   CH  3   NT  A         473/480
+BA   10   CR         3   TR  4   CH  4   NT  A-        473/480
+BA   10   CR         3   TR  4   CH  4   NT  C         473/480
+BA   10   CR         3   TR  4   CH  4   NT  E         473/480
+BA   10   CR         3   TR  4   CH  4   NT  A         473/480
+BA   10   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   10   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   10   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   10   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   10   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   10   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   10   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   10   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA   11   CR         0   TR  1   CH 16   Text type 5: "to "
+BA   11   CR         0   TR  1   CH  1   NT  A         233/480
+BA   11   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   11   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   11   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   11   CR       1/2   TR  1   CH 16   Text type 5: "ki "
+BA   11   CR       1/2   TR  1   CH  1   NT  B         233/480
+BA   11   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   11   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA   11   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA   11   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   11   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   11   CR         1   TR  1   CH 16   Text type 5: "o "
+BA   11   CR         1   TR  1   CH  1   NT  A         473/480
+BA   11   CR         1   TR  2   CH  2   NT  D--       233/480
+BA   11   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   11   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   11   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   11   CR     1+1/2   TR  2   CH  2   NT  D-        233/480
+BA   11   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA   11   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA   11   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   11   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   11   CR         2   TR  1   CH 16   Text type 5: "to "
+BA   11   CR         2   TR  1   CH  1   NT  D         233/480
+BA   11   CR         2   TR  2   CH  2   NT  D--       233/480
+BA   11   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   11   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   11   CR     2+1/2   TR  1   CH 16   Text type 5: "ki "
+BA   11   CR     2+1/2   TR  1   CH  1   NT  E         233/480
+BA   11   CR     2+1/2   TR  2   CH  2   NT  D-        233/480
+BA   11   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA   11   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA   11   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   11   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA   11   CR         3   TR  1   CH 16   Text type 5: "o "
+BA   11   CR         3   TR  1   CH  1   NT  F         473/480
+BA   11   CR         3   TR  2   CH  2   NT  D--       233/480
+BA   11   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   11   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   11   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   11   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA   11   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA   11   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA   11   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   11   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+BA   11   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   12   CR         0   TR  1   CH 16   Text type 5: "t "
+BA   12   CR         0   TR  1   CH  1   NT  E         233/480
+BA   12   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   12   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   12   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   12   CR       1/2   TR  1   CH 16   Text type 5: "on "
+BA   12   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   12   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   12   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   12   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   12   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   12   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA   12   CR         1   TR  1   CH 16   Text type 5: "de "
+BA   12   CR         1   TR  1   CH  1   NT  G#        233/480
+BA   12   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   12   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   12   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   12   CR     1+1/2   TR  1   CH 16   Text type 5: "ku "
+BA   12   CR     1+1/2   TR  1   CH  1   NT  B         233/480
+BA   12   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   12   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   12   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   12   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA   12   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   12   CR         2   TR  1   CH 16   Text type 5: "ru "
+BA   12   CR         2   TR  1   CH  1   NT  A       1+473/480
+BA   12   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   12   CR         2   TR 10   CH 10   NT  E--       233/480
+BA   12   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   12   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   12   CR     2+1/2   TR  1   CH  1   NT  G#'       233/480
+BA   12   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   12   CR     2+1/2   TR  3   CH  3   NT  G#        233/480
+BA   12   CR     2+1/2   TR  5   CH  5   NT  G#'       233/480
+BA   12   CR     2+1/2   TR  5   CH  5   NT  G#        233/480
+BA   12   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   12   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   12   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   12   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   12   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   12   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   12   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA   12   CR         3   TR  1   CH  1   NT  A'        233/480
+BA   12   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   12   CR         3   TR  3   CH  3   NT  A         233/480
+BA   12   CR         3   TR  5   CH  5   NT  A'        233/480
+BA   12   CR         3   TR  5   CH  5   NT  A         233/480
+BA   12   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   12   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   12   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   12   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   12   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   12   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   12   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   12   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   12   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   12   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   12   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   13   CR         0   TR  1   CH 16   Text type 5: "do "
+BA   13   CR         0   TR  1   CH  1   NT  C'        233/480
+BA   13   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   13   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   13   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   13   CR         0   TR 10   CH 10   NT  A-        113/480
+BA   13   CR       1/2   TR  1   CH 16   Text type 5: "ko "
+BA   13   CR       1/2   TR  1   CH  1   NT  C'        233/480
+BA   13   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   13   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   13   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   13   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   13   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   13   CR         1   TR  1   CH 16   Text type 5: "ka "
+BA   13   CR         1   TR  1   CH  1   NT  B         233/480
+BA   13   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   13   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   13   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   13   CR     1+1/2   TR  1   CH 16   Text type 5: "ra "
+BA   13   CR     1+1/2   TR  1   CH  1   NT  C'      1+473/480
+BA   13   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   13   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   13   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   13   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   13   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   13   CR         2   TR  3   CH  3   NT  E'      3+473/480
+BA   13   CR         2   TR  4   CH  4   NT  E       3+473/480
+BA   13   CR         2   TR  4   CH  4   NT  A       3+473/480
+BA   13   CR         2   TR  4   CH  4   NT  C'      3+473/480
+BA   13   CR         2   TR  4   CH  4   NT  E'      3+473/480
+BA   13   CR         2   TR  7   CH  7   NT  E'      6+473/480
+BA   13   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   13   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   13   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   13   CR     2+1/2   TR  3   CH  3   ST &B2 &0A &00
+BA   13   CR     2+1/2   TR  3   CH  3   NT  D         113/480
+BA   13   CR     2+1/2   TR  5   CH  5   NT  D-        113/480
+BA   13   CR     2+1/2   TR  5   CH  5   NT  D         113/480
+BA   13   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   13   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   13   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   13   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   13   CR     2+3/4   TR  3   CH  3   NT  E         113/480
+BA   13   CR     2+3/4   TR  5   CH  5   NT  E-        113/480
+BA   13   CR     2+3/4   TR  5   CH  5   NT  E         113/480
+BA   13   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   13   CR         3   TR  3   CH  3   NT  F#        113/480
+BA   13   CR         3   TR  5   CH  5   NT  F#-       113/480
+BA   13   CR         3   TR  5   CH  5   NT  F#        113/480
+BA   13   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   13   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   13   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   13   CR     3+1/4   TR  3   CH  3   NT  G#        113/480
+BA   13   CR     3+1/4   TR  5   CH  5   NT  G#-       113/480
+BA   13   CR     3+1/4   TR  5   CH  5   NT  G#        113/480
+BA   13   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   13   CR     3+1/2   TR  3   CH  3   NT  A         113/480
+BA   13   CR     3+1/2   TR  5   CH  5   NT  A-        113/480
+BA   13   CR     3+1/2   TR  5   CH  5   NT  A         113/480
+BA   13   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   13   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   13   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   13   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   13   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+BA   13   CR     3+3/4   TR  3   CH  3   NT  B         113/480
+BA   13   CR     3+3/4   TR  5   CH  5   NT  B-        113/480
+BA   13   CR     3+3/4   TR  5   CH  5   NT  B         113/480
+
+BA   14   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   14   CR         0   TR  3   CH  3   NT  C'        113/480
+BA   14   CR         0   TR  5   CH  5   NT  C         113/480
+BA   14   CR         0   TR  5   CH  5   NT  C'        113/480
+BA   14   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   14   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   14   CR       1/4   TR  3   CH  3   ST &B2 &0A &3F
+BA   14   CR       1/2   TR  1   CH 16   Text type 5: "so "
+BA   14   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   14   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   14   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   14   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   14   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   14   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   14   CR         1   TR  1   CH 16   Text type 5: "re "
+BA   14   CR         1   TR  1   CH  1   NT  A         233/480
+BA   14   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   14   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   14   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   14   CR     1+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   14   CR     1+1/2   TR  1   CH  1   NT  B         233/480
+BA   14   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   14   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   14   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   14   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   14   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   14   CR         2   TR  1   CH 16   Text type 5: "na "
+BA   14   CR         2   TR  1   CH  1   NT  C'        233/480
+BA   14   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   14   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   14   CR     2+1/2   TR  1   CH 16   Text type 5: "zo "
+BA   14   CR     2+1/2   TR  1   CH  1   NT  D'        233/480
+BA   14   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   14   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   14   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   14   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   14   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   14   CR         3   TR  1   CH 16   Text type 5: "m "
+BA   14   CR         3   TR  1   CH  1   NT  C'        113/480
+BA   14   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   14   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   14   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   14   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   14   CR     3+1/4   TR  1   CH 16   Text type 5: "e "
+BA   14   CR     3+1/4   TR  1   CH  1   NT  B         113/480
+BA   14   CR     3+1/2   TR  1   CH 16   Text type 5: "i "
+BA   14   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   14   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   14   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   14   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   14   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   14   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   14   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+
+BA   15   CR         0   TR  1   CH 16   Text type 5: "te "
+BA   15   CR         0   TR  1   CH  1   NT  B       3+473/480
+BA   15   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   15   CR         0   TR  3   CH  3   ST &B2 &0A &7E
+BA   15   CR         0   TR  3   CH  3   NT  B-        233/480
+BA   15   CR         0   TR  4   CH  4   NT  B       3+473/480
+BA   15   CR         0   TR  5   CH  5   NT  B--       233/480
+BA   15   CR         0   TR  9   CH  9   NT  E'''      113/480   von=96
+BA   15   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   15   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   15   CR       1/4   TR  9   CH  9   NT  B'''      113/480
+BA   15   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   15   CR       1/2   TR  3   CH  3   NT  E         233/480
+BA   15   CR       1/2   TR  5   CH  5   NT  E-        233/480
+BA   15   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   15   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   15   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   15   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   15   CR       1/2   TR  9   CH  9   NT  E''''     113/480
+BA   15   CR         1   TR  3   CH  3   NT  D         233/480
+BA   15   CR         1   TR  5   CH  5   NT  D-        233/480
+BA   15   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   15   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   15   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   15   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   15   CR     1+1/2   TR  3   CH  3   NT  B-      1+473/480
+BA   15   CR     1+1/2   TR  5   CH  5   NT  B--     1+473/480
+BA   15   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   15   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   15   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   15   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   15   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   15   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   15   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   15   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   15   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   15   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   15   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   15   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   15   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   15   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   15   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   15   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   15   CR     3+1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA   15   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   15   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   15   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   15   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   15   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA   16   CR         0   TR  1   CH 16   Text type 5: "d "
+BA   16   CR         0   TR  1   CH  1   NT  B         233/480
+BA   16   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   16   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   16   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   16   CR       1/2   TR  1   CH 16   Text type 5: "ou "
+BA   16   CR       1/2   TR  1   CH  1   NT  B         233/480
+BA   16   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   16   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   16   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   16   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   16   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   16   CR         1   TR  1   CH 16   Text type 5: "shi "
+BA   16   CR         1   TR  1   CH  1   NT  Bb        233/480
+BA   16   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   16   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   16   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   16   CR     1+1/2   TR  1   CH 16   Text type 5: "te "
+BA   16   CR     1+1/2   TR  1   CH  1   NT  B       1+473/480
+BA   16   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   16   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   16   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   16   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   16   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   16   CR         2   TR  3   CH  3   NT  E'      3+473/480
+BA   16   CR         2   TR  4   CH  4   NT  E       3+473/480
+BA   16   CR         2   TR  4   CH  4   NT  G#      3+473/480
+BA   16   CR         2   TR  4   CH  4   NT  B       3+473/480
+BA   16   CR         2   TR  4   CH  4   NT  E'      3+473/480
+BA   16   CR         2   TR  7   CH  7   NT  E'      6+473/480
+BA   16   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   16   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   16   CR     2+1/4   TR  3   CH  3   ST &B2 &0A &00
+BA   16   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   16   CR     2+1/2   TR  3   CH  3   NT  E         113/480
+BA   16   CR     2+1/2   TR  5   CH  5   NT  E-        113/480
+BA   16   CR     2+1/2   TR  5   CH  5   NT  E         113/480
+BA   16   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   16   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   16   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   16   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   16   CR     2+3/4   TR  3   CH  3   NT  F#        113/480
+BA   16   CR     2+3/4   TR  5   CH  5   NT  F#-       113/480
+BA   16   CR     2+3/4   TR  5   CH  5   NT  F#        113/480
+BA   16   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   16   CR         3   TR  3   CH  3   NT  G#        113/480
+BA   16   CR         3   TR  5   CH  5   NT  G#-       113/480
+BA   16   CR         3   TR  5   CH  5   NT  G#        113/480
+BA   16   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   16   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   16   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   16   CR     3+1/4   TR  3   CH  3   NT  A         113/480
+BA   16   CR     3+1/4   TR  5   CH  5   NT  A-        113/480
+BA   16   CR     3+1/4   TR  5   CH  5   NT  A         113/480
+BA   16   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   16   CR     3+1/2   TR  3   CH  3   NT  B         113/480
+BA   16   CR     3+1/2   TR  5   CH  5   NT  B-        113/480
+BA   16   CR     3+1/2   TR  5   CH  5   NT  B         113/480
+BA   16   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   16   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   16   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   16   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   16   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+BA   16   CR     3+3/4   TR  3   CH  3   NT  C'        113/480
+BA   16   CR     3+3/4   TR  5   CH  5   NT  C         113/480
+BA   16   CR     3+3/4   TR  5   CH  5   NT  C'        113/480
+
+BA   17   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   17   CR         0   TR  3   CH  3   NT  D'        113/480
+BA   17   CR         0   TR  5   CH  5   NT  D         113/480
+BA   17   CR         0   TR  5   CH  5   NT  D'        113/480
+BA   17   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   17   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   17   CR       1/4   TR  3   CH  3   ST &B2 &0A &3F
+BA   17   CR       1/2   TR  1   CH 16   Text type 5: "so "
+BA   17   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   17   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   17   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   17   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   17   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   17   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   17   CR         1   TR  1   CH 16   Text type 5: "re "
+BA   17   CR         1   TR  1   CH  1   NT  G#        233/480
+BA   17   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   17   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   17   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   17   CR     1+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   17   CR     1+1/2   TR  1   CH  1   NT  A         233/480
+BA   17   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   17   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   17   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   17   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   17   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   17   CR         2   TR  1   CH 16   Text type 5: "a "
+BA   17   CR         2   TR  1   CH  1   NT  B         233/480
+BA   17   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   17   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   17   CR     2+1/2   TR  1   CH 16   Text type 5: "i "
+BA   17   CR     2+1/2   TR  1   CH  1   NT  D'        233/480
+BA   17   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   17   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   17   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   17   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   17   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   17   CR         3   TR  1   CH 16   Text type 5: "yu "
+BA   17   CR         3   TR  1   CH  1   NT  C'        233/480
+BA   17   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   17   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   17   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   17   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   17   CR     3+1/2   TR  1   CH 16   Text type 5: "e "
+BA   17   CR     3+1/2   TR  1   CH  1   NT  B         233/480
+BA   17   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   17   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   17   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   17   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   17   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   17   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA   18   CR         0   TR  1   CH 16   Text type 5: "ni "
+BA   18   CR         0   TR  1   CH  1   NT  A           3+1/2   voff=127
+BA   18   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   18   CR         0   TR  3   CH  3   ST &B2 &0A &7E
+BA   18   CR         0   TR  3   CH  3   NT  A-        233/480
+BA   18   CR         0   TR  4   CH  4   NT  A       3+473/480
+BA   18   CR         0   TR  5   CH  5   NT  A--       233/480
+BA   18   CR         0   TR  9   CH  9   NT  E'''      113/480
+BA   18   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   18   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   18   CR       1/4   TR  9   CH  9   NT  B'''      113/480
+BA   18   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   18   CR       1/2   TR  3   CH  3   NT  D         233/480
+BA   18   CR       1/2   TR  5   CH  5   NT  D-        233/480
+BA   18   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   18   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   18   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   18   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   18   CR       1/2   TR  9   CH  9   NT  E''''     113/480
+BA   18   CR         1   TR  3   CH  3   NT  C         233/480
+BA   18   CR         1   TR  5   CH  5   NT  C-        233/480
+BA   18   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   18   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   18   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   18   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   18   CR     1+1/2   TR  3   CH  3   NT  A-      1+473/480
+BA   18   CR     1+1/2   TR  5   CH  5   NT  A--     1+473/480
+BA   18   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   18   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   18   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   18   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   18   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   18   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   18   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   18   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   18   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   18   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   18   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   18   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   18   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   18   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   18   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   18   CR     3+1/2   TR  1   CH 16   Text type 5: "ka "
+BA   18   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   18   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   18   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   18   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   18   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   18   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   18   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+BA   18   CR     3+3/4   TR  3   CH  3   ST &B2 &0A &3F
+
+BA   19   CR         0   TR  1   CH 16   Text type 5: "ze "
+BA   19   CR         0   TR  1   CH  1   NT  A         473/480
+BA   19   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   19   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA   19   CR         0   TR  7   CH  7   NT  A       1+473/480
+BA   19   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   19   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   19   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA   19   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA   19   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   19   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   19   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   19   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   19   CR     1+1/2   TR  1   CH 16   Text type 5: "yo "
+BA   19   CR     1+1/2   TR  1   CH  1   NT  F         233/480
+BA   19   CR     1+1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA   19   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA   19   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA   19   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   19   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   19   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         2   TR  1   CH 16   Text type 5: "ri "
+BA   19   CR         2   TR  1   CH  1   NT  D         233/480
+BA   19   CR         2   TR  2   CH  2   NT  D--       233/480
+BA   19   CR         2   TR  7   CH  7   NT  F         473/480
+BA   19   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   19   CR     2+1/2   TR  1   CH 16   Text type 5: "mo "
+BA   19   CR     2+1/2   TR  1   CH  1   NT  C'        233/480
+BA   19   CR     2+1/2   TR  2   CH  2   NT  A--       113/480
+BA   19   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA   19   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA   19   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   19   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA   19   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR     2+3/4   TR  2   CH  2   NT  D-        113/480
+BA   19   CR         3   TR  1   CH 16   Text type 5: "ha "
+BA   19   CR         3   TR  1   CH  1   NT  B         233/480
+BA   19   CR         3   TR  2   CH  2   NT  D--       233/480
+BA   19   CR         3   TR  7   CH  7   NT  D'        473/480
+BA   19   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   19   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   19   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   19   CR     3+1/2   TR  1   CH 16   Text type 5: "ya "
+BA   19   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   19   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA   19   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA   19   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA   19   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   19   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+BA   19   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   20   CR         0   TR  1   CH 16   Text type 5: "i "
+BA   20   CR         0   TR  1   CH  1   NT  E         353/480
+BA   20   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   20   CR         0   TR  3   CH  3   NT  E       1+473/480
+BA   20   CR         0   TR  4   CH  4   NT  E'      1+473/480
+BA   20   CR         0   TR  7   CH  7   NT  C'      1+473/480
+BA   20   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   20   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   20   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   20   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   20   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   20   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   20   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR       3/4   TR  1   CH 16   Text type 5: "tsu "
+BA   20   CR       3/4   TR  1   CH  1   NT  C         353/480
+BA   20   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   20   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   20   CR     1+1/2   TR  1   CH 16   Text type 5: "ba "
+BA   20   CR     1+1/2   TR  1   CH  1   NT  D         233/480
+BA   20   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   20   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   20   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   20   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   20   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR         2   TR  1   CH 16   Text type 5: "sa "
+BA   20   CR         2   TR  1   CH  1   NT  E         473/480
+BA   20   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   20   CR         2   TR  3   CH  3   NT  A-      1+473/480
+BA   20   CR         2   TR  4   CH  4   NT  A       1+473/480
+BA   20   CR         2   TR  7   CH  7   NT  B         473/480
+BA   20   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   20   CR     2+1/2   TR  2   CH  2   NT  E-        113/480
+BA   20   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   20   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   20   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   20   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   20   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR     2+3/4   TR  2   CH  2   NT  A-        113/480
+BA   20   CR         3   TR  2   CH  2   NT  A--       233/480
+BA   20   CR         3   TR  7   CH  7   NT  E'        473/480
+BA   20   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   20   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   20   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   20   CR     3+1/2   TR  1   CH 16   Text type 5: "ho "
+BA   20   CR     3+1/2   TR  1   CH  1   NT  E         233/480
+BA   20   CR     3+1/2   TR  2   CH  2   NT  A-        233/480
+BA   20   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   20   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   20   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   20   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   20   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   21   CR         0   TR  1   CH 16   Text type 5: "no "
+BA   21   CR         0   TR  1   CH  1   NT  D         473/480
+BA   21   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   21   CR         0   TR  3   CH  3   NT  D       1+473/480
+BA   21   CR         0   TR  4   CH  4   NT  D'      1+473/480
+BA   21   CR         0   TR  5   CH  5   NT  D-      1+473/480
+BA   21   CR         0   TR  6   CH  6   NT  D       1+473/480
+BA   21   CR         0   TR  7   CH  7   NT  D'      1+473/480
+BA   21   CR         0   TR  8   CH  8   NT  D-      1+473/480
+BA   21   CR         0   TR  8   CH  8   NT  D       1+473/480
+BA   21   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   21   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   21   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   21   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   21   CR     1+1/2   TR  1   CH 16   Text type 5: "o "
+BA   21   CR     1+1/2   TR  1   CH  1   NT  E         233/480
+BA   21   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   21   CR         2   TR  1   CH 16   Text type 5: "yo "
+BA   21   CR         2   TR  1   CH  1   NT  F         233/480
+BA   21   CR         2   TR  2   CH  2   NT  C--       233/480
+BA   21   CR         2   TR  3   CH  3   NT  F         473/480
+BA   21   CR         2   TR  4   CH  4   NT  C'      1+473/480
+BA   21   CR         2   TR  5   CH  5   NT  C-      1+473/480
+BA   21   CR         2   TR  6   CH  6   NT  C       1+473/480
+BA   21   CR         2   TR  7   CH  7   NT  F'        473/480
+BA   21   CR         2   TR  8   CH  8   NT  C-      1+473/480
+BA   21   CR         2   TR  8   CH  8   NT  C       1+473/480
+BA   21   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   21   CR     2+1/2   TR  1   CH 16   Text type 5: "ri "
+BA   21   CR     2+1/2   TR  1   CH  1   NT  C'        233/480
+BA   21   CR     2+1/2   TR  2   CH  2   NT  G--       113/480
+BA   21   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR     2+3/4   TR  2   CH  2   NT  C-        113/480
+BA   21   CR         3   TR  1   CH 16   Text type 5: "at "
+BA   21   CR         3   TR  1   CH  1   NT  B         233/480
+BA   21   CR         3   TR  2   CH  2   NT  C--       233/480
+BA   21   CR         3   TR  3   CH  3   NT  A         473/480
+BA   21   CR         3   TR  7   CH  7   NT  A'        473/480
+BA   21   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   21   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   21   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   21   CR     3+1/2   TR  1   CH 16   Text type 5: "su "
+BA   21   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   21   CR     3+1/2   TR  2   CH  2   NT  C-        233/480
+BA   21   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   22   CR         0   TR  1   CH 16   Text type 5: "i "
+BA   22   CR         0   TR  1   CH  1   NT  B         353/480
+BA   22   CR         0   TR  2   CH  2   NT  B---      233/480
+BA   22   CR         0   TR  3   CH  3   NT  B         473/480
+BA   22   CR         0   TR  4   CH  4   NT  B       1+233/480
+BA   22   CR         0   TR  5   CH  5   NT  B--     3+473/480
+BA   22   CR         0   TR  6   CH  6   NT  B-      1+473/480
+BA   22   CR         0   TR  7   CH  7   NT  B'      1+473/480
+BA   22   CR         0   TR  8   CH  8   NT  B--     3+473/480
+BA   22   CR         0   TR  8   CH  8   NT  B-      3+473/480
+BA   22   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   22   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   22   CR       1/2   TR  2   CH  2   NT  B--       233/480
+BA   22   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   22   CR       3/4   TR  1   CH 16   Text type 5: "ko "
+BA   22   CR       3/4   TR  1   CH  1   NT  C'        353/480
+BA   22   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   22   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   22   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   22   CR     1+1/2   TR  1   CH 16   Text type 5: "ko "
+BA   22   CR     1+1/2   TR  1   CH  1   NT  D'        353/480
+BA   22   CR     1+1/2   TR  2   CH  2   NT  B---      233/480
+BA   22   CR     1+1/2   TR  4   CH  4   NT  E'        113/480
+BA   22   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   22   CR     1+3/4   TR  4   CH  4   NT  F'        113/480
+BA   22   CR         2   TR  1   CH 16   Text type 5: "ro "
+BA   22   CR         2   TR  1   CH  1   NT  E'      1+473/480
+BA   22   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   22   CR         2   TR  3   CH  3   NT  E       1+473/480
+BA   22   CR         2   TR  4   CH  4   NT  E'      1+473/480
+BA   22   CR         2   TR  6   CH  6   NT  E       1+473/480
+BA   22   CR         2   TR  7   CH  7   NT  E'      1+473/480
+BA   22   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   22   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   22   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   22   CR     2+1/2   TR 10   CH 10   NT  E--       113/480
+BA   22   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   22   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   22   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA   22   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   22   CR         3   TR 10   CH 10   NT  E--       113/480
+BA   22   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   22   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   22   CR     3+1/4   TR 10   CH 10   NT  E--        53/480
+BA   22   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   22   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   22   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   22   CR     3+3/4   TR 10   CH 10   NT  A--        53/480
+BA   22   CR     3+7/8   TR 10   CH 10   NT  F--        53/480
+
+BA   23   CR         0   TR  1   CH 16   Text type 5: "saa "
+BA   23   CR         0   TR  1   CH  1   NT  E'        473/480
+BA   23   CR         0   TR  2   CH  2   NT  A--       353/480
+BA   23   CR         0   TR  7   CH  7   NT  E''     3+473/480
+BA   23   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   23   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   23   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   23   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   23   CR       3/4   TR  2   CH  2   NT  A-        113/480
+BA   23   CR         1   TR  1   CH 16   Text type 5: "(saa!) "
+BA   23   CR         1   TR  1   CH  1   NT  E'        473/480
+BA   23   CR         1   TR  2   CH  2   NT  A--       233/480
+BA   23   CR         1   TR  3   CH  3   NT  A         473/480
+BA   23   CR         1   TR  3   CH  3   NT  C'        473/480
+BA   23   CR         1   TR  3   CH  3   NT  E'        473/480
+BA   23   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   23   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   23   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   23   CR     1+1/2   TR  2   CH  2   NT  A-        233/480
+BA   23   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   23   CR         2   TR  1   CH 16   Text type 5: "saa! "
+BA   23   CR         2   TR  1   CH  1   NT  E'        473/480
+BA   23   CR         2   TR  2   CH  2   NT  G--       233/480
+BA   23   CR         2   TR 10   CH 10   NT  A-        233/480
+BA   23   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   23   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   23   CR     2+1/2   TR  2   CH  2   NT  G-        233/480
+BA   23   CR     2+1/2   TR  3   CH  3   NT  G         233/480
+BA   23   CR     2+1/2   TR  3   CH  3   NT  B         233/480
+BA   23   CR     2+1/2   TR  3   CH  3   NT  E'        233/480
+BA   23   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   23   CR         3   TR  1   CH 16   Text type 5: "(saa!) "
+BA   23   CR         3   TR  1   CH  1   NT  E'        473/480
+BA   23   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   23   CR         3   TR  3   CH  3   NT  G         473/480
+BA   23   CR         3   TR  3   CH  3   NT  B         473/480
+BA   23   CR         3   TR  3   CH  3   NT  E'        473/480
+BA   23   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   23   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   23   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   23   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+BA   23   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   24   CR         0   TR  1   CH 16   Text type 5: "gya "
+BA   24   CR         0   TR  1   CH  1   NT  D'        233/480
+BA   24   CR         0   TR  2   CH  2   NT  F#--      233/480
+BA   24   CR         0   TR  3   CH  3   NT  F#        233/480
+BA   24   CR         0   TR  3   CH  3   NT  B         233/480
+BA   24   CR         0   TR  3   CH  3   NT  D'        233/480
+BA   24   CR         0   TR  4   CH  4   NT  F'        233/480
+BA   24   CR         0   TR  5   CH  5   NT  F         233/480
+BA   24   CR         0   TR  7   CH  7   NT  D''     3+473/480
+BA   24   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   24   CR         0   TR 10   CH 10   NT  C--       233/480
+BA   24   CR       1/2   TR  1   CH 16   Text type 5: "ku "
+BA   24   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA   24   CR       1/2   TR  2   CH  2   NT  F#-       233/480
+BA   24   CR       1/2   TR  4   CH  4   NT  G'        233/480
+BA   24   CR       1/2   TR  5   CH  5   NT  G         233/480
+BA   24   CR       1/2   TR 10   CH 10   NT  E--       233/480
+BA   24   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   24   CR         1   TR  1   CH  1   NT  C'        233/480
+BA   24   CR         1   TR  2   CH  2   NT  F#--      233/480
+BA   24   CR         1   TR  4   CH  4   NT  E'        233/480
+BA   24   CR         1   TR  5   CH  5   NT  E         233/480
+BA   24   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   24   CR     1+1/2   TR  1   CH 16   Text type 5: "n! "
+BA   24   CR     1+1/2   TR  1   CH  1   NT  D'      1+473/480
+BA   24   CR     1+1/2   TR  2   CH  2   NT  F--       353/480
+BA   24   CR     1+1/2   TR  3   CH  3   NT  F       1+473/480
+BA   24   CR     1+1/2   TR  3   CH  3   NT  A       1+473/480
+BA   24   CR     1+1/2   TR  3   CH  3   NT  D'      1+473/480
+BA   24   CR     1+1/2   TR  4   CH  4   NT  F'      1+473/480
+BA   24   CR     1+1/2   TR  5   CH  5   NT  F       1+473/480
+BA   24   CR     1+1/2   TR 10   CH 10   NT  A-        233/480
+BA   24   CR     1+1/2   TR 10   CH 10   NT  C--       233/480
+BA   24   CR         2   TR  8   CH  8   NT  A       1+473/480
+BA   24   CR         2   TR 10   CH 10   NT  F--       233/480
+BA   24   CR     2+1/2   TR  2   CH  2   NT  F-        233/480
+BA   24   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   24   CR         3   TR  2   CH  2   NT  F--       233/480
+BA   24   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   24   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   24   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   24   CR     3+1/2   TR  2   CH  2   NT  F-        233/480
+BA   24   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   25   CR         0   TR  1   CH 16   Text type 5: "ko "
+BA   25   CR         0   TR  1   CH  1   NT  B         353/480
+BA   25   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   25   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   25   CR         0   TR  3   CH  3   NT  G#      3+473/480
+BA   25   CR         0   TR  3   CH  3   NT  B       3+473/480
+BA   25   CR         0   TR  5   CH  5   NT  B--     1+473/480
+BA   25   CR         0   TR  6   CH  6   NT  E'      3+473/480
+BA   25   CR         0   TR  6   CH  6   NT  B'      3+473/480
+BA   25   CR         0   TR  6   CH  6   NT  G#'     3+473/480
+BA   25   CR         0   TR  7   CH  7   NT  E'      6+473/480
+BA   25   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   25   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   25   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   25   CR       1/2   TR  4   CH  4   NT  E         113/480
+BA   25   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   25   CR       3/4   TR  1   CH 16   Text type 5: "ko "
+BA   25   CR       3/4   TR  1   CH  1   NT  B         113/480
+BA   25   CR       3/4   TR  4   CH  4   NT  G#        113/480
+BA   25   CR         1   TR  1   CH 16   Text type 5: "ka "
+BA   25   CR         1   TR  1   CH  1   NT  B         113/480
+BA   25   CR         1   TR  4   CH  4   NT  B         113/480
+BA   25   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   25   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   25   CR     1+1/2   TR  1   CH 16   Text type 5: "ra "
+BA   25   CR     1+1/2   TR  1   CH  1   NT  B         473/480
+BA   25   CR     1+1/2   TR  4   CH  4   NT  E         113/480
+BA   25   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   25   CR     1+3/4   TR  4   CH  4   NT  B         113/480
+BA   25   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   25   CR         2   TR  4   CH  4   NT  D'      1+473/480
+BA   25   CR         2   TR  5   CH  5   NT  G#--    1+473/480
+BA   25   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   25   CR     2+1/2   TR  1   CH 16   Text type 5: "a "
+BA   25   CR     2+1/2   TR  1   CH  1   NT  B         233/480
+BA   25   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   25   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   25   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   25   CR         3   TR  1   CH 16   Text type 5: "ku "
+BA   25   CR         3   TR  1   CH  1   NT  E'        233/480
+BA   25   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   25   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   25   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   25   CR     3+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   25   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA   25   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   25   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   26   CR         0   TR  1   CH 16   Text type 5: "t "
+BA   26   CR         0   TR  1   CH  1   NT  C'        353/480
+BA   26   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   26   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   26   CR         0   TR  3   CH  3   NT  A       3+473/480
+BA   26   CR         0   TR  3   CH  3   NT  C'      3+473/480
+BA   26   CR         0   TR  4   CH  4   NT  C'      3+473/480
+BA   26   CR         0   TR  5   CH  5   NT  A--     3+473/480
+BA   26   CR         0   TR  6   CH  6   NT  E'      3+473/480
+BA   26   CR         0   TR  6   CH  6   NT  C''     3+473/480
+BA   26   CR         0   TR  6   CH  6   NT  A'      3+473/480
+BA   26   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   26   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   26   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   26   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   26   CR       3/4   TR  1   CH 16   Text type 5: "o "
+BA   26   CR       3/4   TR  1   CH  1   NT  C'        113/480
+BA   26   CR         1   TR  1   CH 16   Text type 5: "sa "
+BA   26   CR         1   TR  1   CH  1   NT  B         233/480
+BA   26   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   26   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   26   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   26   CR     1+1/2   TR  1   CH 16   Text type 5: "nai "
+BA   26   CR     1+1/2   TR  1   CH  1   NT  A       1+473/480
+BA   26   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   26   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   26   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   26   CR     2+1/2   TR  2   CH  2   NT  E-        113/480
+BA   26   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   26   CR     2+3/4   TR  2   CH  2   NT  A-        113/480
+BA   26   CR         3   TR  2   CH  2   NT  A--       233/480
+BA   26   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   26   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   26   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   26   CR     3+1/2   TR  2   CH  2   NT  A-        233/480
+BA   26   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   26   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   26   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   27   CR         0   TR  1   CH 16   Text type 5: "saa! "
+BA   27   CR         0   TR  1   CH  1   NT  E'        473/480
+BA   27   CR         0   TR  2   CH  2   NT  A--       353/480
+BA   27   CR         0   TR  7   CH  7   NT  E''     3+473/480
+BA   27   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   27   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   27   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   27   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   27   CR       3/4   TR  2   CH  2   NT  A-        113/480
+BA   27   CR         1   TR  1   CH 16   Text type 5: "(saa!) "
+BA   27   CR         1   TR  1   CH  1   NT  E'        473/480
+BA   27   CR         1   TR  2   CH  2   NT  A--       233/480
+BA   27   CR         1   TR  3   CH  3   NT  A         473/480
+BA   27   CR         1   TR  3   CH  3   NT  C'        473/480
+BA   27   CR         1   TR  3   CH  3   NT  E'        473/480
+BA   27   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   27   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   27   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   27   CR     1+1/2   TR  2   CH  2   NT  A-        233/480
+BA   27   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   27   CR         2   TR  1   CH 16   Text type 5: "saa! "
+BA   27   CR         2   TR  1   CH  1   NT  E'        473/480
+BA   27   CR         2   TR  2   CH  2   NT  G--       233/480
+BA   27   CR         2   TR 10   CH 10   NT  A-        233/480
+BA   27   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   27   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   27   CR     2+1/2   TR  2   CH  2   NT  G-        233/480
+BA   27   CR     2+1/2   TR  3   CH  3   NT  G         233/480
+BA   27   CR     2+1/2   TR  3   CH  3   NT  B         233/480
+BA   27   CR     2+1/2   TR  3   CH  3   NT  E'        233/480
+BA   27   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   27   CR         3   TR  1   CH 16   Text type 5: "(saa!) "
+BA   27   CR         3   TR  1   CH  1   NT  E'        473/480
+BA   27   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   27   CR         3   TR  3   CH  3   NT  G         233/480
+BA   27   CR         3   TR  3   CH  3   NT  B         233/480
+BA   27   CR         3   TR  3   CH  3   NT  E'        233/480
+BA   27   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   27   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   27   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   27   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+BA   27   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   28   CR         0   TR  1   CH 16   Text type 5: "gya "
+BA   28   CR         0   TR  1   CH  1   NT  D'        233/480
+BA   28   CR         0   TR  2   CH  2   NT  F#--      233/480
+BA   28   CR         0   TR  3   CH  3   NT  F#        233/480
+BA   28   CR         0   TR  3   CH  3   NT  B         233/480
+BA   28   CR         0   TR  3   CH  3   NT  D'        233/480
+BA   28   CR         0   TR  4   CH  4   NT  F'        233/480
+BA   28   CR         0   TR  5   CH  5   NT  F         233/480
+BA   28   CR         0   TR  7   CH  7   NT  D''     3+473/480
+BA   28   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   28   CR         0   TR 10   CH 10   NT  C--       233/480
+BA   28   CR       1/2   TR  1   CH 16   Text type 5: "ku "
+BA   28   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA   28   CR       1/2   TR  2   CH  2   NT  F#-       233/480
+BA   28   CR       1/2   TR  4   CH  4   NT  G'        233/480
+BA   28   CR       1/2   TR  5   CH  5   NT  G         233/480
+BA   28   CR       1/2   TR 10   CH 10   NT  E--       233/480
+BA   28   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   28   CR         1   TR  1   CH  1   NT  C'        233/480
+BA   28   CR         1   TR  2   CH  2   NT  F#--      233/480
+BA   28   CR         1   TR  4   CH  4   NT  E'        233/480
+BA   28   CR         1   TR  5   CH  5   NT  E         233/480
+BA   28   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   28   CR     1+1/2   TR  1   CH 16   Text type 5: "n! "
+BA   28   CR     1+1/2   TR  1   CH  1   NT  D'      1+473/480
+BA   28   CR     1+1/2   TR  2   CH  2   NT  F--       353/480
+BA   28   CR     1+1/2   TR  3   CH  3   NT  F       1+473/480
+BA   28   CR     1+1/2   TR  3   CH  3   NT  A       1+473/480
+BA   28   CR     1+1/2   TR  3   CH  3   NT  D'      1+473/480
+BA   28   CR     1+1/2   TR  4   CH  4   NT  F'      1+473/480
+BA   28   CR     1+1/2   TR  5   CH  5   NT  F       1+473/480
+BA   28   CR     1+1/2   TR 10   CH 10   NT  A-        233/480
+BA   28   CR     1+1/2   TR 10   CH 10   NT  C--       233/480
+BA   28   CR         2   TR  8   CH  8   NT  A       1+473/480
+BA   28   CR         2   TR 10   CH 10   NT  F--       233/480
+BA   28   CR     2+1/2   TR  2   CH  2   NT  F-        233/480
+BA   28   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   28   CR         3   TR  2   CH  2   NT  F--       233/480
+BA   28   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   28   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   28   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   28   CR     3+1/2   TR  2   CH  2   NT  F-        233/480
+BA   28   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   29   CR         0   TR  1   CH 16   Text type 5: "ko "
+BA   29   CR         0   TR  1   CH  1   NT  B         353/480
+BA   29   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   29   CR         0   TR  3   CH  3   NT  E           2+1/2   voff=127
+BA   29   CR         0   TR  3   CH  3   NT  G#        353/480
+BA   29   CR         0   TR  3   CH  3   NT  B           3+1/2   voff=127
+BA   29   CR         0   TR  5   CH  5   NT  B-      1+473/480
+BA   29   CR         0   TR  6   CH  6   NT  B       1+473/480
+BA   29   CR         0   TR  7   CH  7   NT  E'      6+473/480
+BA   29   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   29   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   29   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   29   CR       1/2   TR  4   CH  4   NT  B         113/480
+BA   29   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   29   CR       3/4   TR  1   CH 16   Text type 5: "re "
+BA   29   CR       3/4   TR  1   CH  1   NT  B         113/480
+BA   29   CR       3/4   TR  3   CH  3   NT  G#        113/480
+BA   29   CR       3/4   TR  4   CH  4   NT  E'        113/480
+BA   29   CR         1   TR  1   CH 16   Text type 5: "ka "
+BA   29   CR         1   TR  1   CH  1   NT  B         113/480
+BA   29   CR         1   TR  2   CH  2   NT  E--       233/480
+BA   29   CR         1   TR  3   CH  3   NT  G#        113/480
+BA   29   CR         1   TR  4   CH  4   NT  G#'       113/480
+BA   29   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   29   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   29   CR     1+1/2   TR  1   CH 16   Text type 5: "ra "
+BA   29   CR     1+1/2   TR  1   CH  1   NT  B         233/480
+BA   29   CR     1+1/2   TR  2   CH  2   NT  E-        233/480
+BA   29   CR     1+1/2   TR  3   CH  3   NT  G#        233/480
+BA   29   CR     1+1/2   TR  4   CH  4   NT  G#'       113/480
+BA   29   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   29   CR     1+3/4   TR  4   CH  4   NT  A'        113/480
+BA   29   CR         2   TR  1   CH 16   Text type 5: "se "
+BA   29   CR         2   TR  1   CH  1   NT  B         233/480
+BA   29   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   29   CR         2   TR  3   CH  3   NT  G#        233/480
+BA   29   CR         2   TR  4   CH  4   NT  B'      1+473/480
+BA   29   CR         2   TR  5   CH  5   NT  G#-     1+473/480
+BA   29   CR         2   TR  6   CH  6   NT  G#      1+473/480
+BA   29   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   29   CR     2+1/2   TR  1   CH 16   Text type 5: "i "
+BA   29   CR     2+1/2   TR  1   CH  1   NT  B         233/480
+BA   29   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   29   CR     2+1/2   TR  3   CH  3   NT  E       1+233/480
+BA   29   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   29   CR         3   TR  1   CH 16   Text type 5: "gi "
+BA   29   CR         3   TR  1   CH  1   NT  E'        233/480
+BA   29   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   29   CR         3   TR  3   CH  3   NT  A         233/480
+BA   29   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   29   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   29   CR     3+1/2   TR  1   CH 16   Text type 5: "no "
+BA   29   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA   29   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   29   CR     3+1/2   TR  3   CH  3   NT  B         233/480
+BA   29   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   30   CR         0   TR  1   CH 16   Text type 5: "ha "
+BA   30   CR         0   TR  1   CH  1   NT  C'        353/480
+BA   30   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   30   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   30   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=127
+BA   30   CR         0   TR  3   CH  3   NT  C'        353/480
+BA   30   CR         0   TR  4   CH  4   NT  A'      3+473/480
+BA   30   CR         0   TR  5   CH  5   NT  A-      3+473/480
+BA   30   CR         0   TR  6   CH  6   NT  A       3+473/480
+BA   30   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   30   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   30   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   30   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   30   CR       3/4   TR  1   CH 16   Text type 5: "na "
+BA   30   CR       3/4   TR  1   CH  1   NT  C'        113/480
+BA   30   CR       3/4   TR  3   CH  3   NT  C'        113/480
+BA   30   CR         1   TR  1   CH 16   Text type 5: "mi "
+BA   30   CR         1   TR  1   CH  1   NT  B         233/480
+BA   30   CR         1   TR  3   CH  3   NT  B         233/480
+BA   30   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   30   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   30   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   30   CR     1+1/2   TR  1   CH 16   Text type 5: "chi~ "
+BA   30   CR     1+1/2   TR  1   CH  1   NT  A       1+473/480
+BA   30   CR     1+1/2   TR  3   CH  3   NT  A       2+233/480
+BA   30   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   30   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   30   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   30   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   30   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   30   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   30   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   30   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   30   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   30   CR     3+1/2   TR  2   CH  2   NT  F--       233/480
+BA   30   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   30   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   30   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   31   CR         0   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR         0   TR  1   CH  1   NT  E'        233/480
+BA   31   CR         0   TR  1   CH  1   NT  E         233/480
+BA   31   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   31   CR         0   TR  3   CH  3   NT  E'      6+473/480
+BA   31   CR         0   TR  5   CH  5   Channel volume 105
+BA   31   CR         0   TR  5   CH  5   ST &B4 &0A &01
+BA   31   CR         0   TR  7   CH  7   Channel volume 100
+BA   31   CR         0   TR  7   CH  7   ST &B6 &0A &01
+BA   31   CR         0   TR  7   CH  7   NT  E'      6+473/480
+BA   31   CR         0   TR  8   CH  8   ST &B7 &0A &3F
+BA   31   CR         0   TR  8   CH  8   Channel volume 105
+BA   31   CR         0   TR  9   CH  9   ST &B8 &0A &7F
+BA   31   CR         0   TR  9   CH  9   Channel volume 65
+BA   31   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   31   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   31   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   31   CR       1/2   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA   31   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   31   CR       1/2   TR  2   CH  2   NT  B--       113/480
+BA   31   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   31   CR       3/4   TR  2   CH  2   NT  E-        113/480
+BA   31   CR         1   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR         1   TR  1   CH  1   NT  G#'       233/480
+BA   31   CR         1   TR  1   CH  1   NT  G#        233/480
+BA   31   CR         1   TR  2   CH  2   NT  E--       233/480
+BA   31   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   31   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   31   CR     1+1/2   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR     1+1/2   TR  1   CH  1   NT  G#'       233/480
+BA   31   CR     1+1/2   TR  1   CH  1   NT  G#        233/480
+BA   31   CR     1+1/2   TR  2   CH  2   NT  B--       113/480
+BA   31   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   31   CR     1+3/4   TR  2   CH  2   NT  E-        113/480
+BA   31   CR         2   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR         2   TR  1   CH  1   NT  B'        233/480
+BA   31   CR         2   TR  1   CH  1   NT  B         233/480
+BA   31   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   31   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   31   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   31   CR     2+1/2   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR     2+1/2   TR  1   CH  1   NT  B'        233/480
+BA   31   CR     2+1/2   TR  1   CH  1   NT  B         233/480
+BA   31   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   31   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   31   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   31   CR         3   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR         3   TR  1   CH  1   NT  D''       233/480
+BA   31   CR         3   TR  1   CH  1   NT  D'        233/480
+BA   31   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   31   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   31   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   31   CR     3+1/2   TR  1   CH 16   Text type 5: "pa "
+BA   31   CR     3+1/2   TR  1   CH  1   NT  D''       233/480
+BA   31   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA   31   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   31   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   31   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA   32   CR         0   TR  1   CH 16   Text type 5: "pa "
+BA   32   CR         0   TR  1   CH  1   NT  E''     1+473/480
+BA   32   CR         0   TR  1   CH  1   NT  E'      1+473/480
+BA   32   CR         0   TR  2   CH  2   NT  E--     1+473/480
+BA   32   CR         0   TR 10   CH 10   NT  A-        473/480
+BA   32   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   32   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   32   CR       1/2   TR  4   CH  4   NT  E'        113/480
+BA   32   CR       1/2   TR  4   CH  4   NT  B         113/480
+BA   32   CR       1/2   TR  4   CH  4   NT  G#        113/480
+BA   32   CR       1/2   TR  6   CH  6   NT  E''       113/480
+BA   32   CR       1/2   TR  6   CH  6   NT  B'        113/480
+BA   32   CR       1/2   TR  6   CH  6   NT  G#'       113/480
+BA   32   CR       1/2   TR  8   CH  8   NT  E'        113/480
+BA   32   CR       3/4   TR  4   CH  4   NT  E'        113/480
+BA   32   CR       3/4   TR  4   CH  4   NT  B         113/480
+BA   32   CR       3/4   TR  4   CH  4   NT  G#        113/480
+BA   32   CR       3/4   TR  6   CH  6   NT  E''       113/480
+BA   32   CR       3/4   TR  6   CH  6   NT  B'        113/480
+BA   32   CR       3/4   TR  6   CH  6   NT  G#'       113/480
+BA   32   CR       3/4   TR  8   CH  8   NT  E'      2+473/480   von=92
+BA   32   CR         1   TR  4   CH  4   NT  E'      1+473/480
+BA   32   CR         1   TR  4   CH  4   NT  B       1+473/480
+BA   32   CR         1   TR  4   CH  4   NT  G#      1+473/480
+BA   32   CR         1   TR  6   CH  6   NT  E''     1+473/480
+BA   32   CR         1   TR  6   CH  6   NT  B'      1+473/480
+BA   32   CR         1   TR  6   CH  6   NT  G#'     1+473/480
+BA   32   CR         2   TR  1   CH 16   Text type 5: "i "
+BA   32   CR         2   TR  1   CH  1   NT  E'        473/480
+BA   32   CR         2   TR  1   CH  1   NT  E         473/480
+BA   32   CR         2   TR  2   CH  2   NT  B---      473/480
+BA   32   CR         2   TR 10   CH 10   NT  A-        233/480
+BA   32   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   32   CR         3   TR  1   CH 16   Text type 5: "pat "
+BA   32   CR         3   TR  1   CH  1   NT  C''       233/480
+BA   32   CR         3   TR  1   CH  1   NT  C'        233/480
+BA   32   CR         3   TR  2   CH  2   NT  Bb---     473/480
+BA   32   CR         3   TR 10   CH 10   NT  A-        233/480
+BA   32   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   32   CR     3+5/8   TR  1   CH 16   Text type 5: "su "
+BA   32   CR     3+5/8   TR  1   CH  1   NT  C''       173/480
+BA   32   CR     3+5/8   TR  1   CH  1   NT  C'        173/480
+
+BA   33   CR         0   TR  1   CH 16   Text type 5: "man "
+BA   33   CR         0   TR  1   CH  1   NT  A'      3+473/480
+BA   33   CR         0   TR  1   CH  1   NT  A       3+473/480
+BA   33   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   33   CR         0   TR  3   CH  3   ST &B2 &0A &00
+BA   33   CR         0   TR  3   CH  3   NT  A'      3+473/480
+BA   33   CR         0   TR  4   CH  4   NT  A       3+473/480
+BA   33   CR         0   TR  4   CH  4   NT  E       3+473/480
+BA   33   CR         0   TR  4   CH  4   NT  C       3+473/480
+BA   33   CR         0   TR  4   CH  4   NT  A-      3+473/480
+BA   33   CR         0   TR  7   CH  7   NT  A'      6+473/480
+BA   33   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   33   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   33   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   33   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   33   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   33   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   33   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   33   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   33   CR         2   TR  3   CH  3   NT  F-         53/480
+BA   33   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   33   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   33   CR     2+1/8   TR  3   CH  3   NT  G-         53/480
+BA   33   CR     2+1/4   TR  3   CH  3   ST &B2 &0A &1E
+BA   33   CR     2+1/4   TR  3   CH  3   NT  A-         53/480
+BA   33   CR     2+3/8   TR  3   CH  3   NT  B-         53/480
+BA   33   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   33   CR     2+1/2   TR  3   CH  3   NT  C          53/480
+BA   33   CR     2+5/8   TR  3   CH  3   NT  D          53/480
+BA   33   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   33   CR     2+3/4   TR  3   CH  3   NT  E          53/480
+BA   33   CR     2+7/8   TR  3   CH  3   ST &B2 &0A &3F
+BA   33   CR     2+7/8   TR  3   CH  3   NT  F          53/480
+BA   33   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   33   CR         3   TR  3   CH  3   NT  G          53/480
+BA   33   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   33   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   33   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   33   CR     3+1/8   TR  3   CH  3   NT  A          53/480
+BA   33   CR     3+1/4   TR  3   CH  3   NT  B          53/480
+BA   33   CR     3+3/8   TR  3   CH  3   ST &B2 &0A &60
+BA   33   CR     3+3/8   TR  3   CH  3   NT  C'         53/480
+BA   33   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   33   CR     3+1/2   TR  3   CH  3   NT  D'         53/480
+BA   33   CR     3+5/8   TR  3   CH  3   NT  E'         53/480
+BA   33   CR     3+3/4   TR  3   CH  3   ST &B2 &0A &7E
+BA   33   CR     3+3/4   TR  3   CH  3   NT  F'         53/480
+BA   33   CR     3+7/8   TR  3   CH  3   NT  G'         53/480
+
+BA   34   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   34   CR         0   TR  3   CH  3   NT  A'         53/480
+BA   34   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   34   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   34   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   34   CR         1   TR  1   CH  1   NT  A         113/480
+BA   34   CR         1   TR  1   CH  1   NT  E         113/480
+BA   34   CR         1   TR  1   CH  1   NT  C         113/480
+BA   34   CR         1   TR  1   CH  1   NT  A-        113/480
+BA   34   CR         1   TR  4   CH  4   NT  A         113/480
+BA   34   CR         1   TR  4   CH  4   NT  E         113/480
+BA   34   CR         1   TR  4   CH  4   NT  C         113/480
+BA   34   CR         1   TR  4   CH  4   NT  A-        113/480
+BA   34   CR         1   TR  5   CH  5   NT  A-        113/480
+BA   34   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   34   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   34   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   34   CR     1+1/4   TR  1   CH  1   NT  A         113/480
+BA   34   CR     1+1/4   TR  1   CH  1   NT  E         113/480
+BA   34   CR     1+1/4   TR  1   CH  1   NT  C         113/480
+BA   34   CR     1+1/4   TR  1   CH  1   NT  A-        113/480
+BA   34   CR     1+1/4   TR  4   CH  4   NT  A         113/480
+BA   34   CR     1+1/4   TR  4   CH  4   NT  E         113/480
+BA   34   CR     1+1/4   TR  4   CH  4   NT  C         113/480
+BA   34   CR     1+1/4   TR  4   CH  4   NT  A-        113/480
+BA   34   CR     1+1/4   TR  5   CH  5   NT  A-        113/480
+BA   34   CR     1+1/2   TR  1   CH  1   NT  A         113/480
+BA   34   CR     1+1/2   TR  1   CH  1   NT  E         113/480
+BA   34   CR     1+1/2   TR  1   CH  1   NT  C         113/480
+BA   34   CR     1+1/2   TR  1   CH  1   NT  A-        113/480
+BA   34   CR     1+1/2   TR  4   CH  4   NT  A         113/480
+BA   34   CR     1+1/2   TR  4   CH  4   NT  E         113/480
+BA   34   CR     1+1/2   TR  4   CH  4   NT  C         113/480
+BA   34   CR     1+1/2   TR  4   CH  4   NT  A-        113/480
+BA   34   CR     1+1/2   TR  5   CH  5   NT  A-        113/480
+BA   34   CR     1+3/4   TR  1   CH  1   NT  A         113/480
+BA   34   CR     1+3/4   TR  1   CH  1   NT  E         113/480
+BA   34   CR     1+3/4   TR  1   CH  1   NT  C         113/480
+BA   34   CR     1+3/4   TR  1   CH  1   NT  A-        113/480
+BA   34   CR     1+3/4   TR  4   CH  4   NT  A         113/480
+BA   34   CR     1+3/4   TR  4   CH  4   NT  E         113/480
+BA   34   CR     1+3/4   TR  4   CH  4   NT  C         113/480
+BA   34   CR     1+3/4   TR  4   CH  4   NT  A-        113/480
+BA   34   CR     1+3/4   TR  5   CH  5   NT  A-        113/480
+BA   34   CR         2   TR  1   CH  1   NT  G         113/480
+BA   34   CR         2   TR  1   CH  1   NT  D         113/480
+BA   34   CR         2   TR  1   CH  1   NT  B-        113/480
+BA   34   CR         2   TR  1   CH  1   NT  G-        113/480
+BA   34   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   34   CR         2   TR  4   CH  4   NT  G         113/480
+BA   34   CR         2   TR  4   CH  4   NT  D         113/480
+BA   34   CR         2   TR  4   CH  4   NT  B-        113/480
+BA   34   CR         2   TR  4   CH  4   NT  G-        113/480
+BA   34   CR         2   TR  5   CH  5   NT  G-        113/480
+BA   34   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   34   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   34   CR     2+1/2   TR  1   CH  1   NT  A         473/480
+BA   34   CR     2+1/2   TR  1   CH  1   NT  E         473/480
+BA   34   CR     2+1/2   TR  1   CH  1   NT  C         473/480
+BA   34   CR     2+1/2   TR  1   CH  1   NT  A-        473/480
+BA   34   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   34   CR     2+1/2   TR  4   CH  4   NT  A       1+233/480
+BA   34   CR     2+1/2   TR  4   CH  4   NT  E       1+233/480
+BA   34   CR     2+1/2   TR  4   CH  4   NT  C       1+233/480
+BA   34   CR     2+1/2   TR  4   CH  4   NT  A-      1+233/480
+BA   34   CR     2+1/2   TR  5   CH  5   NT  A-      1+233/480
+BA   34   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   34   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA   34   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   34   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   34   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   34   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   34   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   34   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   34   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   35   CR         0   TR  1   CH 16   Text type 5: "su "
+BA   35   CR         0   TR  1   CH  1   NT  E         233/480
+BA   35   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   35   CR         0   TR 10   CH 10   NT  A-        113/480
+BA   35   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   35   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   35   CR       1/2   TR  1   CH 16   Text type 5: "ki "
+BA   35   CR       1/2   TR  1   CH  1   NT  F         233/480
+BA   35   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   35   CR       1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA   35   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   35   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   35   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   35   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   35   CR         1   TR  1   CH 16   Text type 5: "da "
+BA   35   CR         1   TR  1   CH  1   NT  E         233/480
+BA   35   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   35   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   35   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   35   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   35   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   35   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   35   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   35   CR         2   TR  1   CH 16   Text type 5: "su "
+BA   35   CR         2   TR  1   CH  1   NT  E         233/480
+BA   35   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   35   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   35   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   35   CR     2+1/2   TR  1   CH 16   Text type 5: "ki "
+BA   35   CR     2+1/2   TR  1   CH  1   NT  F         233/480
+BA   35   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   35   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   35   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   35   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   35   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   35   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   35   CR         3   TR  1   CH 16   Text type 5: "da "
+BA   35   CR         3   TR  1   CH  1   NT  E         233/480
+BA   35   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   35   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   35   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   35   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   35   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   35   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   35   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   35   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   35   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA   36   CR         0   TR  1   CH 16   Text type 5: "a "
+BA   36   CR         0   TR  1   CH  1   NT  B-        233/480
+BA   36   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   36   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   36   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   36   CR       1/2   TR  1   CH 16   Text type 5: "no "
+BA   36   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   36   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   36   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   36   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   36   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   36   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA   36   CR         1   TR  1   CH 16   Text type 5: "hi "
+BA   36   CR         1   TR  1   CH  1   NT  C         233/480
+BA   36   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   36   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   36   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   36   CR     1+1/2   TR  1   CH 16   Text type 5: "to "
+BA   36   CR     1+1/2   TR  1   CH  1   NT  B-        233/480
+BA   36   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   36   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   36   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   36   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA   36   CR         2   TR  1   CH 16   Text type 5: "mi "
+BA   36   CR         2   TR  1   CH  1   NT  A-      1+473/480
+BA   36   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   36   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   36   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   36   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   36   CR     2+1/2   TR  3   CH  3   NT  A         113/480
+BA   36   CR     2+1/2   TR  4   CH  4   NT  A         113/480
+BA   36   CR     2+1/2   TR  4   CH  4   NT  E         113/480
+BA   36   CR     2+1/2   TR  4   CH  4   NT  C         113/480
+BA   36   CR     2+1/2   TR  4   CH  4   NT  A-        113/480
+BA   36   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   36   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   36   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   36   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   36   CR     2+1/2   TR  8   CH  8   NT  A       1+233/480   von=96
+BA   36   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   36   CR     2+3/4   TR  3   CH  3   NT  A         113/480
+BA   36   CR     2+3/4   TR  4   CH  4   NT  A         113/480
+BA   36   CR     2+3/4   TR  4   CH  4   NT  E         113/480
+BA   36   CR     2+3/4   TR  4   CH  4   NT  C         113/480
+BA   36   CR     2+3/4   TR  4   CH  4   NT  A-        113/480
+BA   36   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   36   CR         3   TR  3   CH  3   NT  A         473/480
+BA   36   CR         3   TR  4   CH  4   NT  A         473/480
+BA   36   CR         3   TR  4   CH  4   NT  E         473/480
+BA   36   CR         3   TR  4   CH  4   NT  C         473/480
+BA   36   CR         3   TR  4   CH  4   NT  A-        473/480
+BA   36   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   36   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   36   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   36   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   36   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   36   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   36   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   36   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   36   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   37   CR         0   TR  1   CH 16   Text type 5: "yu "
+BA   37   CR         0   TR  1   CH  1   NT  F         233/480
+BA   37   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   37   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   37   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   37   CR       1/2   TR  1   CH 16   Text type 5: "me "
+BA   37   CR       1/2   TR  1   CH  1   NT  G         233/480
+BA   37   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   37   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA   37   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA   37   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   37   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   37   CR         1   TR  1   CH 16   Text type 5: "ni "
+BA   37   CR         1   TR  1   CH  1   NT  F         233/480
+BA   37   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   37   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   37   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   37   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA   37   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA   37   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   37   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   37   CR         2   TR  1   CH 16   Text type 5: "yu "
+BA   37   CR         2   TR  1   CH  1   NT  F         233/480
+BA   37   CR         2   TR  2   CH  2   NT  D--       233/480
+BA   37   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   37   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   37   CR     2+1/2   TR  1   CH 16   Text type 5: "me "
+BA   37   CR     2+1/2   TR  1   CH  1   NT  G         233/480
+BA   37   CR     2+1/2   TR  2   CH  2   NT  A--       113/480
+BA   37   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA   37   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA   37   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   37   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA   37   CR     2+3/4   TR  2   CH  2   NT  D-        113/480
+BA   37   CR         3   TR  1   CH 16   Text type 5: "ni "
+BA   37   CR         3   TR  1   CH  1   NT  F         233/480
+BA   37   CR         3   TR  2   CH  2   NT  D--       233/480
+BA   37   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   37   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   37   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   37   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA   37   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA   37   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA   37   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   37   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+
+BA   38   CR         0   TR  1   CH 16   Text type 5: "ki "
+BA   38   CR         0   TR  1   CH  1   NT  D         233/480
+BA   38   CR         0   TR  2   CH  2   NT  B---      233/480
+BA   38   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   38   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   38   CR       1/2   TR  1   CH 16   Text type 5: "ra "
+BA   38   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   38   CR       1/2   TR  2   CH  2   NT  B--       233/480
+BA   38   CR       1/2   TR  6   CH  6   NT  B-        233/480
+BA   38   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   38   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   38   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   38   CR         1   TR  1   CH 16   Text type 5: "me "
+BA   38   CR         1   TR  1   CH  1   NT  E         233/480
+BA   38   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   38   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   38   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   38   CR     1+1/2   TR  1   CH 16   Text type 5: "i "
+BA   38   CR     1+1/2   TR  1   CH  1   NT  F         233/480
+BA   38   CR     1+1/2   TR  6   CH  6   NT  B-        233/480
+BA   38   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   38   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   38   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   38   CR         2   TR  1   CH 16   Text type 5: "te "
+BA   38   CR         2   TR  1   CH  1   NT  E       1+473/480
+BA   38   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   38   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   38   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   38   CR     2+1/2   TR  1   CH  1   NT  Eb'       233/480
+BA   38   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   38   CR     2+1/2   TR  3   CH  3   NT  Eb        233/480
+BA   38   CR     2+1/2   TR  5   CH  5   NT  Eb'       233/480
+BA   38   CR     2+1/2   TR  5   CH  5   NT  Eb        233/480
+BA   38   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   38   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   38   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   38   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   38   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   38   CR         3   TR  1   CH  1   NT  E'        233/480
+BA   38   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   38   CR         3   TR  3   CH  3   NT  E         233/480
+BA   38   CR         3   TR  5   CH  5   NT  E'        233/480
+BA   38   CR         3   TR  5   CH  5   NT  E         233/480
+BA   38   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   38   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   38   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   38   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   38   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   38   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   38   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   38   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+
+BA   39   CR         0   TR  1   CH 16   Text type 5: "te "
+BA   39   CR         0   TR  1   CH  1   NT  E         233/480
+BA   39   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   39   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   39   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   39   CR       1/2   TR  1   CH 16   Text type 5: "ki "
+BA   39   CR       1/2   TR  1   CH  1   NT  F         233/480
+BA   39   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   39   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   39   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   39   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   39   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   39   CR         1   TR  1   CH 16   Text type 5: "o "
+BA   39   CR         1   TR  1   CH  1   NT  E         233/480
+BA   39   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   39   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   39   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   39   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   39   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   39   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   39   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   39   CR         2   TR  1   CH 16   Text type 5: "te "
+BA   39   CR         2   TR  1   CH  1   NT  E         233/480
+BA   39   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   39   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   39   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   39   CR     2+1/2   TR  1   CH 16   Text type 5: "ki "
+BA   39   CR     2+1/2   TR  1   CH  1   NT  F         233/480
+BA   39   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   39   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   39   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   39   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   39   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   39   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   39   CR         3   TR  1   CH 16   Text type 5: "o "
+BA   39   CR         3   TR  1   CH  1   NT  E         233/480
+BA   39   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   39   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   39   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   39   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   39   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   39   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   39   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   39   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   39   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA   40   CR         0   TR  1   CH 16   Text type 5: "ka "
+BA   40   CR         0   TR  1   CH  1   NT  B-        233/480
+BA   40   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   40   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   40   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   40   CR       1/2   TR  1   CH 16   Text type 5: "ta "
+BA   40   CR       1/2   TR  1   CH  1   NT  D         233/480
+BA   40   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   40   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   40   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   40   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   40   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA   40   CR         1   TR  1   CH 16   Text type 5: "zu "
+BA   40   CR         1   TR  1   CH  1   NT  C         233/480
+BA   40   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   40   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   40   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   40   CR     1+1/2   TR  1   CH 16   Text type 5: "ke "
+BA   40   CR     1+1/2   TR  1   CH  1   NT  B-        233/480
+BA   40   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   40   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   40   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   40   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA   40   CR         2   TR  1   CH 16   Text type 5: "ru "
+BA   40   CR         2   TR  1   CH  1   NT  A-      1+473/480
+BA   40   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   40   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   40   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   40   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   40   CR     2+1/2   TR  3   CH  3   NT  A         113/480
+BA   40   CR     2+1/2   TR  4   CH  4   NT  A         113/480
+BA   40   CR     2+1/2   TR  4   CH  4   NT  E         113/480
+BA   40   CR     2+1/2   TR  4   CH  4   NT  C         113/480
+BA   40   CR     2+1/2   TR  4   CH  4   NT  A-        113/480
+BA   40   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   40   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   40   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   40   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   40   CR     2+1/2   TR  8   CH  8   NT  A       1+233/480
+BA   40   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   40   CR     2+3/4   TR  3   CH  3   NT  A         113/480
+BA   40   CR     2+3/4   TR  4   CH  4   NT  A         113/480
+BA   40   CR     2+3/4   TR  4   CH  4   NT  E         113/480
+BA   40   CR     2+3/4   TR  4   CH  4   NT  C         113/480
+BA   40   CR     2+3/4   TR  4   CH  4   NT  A-        113/480
+BA   40   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   40   CR         3   TR  3   CH  3   NT  A         473/480
+BA   40   CR         3   TR  4   CH  4   NT  A         473/480
+BA   40   CR         3   TR  4   CH  4   NT  E         473/480
+BA   40   CR         3   TR  4   CH  4   NT  C         473/480
+BA   40   CR         3   TR  4   CH  4   NT  A-        473/480
+BA   40   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   40   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   40   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   40   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   40   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   40   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   40   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   40   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+
+BA   41   CR         0   TR  1   CH 16   Text type 5: "so "
+BA   41   CR         0   TR  1   CH  1   NT  A         233/480
+BA   41   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   41   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   41   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   41   CR       1/2   TR  1   CH 16   Text type 5: "shi "
+BA   41   CR       1/2   TR  1   CH  1   NT  B         233/480
+BA   41   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   41   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA   41   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA   41   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   41   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   41   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   41   CR         1   TR  1   CH  1   NT  A         473/480
+BA   41   CR         1   TR  2   CH  2   NT  D--       233/480
+BA   41   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   41   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   41   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   41   CR     1+1/2   TR  2   CH  2   NT  D-        233/480
+BA   41   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA   41   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA   41   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   41   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   41   CR         2   TR  1   CH 16   Text type 5: "so "
+BA   41   CR         2   TR  1   CH  1   NT  D         233/480
+BA   41   CR         2   TR  2   CH  2   NT  D--       233/480
+BA   41   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   41   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   41   CR     2+1/2   TR  1   CH 16   Text type 5: "shi "
+BA   41   CR     2+1/2   TR  1   CH  1   NT  E         233/480
+BA   41   CR     2+1/2   TR  2   CH  2   NT  D-        233/480
+BA   41   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA   41   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA   41   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   41   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA   41   CR         3   TR  1   CH 16   Text type 5: "te "
+BA   41   CR         3   TR  1   CH  1   NT  F         473/480
+BA   41   CR         3   TR  2   CH  2   NT  D--       233/480
+BA   41   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   41   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   41   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   41   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA   41   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA   41   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA   41   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   41   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+BA   41   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   42   CR         0   TR  1   CH 16   Text type 5: "sa "
+BA   42   CR         0   TR  1   CH  1   NT  E         473/480   von=96
+BA   42   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   42   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   42   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   42   CR       1/2   TR  1   CH 16   Text type 5: ""
+BA   42   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   42   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   42   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   42   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   42   CR       1/2   TR  6   CH  6   NT  G#'       233/480
+BA   42   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   42   CR         1   TR  1   CH  1   NT  G#        233/480   von=127
+BA   42   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   42   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   42   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   42   CR     1+1/2   TR  1   CH 16   Text type 5: "yu "
+BA   42   CR     1+1/2   TR  1   CH  1   NT  B         233/480
+BA   42   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   42   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   42   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   42   CR     1+1/2   TR  6   CH  6   NT  G#'       233/480
+BA   42   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   42   CR         2   TR  1   CH 16   Text type 5: "ku "
+BA   42   CR         2   TR  1   CH  1   NT  A       1+473/480
+BA   42   CR         2   TR  2   CH  2   NT  A---      233/480
+BA   42   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   42   CR         2   TR 10   CH 10   NT  E--       233/480
+BA   42   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   42   CR     2+1/2   TR  1   CH  1   NT  G#'       233/480
+BA   42   CR     2+1/2   TR  2   CH  2   NT  E--       113/480
+BA   42   CR     2+1/2   TR  3   CH  3   NT  G#        233/480
+BA   42   CR     2+1/2   TR  5   CH  5   NT  G#'       233/480
+BA   42   CR     2+1/2   TR  5   CH  5   NT  G#        233/480
+BA   42   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   42   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   42   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   42   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   42   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   42   CR     2+3/4   TR  2   CH  2   NT  A--       113/480
+BA   42   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA   42   CR         3   TR  1   CH  1   NT  A'        233/480
+BA   42   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   42   CR         3   TR  3   CH  3   NT  A         233/480
+BA   42   CR         3   TR  5   CH  5   NT  A'        233/480
+BA   42   CR         3   TR  5   CH  5   NT  A         233/480
+BA   42   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   42   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   42   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   42   CR     3+1/2   TR  2   CH  2   NT  A--       233/480
+BA   42   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   42   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   42   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   42   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   42   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   42   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   42   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   43   CR         0   TR  1   CH 16   Text type 5: "da "
+BA   43   CR         0   TR  1   CH  1   NT  C'        233/480
+BA   43   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   43   CR         0   TR 10   CH 10   NT  A-        113/480
+BA   43   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   43   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   43   CR       1/2   TR  1   CH 16   Text type 5: "re "
+BA   43   CR       1/2   TR  1   CH  1   NT  C'        233/480
+BA   43   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   43   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   43   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   43   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   43   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   43   CR         1   TR  1   CH 16   Text type 5: "na "
+BA   43   CR         1   TR  1   CH  1   NT  B         233/480
+BA   43   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   43   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   43   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   43   CR     1+1/2   TR  1   CH 16   Text type 5: "no "
+BA   43   CR     1+1/2   TR  1   CH  1   NT  C'      1+473/480
+BA   43   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   43   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   43   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   43   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   43   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   43   CR         2   TR  3   CH  3   NT  E'      3+473/480
+BA   43   CR         2   TR  4   CH  4   NT  E'      3+473/480
+BA   43   CR         2   TR  4   CH  4   NT  C'      3+473/480
+BA   43   CR         2   TR  4   CH  4   NT  A       3+473/480
+BA   43   CR         2   TR  4   CH  4   NT  E       3+473/480
+BA   43   CR         2   TR  7   CH  7   NT  E'      6+473/480
+BA   43   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   43   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   43   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   43   CR     2+1/2   TR  3   CH  3   ST &B2 &0A &00
+BA   43   CR     2+1/2   TR  3   CH  3   NT  D         113/480
+BA   43   CR     2+1/2   TR  5   CH  5   NT  D-        113/480
+BA   43   CR     2+1/2   TR  5   CH  5   NT  D         113/480
+BA   43   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   43   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   43   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   43   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   43   CR     2+3/4   TR  3   CH  3   NT  E         113/480
+BA   43   CR     2+3/4   TR  5   CH  5   NT  E-        113/480
+BA   43   CR     2+3/4   TR  5   CH  5   NT  E         113/480
+BA   43   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   43   CR         3   TR  3   CH  3   NT  F#        113/480
+BA   43   CR         3   TR  5   CH  5   NT  F#-       113/480
+BA   43   CR         3   TR  5   CH  5   NT  F#        113/480
+BA   43   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   43   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   43   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   43   CR     3+1/4   TR  3   CH  3   NT  G#        113/480
+BA   43   CR     3+1/4   TR  5   CH  5   NT  G#-       113/480
+BA   43   CR     3+1/4   TR  5   CH  5   NT  G#        113/480
+BA   43   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   43   CR     3+1/2   TR  3   CH  3   NT  A         113/480
+BA   43   CR     3+1/2   TR  5   CH  5   NT  A-        113/480
+BA   43   CR     3+1/2   TR  5   CH  5   NT  A         113/480
+BA   43   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   43   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   43   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   43   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   43   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+BA   43   CR     3+3/4   TR  3   CH  3   NT  B         113/480
+BA   43   CR     3+3/4   TR  5   CH  5   NT  B-        113/480
+BA   43   CR     3+3/4   TR  5   CH  5   NT  B         113/480
+
+BA   44   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   44   CR         0   TR  3   CH  3   NT  C'        113/480
+BA   44   CR         0   TR  5   CH  5   NT  C         113/480
+BA   44   CR         0   TR  5   CH  5   NT  C'        113/480
+BA   44   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   44   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   44   CR       1/4   TR  3   CH  3   ST &B2 &0A &3F
+BA   44   CR       1/2   TR  1   CH 16   Text type 5: "so "
+BA   44   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   44   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   44   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   44   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   44   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   44   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   44   CR         1   TR  1   CH 16   Text type 5: "re "
+BA   44   CR         1   TR  1   CH  1   NT  A         233/480
+BA   44   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   44   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   44   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   44   CR     1+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   44   CR     1+1/2   TR  1   CH  1   NT  B         233/480
+BA   44   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   44   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   44   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   44   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   44   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   44   CR         2   TR  1   CH 16   Text type 5: "na "
+BA   44   CR         2   TR  1   CH  1   NT  C'        233/480
+BA   44   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   44   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   44   CR     2+1/2   TR  1   CH 16   Text type 5: "zo "
+BA   44   CR     2+1/2   TR  1   CH  1   NT  D'        233/480
+BA   44   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   44   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   44   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   44   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   44   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   44   CR         3   TR  1   CH 16   Text type 5: "n "
+BA   44   CR         3   TR  1   CH  1   NT  C'        113/480
+BA   44   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   44   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   44   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   44   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   44   CR     3+1/4   TR  1   CH 16   Text type 5: "o "
+BA   44   CR     3+1/4   TR  1   CH  1   NT  B         113/480
+BA   44   CR     3+1/2   TR  1   CH 16   Text type 5: "hi "
+BA   44   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   44   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   44   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   44   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   44   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   44   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   44   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+
+BA   45   CR         0   TR  1   CH 16   Text type 5: "to "
+BA   45   CR         0   TR  1   CH  1   NT  B       3+473/480
+BA   45   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   45   CR         0   TR  3   CH  3   ST &B2 &0A &7E
+BA   45   CR         0   TR  3   CH  3   NT  B-        233/480
+BA   45   CR         0   TR  4   CH  4   NT  B       3+473/480
+BA   45   CR         0   TR  5   CH  5   NT  B--       233/480
+BA   45   CR         0   TR  9   CH  9   NT  E'''      113/480
+BA   45   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   45   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   45   CR       1/4   TR  9   CH  9   NT  B'''      113/480
+BA   45   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   45   CR       1/2   TR  3   CH  3   NT  E         233/480
+BA   45   CR       1/2   TR  5   CH  5   NT  E-        233/480
+BA   45   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   45   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   45   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   45   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   45   CR       1/2   TR  9   CH  9   NT  E''''     113/480
+BA   45   CR         1   TR  3   CH  3   NT  D         233/480
+BA   45   CR         1   TR  5   CH  5   NT  D-        233/480
+BA   45   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   45   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   45   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   45   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   45   CR     1+1/2   TR  3   CH  3   NT  B-      1+473/480
+BA   45   CR     1+1/2   TR  5   CH  5   NT  B--     1+473/480
+BA   45   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   45   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   45   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   45   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   45   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   45   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   45   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   45   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   45   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   45   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   45   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   45   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   45   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   45   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   45   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   45   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   45   CR     3+1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA   45   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   45   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   45   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   45   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   45   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA   46   CR         0   TR  1   CH 16   Text type 5: "na "
+BA   46   CR         0   TR  1   CH  1   NT  B         233/480
+BA   46   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   46   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   46   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   46   CR       1/2   TR  1   CH 16   Text type 5: "ze "
+BA   46   CR       1/2   TR  1   CH  1   NT  B         233/480
+BA   46   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   46   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   46   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   46   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   46   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   46   CR         1   TR  1   CH 16   Text type 5: "na "
+BA   46   CR         1   TR  1   CH  1   NT  Bb        233/480
+BA   46   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   46   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   46   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   46   CR     1+1/2   TR  1   CH 16   Text type 5: "no "
+BA   46   CR     1+1/2   TR  1   CH  1   NT  B       1+473/480
+BA   46   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   46   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   46   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   46   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   46   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   46   CR         2   TR  3   CH  3   NT  E'      3+473/480
+BA   46   CR         2   TR  4   CH  4   NT  E'      3+473/480
+BA   46   CR         2   TR  4   CH  4   NT  B       3+473/480
+BA   46   CR         2   TR  4   CH  4   NT  G#      3+473/480
+BA   46   CR         2   TR  4   CH  4   NT  E       3+473/480
+BA   46   CR         2   TR  7   CH  7   NT  E'      6+473/480
+BA   46   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   46   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   46   CR     2+1/4   TR  3   CH  3   ST &B2 &0A &00
+BA   46   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   46   CR     2+1/2   TR  3   CH  3   NT  E         113/480
+BA   46   CR     2+1/2   TR  5   CH  5   NT  E-        113/480
+BA   46   CR     2+1/2   TR  5   CH  5   NT  E         113/480
+BA   46   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   46   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   46   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   46   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   46   CR     2+3/4   TR  3   CH  3   NT  F#        113/480
+BA   46   CR     2+3/4   TR  5   CH  5   NT  F#-       113/480
+BA   46   CR     2+3/4   TR  5   CH  5   NT  F#        113/480
+BA   46   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   46   CR         3   TR  3   CH  3   NT  G#        113/480
+BA   46   CR         3   TR  5   CH  5   NT  G#-       113/480
+BA   46   CR         3   TR  5   CH  5   NT  G#        113/480
+BA   46   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   46   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   46   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   46   CR     3+1/4   TR  3   CH  3   NT  A         113/480
+BA   46   CR     3+1/4   TR  5   CH  5   NT  A-        113/480
+BA   46   CR     3+1/4   TR  5   CH  5   NT  A         113/480
+BA   46   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   46   CR     3+1/2   TR  3   CH  3   NT  B         113/480
+BA   46   CR     3+1/2   TR  5   CH  5   NT  B-        113/480
+BA   46   CR     3+1/2   TR  5   CH  5   NT  B         113/480
+BA   46   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   46   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   46   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   46   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   46   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+BA   46   CR     3+3/4   TR  3   CH  3   NT  C'        113/480
+BA   46   CR     3+3/4   TR  5   CH  5   NT  C         113/480
+BA   46   CR     3+3/4   TR  5   CH  5   NT  C'        113/480
+
+BA   47   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   47   CR         0   TR  3   CH  3   NT  D'        113/480
+BA   47   CR         0   TR  5   CH  5   NT  D         113/480
+BA   47   CR         0   TR  5   CH  5   NT  D'        113/480
+BA   47   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   47   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   47   CR       1/4   TR  3   CH  3   ST &B2 &0A &3F
+BA   47   CR       1/2   TR  1   CH 16   Text type 5: "so "
+BA   47   CR       1/2   TR  1   CH  1   NT  E         233/480
+BA   47   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   47   CR       1/2   TR  6   CH  6   NT  E         233/480
+BA   47   CR       1/2   TR  6   CH  6   NT  G#        233/480
+BA   47   CR       1/2   TR  6   CH  6   NT  B         233/480
+BA   47   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   47   CR         1   TR  1   CH 16   Text type 5: "re "
+BA   47   CR         1   TR  1   CH  1   NT  G#        233/480
+BA   47   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   47   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   47   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   47   CR     1+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   47   CR     1+1/2   TR  1   CH  1   NT  A         233/480
+BA   47   CR     1+1/2   TR  2   CH  2   NT  E-        353/480
+BA   47   CR     1+1/2   TR  6   CH  6   NT  E         233/480
+BA   47   CR     1+1/2   TR  6   CH  6   NT  G#        233/480
+BA   47   CR     1+1/2   TR  6   CH  6   NT  B         233/480
+BA   47   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   47   CR         2   TR  1   CH 16   Text type 5: "a "
+BA   47   CR         2   TR  1   CH  1   NT  B         233/480
+BA   47   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   47   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   47   CR     2+1/2   TR  1   CH 16   Text type 5: "i "
+BA   47   CR     2+1/2   TR  1   CH  1   NT  D'        233/480
+BA   47   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   47   CR     2+1/2   TR  6   CH  6   NT  E         233/480
+BA   47   CR     2+1/2   TR  6   CH  6   NT  G#        233/480
+BA   47   CR     2+1/2   TR  6   CH  6   NT  B         233/480
+BA   47   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   47   CR         3   TR  1   CH 16   Text type 5: "no "
+BA   47   CR         3   TR  1   CH  1   NT  C'        233/480
+BA   47   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   47   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   47   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   47   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   47   CR     3+1/2   TR  1   CH 16   Text type 5: "ta "
+BA   47   CR     3+1/2   TR  1   CH  1   NT  B         233/480
+BA   47   CR     3+1/2   TR  2   CH  2   NT  B--       113/480
+BA   47   CR     3+1/2   TR  6   CH  6   NT  E         233/480
+BA   47   CR     3+1/2   TR  6   CH  6   NT  G#        233/480
+BA   47   CR     3+1/2   TR  6   CH  6   NT  B         233/480
+BA   47   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   47   CR     3+3/4   TR  2   CH  2   NT  E-        113/480
+
+BA   48   CR         0   TR  1   CH 16   Text type 5: "me "
+BA   48   CR         0   TR  1   CH  1   NT  A           3+1/2   voff=127
+BA   48   CR         0   TR  2   CH  2   NT  A---      233/480
+BA   48   CR         0   TR  3   CH  3   ST &B2 &0A &7E
+BA   48   CR         0   TR  3   CH  3   NT  A-        233/480
+BA   48   CR         0   TR  4   CH  4   NT  A       3+473/480
+BA   48   CR         0   TR  5   CH  5   NT  A--       233/480
+BA   48   CR         0   TR  9   CH  9   NT  E'''      113/480
+BA   48   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   48   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   48   CR       1/4   TR  9   CH  9   NT  B'''      113/480
+BA   48   CR       1/2   TR  2   CH  2   NT  A--       233/480
+BA   48   CR       1/2   TR  3   CH  3   NT  D         233/480
+BA   48   CR       1/2   TR  5   CH  5   NT  D-        233/480
+BA   48   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   48   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   48   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   48   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   48   CR       1/2   TR  9   CH  9   NT  E''''     113/480
+BA   48   CR   353/480   TR  9   CH 16   End of track
+BA   48   CR         1   TR  3   CH  3   NT  C         233/480
+BA   48   CR         1   TR  5   CH  5   NT  C-        233/480
+BA   48   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   48   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   48   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   48   CR     1+1/2   TR  2   CH  2   NT  A--       353/480
+BA   48   CR     1+1/2   TR  3   CH  3   NT  A-      1+473/480
+BA   48   CR     1+1/2   TR  5   CH  5   NT  A--     1+473/480
+BA   48   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   48   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   48   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   48   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   48   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   48   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   48   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   48   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   48   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   48   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   48   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   48   CR         3   TR  2   CH  2   NT  A---      233/480
+BA   48   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   48   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   48   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   48   CR     3+1/2   TR  1   CH 16   Text type 5: "u "
+BA   48   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   48   CR     3+1/2   TR  2   CH  2   NT  E--       113/480
+BA   48   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   48   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   48   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   48   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   48   CR     3+3/4   TR  2   CH  2   NT  A--       113/480
+BA   48   CR     3+3/4   TR  3   CH  3   ST &B2 &0A &3F
+
+BA   49   CR         0   TR  1   CH 16   Text type 5: "mi "
+BA   49   CR         0   TR  1   CH  1   NT  A         473/480
+BA   49   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   49   CR         0   TR  3   CH  3   ST &B2 &0A &3F
+BA   49   CR         0   TR  7   CH  7   NT  A       1+473/480
+BA   49   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   49   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   49   CR       1/2   TR  6   CH  6   NT  D         233/480
+BA   49   CR       1/2   TR  6   CH  6   NT  F         233/480
+BA   49   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   49   CR       1/2   TR  6   CH  6   NT  D'        233/480
+BA   49   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   49   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   49   CR     1+1/2   TR  1   CH 16   Text type 5: "yo "
+BA   49   CR     1+1/2   TR  1   CH  1   NT  F         233/480
+BA   49   CR     1+1/2   TR  3   CH  3   ST &B2 &0A &3F
+BA   49   CR     1+1/2   TR  6   CH  6   NT  D         233/480
+BA   49   CR     1+1/2   TR  6   CH  6   NT  F         233/480
+BA   49   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   49   CR     1+1/2   TR  6   CH  6   NT  D'        233/480
+BA   49   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         2   TR  1   CH 16   Text type 5: "ri "
+BA   49   CR         2   TR  1   CH  1   NT  D         233/480
+BA   49   CR         2   TR  2   CH  2   NT  D--       233/480
+BA   49   CR         2   TR  7   CH  7   NT  F         473/480
+BA   49   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   49   CR     2+1/2   TR  1   CH 16   Text type 5: "mo "
+BA   49   CR     2+1/2   TR  1   CH  1   NT  C'        233/480
+BA   49   CR     2+1/2   TR  2   CH  2   NT  A--       113/480
+BA   49   CR     2+1/2   TR  6   CH  6   NT  D         233/480
+BA   49   CR     2+1/2   TR  6   CH  6   NT  F         233/480
+BA   49   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   49   CR     2+1/2   TR  6   CH  6   NT  D'        233/480
+BA   49   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR     2+3/4   TR  2   CH  2   NT  D-        113/480
+BA   49   CR         3   TR  1   CH 16   Text type 5: "fu "
+BA   49   CR         3   TR  1   CH  1   NT  B         233/480
+BA   49   CR         3   TR  2   CH  2   NT  D--       233/480
+BA   49   CR         3   TR  7   CH  7   NT  D'        473/480
+BA   49   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   49   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   49   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   49   CR     3+1/2   TR  1   CH 16   Text type 5: "ka "
+BA   49   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   49   CR     3+1/2   TR  2   CH  2   NT  D-        233/480
+BA   49   CR     3+1/2   TR  6   CH  6   NT  D         233/480
+BA   49   CR     3+1/2   TR  6   CH  6   NT  F         233/480
+BA   49   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   49   CR     3+1/2   TR  6   CH  6   NT  D'        233/480
+BA   49   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   50   CR         0   TR  1   CH 16   Text type 5: "i "
+BA   50   CR         0   TR  1   CH  1   NT  E         353/480
+BA   50   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   50   CR         0   TR  3   CH  3   NT  E       1+473/480
+BA   50   CR         0   TR  4   CH  4   NT  E'      1+473/480
+BA   50   CR         0   TR  7   CH  7   NT  C'      1+473/480
+BA   50   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   50   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   50   CR       1/2   TR  6   CH  6   NT  A         233/480
+BA   50   CR       1/2   TR  6   CH  6   NT  C'        233/480
+BA   50   CR       1/2   TR  6   CH  6   NT  E'        233/480
+BA   50   CR       1/2   TR  6   CH  6   NT  A'        233/480
+BA   50   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR       3/4   TR  1   CH 16   Text type 5: "yu "
+BA   50   CR       3/4   TR  1   CH  1   NT  C         353/480
+BA   50   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   50   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   50   CR     1+1/2   TR  1   CH 16   Text type 5: "u "
+BA   50   CR     1+1/2   TR  1   CH  1   NT  D         233/480
+BA   50   CR     1+1/2   TR  6   CH  6   NT  A         233/480
+BA   50   CR     1+1/2   TR  6   CH  6   NT  C'        233/480
+BA   50   CR     1+1/2   TR  6   CH  6   NT  E'        233/480
+BA   50   CR     1+1/2   TR  6   CH  6   NT  A'        233/480
+BA   50   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR         2   TR  1   CH 16   Text type 5: "ki "
+BA   50   CR         2   TR  1   CH  1   NT  E         473/480
+BA   50   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   50   CR         2   TR  3   CH  3   NT  A-      1+473/480
+BA   50   CR         2   TR  4   CH  4   NT  A       1+473/480
+BA   50   CR         2   TR  7   CH  7   NT  B         473/480
+BA   50   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   50   CR     2+1/2   TR  2   CH  2   NT  E-        113/480
+BA   50   CR     2+1/2   TR  6   CH  6   NT  A         233/480
+BA   50   CR     2+1/2   TR  6   CH  6   NT  C'        233/480
+BA   50   CR     2+1/2   TR  6   CH  6   NT  E'        233/480
+BA   50   CR     2+1/2   TR  6   CH  6   NT  A'        233/480
+BA   50   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR     2+3/4   TR  2   CH  2   NT  A-        113/480
+BA   50   CR         3   TR  2   CH  2   NT  A--       233/480
+BA   50   CR         3   TR  7   CH  7   NT  E'        473/480
+BA   50   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   50   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   50   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   50   CR     3+1/2   TR  1   CH 16   Text type 5: "ho "
+BA   50   CR     3+1/2   TR  1   CH  1   NT  E         233/480
+BA   50   CR     3+1/2   TR  2   CH  2   NT  A-        233/480
+BA   50   CR     3+1/2   TR  6   CH  6   NT  A         233/480
+BA   50   CR     3+1/2   TR  6   CH  6   NT  C'        233/480
+BA   50   CR     3+1/2   TR  6   CH  6   NT  E'        233/480
+BA   50   CR     3+1/2   TR  6   CH  6   NT  A'        233/480
+BA   50   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   51   CR         0   TR  1   CH 16   Text type 5: "no "
+BA   51   CR         0   TR  1   CH  1   NT  D         473/480
+BA   51   CR         0   TR  2   CH  2   NT  D--       233/480
+BA   51   CR         0   TR  3   CH  3   NT  D       1+473/480
+BA   51   CR         0   TR  4   CH  4   NT  D'      1+473/480
+BA   51   CR         0   TR  5   CH  5   NT  D-      1+473/480
+BA   51   CR         0   TR  6   CH  6   NT  D       1+473/480
+BA   51   CR         0   TR  7   CH  7   NT  D'      1+473/480
+BA   51   CR         0   TR  8   CH  8   NT  D-      1+473/480
+BA   51   CR         0   TR  8   CH  8   NT  D       1+473/480
+BA   51   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   51   CR       1/2   TR  2   CH  2   NT  D-        233/480
+BA   51   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   51   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   51   CR     1+1/2   TR  1   CH 16   Text type 5: "o "
+BA   51   CR     1+1/2   TR  1   CH  1   NT  E         233/480
+BA   51   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   51   CR         2   TR  1   CH 16   Text type 5: "yo "
+BA   51   CR         2   TR  1   CH  1   NT  F         233/480
+BA   51   CR         2   TR  2   CH  2   NT  C--       233/480
+BA   51   CR         2   TR  3   CH  3   NT  F         473/480
+BA   51   CR         2   TR  4   CH  4   NT  C'      1+473/480
+BA   51   CR         2   TR  5   CH  5   NT  C-      1+473/480
+BA   51   CR         2   TR  6   CH  6   NT  C       1+473/480
+BA   51   CR         2   TR  7   CH  7   NT  F'        473/480
+BA   51   CR         2   TR  8   CH  8   NT  C-      1+473/480
+BA   51   CR         2   TR  8   CH  8   NT  C       1+473/480
+BA   51   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   51   CR     2+1/2   TR  1   CH 16   Text type 5: "ri "
+BA   51   CR     2+1/2   TR  1   CH  1   NT  C'        233/480
+BA   51   CR     2+1/2   TR  2   CH  2   NT  G--       113/480
+BA   51   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR     2+3/4   TR  2   CH  2   NT  C-        113/480
+BA   51   CR         3   TR  1   CH 16   Text type 5: "mo "
+BA   51   CR         3   TR  1   CH  1   NT  B         233/480
+BA   51   CR         3   TR  2   CH  2   NT  C--       233/480
+BA   51   CR         3   TR  3   CH  3   NT  A         473/480
+BA   51   CR         3   TR  7   CH  7   NT  A'        473/480
+BA   51   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   51   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   51   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   51   CR     3+1/2   TR  1   CH 16   Text type 5: "e "
+BA   51   CR     3+1/2   TR  1   CH  1   NT  A         233/480
+BA   51   CR     3+1/2   TR  2   CH  2   NT  C-        233/480
+BA   51   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   52   CR         0   TR  1   CH 16   Text type 5: "ru "
+BA   52   CR         0   TR  1   CH  1   NT  B         353/480
+BA   52   CR         0   TR  2   CH  2   NT  B---      233/480
+BA   52   CR         0   TR  3   CH  3   NT  B         473/480
+BA   52   CR         0   TR  4   CH  4   NT  B       1+233/480
+BA   52   CR         0   TR  5   CH  5   NT  B--     3+473/480
+BA   52   CR         0   TR  6   CH  6   NT  B-      1+473/480
+BA   52   CR         0   TR  7   CH  7   NT  B'      1+473/480
+BA   52   CR         0   TR  8   CH  8   NT  B--     3+473/480
+BA   52   CR         0   TR  8   CH  8   NT  B-      3+473/480
+BA   52   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   52   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   52   CR       1/2   TR  2   CH  2   NT  B--       233/480
+BA   52   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   52   CR       3/4   TR  1   CH 16   Text type 5: "chi "
+BA   52   CR       3/4   TR  1   CH  1   NT  C'        353/480
+BA   52   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   52   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   52   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   52   CR     1+1/2   TR  1   CH 16   Text type 5: "ka "
+BA   52   CR     1+1/2   TR  1   CH  1   NT  D'        353/480
+BA   52   CR     1+1/2   TR  2   CH  2   NT  B---      233/480
+BA   52   CR     1+1/2   TR  4   CH  4   NT  E'        113/480
+BA   52   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   52   CR     1+3/4   TR  4   CH  4   NT  F'        113/480
+BA   52   CR         2   TR  1   CH 16   Text type 5: "ra "
+BA   52   CR         2   TR  1   CH  1   NT  E'      1+473/480
+BA   52   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   52   CR         2   TR  3   CH  3   NT  E       1+473/480
+BA   52   CR         2   TR  4   CH  4   NT  E'      1+473/480
+BA   52   CR         2   TR  6   CH  6   NT  E       1+473/480
+BA   52   CR         2   TR  7   CH  7   NT  E'      1+473/480
+BA   52   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   52   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   52   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   52   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   52   CR     2+1/2   TR 10   CH 10   NT  E--       113/480
+BA   52   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   52   CR     2+3/4   TR 10   CH 10   NT  E--       113/480
+BA   52   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   52   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   52   CR         3   TR 10   CH 10   NT  E--       113/480
+BA   52   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   52   CR     3+1/4   TR 10   CH 10   NT  E--        53/480
+BA   52   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   52   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   52   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   52   CR     3+3/4   TR 10   CH 10   NT  A--        53/480
+BA   52   CR     3+7/8   TR 10   CH 10   NT  F--        53/480
+
+BA   53   CR         0   TR  1   CH 16   Text type 5: "saa "
+BA   53   CR         0   TR  1   CH  1   NT  E'        473/480
+BA   53   CR         0   TR  2   CH  2   NT  A--       353/480
+BA   53   CR         0   TR  7   CH  7   NT  E''     3+473/480
+BA   53   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   53   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   53   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   53   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   53   CR       3/4   TR  2   CH  2   NT  A-        113/480
+BA   53   CR         1   TR  1   CH 16   Text type 5: "(saa!) "
+BA   53   CR         1   TR  1   CH  1   NT  E'        473/480
+BA   53   CR         1   TR  2   CH  2   NT  A--       233/480
+BA   53   CR         1   TR  3   CH  3   NT  E'        473/480
+BA   53   CR         1   TR  3   CH  3   NT  C'        473/480
+BA   53   CR         1   TR  3   CH  3   NT  A         473/480
+BA   53   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   53   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   53   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   53   CR     1+1/2   TR  2   CH  2   NT  A-        233/480
+BA   53   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   53   CR         2   TR  1   CH 16   Text type 5: "saa! "
+BA   53   CR         2   TR  1   CH  1   NT  E'        473/480
+BA   53   CR         2   TR  2   CH  2   NT  G--       233/480
+BA   53   CR         2   TR 10   CH 10   NT  A-        233/480
+BA   53   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   53   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   53   CR     2+1/2   TR  2   CH  2   NT  G-        233/480
+BA   53   CR     2+1/2   TR  3   CH  3   NT  E'        233/480
+BA   53   CR     2+1/2   TR  3   CH  3   NT  B         233/480
+BA   53   CR     2+1/2   TR  3   CH  3   NT  G         233/480
+BA   53   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   53   CR         3   TR  1   CH 16   Text type 5: "(saa!) "
+BA   53   CR         3   TR  1   CH  1   NT  E'        473/480
+BA   53   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   53   CR         3   TR  3   CH  3   NT  E'        473/480
+BA   53   CR         3   TR  3   CH  3   NT  B         473/480
+BA   53   CR         3   TR  3   CH  3   NT  G         473/480
+BA   53   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   53   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   53   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   53   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+BA   53   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   54   CR         0   TR  1   CH 16   Text type 5: "gya "
+BA   54   CR         0   TR  1   CH  1   NT  D'        233/480
+BA   54   CR         0   TR  2   CH  2   NT  F#--      233/480
+BA   54   CR         0   TR  3   CH  3   NT  D'        233/480
+BA   54   CR         0   TR  3   CH  3   NT  B         233/480
+BA   54   CR         0   TR  3   CH  3   NT  F#        233/480
+BA   54   CR         0   TR  4   CH  4   NT  F'        233/480
+BA   54   CR         0   TR  5   CH  5   NT  F         233/480
+BA   54   CR         0   TR  7   CH  7   NT  D''     3+473/480
+BA   54   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   54   CR         0   TR 10   CH 10   NT  C--       233/480
+BA   54   CR       1/2   TR  1   CH 16   Text type 5: "ku "
+BA   54   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA   54   CR       1/2   TR  2   CH  2   NT  F#-       233/480
+BA   54   CR       1/2   TR  4   CH  4   NT  G'        233/480
+BA   54   CR       1/2   TR  5   CH  5   NT  G         233/480
+BA   54   CR       1/2   TR 10   CH 10   NT  E--       233/480
+BA   54   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   54   CR         1   TR  1   CH  1   NT  C'        233/480
+BA   54   CR         1   TR  2   CH  2   NT  F#--      233/480
+BA   54   CR         1   TR  4   CH  4   NT  E'        233/480
+BA   54   CR         1   TR  5   CH  5   NT  E         233/480
+BA   54   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   54   CR     1+1/2   TR  1   CH 16   Text type 5: "n! "
+BA   54   CR     1+1/2   TR  1   CH  1   NT  D'      1+473/480
+BA   54   CR     1+1/2   TR  2   CH  2   NT  F--       353/480
+BA   54   CR     1+1/2   TR  3   CH  3   NT  D'      1+473/480
+BA   54   CR     1+1/2   TR  3   CH  3   NT  A       1+473/480
+BA   54   CR     1+1/2   TR  3   CH  3   NT  F       1+473/480
+BA   54   CR     1+1/2   TR  4   CH  4   NT  F'      1+473/480
+BA   54   CR     1+1/2   TR  5   CH  5   NT  F       1+473/480
+BA   54   CR     1+1/2   TR 10   CH 10   NT  A-        233/480
+BA   54   CR     1+1/2   TR 10   CH 10   NT  C--       233/480
+BA   54   CR         2   TR  8   CH  8   NT  A       1+473/480
+BA   54   CR         2   TR 10   CH 10   NT  F--       233/480
+BA   54   CR     2+1/2   TR  2   CH  2   NT  F-        233/480
+BA   54   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   54   CR         3   TR  2   CH  2   NT  F--       233/480
+BA   54   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   54   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   54   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   54   CR     3+1/2   TR  2   CH  2   NT  F-        233/480
+BA   54   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   55   CR         0   TR  1   CH 16   Text type 5: "zet "
+BA   55   CR         0   TR  1   CH  1   NT  B         353/480
+BA   55   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   55   CR         0   TR  3   CH  3   NT  B       3+473/480
+BA   55   CR         0   TR  3   CH  3   NT  G#      3+473/480
+BA   55   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   55   CR         0   TR  5   CH  5   NT  B--     1+473/480
+BA   55   CR         0   TR  6   CH  6   NT  E'      3+473/480
+BA   55   CR         0   TR  6   CH  6   NT  B'      3+473/480
+BA   55   CR         0   TR  6   CH  6   NT  G#'     3+473/480
+BA   55   CR         0   TR  7   CH  7   NT  E'      6+473/480
+BA   55   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   55   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   55   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   55   CR       1/2   TR  4   CH  4   NT  E         113/480
+BA   55   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   55   CR       3/4   TR  1   CH 16   Text type 5: ""
+BA   55   CR       3/4   TR  4   CH  4   NT  G#        113/480
+BA   55   CR         1   TR  1   CH 16   Text type 5: "tai "
+BA   55   CR         1   TR  1   CH  1   NT  B         473/480   von=96
+BA   55   CR         1   TR  4   CH  4   NT  B         113/480
+BA   55   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   55   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   55   CR     1+1/2   TR  1   CH 16   Text type 5: ""
+BA   55   CR     1+1/2   TR  4   CH  4   NT  E         113/480
+BA   55   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   55   CR     1+3/4   TR  4   CH  4   NT  B         113/480
+BA   55   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   55   CR         2   TR  4   CH  4   NT  D'      1+473/480
+BA   55   CR         2   TR  5   CH  5   NT  G#--    1+473/480
+BA   55   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   55   CR     2+1/2   TR  1   CH 16   Text type 5: "a "
+BA   55   CR     2+1/2   TR  1   CH  1   NT  B         233/480   von=127
+BA   55   CR     2+1/2   TR  2   CH  2   NT  B--       113/480
+BA   55   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   55   CR     2+3/4   TR  2   CH  2   NT  E-        113/480
+BA   55   CR         3   TR  1   CH 16   Text type 5: "ku "
+BA   55   CR         3   TR  1   CH  1   NT  E'        233/480
+BA   55   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   55   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   55   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   55   CR     3+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   55   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA   55   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   55   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   56   CR         0   TR  1   CH 16   Text type 5: "yu "
+BA   56   CR         0   TR  1   CH  1   NT  C'        353/480
+BA   56   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   56   CR         0   TR  3   CH  3   NT  C'      3+473/480
+BA   56   CR         0   TR  3   CH  3   NT  A       3+473/480
+BA   56   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   56   CR         0   TR  4   CH  4   NT  C'      3+473/480
+BA   56   CR         0   TR  5   CH  5   NT  A--     3+473/480
+BA   56   CR         0   TR  6   CH  6   NT  E'      3+473/480
+BA   56   CR         0   TR  6   CH  6   NT  C''     3+473/480
+BA   56   CR         0   TR  6   CH  6   NT  A'      3+473/480
+BA   56   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   56   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   56   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   56   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   56   CR       3/4   TR  1   CH 16   Text type 5: "ru "
+BA   56   CR       3/4   TR  1   CH  1   NT  C'        113/480
+BA   56   CR         1   TR  1   CH 16   Text type 5: "sa "
+BA   56   CR         1   TR  1   CH  1   NT  B         233/480
+BA   56   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   56   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   56   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   56   CR     1+1/2   TR  1   CH 16   Text type 5: "nai "
+BA   56   CR     1+1/2   TR  1   CH  1   NT  A       1+473/480
+BA   56   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   56   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   56   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   56   CR     2+1/2   TR  2   CH  2   NT  E-        113/480
+BA   56   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   56   CR     2+3/4   TR  2   CH  2   NT  A-        113/480
+BA   56   CR         3   TR  2   CH  2   NT  A--       233/480
+BA   56   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   56   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   56   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   56   CR     3+1/2   TR  2   CH  2   NT  A-        233/480
+BA   56   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   56   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   56   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+
+BA   57   CR         0   TR  1   CH 16   Text type 5: "saa! "
+BA   57   CR         0   TR  1   CH  1   NT  E'        473/480
+BA   57   CR         0   TR  2   CH  2   NT  A--       353/480
+BA   57   CR         0   TR  7   CH  7   NT  E''     3+473/480
+BA   57   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   57   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   57   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   57   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   57   CR       3/4   TR  2   CH  2   NT  A-        113/480
+BA   57   CR         1   TR  1   CH 16   Text type 5: "(saa!) "
+BA   57   CR         1   TR  1   CH  1   NT  E'        473/480
+BA   57   CR         1   TR  2   CH  2   NT  A--       233/480
+BA   57   CR         1   TR  3   CH  3   NT  E'        473/480
+BA   57   CR         1   TR  3   CH  3   NT  C'        473/480
+BA   57   CR         1   TR  3   CH  3   NT  A         473/480
+BA   57   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   57   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   57   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   57   CR     1+1/2   TR  2   CH  2   NT  A-        233/480
+BA   57   CR     1+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   57   CR         2   TR  1   CH 16   Text type 5: "saa! "
+BA   57   CR         2   TR  1   CH  1   NT  E'        473/480
+BA   57   CR         2   TR  2   CH  2   NT  G--       233/480
+BA   57   CR         2   TR 10   CH 10   NT  A-        233/480
+BA   57   CR         2   TR 10   CH 10   NT  G#--      233/480
+BA   57   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   57   CR     2+1/2   TR  2   CH  2   NT  G-        233/480
+BA   57   CR     2+1/2   TR  3   CH  3   NT  E'        233/480
+BA   57   CR     2+1/2   TR  3   CH  3   NT  B         233/480
+BA   57   CR     2+1/2   TR  3   CH  3   NT  G         233/480
+BA   57   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   57   CR         3   TR  1   CH 16   Text type 5: "(saa!) "
+BA   57   CR         3   TR  1   CH  1   NT  E'        473/480
+BA   57   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   57   CR         3   TR  3   CH  3   NT  E'        233/480
+BA   57   CR         3   TR  3   CH  3   NT  B         233/480
+BA   57   CR         3   TR  3   CH  3   NT  G         233/480
+BA   57   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   57   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   57   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   57   CR     3+1/2   TR  2   CH  2   NT  G-        233/480
+BA   57   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   58   CR         0   TR  1   CH 16   Text type 5: "gya "
+BA   58   CR         0   TR  1   CH  1   NT  D'        233/480
+BA   58   CR         0   TR  2   CH  2   NT  F#--      233/480
+BA   58   CR         0   TR  3   CH  3   NT  D'        233/480
+BA   58   CR         0   TR  3   CH  3   NT  B         233/480
+BA   58   CR         0   TR  3   CH  3   NT  F#        233/480
+BA   58   CR         0   TR  4   CH  4   NT  F'        233/480
+BA   58   CR         0   TR  5   CH  5   NT  F         233/480
+BA   58   CR         0   TR  7   CH  7   NT  D''     3+473/480
+BA   58   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   58   CR         0   TR 10   CH 10   NT  C--       233/480
+BA   58   CR       1/2   TR  1   CH 16   Text type 5: "ku "
+BA   58   CR       1/2   TR  1   CH  1   NT  E'        233/480
+BA   58   CR       1/2   TR  2   CH  2   NT  F#-       233/480
+BA   58   CR       1/2   TR  4   CH  4   NT  G'        233/480
+BA   58   CR       1/2   TR  5   CH  5   NT  G         233/480
+BA   58   CR       1/2   TR 10   CH 10   NT  E--       233/480
+BA   58   CR         1   TR  1   CH 16   Text type 5: "te "
+BA   58   CR         1   TR  1   CH  1   NT  C'        233/480
+BA   58   CR         1   TR  2   CH  2   NT  F#--      233/480
+BA   58   CR         1   TR  4   CH  4   NT  E'        233/480
+BA   58   CR         1   TR  5   CH  5   NT  E         233/480
+BA   58   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   58   CR     1+1/2   TR  1   CH 16   Text type 5: "n! "
+BA   58   CR     1+1/2   TR  1   CH  1   NT  D'      1+473/480
+BA   58   CR     1+1/2   TR  2   CH  2   NT  F--       353/480
+BA   58   CR     1+1/2   TR  3   CH  3   NT  D'      1+473/480
+BA   58   CR     1+1/2   TR  3   CH  3   NT  A       1+473/480
+BA   58   CR     1+1/2   TR  3   CH  3   NT  F       1+473/480
+BA   58   CR     1+1/2   TR  4   CH  4   NT  F'      1+473/480
+BA   58   CR     1+1/2   TR  5   CH  5   NT  F       1+473/480
+BA   58   CR     1+1/2   TR 10   CH 10   NT  A-        233/480
+BA   58   CR     1+1/2   TR 10   CH 10   NT  C--       233/480
+BA   58   CR         2   TR  8   CH  8   NT  A       1+473/480
+BA   58   CR         2   TR 10   CH 10   NT  F--       233/480
+BA   58   CR     2+1/2   TR  2   CH  2   NT  F-        233/480
+BA   58   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   58   CR         3   TR  2   CH  2   NT  F--       233/480
+BA   58   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   58   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   58   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   58   CR     3+1/2   TR  2   CH  2   NT  F-        233/480
+BA   58   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   58   CR 3+473/480   TR  8   CH 16   End of track
+
+BA   59   CR         0   TR  1   CH 16   Text type 5: "zet "
+BA   59   CR         0   TR  1   CH  1   NT  B         353/480
+BA   59   CR         0   TR  2   CH  2   NT  E--       233/480
+BA   59   CR         0   TR  3   CH  3   NT  B           3+1/2   voff=127
+BA   59   CR         0   TR  3   CH  3   NT  G#        353/480
+BA   59   CR         0   TR  3   CH  3   NT  E           2+1/2   voff=127
+BA   59   CR         0   TR  5   CH  5   NT  B-      1+473/480
+BA   59   CR         0   TR  6   CH  6   NT  B       1+473/480
+BA   59   CR         0   TR  7   CH  7   NT  E'      6+473/480
+BA   59   CR         0   TR 10   CH 10   NT  A-        233/480
+BA   59   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   59   CR       1/2   TR  2   CH  2   NT  E-        233/480
+BA   59   CR       1/2   TR  4   CH  4   NT  B         113/480
+BA   59   CR       1/2   TR 10   CH 10   NT  G#--      233/480
+BA   59   CR       3/4   TR  1   CH 16   Text type 5: ""
+BA   59   CR       3/4   TR  3   CH  3   NT  G#        113/480
+BA   59   CR       3/4   TR  4   CH  4   NT  E'        113/480
+BA   59   CR         1   TR  1   CH 16   Text type 5: "tai "
+BA   59   CR         1   TR  1   CH  1   NT  B         473/480   von=96
+BA   59   CR         1   TR  2   CH  2   NT  E--       233/480
+BA   59   CR         1   TR  3   CH  3   NT  G#        113/480
+BA   59   CR         1   TR  4   CH  4   NT  G#'       113/480
+BA   59   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   59   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   59   CR     1+1/2   TR  1   CH 16   Text type 5: ""
+BA   59   CR     1+1/2   TR  2   CH  2   NT  E-        233/480
+BA   59   CR     1+1/2   TR  3   CH  3   NT  G#        233/480
+BA   59   CR     1+1/2   TR  4   CH  4   NT  G#'       113/480
+BA   59   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   59   CR     1+3/4   TR  4   CH  4   NT  A'        113/480
+BA   59   CR         2   TR  1   CH 16   Text type 5: "se "
+BA   59   CR         2   TR  1   CH  1   NT  B         233/480   von=127
+BA   59   CR         2   TR  2   CH  2   NT  E--       233/480
+BA   59   CR         2   TR  3   CH  3   NT  G#        233/480
+BA   59   CR         2   TR  4   CH  4   NT  B'      1+473/480
+BA   59   CR         2   TR  5   CH  5   NT  G#-     1+473/480
+BA   59   CR         2   TR  6   CH  6   NT  G#      1+473/480
+BA   59   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   59   CR     2+1/2   TR  1   CH 16   Text type 5: "i "
+BA   59   CR     2+1/2   TR  1   CH  1   NT  B         233/480
+BA   59   CR     2+1/2   TR  2   CH  2   NT  E-        233/480
+BA   59   CR     2+1/2   TR  3   CH  3   NT  E       1+233/480
+BA   59   CR     2+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   59   CR         3   TR  1   CH 16   Text type 5: "gi "
+BA   59   CR         3   TR  1   CH  1   NT  E'        233/480
+BA   59   CR         3   TR  2   CH  2   NT  E--       233/480
+BA   59   CR         3   TR  3   CH  3   NT  A         233/480
+BA   59   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   59   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   59   CR     3+1/2   TR  1   CH 16   Text type 5: "wa "
+BA   59   CR     3+1/2   TR  1   CH  1   NT  D'        233/480
+BA   59   CR     3+1/2   TR  2   CH  2   NT  E-        233/480
+BA   59   CR     3+1/2   TR  3   CH  3   NT  B         233/480
+BA   59   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+
+BA   60   CR         0   TR  1   CH 16   Text type 5: "ma "
+BA   60   CR         0   TR  1   CH  1   NT  C'        233/480   von=96
+BA   60   CR         0   TR  2   CH  2   NT  A--       233/480
+BA   60   CR         0   TR  3   CH  3   NT  C'        353/480
+BA   60   CR         0   TR  3   CH  3   NT  A           1+1/2   voff=127
+BA   60   CR         0   TR  3   CH  3   NT  E       3+473/480
+BA   60   CR         0   TR  4   CH  4   NT  A'      3+473/480
+BA   60   CR         0   TR  5   CH  5   NT  A-          3+3/4
+BA   60   CR         0   TR  6   CH  6   NT  A       3+473/480
+BA   60   CR         0   TR 10   CH 10   NT  G#--      233/480
+BA   60   CR         0   TR 10   CH 10   NT  C--       473/480
+BA   60   CR       1/2   TR  1   CH  1   NT  C'        233/480
+BA   60   CR       1/2   TR  2   CH  2   NT  A-        233/480
+BA   60   CR       1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   60   CR       3/4   TR  1   CH 16   Text type 5: "ke "
+BA   60   CR       3/4   TR  3   CH  3   NT  C'        113/480
+BA   60   CR         1   TR  1   CH 16   Text type 5: "nai "
+BA   60   CR         1   TR  1   CH  1   NT  B         233/480   von=127
+BA   60   CR         1   TR  3   CH  3   NT  B         233/480
+BA   60   CR         1   TR 10   CH 10   NT  G#--      233/480
+BA   60   CR         1   TR 10   CH 10   NT  E--       233/480
+BA   60   CR         1   TR 10   CH 10   NT  C--       473/480
+BA   60   CR     1+1/2   TR  1   CH 16   Text type 5: "i~ "
+BA   60   CR     1+1/2   TR  1   CH  1   NT  A       1+473/480
+BA   60   CR     1+1/2   TR  3   CH  3   NT  A       2+233/480
+BA   60   CR     1+1/2   TR 10   CH 10   NT  G#--      233/480
+BA   60   CR         2   TR  2   CH  2   NT  A--       233/480
+BA   60   CR         2   TR 10   CH 10   NT  C--       473/480
+BA   60   CR     2+1/2   TR  2   CH  2   NT  A--       233/480
+BA   60   CR     2+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   60   CR 2+473/480   TR  7   CH 16   End of track
+BA   60   CR         3   TR  2   CH  2   NT  G--       233/480
+BA   60   CR         3   TR 10   CH 10   NT  G#--      233/480
+BA   60   CR         3   TR 10   CH 10   NT  E--       233/480
+BA   60   CR         3   TR 10   CH 10   NT  C--       473/480
+BA   60   CR 3+233/480   TR  1   CH 16   End of track
+BA   60   CR     3+1/2   TR  2   CH  2   NT  F--       233/480
+BA   60   CR     3+1/2   TR 10   CH 10   NT  Bb--      233/480
+BA   60   CR     3+1/2   TR 10   CH 10   NT  E--       113/480
+BA   60   CR     3+3/4   TR  5   CH 16   End of track
+BA   60   CR     3+3/4   TR 10   CH 10   NT  E--       113/480
+BA   60   CR 3+473/480   TR  2   CH 16   End of track
+BA   60   CR 3+473/480   TR  3   CH 16   End of track
+BA   60   CR 3+473/480   TR  4   CH 16   End of track
+BA   60   CR 3+473/480   TR  6   CH 16   End of track
+BA   60   CR 3+473/480   TR 10   CH 16   End of track
+# Successfully parsed
+# Duration = 95.9942 seconds

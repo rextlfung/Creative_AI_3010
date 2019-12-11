@@ -1,0 +1,37 @@
+format=1 tracks=3 division=120
+
+BA    1   CR         0   TR  0   CH  1   Sysex event &F0  &7E &7F &09 &01 &F7
+BA    1   CR         0   TR  0   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  0   CH  1   Instrument 12
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  0   CH 16   Text type 3: "The Legend of Zelda: Twilight Princess - Small Item Catch"
+BA    1   CR         0   TR  0   CH  1   Channel volume 127
+BA    1   CR         0   TR  0   CH 16   Tempo 144.0003
+BA    1   CR         0   TR  0   CH  1   ST &B0 &0A &3E
+BA    1   CR         0   TR  0   CH  1   NT  F#'         59/60   von=106
+BA    1   CR         0   TR  0   CH  1   NT  E'          11/24   von=64
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Sequenced by Goodnight"
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   74 65 90 50 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "spotandsmudge@yahoo.ca"
+BA    1   CR         0   TR  2   CH 16   End of track
+BA    1   CR       1/3   TR  0   CH  1   NT  C#'         11/24   von=34
+BA    1   CR       1/3   TR  0   CH  1   NT  Bb'         11/24   von=106
+BA    1   CR       2/3   TR  0   CH  1   NT  Bb          11/24   von=34
+BA    1   CR       2/3   TR  0   CH  1   NT  C#''        11/24   von=106
+BA    1   CR         1   TR  0   CH  1   NT  B'          11/24
+BA    1   CR         1   TR  0   CH  1   NT  Eb'         59/60   von=52
+BA    1   CR     1+1/3   TR  0   CH  1   NT  Eb''        11/24   von=106
+BA    1   CR     1+1/3   TR  0   CH  1   NT  F#'         11/24   von=52
+BA    1   CR     1+2/3   TR  0   CH  1   NT  B'           3/10   von=58
+BA    1   CR     1+2/3   TR  0   CH  1   NT  F#''         3/10   von=106
+BA    1   CR         2   TR  0   CH  1   NT  B'           3/10   von=70
+BA    1   CR    2+1/12   TR  0   CH  1   NT  Bb'         11/12
+BA    1   CR     2+1/6   TR  0   CH  1   NT  F#''     1+37/120   von=94
+BA    1   CR     2+1/3   TR  0   CH  1   NT  C#'''    1+77/120   von=118
+BA    1   CR   3+39/40   TR  0   CH 16   End of track
+# Successfully parsed
+# Duration = 1.65625 seconds

@@ -1,0 +1,213 @@
+format=1 tracks=2 division=960
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0 7 1
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 49 48 46 49 48 46 48 49
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH  1   Instrument 47
+BA    1   CR         0   TR  1   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR     2+3/4   TR  1   CH  1   NT  F               3   von=127   voff=0
+BA    1   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  D'          2+3/4   voff=0
+BA    2   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    2   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    2   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    2   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    2   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA    2   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA    2   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    3   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    3   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    3   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    3   CR         1   TR  1   CH  1   NT  G'          1+3/4   voff=0
+BA    3   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    3   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    3   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 79 127 0
+BA    3   CR     2+3/4   TR  1   CH  1   NT  A               3   voff=0
+BA    3   CR     2+5/6   TR  1   CH  1   NT  C'        2+11/12   voff=0
+BA    3   CR     2+5/6   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    3   CR   2+11/12   TR  1   CH  1   NT  F'          2+5/6   voff=0
+BA    3   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA    3   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+
+BA    4   CR         0   TR  1   CH  1   NT  C''             1   voff=0
+BA    4   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA    4   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    4   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 77 127 0
+BA    4   CR         1   TR  1   CH  1   NT  D''         1+3/4   voff=0
+BA    4   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 86 127 0
+BA    4   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 77 127 0
+BA    4   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    4   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA    4   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA    4   CR     2+5/6   TR  1   CH  1   NT  G         2+11/12   voff=0
+BA    4   CR     2+5/6   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    4   CR   2+11/12   TR  1   CH  1   NT  C'          2+5/6   voff=0
+BA    4   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    4   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+
+BA    5   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA    5   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA    5   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    5   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    5   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA    5   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA    5   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA    5   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    5   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    5   CR     2+3/4   TR  1   CH  1   NT  F               3   voff=0
+BA    5   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA    6   CR         0   TR  1   CH  1   NT  D'          2+3/4   voff=0
+BA    6   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    6   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    6   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA    6   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    6   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    6   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA    6   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA    7   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA    7   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    7   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    7   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA    7   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA    7   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    7   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    7   CR     2+3/4   TR  1   CH  1   NT  F               3   voff=0
+BA    7   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA    8   CR         0   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    8   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    8   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    8   CR       1/2   TR  1   CH  1   NT  C'            1/2   voff=0
+BA    8   CR         1   TR  1   CH  1   NT  D'          1+3/4   voff=0
+BA    8   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA    8   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA    8   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA    8   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA    8   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA    9   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA    9   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    9   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    9   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA    9   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA    9   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA    9   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA    9   CR     2+3/4   TR  1   CH  1   NT  F               3   voff=0
+BA    9   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA   10   CR         0   TR  1   CH  1   NT  D'          2+3/4   voff=0
+BA   10   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   10   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   10   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   10   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   10   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA   10   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA   10   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA   11   CR         0   TR  1   CH  1   NT  E'            1/2   voff=0
+BA   11   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   11   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   11   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA   11   CR         1   TR  1   CH  1   NT  G'          1+3/4   voff=0
+BA   11   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   11   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   11   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 79 127 0
+BA   11   CR     2+3/4   TR  1   CH  1   NT  A               3   voff=0
+BA   11   CR     2+5/6   TR  1   CH  1   NT  C'        2+11/12   voff=0
+BA   11   CR     2+5/6   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   11   CR   2+11/12   TR  1   CH  1   NT  F'          2+5/6   voff=0
+BA   11   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA   11   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+
+BA   12   CR         0   TR  1   CH  1   NT  C''             1   voff=0
+BA   12   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA   12   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   12   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 77 127 0
+BA   12   CR         1   TR  1   CH  1   NT  D''         1+3/4   voff=0
+BA   12   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 86 127 0
+BA   12   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 77 127 0
+BA   12   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   12   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA   12   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA   12   CR     2+5/6   TR  1   CH  1   NT  G         2+11/12   voff=0
+BA   12   CR     2+5/6   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   12   CR   2+11/12   TR  1   CH  1   NT  C'          2+5/6   voff=0
+BA   12   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   12   CR   2+11/12   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+
+BA   13   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA   13   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA   13   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   13   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   13   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA   13   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA   13   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 72 127 0
+BA   13   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   13   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   13   CR     2+3/4   TR  1   CH  1   NT  F               3   voff=0
+BA   13   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA   14   CR         0   TR  1   CH  1   NT  D'          2+3/4   voff=0
+BA   14   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   14   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   14   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA   14   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   14   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   14   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA   14   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA   15   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA   15   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   15   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   15   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA   15   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA   15   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   15   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   15   CR     2+3/4   TR  1   CH  1   NT  F               3   voff=0
+BA   15   CR     2+7/8   TR  1   CH  1   NT  A           2+7/8   voff=0
+
+BA   16   CR         0   TR  1   CH  1   NT  D'            1/2   voff=0
+BA   16   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   16   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   16   CR       1/2   TR  1   CH  1   NT  C'            1/2   voff=0
+BA   16   CR         1   TR  1   CH  1   NT  D'          1+3/4   voff=0
+BA   16   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA   16   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   16   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   16   CR     2+3/4   TR  1   CH  1   NT  E               3   voff=0
+BA   16   CR     2+7/8   TR  1   CH  1   NT  G           2+7/8   voff=0
+
+BA   17   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA   17   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   17   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   17   CR         1   TR  1   CH  1   NT  E'          1+3/4   voff=0
+BA   17   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 76 127 0
+BA   17   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 67 127 0
+BA   17   CR         2   TR  1   CH 16   Meta Event   type &7F   5 15 13 64 127 0
+BA   17   CR     2+3/4   TR  1   CH  1   NT  F           5+1/4   voff=0
+BA   17   CR     2+7/8   TR  1   CH  1   NT  A           5+1/8   voff=0
+
+BA   18   CR         0   TR  1   CH  1   NT  D'              5   voff=0
+BA   18   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   18   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+
+BA   19   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 74 127 0
+BA   19   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 69 127 0
+BA   19   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 13 65 127 0
+BA   19   CR   2+15/16   TR  1   CH  1   NT  C-----       1/16   von=1   voff=0
+
+BA   20   CR         0   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 42.75 seconds

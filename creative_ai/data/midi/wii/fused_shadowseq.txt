@@ -1,0 +1,94 @@
+format=1 tracks=6 division=256
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Fused Shadow"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Koji Kondo, Asuka Ohta, Toru Minegishi"
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Copyright Anthony Jakob(C) "
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key A minor
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   Key A minor
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  1   CH  5   ST &B4 &79 &00
+BA    1   CR         0   TR  1   CH  5   ST &B4 &40 &00
+BA    1   CR         0   TR  1   CH  5   ST &B4 &5B &5B
+BA    1   CR         0   TR  1   CH  5   ST &B4 &0A &59
+BA    1   CR         0   TR  1   CH  5   Channel volume 100
+BA    1   CR         0   TR  1   CH  5   Instrument 48
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Timpani"
+BA    1   CR         0   TR  2   CH  1   ST &B0 &79 &00
+BA    1   CR         0   TR  2   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  2   CH  1   ST &B0 &5B &5B
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &59
+BA    1   CR         0   TR  2   CH  1   Channel volume 100
+BA    1   CR         0   TR  2   CH  1   Instrument 48
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Timpani"
+BA    1   CR         0   TR  3   CH  4   ST &B3 &79 &00
+BA    1   CR         0   TR  3   CH  4   ST &B3 &40 &00
+BA    1   CR         0   TR  3   CH  4   ST &B3 &5B &3C
+BA    1   CR         0   TR  3   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  3   CH  4   Channel volume 65
+BA    1   CR         0   TR  3   CH  4   Instrument 53
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Choir"
+BA    1   CR         0   TR  3   CH  4   NT  B-              4   von=66
+BA    1   CR         0   TR  4   CH  2   ST &B1 &79 &00
+BA    1   CR         0   TR  4   CH  2   ST &B1 &40 &00
+BA    1   CR         0   TR  4   CH  2   ST &B1 &5B &3C
+BA    1   CR         0   TR  4   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  4   CH  2   Channel volume 100
+BA    1   CR         0   TR  4   CH  2   Instrument 53
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Choir"
+BA    1   CR         0   TR  5   CH  3   ST &B2 &79 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &40 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &5B &3C
+BA    1   CR         0   TR  5   CH  3   ST &B2 &0A &20
+BA    1   CR         0   TR  5   CH  3   Channel volume 50
+BA    1   CR         0   TR  5   CH  3   Instrument 50
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Violin"
+BA    1   CR         0   TR  5   CH  3   NT  B--             4   von=69
+BA    1   CR         0   TR  5   CH  3   NT  F#-             4
+BA    1   CR         0   TR  5   CH  3   NT  B-              4
+BA    1   CR     1/256   TR  0   CH 16   End of track
+BA    1   CR         1   TR  4   CH  2   NT  B-              3   von=69
+BA    1   CR         1   TR  4   CH  2   NT  Eb              1
+BA    1   CR         2   TR  4   CH  2   NT  D               2   von=71
+
+BA    2   CR         0   TR  1   CH  5   NT  Bb--            4   von=50
+BA    2   CR         0   TR  2   CH  1   NT  Bb--       21/128   von=30
+BA    2   CR         0   TR  3   CH  4   NT  Bb-             4   von=72
+BA    2   CR         0   TR  4   CH  2   NT  Bb-             4   von=73
+BA    2   CR         0   TR  4   CH  2   NT  D               1
+BA    2   CR         0   TR  5   CH  3   NT  Bb--            4   von=77
+BA    2   CR         0   TR  5   CH  3   NT  F-              4
+BA    2   CR         0   TR  5   CH  3   NT  Bb-             4
+BA    2   CR    21/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR    85/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR       1/2   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR    85/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR   213/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR         1   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR         1   TR  4   CH  2   NT  C#              3   von=75
+BA    2   CR  1+21/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR  1+85/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR     1+1/2   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR  1+85/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR 1+213/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR         2   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR  2+21/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR  2+85/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR     2+1/2   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR  2+85/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR 2+213/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR         3   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR  3+21/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR  3+85/256   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR     3+1/2   TR  2   CH  1   NT  Bb--       21/128
+BA    2   CR  3+85/128   TR  2   CH  1   NT  Bb--       43/256
+BA    2   CR 3+213/256   TR  2   CH  1   NT  Bb--       43/256
+
+BA    3   CR     1/256   TR  1   CH 16   End of track
+BA    3   CR     1/256   TR  2   CH 16   End of track
+BA    3   CR     1/256   TR  3   CH 16   End of track
+BA    3   CR     1/256   TR  4   CH 16   End of track
+BA    3   CR     1/256   TR  5   CH 16   End of track
+# Successfully parsed
+# Duration = 6.00293 seconds

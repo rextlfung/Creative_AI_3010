@@ -1,0 +1,102 @@
+format=1 tracks=4 division=192
+
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "PokéPark Wii: Load"
+BA    1   CR         0   TR  1   CH  1   Sysex event &F0  &41 &10 &42 &12 &40 &00 &7F &00 &41 &F7
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 13
+BA    1   CR         0   TR  1   CH  1   Channel volume 120
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &0F
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5D &00
+BA    1   CR         0   TR  1   CH  1   NT  C             1/2   von=105   voff=0
+BA    1   CR         0   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Cat333Pokémon"
+BA    1   CR         0   TR  2   CH 16   End of track
+BA    1   CR         0   TR  3   CH 16   Text type 3: "January 22, 2011"
+BA    1   CR         0   TR  3   CH 16   End of track
+BA    1   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    1   CR         1   TR  1   CH  1   NT  G             1/2   von=103   voff=0
+BA    1   CR         1   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    1   CR         2   TR  1   CH  1   NT  E             1/2   voff=0
+BA    1   CR         2   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    1   CR         3   TR  1   CH  1   NT  G             1/2   voff=0
+BA    1   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  F             1/2   von=108   voff=0
+BA    2   CR         0   TR  1   CH  1   NT  A'            1/2   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  A             1/2   von=111   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  B'            1/2   voff=0
+BA    2   CR     1+1/2   TR  1   CH  1   NT  C''           1/2   voff=0
+BA    2   CR         2   TR  1   CH  1   NT  E             1/2   voff=0
+BA    2   CR         2   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    2   CR         3   TR  1   CH  1   NT  G             1/2   von=108   voff=0
+BA    2   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  D             1/2   von=103   voff=0
+BA    3   CR         0   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    3   CR       1/2   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    3   CR         1   TR  1   CH  1   NT  B-            1/2   voff=0
+BA    3   CR         1   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    3   CR     1+1/2   TR  1   CH  1   NT  F'            1/2   von=100   voff=0
+BA    3   CR         2   TR  1   CH  1   NT  C             1/2   von=97   voff=0
+BA    3   CR         2   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    3   CR     2+1/2   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    3   CR         3   TR  1   CH  1   NT  E-            1/2   voff=0
+BA    3   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+BA    3   CR     3+1/2   TR  1   CH  1   NT  E'            1/2   von=100   voff=0
+
+BA    4   CR         0   TR  1   CH  1   NT  F-            1/2   von=103   voff=0
+BA    4   CR         0   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    4   CR         1   TR  1   CH  1   NT  F#-           1/2   voff=0
+BA    4   CR         1   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    4   CR         2   TR  1   CH  1   NT  G-            1/2   von=105   voff=0
+BA    4   CR         2   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    4   CR         3   TR  1   CH  1   NT  A-            1/2   voff=0
+BA    4   CR     3+1/2   TR  1   CH  1   NT  B-            1/2   von=103   voff=0
+
+BA    5   CR         0   TR  1   CH  1   NT  C             1/2   von=100   voff=0
+BA    5   CR         0   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    5   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    5   CR         1   TR  1   CH  1   NT  G             1/2   voff=0
+BA    5   CR         1   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    5   CR         2   TR  1   CH  1   NT  E             1/2   von=103   voff=0
+BA    5   CR         2   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    5   CR         3   TR  1   CH  1   NT  G             1/2   von=108   voff=0
+BA    5   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+
+BA    6   CR         0   TR  1   CH  1   NT  F             1/2   von=113   voff=0
+BA    6   CR         0   TR  1   CH  1   NT  A'            1/2   voff=0
+BA    6   CR         1   TR  1   CH  1   NT  A             1/2   von=116   voff=0
+BA    6   CR         1   TR  1   CH  1   NT  B'            1/2   voff=0
+BA    6   CR     1+1/2   TR  1   CH  1   NT  C''           1/2   von=111   voff=0
+BA    6   CR         2   TR  1   CH  1   NT  E             1/2   voff=0
+BA    6   CR         2   TR  1   CH  1   NT  G'            1/2   voff=0
+BA    6   CR         3   TR  1   CH  1   NT  G             1/2   von=105   voff=0
+BA    6   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+
+BA    7   CR         0   TR  1   CH  1   NT  D             1/2   von=103   voff=0
+BA    7   CR         0   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    7   CR       1/2   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    7   CR         1   TR  1   CH  1   NT  B-            1/2   von=105   voff=0
+BA    7   CR         1   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    7   CR     1+1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    7   CR         2   TR  1   CH  1   NT  C             1/2   voff=0
+BA    7   CR         2   TR  1   CH  1   NT  E'            1/2   voff=0
+BA    7   CR     2+1/2   TR  1   CH  1   NT  D'            1/2   von=108   voff=0
+BA    7   CR         3   TR  1   CH  1   NT  E             1/2   von=111   voff=0
+BA    7   CR         3   TR  1   CH  1   NT  C'            1/2   voff=0
+BA    7   CR     3+1/2   TR  1   CH  1   NT  E'            1/2   voff=0
+
+BA    8   CR         0   TR  1   CH  1   NT  F             1/2   voff=0
+BA    8   CR         0   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    8   CR         1   TR  1   CH  1   NT  G             1/2   voff=0
+BA    8   CR         1   TR  1   CH  1   NT  D'            1/2   voff=0
+BA    8   CR         2   TR  1   CH  1   NT  C             1/2   von=119   voff=0
+BA    8   CR         2   TR  1   CH  1   NT  C'            1/2   voff=0
+BA    8   CR     2+1/2   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 15.25 seconds

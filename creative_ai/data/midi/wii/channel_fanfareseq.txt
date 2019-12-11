@@ -1,0 +1,418 @@
+format=1 tracks=7 division=256
+
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Copyright (C) "
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key D major
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   Key D major
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  1   CH  1   ST &B0 &79 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &3C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 105
+BA    1   CR         0   TR  1   CH  1   Instrument 62
+BA    1   CR         0   TR  1   CH  1   ST &B0 &79 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &3C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 105
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Brass"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &79 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &40 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &5B &5B
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &59
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   Instrument 48
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Timpani"
+BA    1   CR         0   TR  3   CH 10   ST &B9 &79 &00
+BA    1   CR         0   TR  3   CH 10   ST &B9 &40 &00
+BA    1   CR         0   TR  3   CH 10   ST &B9 &5B &18
+BA    1   CR         0   TR  3   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  3   CH 10   Channel volume 105
+BA    1   CR         0   TR  3   CH 10   Instrument 1
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Drum Kit"
+BA    1   CR         0   TR  4   CH  5   ST &B4 &79 &00
+BA    1   CR         0   TR  4   CH  5   ST &B4 &40 &00
+BA    1   CR         0   TR  4   CH  5   ST &B4 &5B &5B
+BA    1   CR         0   TR  4   CH  5   ST &B4 &0A &25
+BA    1   CR         0   TR  4   CH  5   Channel volume 100
+BA    1   CR         0   TR  4   CH  5   Instrument 15
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Tubular Bells"
+BA    1   CR         0   TR  5   CH  3   ST &B2 &79 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &40 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &5B &3C
+BA    1   CR         0   TR  5   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  5   CH  3   Channel volume 100
+BA    1   CR         0   TR  5   CH  3   Instrument 53
+BA    1   CR         0   TR  5   CH  3   ST &B2 &79 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &40 &00
+BA    1   CR         0   TR  5   CH  3   ST &B2 &5B &3C
+BA    1   CR         0   TR  5   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  5   CH  3   Channel volume 100
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Choir"
+BA    1   CR         0   TR  5   CH  3   NT  A-              5   von=70
+BA    1   CR         0   TR  5   CH  3   NT  C#              5
+BA    1   CR         0   TR  6   CH  4   ST &B3 &79 &00
+BA    1   CR         0   TR  6   CH  4   ST &B3 &40 &00
+BA    1   CR         0   TR  6   CH  4   ST &B3 &5B &3C
+BA    1   CR         0   TR  6   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  6   CH  4   Channel volume 127
+BA    1   CR         0   TR  6   CH  4   Instrument 50
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Strings"
+BA    1   CR     1/256   TR  0   CH 16   End of track
+BA    1   CR         1   TR  4   CH  5   NT  E               1   von=71
+BA    1   CR         1   TR  5   CH  3   NT  A               1   von=71
+BA    1   CR         2   TR  4   CH  5   NT  A               2   von=84
+BA    1   CR         2   TR  5   CH  3   NT  E               2   von=68
+
+BA    2   CR         0   TR  5   CH  3   NT  A             3/4   von=83
+BA    2   CR     1/256   TR  4   CH 16   End of track
+BA    2   CR       1/4   TR  5   CH  3   NT  B             3/4   von=79
+BA    2   CR       1/2   TR  2   CH  2   NT  A--           1/8   von=67
+BA    2   CR       1/2   TR  5   CH  3   NT  C#'           1/2
+BA    2   CR       5/8   TR  2   CH  2   NT  A--           1/8   von=73
+BA    2   CR       3/4   TR  2   CH  2   NT  A--           1/8   von=72
+BA    2   CR       3/4   TR  5   CH  3   NT  D'            1/4   von=75
+BA    2   CR       7/8   TR  2   CH  2   NT  A--           1/8   von=74
+BA    2   CR         1   TR  2   CH  2   NT  A--           1/8   von=80
+BA    2   CR         1   TR  3   CH 10   NT  C#-             2   von=69
+BA    2   CR         1   TR  5   CH  3   NT  E'              4   von=80
+BA    2   CR         1   TR  5   CH  3   NT  G-              4
+BA    2   CR         1   TR  5   CH  3   NT  B-              4
+BA    2   CR         1   TR  5   CH  3   NT  E               4
+BA    2   CR   1+1/256   TR  1   CH  1   NT  B-              4   von=100
+BA    2   CR   1+1/256   TR  1   CH  1   NT  E               4
+BA    2   CR   1+1/256   TR  1   CH  1   Channel volume 19
+BA    2   CR   1+1/256   TR  1   CH  1   NT  E-              4
+BA    2   CR   1+1/256   TR  1   CH  1   NT  G-              4
+BA    2   CR   1+1/256   TR  1   CH  1   Channel volume 19
+BA    2   CR   1+1/256   TR  6   CH  4   NT  E'              4   von=100
+BA    2   CR   1+1/256   TR  6   CH  4   Channel volume 19
+BA    2   CR  1+17/256   TR  1   CH  1   Channel volume 21
+BA    2   CR  1+17/256   TR  1   CH  1   Channel volume 21
+BA    2   CR  1+17/256   TR  6   CH  4   Channel volume 21
+BA    2   CR  1+25/256   TR  1   CH  1   Channel volume 23
+BA    2   CR  1+25/256   TR  1   CH  1   Channel volume 23
+BA    2   CR  1+25/256   TR  6   CH  4   Channel volume 23
+BA    2   CR     1+1/8   TR  2   CH  2   NT  A--           1/8   von=73
+BA    2   CR  1+33/256   TR  1   CH  1   Channel volume 25
+BA    2   CR  1+33/256   TR  1   CH  1   Channel volume 25
+BA    2   CR  1+33/256   TR  6   CH  4   Channel volume 25
+BA    2   CR  1+41/256   TR  1   CH  1   Channel volume 27
+BA    2   CR  1+41/256   TR  1   CH  1   Channel volume 27
+BA    2   CR  1+41/256   TR  6   CH  4   Channel volume 27
+BA    2   CR  1+49/256   TR  1   CH  1   Channel volume 29
+BA    2   CR  1+49/256   TR  1   CH  1   Channel volume 29
+BA    2   CR  1+49/256   TR  6   CH  4   Channel volume 29
+BA    2   CR  1+57/256   TR  1   CH  1   Channel volume 30
+BA    2   CR  1+57/256   TR  1   CH  1   Channel volume 30
+BA    2   CR  1+57/256   TR  6   CH  4   Channel volume 30
+BA    2   CR     1+1/4   TR  2   CH  2   NT  A--           1/8
+BA    2   CR  1+65/256   TR  1   CH  1   Channel volume 32
+BA    2   CR  1+65/256   TR  1   CH  1   Channel volume 32
+BA    2   CR  1+65/256   TR  6   CH  4   Channel volume 32
+BA    2   CR  1+73/256   TR  1   CH  1   Channel volume 34
+BA    2   CR  1+73/256   TR  1   CH  1   Channel volume 34
+BA    2   CR  1+73/256   TR  6   CH  4   Channel volume 34
+BA    2   CR  1+81/256   TR  1   CH  1   Channel volume 36
+BA    2   CR  1+81/256   TR  1   CH  1   Channel volume 36
+BA    2   CR  1+81/256   TR  6   CH  4   Channel volume 36
+BA    2   CR  1+89/256   TR  1   CH  1   Channel volume 38
+BA    2   CR  1+89/256   TR  1   CH  1   Channel volume 38
+BA    2   CR  1+89/256   TR  6   CH  4   Channel volume 38
+BA    2   CR     1+3/8   TR  2   CH  2   NT  A--           1/8   von=71
+BA    2   CR  1+97/256   TR  1   CH  1   Channel volume 39
+BA    2   CR  1+97/256   TR  1   CH  1   Channel volume 39
+BA    2   CR  1+97/256   TR  6   CH  4   Channel volume 39
+BA    2   CR 1+105/256   TR  1   CH  1   Channel volume 41
+BA    2   CR 1+105/256   TR  1   CH  1   Channel volume 41
+BA    2   CR 1+105/256   TR  6   CH  4   Channel volume 41
+BA    2   CR 1+113/256   TR  1   CH  1   Channel volume 43
+BA    2   CR 1+113/256   TR  1   CH  1   Channel volume 43
+BA    2   CR 1+113/256   TR  6   CH  4   Channel volume 43
+BA    2   CR 1+121/256   TR  1   CH  1   Channel volume 45
+BA    2   CR 1+121/256   TR  1   CH  1   Channel volume 45
+BA    2   CR 1+121/256   TR  6   CH  4   Channel volume 45
+BA    2   CR     1+1/2   TR  2   CH  2   NT  A--             2   von=74
+BA    2   CR 1+129/256   TR  1   CH  1   Channel volume 47
+BA    2   CR 1+129/256   TR  1   CH  1   Channel volume 47
+BA    2   CR 1+129/256   TR  6   CH  4   Channel volume 47
+BA    2   CR 1+137/256   TR  1   CH  1   Channel volume 48
+BA    2   CR 1+137/256   TR  1   CH  1   Channel volume 48
+BA    2   CR 1+137/256   TR  6   CH  4   Channel volume 48
+BA    2   CR 1+145/256   TR  1   CH  1   Channel volume 50
+BA    2   CR 1+145/256   TR  1   CH  1   Channel volume 50
+BA    2   CR 1+145/256   TR  6   CH  4   Channel volume 50
+BA    2   CR 1+153/256   TR  1   CH  1   Channel volume 52
+BA    2   CR 1+153/256   TR  1   CH  1   Channel volume 52
+BA    2   CR 1+153/256   TR  6   CH  4   Channel volume 52
+BA    2   CR 1+161/256   TR  1   CH  1   Channel volume 54
+BA    2   CR 1+161/256   TR  1   CH  1   Channel volume 54
+BA    2   CR 1+161/256   TR  6   CH  4   Channel volume 54
+BA    2   CR 1+169/256   TR  1   CH  1   Channel volume 56
+BA    2   CR 1+169/256   TR  1   CH  1   Channel volume 56
+BA    2   CR 1+169/256   TR  6   CH  4   Channel volume 56
+BA    2   CR 1+177/256   TR  1   CH  1   Channel volume 58
+BA    2   CR 1+177/256   TR  1   CH  1   Channel volume 58
+BA    2   CR 1+177/256   TR  6   CH  4   Channel volume 58
+BA    2   CR 1+185/256   TR  1   CH  1   Channel volume 59
+BA    2   CR 1+185/256   TR  1   CH  1   Channel volume 59
+BA    2   CR 1+185/256   TR  6   CH  4   Channel volume 59
+BA    2   CR 1+193/256   TR  1   CH  1   Channel volume 61
+BA    2   CR 1+193/256   TR  1   CH  1   Channel volume 61
+BA    2   CR 1+193/256   TR  6   CH  4   Channel volume 61
+BA    2   CR 1+201/256   TR  1   CH  1   Channel volume 63
+BA    2   CR 1+201/256   TR  1   CH  1   Channel volume 63
+BA    2   CR 1+201/256   TR  6   CH  4   Channel volume 63
+BA    2   CR 1+209/256   TR  1   CH  1   Channel volume 65
+BA    2   CR 1+209/256   TR  1   CH  1   Channel volume 65
+BA    2   CR 1+209/256   TR  6   CH  4   Channel volume 65
+BA    2   CR 1+217/256   TR  1   CH  1   Channel volume 67
+BA    2   CR 1+217/256   TR  1   CH  1   Channel volume 67
+BA    2   CR 1+217/256   TR  6   CH  4   Channel volume 67
+BA    2   CR 1+225/256   TR  1   CH  1   Channel volume 68
+BA    2   CR 1+225/256   TR  1   CH  1   Channel volume 68
+BA    2   CR 1+225/256   TR  6   CH  4   Channel volume 68
+BA    2   CR 1+233/256   TR  1   CH  1   Channel volume 70
+BA    2   CR 1+233/256   TR  1   CH  1   Channel volume 70
+BA    2   CR 1+233/256   TR  6   CH  4   Channel volume 70
+BA    2   CR 1+241/256   TR  1   CH  1   Channel volume 72
+BA    2   CR 1+241/256   TR  1   CH  1   Channel volume 72
+BA    2   CR 1+241/256   TR  6   CH  4   Channel volume 72
+BA    2   CR 1+249/256   TR  1   CH  1   Channel volume 74
+BA    2   CR 1+249/256   TR  1   CH  1   Channel volume 74
+BA    2   CR 1+249/256   TR  6   CH  4   Channel volume 74
+BA    2   CR   2+1/256   TR  1   CH  1   Channel volume 76
+BA    2   CR   2+1/256   TR  1   CH  1   Channel volume 76
+BA    2   CR   2+1/256   TR  6   CH  4   Channel volume 76
+BA    2   CR  2+17/256   TR  1   CH  1   Channel volume 78
+BA    2   CR  2+17/256   TR  1   CH  1   Channel volume 78
+BA    2   CR  2+17/256   TR  6   CH  4   Channel volume 78
+BA    2   CR  2+25/256   TR  1   CH  1   Channel volume 79
+BA    2   CR  2+25/256   TR  1   CH  1   Channel volume 79
+BA    2   CR  2+25/256   TR  6   CH  4   Channel volume 79
+BA    2   CR  2+33/256   TR  1   CH  1   Channel volume 81
+BA    2   CR  2+33/256   TR  1   CH  1   Channel volume 81
+BA    2   CR  2+33/256   TR  6   CH  4   Channel volume 81
+BA    2   CR  2+41/256   TR  1   CH  1   Channel volume 83
+BA    2   CR  2+41/256   TR  1   CH  1   Channel volume 83
+BA    2   CR  2+41/256   TR  6   CH  4   Channel volume 83
+BA    2   CR  2+49/256   TR  1   CH  1   Channel volume 85
+BA    2   CR  2+49/256   TR  1   CH  1   Channel volume 85
+BA    2   CR  2+49/256   TR  6   CH  4   Channel volume 85
+BA    2   CR  2+57/256   TR  1   CH  1   Channel volume 87
+BA    2   CR  2+57/256   TR  1   CH  1   Channel volume 87
+BA    2   CR  2+57/256   TR  6   CH  4   Channel volume 87
+BA    2   CR  2+65/256   TR  1   CH  1   Channel volume 88
+BA    2   CR  2+65/256   TR  1   CH  1   Channel volume 88
+BA    2   CR  2+65/256   TR  6   CH  4   Channel volume 88
+BA    2   CR  2+73/256   TR  1   CH  1   Channel volume 90
+BA    2   CR  2+73/256   TR  1   CH  1   Channel volume 90
+BA    2   CR  2+73/256   TR  6   CH  4   Channel volume 90
+BA    2   CR  2+81/256   TR  1   CH  1   Channel volume 92
+BA    2   CR  2+81/256   TR  1   CH  1   Channel volume 92
+BA    2   CR  2+81/256   TR  6   CH  4   Channel volume 92
+BA    2   CR  2+89/256   TR  1   CH  1   Channel volume 94
+BA    2   CR  2+89/256   TR  1   CH  1   Channel volume 94
+BA    2   CR  2+89/256   TR  6   CH  4   Channel volume 94
+BA    2   CR  2+97/256   TR  1   CH  1   Channel volume 96
+BA    2   CR  2+97/256   TR  1   CH  1   Channel volume 96
+BA    2   CR  2+97/256   TR  6   CH  4   Channel volume 96
+BA    2   CR 2+105/256   TR  1   CH  1   Channel volume 97
+BA    2   CR 2+105/256   TR  1   CH  1   Channel volume 97
+BA    2   CR 2+105/256   TR  6   CH  4   Channel volume 97
+BA    2   CR 2+113/256   TR  1   CH  1   Channel volume 99
+BA    2   CR 2+113/256   TR  1   CH  1   Channel volume 99
+BA    2   CR 2+113/256   TR  6   CH  4   Channel volume 99
+BA    2   CR 2+121/256   TR  1   CH  1   Channel volume 101
+BA    2   CR 2+121/256   TR  1   CH  1   Channel volume 101
+BA    2   CR 2+121/256   TR  6   CH  4   Channel volume 101
+BA    2   CR 2+129/256   TR  1   CH  1   Channel volume 103
+BA    2   CR 2+129/256   TR  1   CH  1   Channel volume 103
+BA    2   CR 2+129/256   TR  6   CH  4   Channel volume 103
+BA    2   CR 2+137/256   TR  1   CH  1   Channel volume 105
+BA    2   CR 2+137/256   TR  1   CH  1   Channel volume 105
+BA    2   CR 2+137/256   TR  6   CH  4   Channel volume 105
+BA    2   CR 2+145/256   TR  1   CH  1   Channel volume 107
+BA    2   CR 2+145/256   TR  1   CH  1   Channel volume 107
+BA    2   CR 2+145/256   TR  6   CH  4   Channel volume 107
+BA    2   CR 2+153/256   TR  1   CH  1   Channel volume 108
+BA    2   CR 2+153/256   TR  1   CH  1   Channel volume 108
+BA    2   CR 2+153/256   TR  6   CH  4   Channel volume 108
+BA    2   CR 2+161/256   TR  1   CH  1   Channel volume 110
+BA    2   CR 2+161/256   TR  1   CH  1   Channel volume 110
+BA    2   CR 2+161/256   TR  6   CH  4   Channel volume 110
+BA    2   CR 2+169/256   TR  1   CH  1   Channel volume 112
+BA    2   CR 2+169/256   TR  1   CH  1   Channel volume 112
+BA    2   CR 2+169/256   TR  6   CH  4   Channel volume 112
+BA    2   CR 2+177/256   TR  1   CH  1   Channel volume 114
+BA    2   CR 2+177/256   TR  1   CH  1   Channel volume 114
+BA    2   CR 2+177/256   TR  6   CH  4   Channel volume 114
+BA    2   CR 2+185/256   TR  1   CH  1   Channel volume 116
+BA    2   CR 2+185/256   TR  1   CH  1   Channel volume 116
+BA    2   CR 2+185/256   TR  6   CH  4   Channel volume 116
+BA    2   CR 2+193/256   TR  1   CH  1   Channel volume 117
+BA    2   CR 2+193/256   TR  1   CH  1   Channel volume 117
+BA    2   CR 2+193/256   TR  6   CH  4   Channel volume 117
+BA    2   CR 2+201/256   TR  1   CH  1   Channel volume 119
+BA    2   CR 2+201/256   TR  1   CH  1   Channel volume 119
+BA    2   CR 2+201/256   TR  6   CH  4   Channel volume 119
+BA    2   CR 2+209/256   TR  1   CH  1   Channel volume 121
+BA    2   CR 2+209/256   TR  1   CH  1   Channel volume 121
+BA    2   CR 2+209/256   TR  6   CH  4   Channel volume 121
+BA    2   CR 2+217/256   TR  1   CH  1   Channel volume 123
+BA    2   CR 2+217/256   TR  1   CH  1   Channel volume 123
+BA    2   CR 2+217/256   TR  6   CH  4   Channel volume 123
+BA    2   CR 2+225/256   TR  1   CH  1   Channel volume 125
+BA    2   CR 2+225/256   TR  1   CH  1   Channel volume 125
+BA    2   CR 2+225/256   TR  6   CH  4   Channel volume 125
+BA    2   CR 2+233/256   TR  1   CH  1   Channel volume 127
+BA    2   CR 2+233/256   TR  1   CH  1   Channel volume 127
+BA    2   CR 2+233/256   TR  6   CH  4   Channel volume 127
+BA    2   CR   3+1/256   TR  1   CH  1   Channel volume 127
+BA    2   CR   3+1/256   TR  1   CH  1   Channel volume 127
+BA    2   CR   3+1/256   TR  3   CH 16   End of track
+BA    2   CR   3+1/256   TR  6   CH  4   Channel volume 127
+BA    2   CR  3+17/256   TR  1   CH  1   Channel volume 125
+BA    2   CR  3+17/256   TR  1   CH  1   Channel volume 125
+BA    2   CR  3+17/256   TR  6   CH  4   Channel volume 125
+BA    2   CR  3+25/256   TR  1   CH  1   Channel volume 123
+BA    2   CR  3+25/256   TR  1   CH  1   Channel volume 123
+BA    2   CR  3+25/256   TR  6   CH  4   Channel volume 123
+BA    2   CR  3+41/256   TR  1   CH  1   Channel volume 121
+BA    2   CR  3+41/256   TR  1   CH  1   Channel volume 121
+BA    2   CR  3+41/256   TR  6   CH  4   Channel volume 121
+BA    2   CR  3+49/256   TR  1   CH  1   Channel volume 119
+BA    2   CR  3+49/256   TR  1   CH  1   Channel volume 119
+BA    2   CR  3+49/256   TR  6   CH  4   Channel volume 119
+BA    2   CR  3+57/256   TR  1   CH  1   Channel volume 117
+BA    2   CR  3+57/256   TR  1   CH  1   Channel volume 117
+BA    2   CR  3+57/256   TR  6   CH  4   Channel volume 117
+BA    2   CR  3+73/256   TR  1   CH  1   Channel volume 116
+BA    2   CR  3+73/256   TR  1   CH  1   Channel volume 116
+BA    2   CR  3+73/256   TR  6   CH  4   Channel volume 116
+BA    2   CR  3+81/256   TR  1   CH  1   Channel volume 114
+BA    2   CR  3+81/256   TR  1   CH  1   Channel volume 114
+BA    2   CR  3+81/256   TR  6   CH  4   Channel volume 114
+BA    2   CR  3+97/256   TR  1   CH  1   Channel volume 112
+BA    2   CR  3+97/256   TR  1   CH  1   Channel volume 112
+BA    2   CR  3+97/256   TR  6   CH  4   Channel volume 112
+BA    2   CR 3+105/256   TR  1   CH  1   Channel volume 110
+BA    2   CR 3+105/256   TR  1   CH  1   Channel volume 110
+BA    2   CR 3+105/256   TR  6   CH  4   Channel volume 110
+BA    2   CR 3+113/256   TR  1   CH  1   Channel volume 108
+BA    2   CR 3+113/256   TR  1   CH  1   Channel volume 108
+BA    2   CR 3+113/256   TR  6   CH  4   Channel volume 108
+BA    2   CR 3+129/256   TR  1   CH  1   Channel volume 107
+BA    2   CR 3+129/256   TR  1   CH  1   Channel volume 107
+BA    2   CR 3+129/256   TR  2   CH 16   End of track
+BA    2   CR 3+129/256   TR  6   CH  4   Channel volume 107
+BA    2   CR 3+137/256   TR  1   CH  1   Channel volume 105
+BA    2   CR 3+137/256   TR  1   CH  1   Channel volume 105
+BA    2   CR 3+137/256   TR  6   CH  4   Channel volume 105
+BA    2   CR 3+153/256   TR  1   CH  1   Channel volume 103
+BA    2   CR 3+153/256   TR  1   CH  1   Channel volume 103
+BA    2   CR 3+153/256   TR  6   CH  4   Channel volume 103
+BA    2   CR 3+161/256   TR  1   CH  1   Channel volume 101
+BA    2   CR 3+161/256   TR  1   CH  1   Channel volume 101
+BA    2   CR 3+161/256   TR  6   CH  4   Channel volume 101
+BA    2   CR 3+169/256   TR  1   CH  1   Channel volume 99
+BA    2   CR 3+169/256   TR  1   CH  1   Channel volume 99
+BA    2   CR 3+169/256   TR  6   CH  4   Channel volume 99
+BA    2   CR 3+185/256   TR  1   CH  1   Channel volume 97
+BA    2   CR 3+185/256   TR  1   CH  1   Channel volume 97
+BA    2   CR 3+185/256   TR  6   CH  4   Channel volume 97
+BA    2   CR 3+193/256   TR  1   CH  1   Channel volume 96
+BA    2   CR 3+193/256   TR  1   CH  1   Channel volume 96
+BA    2   CR 3+193/256   TR  6   CH  4   Channel volume 96
+BA    2   CR 3+209/256   TR  1   CH  1   Channel volume 94
+BA    2   CR 3+209/256   TR  1   CH  1   Channel volume 94
+BA    2   CR 3+209/256   TR  6   CH  4   Channel volume 94
+BA    2   CR 3+217/256   TR  1   CH  1   Channel volume 92
+BA    2   CR 3+217/256   TR  1   CH  1   Channel volume 92
+BA    2   CR 3+217/256   TR  6   CH  4   Channel volume 92
+BA    2   CR 3+225/256   TR  1   CH  1   Channel volume 90
+BA    2   CR 3+225/256   TR  1   CH  1   Channel volume 90
+BA    2   CR 3+225/256   TR  6   CH  4   Channel volume 90
+BA    2   CR 3+241/256   TR  1   CH  1   Channel volume 88
+BA    2   CR 3+241/256   TR  1   CH  1   Channel volume 88
+BA    2   CR 3+241/256   TR  6   CH  4   Channel volume 88
+BA    2   CR 3+249/256   TR  1   CH  1   Channel volume 87
+BA    2   CR 3+249/256   TR  1   CH  1   Channel volume 87
+BA    2   CR 3+249/256   TR  6   CH  4   Channel volume 87
+
+BA    3   CR     1/256   TR  1   CH  1   Channel volume 85
+BA    3   CR     1/256   TR  1   CH  1   Channel volume 85
+BA    3   CR     1/256   TR  6   CH  4   Channel volume 85
+BA    3   CR    17/256   TR  1   CH  1   Channel volume 83
+BA    3   CR    17/256   TR  1   CH  1   Channel volume 83
+BA    3   CR    17/256   TR  6   CH  4   Channel volume 83
+BA    3   CR    25/256   TR  1   CH  1   Channel volume 81
+BA    3   CR    25/256   TR  1   CH  1   Channel volume 81
+BA    3   CR    25/256   TR  6   CH  4   Channel volume 81
+BA    3   CR    41/256   TR  1   CH  1   Channel volume 79
+BA    3   CR    41/256   TR  1   CH  1   Channel volume 79
+BA    3   CR    41/256   TR  6   CH  4   Channel volume 79
+BA    3   CR    49/256   TR  1   CH  1   Channel volume 78
+BA    3   CR    49/256   TR  1   CH  1   Channel volume 78
+BA    3   CR    49/256   TR  6   CH  4   Channel volume 78
+BA    3   CR    57/256   TR  1   CH  1   Channel volume 76
+BA    3   CR    57/256   TR  1   CH  1   Channel volume 76
+BA    3   CR    57/256   TR  6   CH  4   Channel volume 76
+BA    3   CR    73/256   TR  1   CH  1   Channel volume 74
+BA    3   CR    73/256   TR  1   CH  1   Channel volume 74
+BA    3   CR    73/256   TR  6   CH  4   Channel volume 74
+BA    3   CR    81/256   TR  1   CH  1   Channel volume 72
+BA    3   CR    81/256   TR  1   CH  1   Channel volume 72
+BA    3   CR    81/256   TR  6   CH  4   Channel volume 72
+BA    3   CR    97/256   TR  1   CH  1   Channel volume 70
+BA    3   CR    97/256   TR  1   CH  1   Channel volume 70
+BA    3   CR    97/256   TR  6   CH  4   Channel volume 70
+BA    3   CR   105/256   TR  1   CH  1   Channel volume 68
+BA    3   CR   105/256   TR  1   CH  1   Channel volume 68
+BA    3   CR   105/256   TR  6   CH  4   Channel volume 68
+BA    3   CR   113/256   TR  1   CH  1   Channel volume 67
+BA    3   CR   113/256   TR  1   CH  1   Channel volume 67
+BA    3   CR   113/256   TR  6   CH  4   Channel volume 67
+BA    3   CR   129/256   TR  1   CH  1   Channel volume 65
+BA    3   CR   129/256   TR  1   CH  1   Channel volume 65
+BA    3   CR   129/256   TR  6   CH  4   Channel volume 65
+BA    3   CR   137/256   TR  1   CH  1   Channel volume 63
+BA    3   CR   137/256   TR  1   CH  1   Channel volume 63
+BA    3   CR   137/256   TR  6   CH  4   Channel volume 63
+BA    3   CR   153/256   TR  1   CH  1   Channel volume 61
+BA    3   CR   153/256   TR  1   CH  1   Channel volume 61
+BA    3   CR   153/256   TR  6   CH  4   Channel volume 61
+BA    3   CR   161/256   TR  1   CH  1   Channel volume 59
+BA    3   CR   161/256   TR  1   CH  1   Channel volume 59
+BA    3   CR   161/256   TR  6   CH  4   Channel volume 59
+BA    3   CR   169/256   TR  1   CH  1   Channel volume 58
+BA    3   CR   169/256   TR  1   CH  1   Channel volume 58
+BA    3   CR   169/256   TR  6   CH  4   Channel volume 58
+BA    3   CR   185/256   TR  1   CH  1   Channel volume 56
+BA    3   CR   185/256   TR  1   CH  1   Channel volume 56
+BA    3   CR   185/256   TR  6   CH  4   Channel volume 56
+BA    3   CR   193/256   TR  1   CH  1   Channel volume 54
+BA    3   CR   193/256   TR  1   CH  1   Channel volume 54
+BA    3   CR   193/256   TR  6   CH  4   Channel volume 54
+BA    3   CR   209/256   TR  1   CH  1   Channel volume 52
+BA    3   CR   209/256   TR  1   CH  1   Channel volume 52
+BA    3   CR   209/256   TR  6   CH  4   Channel volume 52
+BA    3   CR   217/256   TR  1   CH  1   Channel volume 50
+BA    3   CR   217/256   TR  1   CH  1   Channel volume 50
+BA    3   CR   217/256   TR  6   CH  4   Channel volume 50
+BA    3   CR   225/256   TR  1   CH  1   Channel volume 48
+BA    3   CR   225/256   TR  1   CH  1   Channel volume 48
+BA    3   CR   225/256   TR  6   CH  4   Channel volume 48
+BA    3   CR   241/256   TR  1   CH  1   Channel volume 47
+BA    3   CR   241/256   TR  1   CH  1   Channel volume 47
+BA    3   CR   241/256   TR  6   CH  4   Channel volume 47
+BA    3   CR   249/256   TR  1   CH  1   Channel volume 45
+BA    3   CR   249/256   TR  1   CH  1   Channel volume 45
+BA    3   CR   249/256   TR  6   CH  4   Channel volume 45
+BA    3   CR   1+1/256   TR  5   CH 16   End of track
+BA    3   CR   1+1/128   TR  1   CH 16   End of track
+BA    3   CR   1+1/128   TR  6   CH 16   End of track
+# Successfully parsed
+# Duration = 6.75586 seconds

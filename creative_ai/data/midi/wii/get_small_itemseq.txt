@@ -1,0 +1,77 @@
+format=1 tracks=4 division=256
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Get Small Item"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Anthony Jakob"
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Copyright Anthony Jakob(C) "
+BA    1   CR         0   TR  0   CH 16   Time signature 3/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key A minor
+BA    1   CR         0   TR  0   CH 16   Tempo 240
+BA    1   CR         2   TR  0   CH 16   Key A minor
+BA    1   CR         2   TR  0   CH 16   Tempo 240
+BA    1   CR         2   TR  1   CH  3   ST &B2 &79 &00
+BA    1   CR         2   TR  1   CH  3   ST &B2 &40 &00
+BA    1   CR         2   TR  1   CH  3   ST &B2 &5B &4E
+BA    1   CR         2   TR  1   CH  3   ST &B2 &0A &51
+BA    1   CR         2   TR  1   CH  3   Channel volume 105
+BA    1   CR         2   TR  1   CH  3   Instrument 57
+BA    1   CR         2   TR  1   CH 16   Text type 3: "Trumpet in C"
+BA    1   CR         2   TR  2   CH 10   ST &B9 &79 &00
+BA    1   CR         2   TR  2   CH 10   ST &B9 &40 &00
+BA    1   CR         2   TR  2   CH 10   ST &B9 &5B &18
+BA    1   CR         2   TR  2   CH 10   ST &B9 &0A &40
+BA    1   CR         2   TR  2   CH 10   Channel volume 62
+BA    1   CR         2   TR  2   CH 10   Instrument 1
+BA    1   CR         2   TR  2   CH 16   Text type 3: "Drum Kit"
+BA    1   CR         2   TR  2   CH 10   NT  D--           1/8   von=71
+BA    1   CR         2   TR  3   CH  5   ST &B4 &79 &00
+BA    1   CR         2   TR  3   CH  5   ST &B4 &40 &00
+BA    1   CR         2   TR  3   CH  5   ST &B4 &5B &3C
+BA    1   CR         2   TR  3   CH  5   ST &B4 &0A &40
+BA    1   CR         2   TR  3   CH  5   Channel volume 73
+BA    1   CR         2   TR  3   CH  5   Instrument 46
+BA    1   CR         2   TR  3   CH 16   Text type 3: "Strings"
+BA    1   CR   2+1/256   TR  0   CH 16   End of track
+BA    1   CR     2+1/8   TR  2   CH 10   NT  D--           1/8   von=77
+BA    1   CR     2+1/4   TR  2   CH 10   NT  D--           1/8   von=79
+BA    1   CR     2+3/8   TR  2   CH 10   NT  D--           1/8   von=75
+BA    1   CR     2+1/2   TR  2   CH 10   NT  D--           1/8   von=74
+BA    1   CR     2+5/8   TR  2   CH 10   NT  D--           1/8   von=75
+BA    1   CR     2+3/4   TR  2   CH 10   NT  D--           1/8   von=73
+BA    1   CR     2+7/8   TR  2   CH 10   NT  D--           1/8   von=75
+
+BA    2   CR         0   TR  1   CH  3   NT  A-            1/2   von=65
+BA    2   CR         0   TR  1   CH  3   NT  C             1/2
+BA    2   CR         0   TR  1   CH  3   NT  F             1/2
+BA    2   CR         0   TR  1   CH  3   NT  A             1/2
+BA    2   CR         0   TR  2   CH 10   NT  D--           1/2   von=79
+BA    2   CR         0   TR  3   CH  5   NT  G--           1/2   von=67
+BA    2   CR     1+1/2   TR  1   CH  3   NT  A-            1/2   von=68
+BA    2   CR     1+1/2   TR  1   CH  3   NT  C             1/2
+BA    2   CR     1+1/2   TR  1   CH  3   NT  F             1/2
+BA    2   CR     1+1/2   TR  1   CH  3   NT  A             1/2
+BA    2   CR     1+1/2   TR  3   CH  5   NT  G--           1/2   von=68
+BA    2   CR         2   TR  1   CH  3   NT  A-            1/2   von=72
+BA    2   CR         2   TR  1   CH  3   NT  C             1/2
+BA    2   CR         2   TR  1   CH  3   NT  F             1/2
+BA    2   CR         2   TR  1   CH  3   NT  A             1/2
+BA    2   CR         2   TR  3   CH  5   NT  G--           1/2   von=70
+BA    2   CR     2+1/2   TR  1   CH  3   NT  G-            1/2   von=69
+BA    2   CR     2+1/2   TR  1   CH  3   NT  B-            1/2
+BA    2   CR     2+1/2   TR  1   CH  3   NT  D             1/2
+BA    2   CR     2+1/2   TR  1   CH  3   NT  F             1/2
+BA    2   CR     2+1/2   TR  1   CH  3   NT  G             1/2
+BA    2   CR     2+1/2   TR  3   CH  5   NT  G--           1/2   von=79
+
+BA    3   CR         0   TR  1   CH  3   NT  A-              6   von=83
+BA    3   CR         0   TR  1   CH  3   NT  C#              6
+BA    3   CR         0   TR  1   CH  3   NT  E               6
+BA    3   CR         0   TR  1   CH  3   NT  A               6
+BA    3   CR         0   TR  2   CH 10   NT  C#-             3   von=68
+BA    3   CR         0   TR  3   CH  5   NT  A--             6   von=74
+
+BA    4   CR     1/256   TR  2   CH 16   End of track
+
+BA    5   CR     1/256   TR  1   CH 16   End of track
+BA    5   CR     1/256   TR  3   CH 16   End of track
+# Successfully parsed
+# Duration = 3.00098 seconds
