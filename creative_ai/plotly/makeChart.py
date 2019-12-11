@@ -1,5 +1,4 @@
 import plotly.graph_objects as go
-import plotly.figure_factory as ff
 import numpy
 
 def makeBarChart(song, WAVDIR, songName):
