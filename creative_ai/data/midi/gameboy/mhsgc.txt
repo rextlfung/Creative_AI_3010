@@ -1,0 +1,91 @@
+format=1 tracks=8 division=480
+
+BA    1   CR         0   TR  0   CH 16   Tempo 220
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Flute 1"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 74
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Drums"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  2   CH 10   Channel volume 127
+BA    1   CR         0   TR  2   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  2   CH 10   Instrument 127
+BA    1   CR         0   TR  3   CH 16   Text type 3: ""Section Completed/Game Completed (Mousetrap Hotel)""
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH 16   End of track
+BA    1   CR         0   TR  4   CH 16   Text type 3: "FROM THE GAME: Mousetrap Hotel"
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR         0   TR  5   CH 16   Text type 3: "ORIGINAL COMPOSER: Mark Van Hecke"
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "MIDI ARRANGEMENT SEQUENCED BY: Merit Celaire"
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "EMAIL COMMENTS TO: mcelaire@netscape.net"
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR      1/80   TR  2   CH 10   NT  E--        39/160   von=83
+BA    1   CR     7/160   TR  1   CH  1   NT  C'        1+41/80   von=83
+BA    1   CR      5/96   TR  1   CH  1   NT  F'        1+29/60
+BA    1   CR   1+1/120   TR  2   CH 10   NT  E--        37/160
+BA    1   CR 1+109/160   TR  2   CH 10   NT  E--          3/16
+BA    1   CR 1+433/480   TR  1   CH  1   NT  C'      1+163/480
+BA    1   CR 1+467/480   TR  1   CH  1   NT  F'       1+97/480
+BA    1   CR   2+1/120   TR  2   CH 10   NT  E--         19/96
+BA    1   CR   2+77/80   TR  2   CH 10   NT  E--          5/24
+BA    1   CR     3+1/2   TR  1   CH  1   NT  C'        229/480
+BA    1   CR   3+43/80   TR  1   CH  1   NT  F'          47/96
+BA    1   CR   3+51/80   TR  2   CH 10   NT  E--       103/480
+BA    1   CR   3+14/15   TR  1   CH  1   NT  D'         89/160
+BA    1   CR 3+463/480   TR  1   CH  1   NT  G'         99/160
+BA    1   CR 3+469/480   TR  2   CH 10   NT  E--         13/60
+
+BA    2   CR     31/60   TR  1   CH  1   NT  E'           5/12
+BA    2   CR     17/30   TR  1   CH  1   NT  A'         77/240
+BA    2   CR   131/160   TR  1   CH  1   NT  G'        371/480
+BA    2   CR   397/480   TR  1   CH  1   NT  D'        209/240
+BA    2   CR   433/480   TR  2   CH 10   NT  E--         11/48
+BA    2   CR   1+41/80   TR  2   CH 10   NT  E--        53/240
+BA    2   CR 1+421/480   TR  2   CH 10   NT  E--       109/480
+BA    2   CR   1+73/80   TR  1   CH  1   NT  F'        1+33/80
+BA    2   CR   1+11/12   TR  1   CH  1   NT  C'      1+229/480
+BA    2   CR   2+33/40   TR  2   CH 10   NT  E--        97/480
+BA    2   CR   3+41/80   TR  2   CH 10   NT  E--        91/480
+BA    2   CR 3+277/480   TR  1   CH  1   NT  D'         97/480
+BA    2   CR 3+281/480   TR  1   CH  1   NT  G'            1/5
+BA    2   CR   3+85/96   TR  2   CH 10   NT  E--           1/5
+BA    2   CR 3+457/480   TR  1   CH  1   NT  D'          17/24
+BA    2   CR   3+23/24   TR  1   CH  1   NT  G'          57/80
+
+BA    3   CR     31/48   TR  1   CH  1   NT  E'           5/24
+BA    3   CR   107/160   TR  1   CH  1   NT  A'        113/480
+BA    3   CR   131/160   TR  2   CH 10   NT  E--          9/40
+BA    3   CR   457/480   TR  1   CH  1   NT  G'        383/480
+BA    3   CR    1+3/40   TR  1   CH  1   NT  D'          11/15
+BA    3   CR  1+79/160   TR  2   CH 10   NT  E--           1/5
+BA    3   CR   1+27/32   TR  2   CH 10   NT  E--           1/5
+BA    3   CR   2+1/240   TR  1   CH  1   NT  F'        283/480
+BA    3   CR    2+1/96   TR  1   CH  1   NT  D'          33/40
+BA    3   CR 2+211/240   TR  2   CH 10   NT  E--           1/5
+BA    3   CR 2+119/120   TR  1   CH  1   NT  G'        173/240
+BA    3   CR 2+239/240   TR  1   CH  1   NT  E'        103/120
+BA    3   CR   3+47/80   TR  2   CH 10   NT  E--        27/160
+BA    3   CR 3+437/480   TR  2   CH 10   NT  E--       103/480
+BA    3   CR 3+239/240   TR  1   CH  1   NT  F'       1+53/480
+
+BA    4   CR   141/160   TR  2   CH 10   NT  E--        31/160
+BA    4   CR  1+17/160   TR  1   CH 16   End of track
+BA    4   CR  1+71/160   TR  2   CH 10   NT  E--        27/160
+BA    4   CR 1+123/160   TR  2   CH 10   NT  E--        71/480
+BA    4   CR 2+107/240   TR  2   CH 10   NT  E--          5/32
+BA    4   CR   2+37/48   TR  2   CH 10   NT  E--        83/480
+BA    4   CR 2+151/160   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 4.07556 seconds

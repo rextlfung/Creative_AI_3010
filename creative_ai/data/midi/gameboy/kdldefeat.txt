@@ -1,0 +1,63 @@
+format=1 tracks=8 division=384
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 65
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 119 14 0
+BA    1   CR         0   TR  0   CH 16   Tempo 150
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Steel Guitar"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 26
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   NT  C           19/32   von=127   voff=0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Flute 1"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 74
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   NT  C''         17/48   von=127   voff=0
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Flute 2"
+BA    1   CR         0   TR  3   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  3   CH  2   Instrument 74
+BA    1   CR         0   TR  3   CH  2   Channel volume 100
+BA    1   CR         0   TR  3   CH  2   NT  C''         17/48   von=127   voff=0
+BA    1   CR         0   TR  4   CH 16   Text type 3: ""Kirby's Defeat""
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR         0   TR  5   CH 16   Text type 3: "FROM THE GAME: Kirby's Dream Land"
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "MIDI ARRANGEMENT SEQUENCED BY: Merit Celaire"
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "EMAIL COMMENTS TO: mcelaire@netscape.net"
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR     53/96   TR  1   CH  1   NT  G           37/96   voff=0
+BA    1   CR       5/8   TR  2   CH  2   NT  B'          37/96   von=108   voff=0
+BA    1   CR       5/8   TR  3   CH  2   NT  B'          37/96   von=108   voff=0
+BA    1   CR     89/96   TR  1   CH  1   NT  E'          19/32   voff=0
+BA    1   CR     23/24   TR  2   CH  2   NT  Bb'         17/48   von=127   voff=0
+BA    1   CR     23/24   TR  3   CH  2   NT  Bb'         17/48   von=127   voff=0
+BA    1   CR     1+1/2   TR  1   CH  1   NT  C'           5/12   von=94   voff=0
+BA    1   CR   1+29/48   TR  2   CH  2   NT  A'           9/32   von=88   voff=0
+BA    1   CR   1+29/48   TR  3   CH  2   NT  A'           9/32   von=88   voff=0
+BA    1   CR   1+85/96   TR  1   CH  1   NT  G#           9/32   von=127   voff=0
+BA    1   CR   1+11/12   TR  2   CH  2   NT  G#'         11/32   von=127   voff=0
+BA    1   CR   1+11/12   TR  3   CH  2   NT  G#'         11/32   von=127   voff=0
+BA    1   CR    2+3/16   TR  1   CH  1   NT  Eb          35/96   voff=0
+BA    1   CR   2+25/48   TR  1   CH  1   NT  G#          13/48   voff=0
+BA    1   CR    2+9/16   TR  2   CH  2   NT  Eb'         15/16   voff=0
+BA    1   CR    2+9/16   TR  3   CH  2   NT  Eb'         15/16   voff=0
+BA    1   CR   2+27/32   TR  1   CH  1   NT  C'          71/96   voff=0
+BA    1   CR     3+1/2   TR  2   CH  2   NT  G#'         31/96   voff=0
+BA    1   CR     3+1/2   TR  3   CH  2   NT  G#'         31/96   voff=0
+BA    1   CR   3+55/96   TR  1   CH  1   NT  G#            1/3   voff=0
+BA    1   CR   3+41/48   TR  2   CH  2   NT  G'          65/96   voff=0
+BA    1   CR   3+41/48   TR  3   CH  2   NT  G'          65/96   voff=0
+BA    1   CR   3+11/12   TR  1   CH  1   NT  G           23/24   voff=0
+
+BA    2   CR       7/8   TR  1   CH 16   End of track
+BA    2   CR   1+11/12   TR  2   CH  2   NT  F#''         3/16   voff=0
+BA    2   CR   1+11/12   TR  3   CH  2   NT  F#''         3/16   voff=0
+BA    2   CR    2+1/32   TR  2   CH  2   NT  G''         23/48   voff=0
+BA    2   CR    2+1/32   TR  3   CH  2   NT  G''         23/48   voff=0
+BA    2   CR   2+49/96   TR  2   CH 16   End of track
+BA    2   CR   2+49/96   TR  3   CH 16   End of track
+# Successfully parsed
+# Duration = 2.60417 seconds

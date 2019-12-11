@@ -1,0 +1,1502 @@
+format=1 tracks=6 division=1024
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 54 46 49 48 46 48 54
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key B minor
+BA    1   CR         0   TR  0   CH 16   Tempo 132
+BA    1   CR         0   TR  0   CH 16   Tempo 132
+BA    1   CR         0   TR  0   CH  1   Sysex event &F0  &41 &10 &42 &12 &40 &00 &7F &00 &41 &F7
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &09   77 105 99 114 111 115 111 102 116 32 71 83 32 87 97 118 101 116 97 98 108 101 32 83 87 32 83 121 110 116 104
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Square Wave"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &01
+BA    1   CR         0   TR  1   CH  1   Instrument 81
+BA    1   CR         0   TR  1   CH  1   Channel volume 101
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 112
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &09   77 105 99 114 111 115 111 102 116 32 71 83 32 87 97 118 101 116 97 98 108 101 32 83 87 32 83 121 110 116 104
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Analog Kit"
+BA    1   CR         0   TR  2   CH 10   Instrument 26
+BA    1   CR         0   TR  2   CH 10   Channel volume 101
+BA    1   CR         0   TR  2   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  2   CH 10   Channel volume 112
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &09   77 105 99 114 111 115 111 102 116 32 71 83 32 87 97 118 101 116 97 98 108 101 32 83 87 32 83 121 110 116 104
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Clavinet Melody"
+BA    1   CR         0   TR  3   CH  2   Instrument 8
+BA    1   CR         0   TR  3   CH  2   Channel volume 105
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Channel volume 116
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &09   77 105 99 114 111 115 111 102 116 32 71 83 32 87 97 118 101 116 97 98 108 101 32 83 87 32 83 121 110 116 104
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Clavinet Countermelody"
+BA    1   CR         0   TR  4   CH  3   Instrument 8
+BA    1   CR         0   TR  4   CH  3   Channel volume 96
+BA    1   CR         0   TR  4   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  4   CH  3   Channel volume 106
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &09   77 105 99 114 111 115 111 102 116 32 71 83 32 87 97 118 101 116 97 98 108 101 32 83 87 32 83 121 110 116 104
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Square Wave Bass"
+BA    1   CR         0   TR  5   CH  4   ST &B3 &00 &01
+BA    1   CR         0   TR  5   CH  4   Instrument 81
+BA    1   CR         0   TR  5   CH  4   Channel volume 95
+BA    1   CR         0   TR  5   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  5   CH  4   Channel volume 105
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR    3/1024   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR    3/1024   TR  2   CH 10   ST &B9 &65 &00
+BA    1   CR    3/1024   TR  2   CH 10   ST &B9 &64 &00
+BA    1   CR    3/1024   TR  3   CH  2   ST &B1 &65 &00
+BA    1   CR    3/1024   TR  3   CH  2   ST &B1 &64 &00
+BA    1   CR    3/1024   TR  4   CH  3   ST &B2 &65 &00
+BA    1   CR    3/1024   TR  4   CH  3   ST &B2 &64 &00
+BA    1   CR    3/1024   TR  5   CH  4   ST &B3 &65 &00
+BA    1   CR    3/1024   TR  5   CH  4   ST &B3 &64 &00
+BA    1   CR     1/256   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR     1/256   TR  2   CH 10   ST &B9 &06 &0C
+BA    1   CR     1/256   TR  3   CH  2   ST &B1 &06 &0C
+BA    1   CR     1/256   TR  4   CH  3   ST &B2 &06 &0C
+BA    1   CR     1/256   TR  5   CH  4   ST &B3 &06 &0C
+BA    1   CR    5/1024   TR  1   CH  1   ST &B0 &26 &00
+BA    1   CR    5/1024   TR  2   CH 10   ST &B9 &26 &00
+BA    1   CR    5/1024   TR  3   CH  2   ST &B1 &26 &00
+BA    1   CR    5/1024   TR  4   CH  3   ST &B2 &26 &00
+BA    1   CR    5/1024   TR  5   CH  4   ST &B3 &26 &00
+BA    1   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA    1   CR     5/512   TR  5   CH  4   NT  E--      445/1024   von=69   voff=0
+BA    1   CR  257/1024   TR  3   CH  2   Channel volume 106
+BA    1   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA    1   CR   273/512   TR  3   CH  2   NT  B        417/1024   von=57   voff=0
+BA    1   CR   273/512   TR  4   CH  3   NT  E        417/1024   von=52   voff=0
+BA    1   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA    1   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    1   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA    1   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    1   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    1   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA    1   CR 1+537/1024   TR  2   CH 10   NT  C--      245/1024   von=64   voff=0
+BA    1   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA    1   CR 1+397/512   TR  2   CH 10   NT  C--      513/1024   voff=0
+BA    1   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA    1   CR 2+295/1024   TR  2   CH 10   NT  C--      235/1024   voff=0
+BA    1   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    1   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    1   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    1   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA    1   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA    1   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA    1   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    1   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    1   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+
+BA    2   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA    2   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA    2   CR   163/512   TR  2   CH 10   NT  E---     727/1024   von=64   voff=0
+BA    2   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    2   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    2   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA    2   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    2   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA    2   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    2   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    2   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA    2   CR 1+551/1024   TR  2   CH 10   NT  C--      231/1024   von=64   voff=0
+BA    2   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA    2   CR 1+805/1024   TR  2   CH 10   NT  C--       251/512   voff=0
+BA    2   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA    2   CR 2+307/1024   TR  2   CH 10   NT  C--      223/1024   voff=0
+BA    2   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    2   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    2   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    2   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA    2   CR   3+3/256   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA    2   CR 3+35/1024   TR  2   CH 10   NT  E---     233/1024   von=65   voff=0
+BA    2   CR 3+273/1024   TR  2   CH 10   NT  C--      243/1024   von=64   voff=0
+BA    2   CR 3+293/1024   TR  2   CH 10   NT  E---     223/1024   voff=0
+BA    2   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA    2   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    2   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    2   CR 3+517/1024   TR  5   CH  4   NT  A--         13/32   von=64   voff=0
+BA    2   CR 3+535/1024   TR  2   CH 10   NT  F---       61/128   voff=0
+
+BA    3   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA    3   CR   13/1024   TR  2   CH 10   NT  C--       133/256   von=69   voff=0
+BA    3   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA    3   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    3   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    3   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA    3   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    3   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA    3   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    3   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    3   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA    3   CR 1+545/1024   TR  2   CH 10   NT  C--      237/1024   von=64   voff=0
+BA    3   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA    3   CR 1+405/512   TR  2   CH 10   NT  C--      497/1024   voff=0
+BA    3   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA    3   CR  2+37/128   TR  2   CH 10   NT  C--       117/512   voff=0
+BA    3   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    3   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    3   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    3   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA    3   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA    3   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA    3   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    3   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    3   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA    4   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA    4   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA    4   CR  315/1024   TR  2   CH 10   NT  E---      369/512   von=64   voff=0
+BA    4   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    4   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    4   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA    4   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    4   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA    4   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    4   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    4   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA    4   CR 1+279/512   TR  2   CH 10   NT  C--          7/32   von=64   voff=0
+BA    4   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA    4   CR 1+405/512   TR  2   CH 10   NT  C--      497/1024   voff=0
+BA    4   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA    4   CR 2+309/1024   TR  2   CH 10   NT  C--      221/1024   voff=0
+BA    4   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    4   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    4   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    4   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA    4   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA    4   CR    3+1/32   TR  2   CH 10   NT  E---       59/256   von=65   voff=0
+BA    4   CR 3+143/512   TR  2   CH 10   NT  C--       115/512   von=64   voff=0
+BA    4   CR 3+291/1024   TR  2   CH 10   NT  E---     225/1024   voff=0
+BA    4   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA    4   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    4   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    4   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA    4   CR   3+33/64   TR  2   CH 10   NT  F---     495/1024   voff=0
+
+BA    5   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA    5   CR     7/512   TR  2   CH 10   NT  C--      531/1024   von=69   voff=0
+BA    5   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA    5   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    5   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    5   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA    5   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    5   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA    5   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    5   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    5   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA    5   CR 1+541/1024   TR  2   CH 10   NT  C--      241/1024   von=64   voff=0
+BA    5   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA    5   CR 1+807/1024   TR  2   CH 10   NT  C--       125/256   voff=0
+BA    5   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA    5   CR 2+297/1024   TR  2   CH 10   NT  C--      233/1024   voff=0
+BA    5   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    5   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    5   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    5   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA    5   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA    5   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA    5   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    5   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    5   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+
+BA    6   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA    6   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA    6   CR   163/512   TR  2   CH 10   NT  E---     727/1024   von=64   voff=0
+BA    6   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    6   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    6   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA    6   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    6   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA    6   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    6   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    6   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA    6   CR 1+269/512   TR  2   CH 10   NT  C--        61/256   von=64   voff=0
+BA    6   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA    6   CR 1+789/1024   TR  2   CH 10   NT  C--       259/512   voff=0
+BA    6   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA    6   CR 2+153/512   TR  2   CH 10   NT  C--          7/32   voff=0
+BA    6   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    6   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA    6   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    6   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA    6   CR   3+3/256   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA    6   CR   3+3/128   TR  2   CH 10   NT  E---       61/256   von=65   voff=0
+BA    6   CR 3+291/1024   TR  2   CH 10   NT  C--      225/1024   von=64   voff=0
+BA    6   CR  3+73/256   TR  2   CH 10   NT  E---         7/32   voff=0
+BA    6   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA    6   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA    6   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    6   CR 3+517/1024   TR  5   CH  4   NT  A--         13/32   von=64   voff=0
+BA    6   CR 3+545/1024   TR  2   CH 10   NT  F---      239/512   voff=0
+
+BA    7   CR     1/256   TR  2   CH 10   NT  C--      541/1024   von=69   voff=0
+BA    7   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA    7   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA    7   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA    7   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA    7   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA    7   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    7   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA    7   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA    7   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA    7   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA    7   CR   1+17/32   TR  2   CH 10   NT  C--       119/512   von=64   voff=0
+BA    7   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA    7   CR 1+805/1024   TR  2   CH 10   NT  C--       251/512   voff=0
+BA    7   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA    7   CR 2+301/1024   TR  2   CH 10   NT  C--      229/1024   voff=0
+BA    7   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    7   CR 2+531/1024   TR  3   CH  2   NT  C#'       207/512   voff=0
+BA    7   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA    7   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA    7   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA    7   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA    7   CR 3+517/1024   TR  3   CH  2   NT  C#'         13/32   voff=0
+BA    7   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA    7   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA    8   CR     1/256   TR  3   CH  2   NT  B         175/256   von=74   voff=0
+BA    8   CR     1/256   TR  5   CH  4   NT  B-        175/256   von=69   voff=0
+BA    8   CR    5/1024   TR  2   CH 10   NT  A#--     789/1024   von=69   voff=0
+BA    8   CR  795/1024   TR  3   CH  2   NT  A#       673/1024   von=69   voff=0
+BA    8   CR  795/1024   TR  5   CH  4   NT  A#-      673/1024   von=64   voff=0
+BA    8   CR  823/1024   TR  2   CH 10   NT  A#--     735/1024   von=64   voff=0
+BA    8   CR 1+535/1024   TR  2   CH 10   NT  A#--    1019/1024   voff=0
+BA    8   CR 1+535/1024   TR  3   CH  2   NT  A        929/1024   voff=0
+BA    8   CR 1+535/1024   TR  5   CH  4   NT  A-       929/1024   voff=0
+BA    8   CR  2+1/1024   TR  4   CH  3   Channel volume 96
+BA    8   CR 2+531/1024   TR  3   CH  2   NT  G         207/512   voff=0
+BA    8   CR 2+531/1024   TR  5   CH  4   NT  G-        207/512   voff=0
+BA    8   CR 2+135/256   TR  2   CH 10   NT  C--       119/512   voff=0
+BA    8   CR 2+779/1024   TR  2   CH 10   NT  C--           1/4   voff=0
+BA    8   CR   3+3/256   TR  3   CH  2   NT  E         207/512   von=70   voff=0
+BA    8   CR   3+3/256   TR  5   CH  4   NT  E-        207/512   von=65   voff=0
+BA    8   CR 3+13/1024   TR  2   CH 10   NT  E---     255/1024   von=65   voff=0
+BA    8   CR 3+141/512   TR  2   CH 10   NT  E---      117/512   von=64   voff=0
+BA    8   CR 3+517/1024   TR  3   CH  2   NT  D           13/32   von=69   voff=0
+BA    8   CR 3+517/1024   TR  5   CH  4   NT  D-          13/32   von=64   voff=0
+BA    8   CR 3+267/512   TR  2   CH 10   NT  C--       115/512   voff=0
+BA    8   CR   3+17/32   TR  2   CH 10   NT  E---       55/256   voff=0
+BA    8   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA    8   CR     3+3/4   TR  2   CH 10   NT  C--      255/1024   voff=0
+
+BA    9   CR     1/256   TR  3   CH  2   NT  D'       1+55/128   von=74   voff=0
+BA    9   CR     1/256   TR  4   CH  3   NT  B        1+55/128   von=74   voff=0
+BA    9   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA    9   CR   21/1024   TR  2   CH 10   NT  C--       131/256   von=69   voff=0
+BA    9   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA    9   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA    9   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA    9   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA    9   CR 1+535/1024   TR  3   CH  2   NT  C#'      191/1024   von=69   voff=0
+BA    9   CR 1+535/1024   TR  4   CH  3   NT  A        191/1024   von=69   voff=0
+BA    9   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA    9   CR 1+271/512   TR  2   CH 10   NT  C--         15/64   von=64   voff=0
+BA    9   CR 1+783/1024   TR  3   CH  2   NT  D'       205/1024   voff=0
+BA    9   CR 1+783/1024   TR  4   CH  3   NT  B        205/1024   voff=0
+BA    9   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA    9   CR 1+797/1024   TR  2   CH 10   NT  C--       255/512   voff=0
+BA    9   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA    9   CR 2+21/1024   TR  3   CH  2   NT  E'        231/256   von=72   voff=0
+BA    9   CR 2+21/1024   TR  4   CH  3   NT  C#'       231/256   von=72   voff=0
+BA    9   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA    9   CR 2+149/512   TR  2   CH 10   NT  C--        29/128   voff=0
+BA    9   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA    9   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA    9   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA    9   CR   3+3/256   TR  3   CH  2   NT  F#'      921/1024   von=70   voff=0
+BA    9   CR   3+3/256   TR  4   CH  3   NT  C#'       207/512   von=70   voff=0
+BA    9   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA    9   CR 3+517/1024   TR  4   CH  3   NT  D'          13/32   von=69   voff=0
+BA    9   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   10   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   von=44   voff=0
+BA   10   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   10   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   10   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   10   CR      1/64   TR  2   CH 10   NT  C--      529/1024   von=69   voff=0
+BA   10   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   10   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   10   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   10   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   10   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   10   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   10   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   10   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   10   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   10   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   10   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   10   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   10   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   10   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   10   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   10   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   10   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   10   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   10   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   10   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   10   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   10   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   10   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   10   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   10   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   10   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   10   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   10   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   10   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   10   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   10   CR 1+561/1024   TR  2   CH 10   NT  C--      221/1024   von=64   voff=0
+BA   10   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   10   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   10   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   10   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   10   CR 1+795/1024   TR  2   CH 10   NT  C--           1/2   voff=0
+BA   10   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   10   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   10   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   10   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   10   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   10   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   10   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   10   CR 2+295/1024   TR  2   CH 10   NT  C--      235/1024   voff=0
+BA   10   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   10   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   10   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   10   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   10   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   10   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   10   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   10   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   10   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   10   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   10   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   10   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   10   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   10   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   10   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   10   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   10   CR 3+13/1024   TR  2   CH 10   NT  E---     503/1024   von=65   voff=0
+BA   10   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   10   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   10   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   10   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   10   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   10   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   10   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   10   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   10   CR 3+521/1024   TR  2   CH 10   NT  E---     243/1024   von=64   voff=0
+BA   10   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   10   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   10   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   10   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   10   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   10   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   10   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   11   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   11   CR     1/256   TR  4   CH  3   NT  D'        175/256   von=74   voff=0
+BA   11   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   11   CR   19/1024   TR  2   CH 10   NT  C--       263/512   von=69   voff=0
+BA   11   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   11   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   11   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   11   CR  795/1024   TR  4   CH  3   NT  C#'      673/1024   von=69   voff=0
+BA   11   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   11   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   11   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   11   CR 1+535/1024   TR  4   CH  3   NT  D'       419/1024   voff=0
+BA   11   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   11   CR 1+555/1024   TR  2   CH 10   NT  C--      227/1024   von=64   voff=0
+BA   11   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   11   CR 1+785/1024   TR  2   CH 10   NT  C--       261/512   voff=0
+BA   11   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   11   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA   11   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   11   CR 2+21/1024   TR  4   CH  3   NT  E'       667/1024   von=72   voff=0
+BA   11   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   11   CR 2+307/1024   TR  2   CH 10   NT  C--      223/1024   voff=0
+BA   11   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   11   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   11   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   11   CR 2+779/1024   TR  4   CH  3   NT  D'       671/1024   von=69   voff=0
+BA   11   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   11   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   11   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   11   CR 3+517/1024   TR  4   CH  3   NT  C#'         13/32   voff=0
+BA   11   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   12   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   voff=0
+BA   12   CR     1/256   TR  3   CH  2   NT  E'      3+929/1024   voff=0
+BA   12   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   12   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   12   CR   11/1024   TR  2   CH 10   NT  C--       267/512   von=69   voff=0
+BA   12   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   12   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   12   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   12   CR  331/1024   TR  3   CH  2   Channel volume 107
+BA   12   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   12   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   12   CR  451/1024   TR  3   CH  2   Channel volume 108
+BA   12   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   12   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   12   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   12   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   12   CR  571/1024   TR  3   CH  2   Channel volume 109
+BA   12   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   12   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   12   CR  691/1024   TR  3   CH  2   Channel volume 110
+BA   12   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   12   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   12   CR  811/1024   TR  3   CH  2   Channel volume 111
+BA   12   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   12   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   12   CR  931/1024   TR  3   CH  2   Channel volume 112
+BA   12   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   12   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   12   CR 1+27/1024   TR  3   CH  2   Channel volume 113
+BA   12   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   12   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   12   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   12   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   12   CR 1+147/1024   TR  3   CH  2   Channel volume 114
+BA   12   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   12   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   12   CR 1+267/1024   TR  3   CH  2   Channel volume 115
+BA   12   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   12   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   12   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   12   CR 1+261/512   TR  3   CH  2   Channel volume 116
+BA   12   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   12   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   12   CR 1+545/1024   TR  2   CH 10   NT  C--      237/1024   von=64   voff=0
+BA   12   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   12   CR 1+159/256   TR  3   CH  2   Channel volume 115
+BA   12   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   12   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   12   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   12   CR 1+789/1024   TR  2   CH 10   NT  C--       259/512   voff=0
+BA   12   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   12   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   12   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   12   CR  2+17/256   TR  3   CH  2   Channel volume 114
+BA   12   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   12   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   12   CR  2+71/256   TR  5   CH  4   NT  D-         95/512   voff=0
+BA   12   CR 2+293/1024   TR  2   CH 10   NT  C--      237/1024   voff=0
+BA   12   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   12   CR  2+37/128   TR  3   CH  2   Channel volume 113
+BA   12   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   12   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   12   CR 2+205/512   TR  3   CH  2   Channel volume 112
+BA   12   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   12   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   12   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   12   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA   12   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   12   CR 2+319/512   TR  3   CH  2   Channel volume 111
+BA   12   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   12   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   12   CR   2+47/64   TR  3   CH  2   Channel volume 110
+BA   12   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   12   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   12   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   12   CR 2+245/256   TR  3   CH  2   Channel volume 109
+BA   12   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   12   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   12   CR  3+19/512   TR  2   CH 10   NT  E---      239/512   von=65   voff=0
+BA   12   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   12   CR  3+35/512   TR  3   CH  2   Channel volume 108
+BA   12   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   12   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   12   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   12   CR 3+149/512   TR  3   CH  2   Channel volume 107
+BA   12   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   12   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   12   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   12   CR 3+259/512   TR  2   CH 10   NT  E---      123/512   von=64   voff=0
+BA   12   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   12   CR 3+263/512   TR  3   CH  2   Channel volume 106
+BA   12   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   12   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   12   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   12   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   12   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   12   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   13   CR     1/256   TR  3   CH  2   NT  D'       1+55/128   von=74   voff=0
+BA   13   CR     1/256   TR  4   CH  3   NT  B        1+55/128   von=74   voff=0
+BA   13   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   13   CR   23/1024   TR  2   CH 10   NT  C--       261/512   von=69   voff=0
+BA   13   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   13   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   13   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   13   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   13   CR 1+535/1024   TR  3   CH  2   NT  C#'      191/1024   von=69   voff=0
+BA   13   CR 1+535/1024   TR  4   CH  3   NT  A        191/1024   von=69   voff=0
+BA   13   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   13   CR 1+273/512   TR  2   CH 10   NT  C--        59/256   von=64   voff=0
+BA   13   CR 1+783/1024   TR  3   CH  2   NT  D'       205/1024   voff=0
+BA   13   CR 1+783/1024   TR  4   CH  3   NT  B        205/1024   voff=0
+BA   13   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   13   CR 1+803/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   13   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   13   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA   13   CR 2+21/1024   TR  3   CH  2   NT  E'        231/256   von=72   voff=0
+BA   13   CR 2+21/1024   TR  4   CH  3   NT  C#'       231/256   von=72   voff=0
+BA   13   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   13   CR  2+39/128   TR  2   CH 10   NT  C--       109/512   voff=0
+BA   13   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   13   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   13   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   13   CR   3+3/256   TR  3   CH  2   NT  F#'      921/1024   von=70   voff=0
+BA   13   CR   3+3/256   TR  4   CH  3   NT  C#'       207/512   von=70   voff=0
+BA   13   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   13   CR 3+517/1024   TR  4   CH  3   NT  D'          13/32   von=69   voff=0
+BA   13   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   14   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   voff=0
+BA   14   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   14   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   14   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   14   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA   14   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   14   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   14   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   14   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   14   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   14   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   14   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   14   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   14   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   14   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   14   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   14   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   14   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   14   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   14   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   14   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   14   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   14   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   14   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   14   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   14   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   14   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   14   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   14   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   14   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   14   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   14   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   14   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   14   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   14   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   14   CR   1+35/64   TR  2   CH 10   NT  C--       111/512   von=64   voff=0
+BA   14   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   14   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   14   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   14   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   14   CR 1+203/256   TR  2   CH 10   NT  C--      495/1024   voff=0
+BA   14   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   14   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   14   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   14   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   14   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   14   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   14   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   14   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   14   CR  2+37/128   TR  2   CH 10   NT  C--       117/512   voff=0
+BA   14   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   14   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   14   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   14   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   14   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   14   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   14   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   14   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   14   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   14   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   14   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   14   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   14   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   14   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   14   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   14   CR    3+1/32   TR  2   CH 10   NT  E---      121/256   von=65   voff=0
+BA   14   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   14   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   14   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   14   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   14   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   14   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   14   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   14   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   14   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   14   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   14   CR 3+541/1024   TR  2   CH 10   NT  E---     223/1024   von=64   voff=0
+BA   14   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   14   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   14   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   14   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   14   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   15   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   15   CR     1/256   TR  4   CH  3   NT  D'        175/256   von=74   voff=0
+BA   15   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   15   CR     1/128   TR  2   CH 10   NT  C--      537/1024   von=69   voff=0
+BA   15   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   15   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   15   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   15   CR  795/1024   TR  4   CH  3   NT  C#'      673/1024   von=69   voff=0
+BA   15   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   15   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   15   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   15   CR 1+535/1024   TR  4   CH  3   NT  D'       419/1024   voff=0
+BA   15   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   15   CR 1+543/1024   TR  2   CH 10   NT  C--      239/1024   von=64   voff=0
+BA   15   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   15   CR 1+787/1024   TR  2   CH 10   NT  C--        65/128   voff=0
+BA   15   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   15   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   15   CR 2+21/1024   TR  4   CH  3   NT  E'       667/1024   von=72   voff=0
+BA   15   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   15   CR 2+153/512   TR  2   CH 10   NT  C--          7/32   voff=0
+BA   15   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   15   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   15   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   15   CR 2+779/1024   TR  4   CH  3   NT  D'       671/1024   von=69   voff=0
+BA   15   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   15   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   15   CR 3+517/1024   TR  3   CH  2   NT  A'          13/32   voff=0
+BA   15   CR 3+517/1024   TR  4   CH  3   NT  C#'         13/32   voff=0
+BA   15   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   16   CR     1/256   TR  1   CH  1   NT  D#'      1+55/128   von=41   voff=0
+BA   16   CR     1/256   TR  3   CH  2   NT  F#'      1+55/128   von=74   voff=0
+BA   16   CR     1/256   TR  4   CH  3   NT  D#'      1+55/128   von=74   voff=0
+BA   16   CR     1/256   TR  5   CH  4   NT  B--      451/1024   von=69   voff=0
+BA   16   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA   16   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   16   CR   273/512   TR  5   CH  4   NT  B-       417/1024   von=64   voff=0
+BA   16   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   16   CR  1+15/512   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA   16   CR 1+535/1024   TR  1   CH  1   NT  B       2+199/512   von=36   voff=0
+BA   16   CR 1+535/1024   TR  3   CH  2   NT  D#'     2+199/512   von=69   voff=0
+BA   16   CR 1+535/1024   TR  4   CH  3   NT  B       2+199/512   von=69   voff=0
+BA   16   CR 1+535/1024   TR  5   CH  4   NT  B-       419/1024   von=64   voff=0
+BA   16   CR 1+539/1024   TR  2   CH 10   NT  C--      243/1024   von=64   voff=0
+BA   16   CR 1+617/1024   TR  1   CH  1   Channel volume 109
+BA   16   CR 1+183/256   TR  1   CH  1   Channel volume 106
+BA   16   CR 1+791/1024   TR  2   CH 10   NT  C--       129/256   voff=0
+BA   16   CR 1+211/256   TR  3   CH  2   Channel volume 107
+BA   16   CR 1+211/256   TR  4   CH  3   Channel volume 97
+BA   16   CR 1+847/1024   TR  1   CH  1   Channel volume 103
+BA   16   CR 1+479/512   TR  3   CH  2   Channel volume 109
+BA   16   CR 1+479/512   TR  4   CH  3   Channel volume 99
+BA   16   CR 1+481/512   TR  1   CH  1   Channel volume 100
+BA   16   CR 2+21/1024   TR  5   CH  4   NT  B--       103/512   von=67   voff=0
+BA   16   CR    2+3/64   TR  3   CH  2   Channel volume 110
+BA   16   CR    2+3/64   TR  4   CH  3   Channel volume 100
+BA   16   CR 2+53/1024   TR  1   CH  1   Channel volume 97
+BA   16   CR  2+81/512   TR  3   CH  2   Channel volume 111
+BA   16   CR  2+81/512   TR  4   CH  3   Channel volume 101
+BA   16   CR  2+21/128   TR  1   CH  1   Channel volume 94
+BA   16   CR  2+69/256   TR  3   CH  2   Channel volume 113
+BA   16   CR  2+69/256   TR  4   CH  3   Channel volume 103
+BA   16   CR 2+283/1024   TR  1   CH  1   Channel volume 91
+BA   16   CR  2+71/256   TR  5   CH  4   NT  B--        95/512   von=64   voff=0
+BA   16   CR 2+145/512   TR  2   CH 10   NT  C--         15/64   voff=0
+BA   16   CR 2+195/512   TR  3   CH  2   Channel volume 114
+BA   16   CR 2+195/512   TR  4   CH  3   Channel volume 104
+BA   16   CR 2+199/512   TR  1   CH  1   Channel volume 88
+BA   16   CR  2+63/128   TR  3   CH  2   Channel volume 115
+BA   16   CR  2+63/128   TR  4   CH  3   Channel volume 105
+BA   16   CR 2+513/1024   TR  1   CH  1   Channel volume 85
+BA   16   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   16   CR 2+531/1024   TR  5   CH  4   NT  B-       191/1024   voff=0
+BA   16   CR 2+157/256   TR  1   CH  1   Channel volume 82
+BA   16   CR 2+743/1024   TR  1   CH  1   Channel volume 79
+BA   16   CR 2+373/512   TR  3   CH  2   Channel volume 116
+BA   16   CR 2+373/512   TR  4   CH  3   Channel volume 106
+BA   16   CR 2+779/1024   TR  5   CH  4   NT  B-         25/128   voff=0
+BA   16   CR 2+429/512   TR  1   CH  1   Channel volume 76
+BA   16   CR 2+215/256   TR  3   CH  2   Channel volume 111
+BA   16   CR 2+215/256   TR  4   CH  3   Channel volume 101
+BA   16   CR 2+973/1024   TR  1   CH  1   Channel volume 73
+BA   16   CR 2+487/512   TR  3   CH  2   Channel volume 107
+BA   16   CR 2+487/512   TR  4   CH  3   Channel volume 97
+BA   16   CR   3+3/256   TR  5   CH  4   NT  B--        25/128   von=65   voff=0
+BA   16   CR   3+7/256   TR  2   CH 10   NT  E---        15/64   von=65   voff=0
+BA   16   CR    3+1/16   TR  1   CH  1   Channel volume 70
+BA   16   CR    3+1/16   TR  3   CH  2   Channel volume 101
+BA   16   CR    3+1/16   TR  4   CH  3   Channel volume 93
+BA   16   CR  3+89/512   TR  3   CH  2   Channel volume 97
+BA   16   CR  3+89/512   TR  4   CH  3   Channel volume 89
+BA   16   CR 3+179/1024   TR  1   CH  1   Channel volume 67
+BA   16   CR 3+269/1024   TR  5   CH  4   NT  B--      191/1024   von=64   voff=0
+BA   16   CR 3+145/512   TR  2   CH 10   NT  E---      113/512   von=64   voff=0
+BA   16   CR  3+73/256   TR  3   CH  2   Channel volume 92
+BA   16   CR  3+73/256   TR  4   CH  3   Channel volume 84
+BA   16   CR 3+147/512   TR  1   CH  1   Channel volume 64
+BA   16   CR 3+203/512   TR  3   CH  2   Channel volume 88
+BA   16   CR 3+203/512   TR  4   CH  3   Channel volume 80
+BA   16   CR 3+409/1024   TR  1   CH  1   Channel volume 61
+BA   16   CR 3+517/1024   TR  5   CH  4   NT  B-       191/1024   voff=0
+BA   16   CR  3+65/128   TR  3   CH  2   Channel volume 83
+BA   16   CR  3+65/128   TR  4   CH  3   Channel volume 76
+BA   16   CR 3+261/512   TR  2   CH 10   NT  E---      121/512   voff=0
+BA   16   CR 3+131/256   TR  1   CH  1   Channel volume 58
+BA   16   CR 3+273/512   TR  2   CH 10   NT  C--       109/512   voff=0
+BA   16   CR 3+317/512   TR  3   CH  2   Channel volume 79
+BA   16   CR 3+317/512   TR  4   CH  3   Channel volume 72
+BA   16   CR 3+639/1024   TR  1   CH  1   Channel volume 55
+BA   16   CR 3+187/256   TR  3   CH  2   Channel volume 73
+BA   16   CR 3+187/256   TR  4   CH  3   Channel volume 67
+BA   16   CR 3+377/512   TR  1   CH  1   Channel volume 52
+BA   16   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   16   CR 3+765/1024   TR  2   CH 10   NT  C--       129/512   voff=0
+BA   16   CR 3+765/1024   TR  5   CH  4   NT  B-        101/512   voff=0
+BA   16   CR 3+431/512   TR  3   CH  2   Channel volume 69
+BA   16   CR 3+431/512   TR  4   CH  3   Channel volume 63
+BA   16   CR 3+869/1024   TR  1   CH  1   Channel volume 50
+BA   16   CR   3+61/64   TR  3   CH  2   Channel volume 64
+BA   16   CR   3+61/64   TR  4   CH  3   Channel volume 58
+BA   16   CR 3+123/128   TR  1   CH  1   Channel volume 47
+
+BA   17   CR         0   TR  0   CH 16   Tempo 132
+BA   17   CR         0   TR  0   CH 16   End of track
+BA   17   CR         0   TR  1   CH  1   Channel volume 112
+BA   17   CR         0   TR  3   CH  2   Channel volume 116
+BA   17   CR         0   TR  4   CH  3   Channel volume 106
+BA   17   CR    3/1024   TR  1   CH  1   ST &B0 &65 &00
+BA   17   CR    3/1024   TR  1   CH  1   ST &B0 &64 &00
+BA   17   CR    3/1024   TR  2   CH 10   ST &B9 &65 &00
+BA   17   CR    3/1024   TR  2   CH 10   ST &B9 &64 &00
+BA   17   CR    3/1024   TR  3   CH  2   ST &B1 &65 &00
+BA   17   CR    3/1024   TR  3   CH  2   ST &B1 &64 &00
+BA   17   CR    3/1024   TR  4   CH  3   ST &B2 &65 &00
+BA   17   CR    3/1024   TR  4   CH  3   ST &B2 &64 &00
+BA   17   CR    3/1024   TR  5   CH  4   ST &B3 &65 &00
+BA   17   CR    3/1024   TR  5   CH  4   ST &B3 &64 &00
+BA   17   CR     1/256   TR  1   CH  1   ST &B0 &06 &0C
+BA   17   CR     1/256   TR  2   CH 10   ST &B9 &06 &0C
+BA   17   CR     1/256   TR  3   CH  2   ST &B1 &06 &0C
+BA   17   CR     1/256   TR  4   CH  3   ST &B2 &06 &0C
+BA   17   CR     1/256   TR  5   CH  4   ST &B3 &06 &0C
+BA   17   CR    5/1024   TR  1   CH  1   ST &B0 &26 &00
+BA   17   CR    5/1024   TR  2   CH 10   ST &B9 &26 &00
+BA   17   CR    5/1024   TR  3   CH  2   ST &B1 &26 &00
+BA   17   CR    5/1024   TR  4   CH  3   ST &B2 &26 &00
+BA   17   CR    5/1024   TR  5   CH  4   ST &B3 &26 &00
+BA   17   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA   17   CR     5/512   TR  5   CH  4   NT  E--      445/1024   von=69   voff=0
+BA   17   CR  257/1024   TR  3   CH  2   Channel volume 106
+BA   17   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   17   CR   273/512   TR  3   CH  2   NT  B        417/1024   von=57   voff=0
+BA   17   CR   273/512   TR  4   CH  3   NT  E        417/1024   von=52   voff=0
+BA   17   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   17   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   17   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   17   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   17   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   17   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   17   CR 1+537/1024   TR  2   CH 10   NT  C--      245/1024   von=64   voff=0
+BA   17   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   17   CR 1+397/512   TR  2   CH 10   NT  C--      513/1024   voff=0
+BA   17   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   17   CR 2+295/1024   TR  2   CH 10   NT  C--      235/1024   voff=0
+BA   17   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   17   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   17   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   17   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA   17   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   17   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   17   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   17   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   17   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+
+BA   18   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA   18   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   18   CR   163/512   TR  2   CH 10   NT  E---     727/1024   von=64   voff=0
+BA   18   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   18   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   18   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   18   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   18   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   18   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   18   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   18   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   18   CR 1+551/1024   TR  2   CH 10   NT  C--      231/1024   von=64   voff=0
+BA   18   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   18   CR 1+805/1024   TR  2   CH 10   NT  C--       251/512   voff=0
+BA   18   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   18   CR 2+307/1024   TR  2   CH 10   NT  C--      223/1024   voff=0
+BA   18   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   18   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   18   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   18   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   18   CR   3+3/256   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA   18   CR 3+35/1024   TR  2   CH 10   NT  E---     233/1024   von=65   voff=0
+BA   18   CR 3+273/1024   TR  2   CH 10   NT  C--      243/1024   von=64   voff=0
+BA   18   CR 3+293/1024   TR  2   CH 10   NT  E---     223/1024   voff=0
+BA   18   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA   18   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   18   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   18   CR 3+517/1024   TR  5   CH  4   NT  A--         13/32   von=64   voff=0
+BA   18   CR 3+535/1024   TR  2   CH 10   NT  F---       61/128   voff=0
+
+BA   19   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   19   CR   13/1024   TR  2   CH 10   NT  C--       133/256   von=69   voff=0
+BA   19   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   19   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   19   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   19   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   19   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   19   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   19   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   19   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   19   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   19   CR 1+545/1024   TR  2   CH 10   NT  C--      237/1024   von=64   voff=0
+BA   19   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   19   CR 1+405/512   TR  2   CH 10   NT  C--      497/1024   voff=0
+BA   19   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   19   CR  2+37/128   TR  2   CH 10   NT  C--       117/512   voff=0
+BA   19   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   19   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   19   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   19   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   19   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   19   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   19   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   19   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   19   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   20   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA   20   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   20   CR  315/1024   TR  2   CH 10   NT  E---      369/512   von=64   voff=0
+BA   20   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   20   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   20   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   20   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   20   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   20   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   20   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   20   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   20   CR 1+279/512   TR  2   CH 10   NT  C--          7/32   von=64   voff=0
+BA   20   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   20   CR 1+405/512   TR  2   CH 10   NT  C--      497/1024   voff=0
+BA   20   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   20   CR 2+309/1024   TR  2   CH 10   NT  C--      221/1024   voff=0
+BA   20   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   20   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   20   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   20   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA   20   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   20   CR    3+1/32   TR  2   CH 10   NT  E---       59/256   von=65   voff=0
+BA   20   CR 3+143/512   TR  2   CH 10   NT  C--       115/512   von=64   voff=0
+BA   20   CR 3+291/1024   TR  2   CH 10   NT  E---     225/1024   voff=0
+BA   20   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA   20   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   20   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   20   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   20   CR   3+33/64   TR  2   CH 10   NT  F---     495/1024   voff=0
+
+BA   21   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   21   CR     7/512   TR  2   CH 10   NT  C--      531/1024   von=69   voff=0
+BA   21   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   21   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   21   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   21   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   21   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   21   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   21   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   21   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   21   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   21   CR 1+541/1024   TR  2   CH 10   NT  C--      241/1024   von=64   voff=0
+BA   21   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   21   CR 1+807/1024   TR  2   CH 10   NT  C--       125/256   voff=0
+BA   21   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   21   CR 2+297/1024   TR  2   CH 10   NT  C--      233/1024   voff=0
+BA   21   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   21   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   21   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   21   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA   21   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   21   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   21   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   21   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   21   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+
+BA   22   CR     1/256   TR  2   CH 10   NT  C--        73/256   von=69   voff=0
+BA   22   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   22   CR   163/512   TR  2   CH 10   NT  E---     727/1024   von=64   voff=0
+BA   22   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   22   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   22   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   22   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   22   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   22   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   22   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   22   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   22   CR 1+269/512   TR  2   CH 10   NT  C--        61/256   von=64   voff=0
+BA   22   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   22   CR 1+789/1024   TR  2   CH 10   NT  C--       259/512   voff=0
+BA   22   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   22   CR 2+153/512   TR  2   CH 10   NT  C--          7/32   voff=0
+BA   22   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   22   CR 2+531/1024   TR  3   CH  2   NT  B         207/512   voff=0
+BA   22   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   22   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   22   CR   3+3/256   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA   22   CR   3+3/128   TR  2   CH 10   NT  E---       61/256   von=65   voff=0
+BA   22   CR 3+291/1024   TR  2   CH 10   NT  C--      225/1024   von=64   voff=0
+BA   22   CR  3+73/256   TR  2   CH 10   NT  E---         7/32   voff=0
+BA   22   CR 3+517/1024   TR  2   CH 10   NT  E---      253/512   voff=0
+BA   22   CR 3+517/1024   TR  3   CH  2   NT  B           13/32   voff=0
+BA   22   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   22   CR 3+517/1024   TR  5   CH  4   NT  A--         13/32   von=64   voff=0
+BA   22   CR 3+545/1024   TR  2   CH 10   NT  F---      239/512   voff=0
+
+BA   23   CR     1/256   TR  2   CH 10   NT  C--      541/1024   von=69   voff=0
+BA   23   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   23   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   23   CR   273/512   TR  3   CH  2   NT  B        417/1024   voff=0
+BA   23   CR   273/512   TR  4   CH  3   NT  E        417/1024   voff=0
+BA   23   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   23   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   23   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   23   CR 1+535/1024   TR  3   CH  2   NT  B        419/1024   voff=0
+BA   23   CR 1+535/1024   TR  4   CH  3   NT  E        419/1024   voff=0
+BA   23   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   23   CR   1+17/32   TR  2   CH 10   NT  C--       119/512   von=64   voff=0
+BA   23   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   23   CR 1+805/1024   TR  2   CH 10   NT  C--       251/512   voff=0
+BA   23   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   23   CR 2+301/1024   TR  2   CH 10   NT  C--      229/1024   voff=0
+BA   23   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   23   CR 2+531/1024   TR  3   CH  2   NT  C#'       207/512   voff=0
+BA   23   CR 2+531/1024   TR  4   CH  3   NT  E         207/512   voff=0
+BA   23   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   23   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   23   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   23   CR 3+517/1024   TR  3   CH  2   NT  C#'         13/32   voff=0
+BA   23   CR 3+517/1024   TR  4   CH  3   NT  E           13/32   voff=0
+BA   23   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   24   CR     1/256   TR  3   CH  2   NT  B         175/256   von=74   voff=0
+BA   24   CR     1/256   TR  5   CH  4   NT  B-        175/256   von=69   voff=0
+BA   24   CR    5/1024   TR  2   CH 10   NT  A#--     789/1024   von=69   voff=0
+BA   24   CR  795/1024   TR  3   CH  2   NT  A#       673/1024   von=69   voff=0
+BA   24   CR  795/1024   TR  5   CH  4   NT  A#-      673/1024   von=64   voff=0
+BA   24   CR  823/1024   TR  2   CH 10   NT  A#--     735/1024   von=64   voff=0
+BA   24   CR 1+535/1024   TR  2   CH 10   NT  A#--    1019/1024   voff=0
+BA   24   CR 1+535/1024   TR  3   CH  2   NT  A        929/1024   voff=0
+BA   24   CR 1+535/1024   TR  5   CH  4   NT  A-       929/1024   voff=0
+BA   24   CR  2+1/1024   TR  4   CH  3   Channel volume 96
+BA   24   CR 2+531/1024   TR  3   CH  2   NT  G         207/512   voff=0
+BA   24   CR 2+531/1024   TR  5   CH  4   NT  G-        207/512   voff=0
+BA   24   CR 2+135/256   TR  2   CH 10   NT  C--       119/512   voff=0
+BA   24   CR 2+779/1024   TR  2   CH 10   NT  C--           1/4   voff=0
+BA   24   CR   3+3/256   TR  3   CH  2   NT  E         207/512   von=70   voff=0
+BA   24   CR   3+3/256   TR  5   CH  4   NT  E-        207/512   von=65   voff=0
+BA   24   CR 3+13/1024   TR  2   CH 10   NT  E---     255/1024   von=65   voff=0
+BA   24   CR 3+141/512   TR  2   CH 10   NT  E---      117/512   von=64   voff=0
+BA   24   CR 3+517/1024   TR  3   CH  2   NT  D           13/32   von=69   voff=0
+BA   24   CR 3+517/1024   TR  5   CH  4   NT  D-          13/32   von=64   voff=0
+BA   24   CR 3+267/512   TR  2   CH 10   NT  C--       115/512   voff=0
+BA   24   CR   3+17/32   TR  2   CH 10   NT  E---       55/256   voff=0
+BA   24   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   24   CR     3+3/4   TR  2   CH 10   NT  C--      255/1024   voff=0
+
+BA   25   CR     1/256   TR  3   CH  2   NT  D'       1+55/128   von=74   voff=0
+BA   25   CR     1/256   TR  4   CH  3   NT  B        1+55/128   von=74   voff=0
+BA   25   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   25   CR   21/1024   TR  2   CH 10   NT  C--       131/256   von=69   voff=0
+BA   25   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   25   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   25   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   25   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   25   CR 1+535/1024   TR  3   CH  2   NT  C#'      191/1024   von=69   voff=0
+BA   25   CR 1+535/1024   TR  4   CH  3   NT  A        191/1024   von=69   voff=0
+BA   25   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   25   CR 1+271/512   TR  2   CH 10   NT  C--         15/64   von=64   voff=0
+BA   25   CR 1+783/1024   TR  3   CH  2   NT  D'       205/1024   voff=0
+BA   25   CR 1+783/1024   TR  4   CH  3   NT  B        205/1024   voff=0
+BA   25   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   25   CR 1+797/1024   TR  2   CH 10   NT  C--       255/512   voff=0
+BA   25   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA   25   CR 2+21/1024   TR  3   CH  2   NT  E'        231/256   von=72   voff=0
+BA   25   CR 2+21/1024   TR  4   CH  3   NT  C#'       231/256   von=72   voff=0
+BA   25   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   25   CR 2+149/512   TR  2   CH 10   NT  C--        29/128   voff=0
+BA   25   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   25   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   25   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   25   CR   3+3/256   TR  3   CH  2   NT  F#'      921/1024   von=70   voff=0
+BA   25   CR   3+3/256   TR  4   CH  3   NT  C#'       207/512   von=70   voff=0
+BA   25   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   25   CR 3+517/1024   TR  4   CH  3   NT  D'          13/32   von=69   voff=0
+BA   25   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   26   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   von=44   voff=0
+BA   26   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   26   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   26   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   26   CR      1/64   TR  2   CH 10   NT  C--      529/1024   von=69   voff=0
+BA   26   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   26   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   26   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   26   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   26   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   26   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   26   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   26   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   26   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   26   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   26   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   26   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   26   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   26   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   26   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   26   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   26   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   26   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   26   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   26   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   26   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   26   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   26   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   26   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   26   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   26   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   26   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   26   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   26   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   26   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   26   CR 1+561/1024   TR  2   CH 10   NT  C--      221/1024   von=64   voff=0
+BA   26   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   26   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   26   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   26   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   26   CR 1+795/1024   TR  2   CH 10   NT  C--           1/2   voff=0
+BA   26   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   26   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   26   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   26   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   26   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   26   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   26   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   26   CR 2+295/1024   TR  2   CH 10   NT  C--      235/1024   voff=0
+BA   26   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   26   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   26   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   26   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   26   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   26   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   26   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   26   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   26   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   26   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   26   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   26   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   26   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   26   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   26   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   26   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   26   CR 3+13/1024   TR  2   CH 10   NT  E---     503/1024   von=65   voff=0
+BA   26   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   26   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   26   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   26   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   26   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   26   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   26   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   26   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   26   CR 3+521/1024   TR  2   CH 10   NT  E---     243/1024   von=64   voff=0
+BA   26   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   26   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   26   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   26   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   26   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   26   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   26   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   27   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   27   CR     1/256   TR  4   CH  3   NT  D'        175/256   von=74   voff=0
+BA   27   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   27   CR   19/1024   TR  2   CH 10   NT  C--       263/512   von=69   voff=0
+BA   27   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   27   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   27   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   27   CR  795/1024   TR  4   CH  3   NT  C#'      673/1024   von=69   voff=0
+BA   27   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   27   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   27   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   27   CR 1+535/1024   TR  4   CH  3   NT  D'       419/1024   voff=0
+BA   27   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   27   CR 1+555/1024   TR  2   CH 10   NT  C--      227/1024   von=64   voff=0
+BA   27   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   27   CR 1+785/1024   TR  2   CH 10   NT  C--       261/512   voff=0
+BA   27   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   27   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA   27   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   27   CR 2+21/1024   TR  4   CH  3   NT  E'       667/1024   von=72   voff=0
+BA   27   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   27   CR 2+307/1024   TR  2   CH 10   NT  C--      223/1024   voff=0
+BA   27   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   27   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   27   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   27   CR 2+779/1024   TR  4   CH  3   NT  D'       671/1024   von=69   voff=0
+BA   27   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   27   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   27   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   27   CR 3+517/1024   TR  4   CH  3   NT  C#'         13/32   voff=0
+BA   27   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   28   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   voff=0
+BA   28   CR     1/256   TR  3   CH  2   NT  E'      3+929/1024   voff=0
+BA   28   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   28   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   28   CR   11/1024   TR  2   CH 10   NT  C--       267/512   von=69   voff=0
+BA   28   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   28   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   28   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   28   CR  331/1024   TR  3   CH  2   Channel volume 107
+BA   28   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   28   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   28   CR  451/1024   TR  3   CH  2   Channel volume 108
+BA   28   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   28   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   28   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   28   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   28   CR  571/1024   TR  3   CH  2   Channel volume 109
+BA   28   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   28   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   28   CR  691/1024   TR  3   CH  2   Channel volume 110
+BA   28   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   28   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   28   CR  811/1024   TR  3   CH  2   Channel volume 111
+BA   28   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   28   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   28   CR  931/1024   TR  3   CH  2   Channel volume 112
+BA   28   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   28   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   28   CR 1+27/1024   TR  3   CH  2   Channel volume 113
+BA   28   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   28   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   28   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   28   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   28   CR 1+147/1024   TR  3   CH  2   Channel volume 114
+BA   28   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   28   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   28   CR 1+267/1024   TR  3   CH  2   Channel volume 115
+BA   28   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   28   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   28   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   28   CR 1+261/512   TR  3   CH  2   Channel volume 116
+BA   28   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   28   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   28   CR 1+545/1024   TR  2   CH 10   NT  C--      237/1024   von=64   voff=0
+BA   28   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   28   CR 1+159/256   TR  3   CH  2   Channel volume 115
+BA   28   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   28   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   28   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   28   CR 1+789/1024   TR  2   CH 10   NT  C--       259/512   voff=0
+BA   28   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   28   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   28   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   28   CR  2+17/256   TR  3   CH  2   Channel volume 114
+BA   28   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   28   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   28   CR  2+71/256   TR  5   CH  4   NT  D-         95/512   voff=0
+BA   28   CR 2+293/1024   TR  2   CH 10   NT  C--      237/1024   voff=0
+BA   28   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   28   CR  2+37/128   TR  3   CH  2   Channel volume 113
+BA   28   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   28   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   28   CR 2+205/512   TR  3   CH  2   Channel volume 112
+BA   28   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   28   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   28   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   28   CR 2+531/1024   TR  5   CH  4   NT  B--       207/512   voff=0
+BA   28   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   28   CR 2+319/512   TR  3   CH  2   Channel volume 111
+BA   28   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   28   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   28   CR   2+47/64   TR  3   CH  2   Channel volume 110
+BA   28   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   28   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   28   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   28   CR 2+245/256   TR  3   CH  2   Channel volume 109
+BA   28   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   28   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   28   CR  3+19/512   TR  2   CH 10   NT  E---      239/512   von=65   voff=0
+BA   28   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   28   CR  3+35/512   TR  3   CH  2   Channel volume 108
+BA   28   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   28   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   28   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   28   CR 3+149/512   TR  3   CH  2   Channel volume 107
+BA   28   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   28   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   28   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   28   CR 3+259/512   TR  2   CH 10   NT  E---      123/512   von=64   voff=0
+BA   28   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   28   CR 3+263/512   TR  3   CH  2   Channel volume 106
+BA   28   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   28   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   28   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   28   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   28   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   28   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   29   CR     1/256   TR  3   CH  2   NT  D'       1+55/128   von=74   voff=0
+BA   29   CR     1/256   TR  4   CH  3   NT  B        1+55/128   von=74   voff=0
+BA   29   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   29   CR   23/1024   TR  2   CH 10   NT  C--       261/512   von=69   voff=0
+BA   29   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   29   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   29   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   29   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   29   CR 1+535/1024   TR  3   CH  2   NT  C#'      191/1024   von=69   voff=0
+BA   29   CR 1+535/1024   TR  4   CH  3   NT  A        191/1024   von=69   voff=0
+BA   29   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   29   CR 1+273/512   TR  2   CH 10   NT  C--        59/256   von=64   voff=0
+BA   29   CR 1+783/1024   TR  3   CH  2   NT  D'       205/1024   voff=0
+BA   29   CR 1+783/1024   TR  4   CH  3   NT  B        205/1024   voff=0
+BA   29   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   29   CR 1+803/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   29   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   29   CR  2+1/1024   TR  1   CH  1   Channel volume 59
+BA   29   CR 2+21/1024   TR  3   CH  2   NT  E'        231/256   von=72   voff=0
+BA   29   CR 2+21/1024   TR  4   CH  3   NT  C#'       231/256   von=72   voff=0
+BA   29   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   29   CR  2+39/128   TR  2   CH 10   NT  C--       109/512   voff=0
+BA   29   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   29   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   29   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   29   CR   3+3/256   TR  3   CH  2   NT  F#'      921/1024   von=70   voff=0
+BA   29   CR   3+3/256   TR  4   CH  3   NT  C#'       207/512   von=70   voff=0
+BA   29   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   29   CR 3+517/1024   TR  4   CH  3   NT  D'          13/32   von=69   voff=0
+BA   29   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   30   CR     1/256   TR  1   CH  1   NT  B       3+929/1024   voff=0
+BA   30   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   30   CR     1/256   TR  4   CH  3   NT  B       3+929/1024   voff=0
+BA   30   CR     1/256   TR  5   CH  4   NT  E--      451/1024   von=69   voff=0
+BA   30   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA   30   CR   91/1024   TR  1   CH  1   Channel volume 63
+BA   30   CR  211/1024   TR  1   CH  1   Channel volume 67
+BA   30   CR  331/1024   TR  1   CH  1   Channel volume 71
+BA   30   CR  331/1024   TR  4   CH  3   Channel volume 97
+BA   30   CR  451/1024   TR  1   CH  1   Channel volume 75
+BA   30   CR  451/1024   TR  4   CH  3   Channel volume 98
+BA   30   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   30   CR   273/512   TR  5   CH  4   NT  E-       417/1024   von=64   voff=0
+BA   30   CR  571/1024   TR  1   CH  1   Channel volume 79
+BA   30   CR  571/1024   TR  4   CH  3   Channel volume 99
+BA   30   CR  691/1024   TR  1   CH  1   Channel volume 83
+BA   30   CR  691/1024   TR  4   CH  3   Channel volume 100
+BA   30   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   30   CR  811/1024   TR  1   CH  1   Channel volume 87
+BA   30   CR  811/1024   TR  4   CH  3   Channel volume 101
+BA   30   CR  931/1024   TR  1   CH  1   Channel volume 91
+BA   30   CR  931/1024   TR  4   CH  3   Channel volume 102
+BA   30   CR 1+27/1024   TR  1   CH  1   Channel volume 95
+BA   30   CR 1+27/1024   TR  4   CH  3   Channel volume 103
+BA   30   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   30   CR  1+15/512   TR  5   CH  4   NT  E--       207/512   von=65   voff=0
+BA   30   CR 1+147/1024   TR  1   CH  1   Channel volume 99
+BA   30   CR 1+147/1024   TR  4   CH  3   Channel volume 104
+BA   30   CR 1+267/1024   TR  1   CH  1   Channel volume 103
+BA   30   CR 1+267/1024   TR  4   CH  3   Channel volume 105
+BA   30   CR 1+387/1024   TR  1   CH  1   Channel volume 107
+BA   30   CR 1+507/1024   TR  1   CH  1   Channel volume 112
+BA   30   CR 1+261/512   TR  4   CH  3   Channel volume 106
+BA   30   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   30   CR 1+535/1024   TR  5   CH  4   NT  E-       191/1024   von=64   voff=0
+BA   30   CR   1+35/64   TR  2   CH 10   NT  C--       111/512   von=64   voff=0
+BA   30   CR 1+159/256   TR  1   CH  1   Channel volume 109
+BA   30   CR 1+159/256   TR  4   CH  3   Channel volume 105
+BA   30   CR 1+375/512   TR  1   CH  1   Channel volume 106
+BA   30   CR 1+783/1024   TR  5   CH  4   NT  D-        117/256   voff=0
+BA   30   CR 1+203/256   TR  2   CH 10   NT  C--      495/1024   voff=0
+BA   30   CR   1+27/32   TR  1   CH  1   Channel volume 103
+BA   30   CR 1+489/512   TR  1   CH  1   Channel volume 101
+BA   30   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   30   CR  2+17/256   TR  1   CH  1   Channel volume 98
+BA   30   CR  2+17/256   TR  4   CH  3   Channel volume 104
+BA   30   CR  2+91/512   TR  1   CH  1   Channel volume 95
+BA   30   CR  2+71/256   TR  5   CH  4   NT  E--        95/512   voff=0
+BA   30   CR  2+37/128   TR  1   CH  1   Channel volume 92
+BA   30   CR  2+37/128   TR  2   CH 10   NT  C--       117/512   voff=0
+BA   30   CR  2+37/128   TR  4   CH  3   Channel volume 103
+BA   30   CR 2+205/512   TR  1   CH  1   Channel volume 90
+BA   30   CR 2+205/512   TR  4   CH  3   Channel volume 102
+BA   30   CR 2+131/256   TR  1   CH  1   Channel volume 87
+BA   30   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   30   CR 2+531/1024   TR  5   CH  4   NT  C#-       207/512   voff=0
+BA   30   CR 2+319/512   TR  1   CH  1   Channel volume 84
+BA   30   CR 2+319/512   TR  4   CH  3   Channel volume 101
+BA   30   CR   2+47/64   TR  1   CH  1   Channel volume 81
+BA   30   CR   2+47/64   TR  4   CH  3   Channel volume 100
+BA   30   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   30   CR 2+433/512   TR  1   CH  1   Channel volume 79
+BA   30   CR 2+245/256   TR  1   CH  1   Channel volume 76
+BA   30   CR 2+245/256   TR  4   CH  3   Channel volume 99
+BA   30   CR   3+3/256   TR  5   CH  4   NT  D-        207/512   von=65   voff=0
+BA   30   CR    3+1/32   TR  2   CH 10   NT  E---      121/256   von=65   voff=0
+BA   30   CR  3+35/512   TR  1   CH  1   Channel volume 73
+BA   30   CR  3+35/512   TR  4   CH  3   Channel volume 98
+BA   30   CR  3+23/128   TR  1   CH  1   Channel volume 70
+BA   30   CR 3+149/512   TR  1   CH  1   Channel volume 68
+BA   30   CR 3+149/512   TR  4   CH  3   Channel volume 97
+BA   30   CR 3+103/256   TR  1   CH  1   Channel volume 65
+BA   30   CR 3+517/1024   TR  3   CH  2   NT  F#'         13/32   voff=0
+BA   30   CR 3+517/1024   TR  5   CH  4   NT  E-          13/32   von=64   voff=0
+BA   30   CR 3+263/512   TR  1   CH  1   Channel volume 62
+BA   30   CR 3+263/512   TR  4   CH  3   Channel volume 96
+BA   30   CR 3+541/1024   TR  2   CH 10   NT  E---     223/1024   von=64   voff=0
+BA   30   CR     3+5/8   TR  1   CH  1   Channel volume 59
+BA   30   CR 3+377/512   TR  1   CH  1   Channel volume 57
+BA   30   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   30   CR 3+217/256   TR  1   CH  1   Channel volume 54
+BA   30   CR 3+491/512   TR  1   CH  1   Channel volume 51
+
+BA   31   CR     1/256   TR  3   CH  2   NT  G'        175/256   von=74   voff=0
+BA   31   CR     1/256   TR  4   CH  3   NT  D'        175/256   von=74   voff=0
+BA   31   CR     1/256   TR  5   CH  4   NT  G--      451/1024   von=69   voff=0
+BA   31   CR     1/128   TR  2   CH 10   NT  C--      537/1024   von=69   voff=0
+BA   31   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   31   CR   273/512   TR  5   CH  4   NT  G-       417/1024   von=64   voff=0
+BA   31   CR  795/1024   TR  3   CH  2   NT  F#'      673/1024   von=69   voff=0
+BA   31   CR  795/1024   TR  4   CH  3   NT  C#'      673/1024   von=69   voff=0
+BA   31   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   31   CR  1+15/512   TR  5   CH  4   NT  G--       207/512   von=65   voff=0
+BA   31   CR 1+535/1024   TR  3   CH  2   NT  G'       419/1024   voff=0
+BA   31   CR 1+535/1024   TR  4   CH  3   NT  D'       419/1024   voff=0
+BA   31   CR 1+535/1024   TR  5   CH  4   NT  G-       191/1024   von=64   voff=0
+BA   31   CR 1+543/1024   TR  2   CH 10   NT  C--      239/1024   von=64   voff=0
+BA   31   CR 1+783/1024   TR  5   CH  4   NT  A--       117/256   voff=0
+BA   31   CR 1+787/1024   TR  2   CH 10   NT  C--        65/128   voff=0
+BA   31   CR 1+495/512   TR  1   CH  1   Channel volume 112
+BA   31   CR 2+21/1024   TR  3   CH  2   NT  A'       667/1024   von=72   voff=0
+BA   31   CR 2+21/1024   TR  4   CH  3   NT  E'       667/1024   von=72   voff=0
+BA   31   CR  2+71/256   TR  5   CH  4   NT  A--        95/512   voff=0
+BA   31   CR 2+153/512   TR  2   CH 10   NT  C--          7/32   voff=0
+BA   31   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   31   CR 2+531/1024   TR  5   CH  4   NT  A-        207/512   voff=0
+BA   31   CR 2+779/1024   TR  3   CH  2   NT  G'       671/1024   von=69   voff=0
+BA   31   CR 2+779/1024   TR  4   CH  3   NT  D'       671/1024   von=69   voff=0
+BA   31   CR   3+3/256   TR  2   CH 10   NT  E---    1011/1024   von=65   voff=0
+BA   31   CR   3+3/256   TR  5   CH  4   NT  A--       207/512   von=65   voff=0
+BA   31   CR 3+517/1024   TR  3   CH  2   NT  A'          13/32   voff=0
+BA   31   CR 3+517/1024   TR  4   CH  3   NT  C#'         13/32   voff=0
+BA   31   CR 3+517/1024   TR  5   CH  4   NT  A-          13/32   von=64   voff=0
+
+BA   32   CR     1/256   TR  1   CH  1   NT  D#'      1+55/128   von=41   voff=0
+BA   32   CR     1/256   TR  3   CH  2   NT  F#'      1+55/128   von=74   voff=0
+BA   32   CR     1/256   TR  4   CH  3   NT  D#'      1+55/128   von=74   voff=0
+BA   32   CR     1/256   TR  5   CH  4   NT  B--      451/1024   von=69   voff=0
+BA   32   CR     5/512   TR  2   CH 10   NT  C--      535/1024   von=69   voff=0
+BA   32   CR   273/512   TR  2   CH 10   NT  C--      507/1024   von=64   voff=0
+BA   32   CR   273/512   TR  5   CH  4   NT  B-       417/1024   von=64   voff=0
+BA   32   CR  1+15/512   TR  2   CH 10   NT  E---       63/128   von=65   voff=0
+BA   32   CR  1+15/512   TR  5   CH  4   NT  B--       207/512   von=65   voff=0
+BA   32   CR 1+535/1024   TR  1   CH  1   NT  B       2+199/512   von=36   voff=0
+BA   32   CR 1+535/1024   TR  3   CH  2   NT  D#'     2+199/512   von=69   voff=0
+BA   32   CR 1+535/1024   TR  4   CH  3   NT  B       2+199/512   von=69   voff=0
+BA   32   CR 1+535/1024   TR  5   CH  4   NT  B-       419/1024   von=64   voff=0
+BA   32   CR 1+539/1024   TR  2   CH 10   NT  C--      243/1024   von=64   voff=0
+BA   32   CR 1+617/1024   TR  1   CH  1   Channel volume 109
+BA   32   CR 1+183/256   TR  1   CH  1   Channel volume 106
+BA   32   CR 1+791/1024   TR  2   CH 10   NT  C--       129/256   voff=0
+BA   32   CR 1+211/256   TR  3   CH  2   Channel volume 107
+BA   32   CR 1+211/256   TR  4   CH  3   Channel volume 97
+BA   32   CR 1+847/1024   TR  1   CH  1   Channel volume 103
+BA   32   CR 1+479/512   TR  3   CH  2   Channel volume 109
+BA   32   CR 1+479/512   TR  4   CH  3   Channel volume 99
+BA   32   CR 1+481/512   TR  1   CH  1   Channel volume 100
+BA   32   CR 2+21/1024   TR  5   CH  4   NT  B--       103/512   von=67   voff=0
+BA   32   CR    2+3/64   TR  3   CH  2   Channel volume 110
+BA   32   CR    2+3/64   TR  4   CH  3   Channel volume 100
+BA   32   CR 2+53/1024   TR  1   CH  1   Channel volume 97
+BA   32   CR  2+81/512   TR  3   CH  2   Channel volume 111
+BA   32   CR  2+81/512   TR  4   CH  3   Channel volume 101
+BA   32   CR  2+21/128   TR  1   CH  1   Channel volume 94
+BA   32   CR  2+69/256   TR  3   CH  2   Channel volume 113
+BA   32   CR  2+69/256   TR  4   CH  3   Channel volume 103
+BA   32   CR 2+283/1024   TR  1   CH  1   Channel volume 91
+BA   32   CR  2+71/256   TR  5   CH  4   NT  B--        95/512   von=64   voff=0
+BA   32   CR 2+145/512   TR  2   CH 10   NT  C--         15/64   voff=0
+BA   32   CR 2+195/512   TR  3   CH  2   Channel volume 114
+BA   32   CR 2+195/512   TR  4   CH  3   Channel volume 104
+BA   32   CR 2+199/512   TR  1   CH  1   Channel volume 88
+BA   32   CR  2+63/128   TR  3   CH  2   Channel volume 115
+BA   32   CR  2+63/128   TR  4   CH  3   Channel volume 105
+BA   32   CR 2+513/1024   TR  1   CH  1   Channel volume 85
+BA   32   CR 2+531/1024   TR  2   CH 10   NT  C--        63/128   voff=0
+BA   32   CR 2+531/1024   TR  5   CH  4   NT  B-       191/1024   voff=0
+BA   32   CR 2+157/256   TR  1   CH  1   Channel volume 82
+BA   32   CR 2+743/1024   TR  1   CH  1   Channel volume 79
+BA   32   CR 2+373/512   TR  3   CH  2   Channel volume 116
+BA   32   CR 2+373/512   TR  4   CH  3   Channel volume 106
+BA   32   CR 2+779/1024   TR  5   CH  4   NT  B-         25/128   voff=0
+BA   32   CR 2+429/512   TR  1   CH  1   Channel volume 76
+BA   32   CR 2+215/256   TR  3   CH  2   Channel volume 111
+BA   32   CR 2+215/256   TR  4   CH  3   Channel volume 101
+BA   32   CR 2+973/1024   TR  1   CH  1   Channel volume 73
+BA   32   CR 2+487/512   TR  3   CH  2   Channel volume 107
+BA   32   CR 2+487/512   TR  4   CH  3   Channel volume 97
+BA   32   CR   3+3/256   TR  5   CH  4   NT  B--        25/128   von=65   voff=0
+BA   32   CR   3+7/256   TR  2   CH 10   NT  E---        15/64   von=65   voff=0
+BA   32   CR    3+1/16   TR  1   CH  1   Channel volume 70
+BA   32   CR    3+1/16   TR  3   CH  2   Channel volume 101
+BA   32   CR    3+1/16   TR  4   CH  3   Channel volume 93
+BA   32   CR  3+89/512   TR  3   CH  2   Channel volume 97
+BA   32   CR  3+89/512   TR  4   CH  3   Channel volume 89
+BA   32   CR 3+179/1024   TR  1   CH  1   Channel volume 67
+BA   32   CR 3+269/1024   TR  5   CH  4   NT  B--      191/1024   von=64   voff=0
+BA   32   CR 3+145/512   TR  2   CH 10   NT  E---      113/512   von=64   voff=0
+BA   32   CR  3+73/256   TR  3   CH  2   Channel volume 92
+BA   32   CR  3+73/256   TR  4   CH  3   Channel volume 84
+BA   32   CR 3+147/512   TR  1   CH  1   Channel volume 64
+BA   32   CR 3+203/512   TR  3   CH  2   Channel volume 88
+BA   32   CR 3+203/512   TR  4   CH  3   Channel volume 80
+BA   32   CR 3+409/1024   TR  1   CH  1   Channel volume 61
+BA   32   CR 3+517/1024   TR  5   CH  4   NT  B-       191/1024   voff=0
+BA   32   CR  3+65/128   TR  3   CH  2   Channel volume 83
+BA   32   CR  3+65/128   TR  4   CH  3   Channel volume 76
+BA   32   CR 3+261/512   TR  2   CH 10   NT  E---      121/512   voff=0
+BA   32   CR 3+131/256   TR  1   CH  1   Channel volume 58
+BA   32   CR 3+273/512   TR  2   CH 10   NT  C--       109/512   voff=0
+BA   32   CR 3+317/512   TR  3   CH  2   Channel volume 79
+BA   32   CR 3+317/512   TR  4   CH  3   Channel volume 72
+BA   32   CR 3+639/1024   TR  1   CH  1   Channel volume 55
+BA   32   CR 3+187/256   TR  3   CH  2   Channel volume 73
+BA   32   CR 3+187/256   TR  4   CH  3   Channel volume 67
+BA   32   CR 3+377/512   TR  1   CH  1   Channel volume 52
+BA   32   CR 3+765/1024   TR  2   CH 10   NT  E---      129/512   voff=0
+BA   32   CR 3+765/1024   TR  2   CH 10   NT  C--       129/512   voff=0
+BA   32   CR 3+765/1024   TR  5   CH  4   NT  B-        101/512   voff=0
+BA   32   CR 3+431/512   TR  3   CH  2   Channel volume 69
+BA   32   CR 3+431/512   TR  4   CH  3   Channel volume 63
+BA   32   CR 3+869/1024   TR  1   CH  1   Channel volume 50
+BA   32   CR 3+967/1024   TR  5   CH 16   End of track
+BA   32   CR   3+61/64   TR  3   CH  2   Channel volume 64
+BA   32   CR   3+61/64   TR  3   CH 16   End of track
+BA   32   CR   3+61/64   TR  4   CH  3   Channel volume 58
+BA   32   CR   3+61/64   TR  4   CH 16   End of track
+BA   32   CR 3+123/128   TR  1   CH  1   Channel volume 47
+BA   32   CR 3+123/128   TR  1   CH 16   End of track
+BA   32   CR 3+1023/1024   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 58.1813 seconds

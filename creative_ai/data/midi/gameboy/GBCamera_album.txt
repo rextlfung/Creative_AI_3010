@@ -1,0 +1,437 @@
+format=1 tracks=4 division=100
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 49 46 49 50 46 48 55
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  0   CH 16   Text type 3: "MIDI by Drag"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "untitled"
+BA    1   CR         0   TR  0   CH  1   Instrument 35
+BA    1   CR         0   TR  0   CH  1   NT  G#          12/25   von=127
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Gameboy Camera -- Album Viewer"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH 16   Text type 3: "The song only SOUNDS complicated, but"
+BA    1   CR         0   TR  2   CH  3   Instrument 29
+BA    1   CR         0   TR  2   CH  3   NT  B--         12/25   von=127
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 64 64
+BA    1   CR         0   TR  3   CH 10   Instrument 1
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH 16   Text type 3: "each channel plays a really simple tune! ;)"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  3   CH 10   NT  C--         12/25   von=127
+BA    1   CR     12/25   TR  1   CH  2   Instrument 27
+BA    1   CR     12/25   TR  1   CH  2   NT  F#--         7/25   von=127
+BA    1   CR     19/25   TR  0   CH  1   NT  G#-         12/25
+BA    1   CR     19/25   TR  3   CH 10   NT  C--         12/25
+BA    1   CR    1+6/25   TR  1   CH  2   NT  F#-          7/25
+BA    1   CR   1+13/25   TR  0   CH  1   NT  Eb'         12/25
+BA    1   CR   1+13/25   TR  2   CH  3   NT  B--         12/25
+BA    1   CR    2+7/25   TR  0   CH  1   NT  G#-         12/25
+BA    1   CR    2+7/25   TR  2   CH  3   NT  B-          12/25
+BA    1   CR   2+19/25   TR  1   CH  2   NT  F#           7/25
+BA    1   CR    3+1/25   TR  0   CH  1   NT  G#          12/25
+BA    1   CR    3+1/25   TR  2   CH  3   NT  B--         12/25
+BA    1   CR    3+1/25   TR  3   CH 10   NT  C--         12/25
+BA    1   CR   3+13/25   TR  1   CH  2   NT  F#--         7/25
+BA    1   CR     3+4/5   TR  0   CH  1   NT  G#-         12/25
+BA    1   CR     3+4/5   TR  3   CH 10   NT  C--         12/25
+
+BA    2   CR      7/25   TR  1   CH  2   NT  F#-          7/25
+BA    2   CR     14/25   TR  0   CH  1   NT  Eb'         12/25
+BA    2   CR     14/25   TR  2   CH  3   NT  B--         12/25
+BA    2   CR    1+8/25   TR  0   CH  1   NT  G#-         12/25
+BA    2   CR    1+8/25   TR  2   CH  3   NT  B-          12/25
+BA    2   CR     1+4/5   TR  1   CH  2   NT  F#           7/25
+BA    2   CR    2+2/25   TR  0   CH  1   NT  G#          12/25
+BA    2   CR    2+2/25   TR  2   CH  3   NT  E-          12/25
+BA    2   CR    2+2/25   TR  3   CH 10   NT  C--         12/25
+BA    2   CR   2+14/25   TR  1   CH  2   NT  F#-          7/25
+BA    2   CR   2+21/25   TR  0   CH  1   NT  G#-         12/25
+BA    2   CR    3+8/25   TR  1   CH  2   NT  F#           7/25
+BA    2   CR     3+3/5   TR  0   CH  1   NT  Eb'         12/25
+BA    2   CR     3+3/5   TR  2   CH  3   NT  E-          12/25
+BA    2   CR     3+3/5   TR  3   CH 10   NT  C--         12/25
+
+BA    3   CR      9/25   TR  0   CH  1   NT  G#-         12/25
+BA    3   CR      9/25   TR  2   CH  3   NT  E           12/25
+BA    3   CR     21/25   TR  1   CH  2   NT  F#'          7/25
+BA    3   CR    1+3/25   TR  0   CH  1   NT  G#          12/25
+BA    3   CR    1+3/25   TR  2   CH  3   NT  E-          12/25
+BA    3   CR    1+3/25   TR  3   CH 10   NT  C--         12/25
+BA    3   CR     1+3/5   TR  1   CH  2   NT  F#-          7/25
+BA    3   CR   1+22/25   TR  0   CH  1   NT  G#-         12/25
+BA    3   CR    2+9/25   TR  1   CH  2   NT  F#           7/25
+BA    3   CR   2+16/25   TR  0   CH  1   NT  Eb'         12/25
+BA    3   CR   2+16/25   TR  2   CH  3   NT  E-          12/25
+BA    3   CR   2+16/25   TR  3   CH 10   NT  C--         12/25
+BA    3   CR     3+2/5   TR  0   CH  1   NT  G#-         12/25
+BA    3   CR     3+2/5   TR  2   CH  3   NT  E           12/25
+BA    3   CR   3+22/25   TR  1   CH  2   NT  F#'          7/25
+
+BA    4   CR      4/25   TR  0   CH  1   NT  G#          12/25
+BA    4   CR      4/25   TR  2   CH  3   NT  B--         12/25
+BA    4   CR      4/25   TR  3   CH 10   NT  C--         12/25
+BA    4   CR     16/25   TR  1   CH  2   NT  F#--         7/25
+BA    4   CR     23/25   TR  0   CH  1   NT  G#-         12/25
+BA    4   CR     23/25   TR  3   CH 10   NT  C--         12/25
+BA    4   CR     1+2/5   TR  1   CH  2   NT  F#-          7/25
+BA    4   CR   1+17/25   TR  0   CH  1   NT  Eb'         12/25
+BA    4   CR   1+17/25   TR  2   CH  3   NT  B--         12/25
+BA    4   CR   2+11/25   TR  0   CH  1   NT  G#-         12/25
+BA    4   CR   2+11/25   TR  2   CH  3   NT  B-          12/25
+BA    4   CR   2+23/25   TR  1   CH  2   NT  F#           7/25
+BA    4   CR     3+1/5   TR  0   CH  1   NT  G#          12/25
+BA    4   CR     3+1/5   TR  2   CH  3   NT  B--         12/25
+BA    4   CR     3+1/5   TR  3   CH 10   NT  C--         12/25
+BA    4   CR   3+17/25   TR  1   CH  2   NT  F#--         7/25
+BA    4   CR   3+24/25   TR  0   CH  1   NT  G#-         12/25
+BA    4   CR   3+24/25   TR  3   CH 10   NT  C--         12/25
+
+BA    5   CR     11/25   TR  1   CH  2   NT  F#-          7/25
+BA    5   CR     18/25   TR  0   CH  1   NT  Eb'         12/25
+BA    5   CR     18/25   TR  2   CH  3   NT  B--         12/25
+BA    5   CR   1+12/25   TR  0   CH  1   NT  G#-         12/25
+BA    5   CR   1+12/25   TR  2   CH  3   NT  B-          12/25
+BA    5   CR   1+24/25   TR  1   CH  2   NT  F#           7/25
+BA    5   CR    2+6/25   TR  0   CH  1   NT  G#          12/25
+BA    5   CR    2+6/25   TR  2   CH  3   NT  E-          12/25
+BA    5   CR    2+6/25   TR  3   CH 10   NT  C--         12/25
+BA    5   CR   2+18/25   TR  1   CH  2   NT  F#-          7/25
+BA    5   CR         3   TR  0   CH  1   NT  G#-         12/25
+BA    5   CR   3+12/25   TR  1   CH  2   NT  F#           7/25
+BA    5   CR   3+19/25   TR  0   CH  1   NT  Eb'         12/25
+BA    5   CR   3+19/25   TR  2   CH  3   NT  E-          12/25
+BA    5   CR   3+19/25   TR  3   CH 10   NT  C--         12/25
+
+BA    6   CR     13/25   TR  0   CH  1   NT  G#-         12/25
+BA    6   CR     13/25   TR  2   CH  3   NT  E           12/25
+BA    6   CR         1   TR  1   CH  2   NT  F#'          7/25
+BA    6   CR    1+7/25   TR  0   CH  1   NT  G#          12/25
+BA    6   CR    1+7/25   TR  2   CH  3   NT  E-          12/25
+BA    6   CR    1+7/25   TR  3   CH 10   NT  C--         12/25
+BA    6   CR   1+19/25   TR  1   CH  2   NT  F#-          7/25
+BA    6   CR    2+1/25   TR  0   CH  1   NT  G#-         12/25
+BA    6   CR   2+13/25   TR  1   CH  2   NT  F#           7/25
+BA    6   CR     2+4/5   TR  0   CH  1   NT  Eb'         12/25
+BA    6   CR     2+4/5   TR  2   CH  3   NT  E-          12/25
+BA    6   CR     2+4/5   TR  3   CH 10   NT  C--         12/25
+BA    6   CR   3+14/25   TR  0   CH  1   NT  G#-         12/25
+BA    6   CR   3+14/25   TR  2   CH  3   NT  E           12/25
+
+BA    7   CR      1/25   TR  1   CH  2   NT  F#'          7/25
+BA    7   CR      8/25   TR  0   CH  1   NT  G#          12/25
+BA    7   CR      8/25   TR  2   CH  3   NT  B--         12/25
+BA    7   CR      8/25   TR  3   CH 10   NT  C--         12/25
+BA    7   CR       4/5   TR  1   CH  2   NT  F#--         7/25
+BA    7   CR    1+2/25   TR  0   CH  1   NT  G#-         12/25
+BA    7   CR    1+2/25   TR  3   CH 10   NT  C--         12/25
+BA    7   CR   1+14/25   TR  1   CH  2   NT  F#-          7/25
+BA    7   CR   1+21/25   TR  0   CH  1   NT  Eb'         12/25
+BA    7   CR   1+21/25   TR  2   CH  3   NT  B--         12/25
+BA    7   CR     2+3/5   TR  0   CH  1   NT  G#-         12/25
+BA    7   CR     2+3/5   TR  2   CH  3   NT  B-          12/25
+BA    7   CR    3+2/25   TR  1   CH  2   NT  F#           7/25
+BA    7   CR    3+9/25   TR  0   CH  1   NT  G#          12/25
+BA    7   CR    3+9/25   TR  2   CH  3   NT  B--         12/25
+BA    7   CR    3+9/25   TR  3   CH 10   NT  C--         12/25
+BA    7   CR   3+21/25   TR  1   CH  2   NT  F#--         7/25
+
+BA    8   CR      3/25   TR  0   CH  1   NT  G#-         12/25
+BA    8   CR      3/25   TR  3   CH 10   NT  C--         12/25
+BA    8   CR       3/5   TR  1   CH  2   NT  F#-          7/25
+BA    8   CR     22/25   TR  0   CH  1   NT  Eb'         12/25
+BA    8   CR     22/25   TR  2   CH  3   NT  B--         12/25
+BA    8   CR   1+16/25   TR  0   CH  1   NT  G#-         12/25
+BA    8   CR   1+16/25   TR  2   CH  3   NT  B-          12/25
+BA    8   CR    2+3/25   TR  1   CH  2   NT  F#           7/25
+BA    8   CR     2+2/5   TR  0   CH  1   NT  G#          12/25
+BA    8   CR     2+2/5   TR  2   CH  3   NT  E-          12/25
+BA    8   CR     2+2/5   TR  3   CH 10   NT  C--         12/25
+BA    8   CR   2+22/25   TR  1   CH  2   NT  F#-          7/25
+BA    8   CR    3+4/25   TR  0   CH  1   NT  G#-         12/25
+BA    8   CR   3+16/25   TR  1   CH  2   NT  F#           7/25
+BA    8   CR   3+23/25   TR  0   CH  1   NT  Eb'         12/25
+BA    8   CR   3+23/25   TR  2   CH  3   NT  E-          12/25
+BA    8   CR   3+23/25   TR  3   CH 10   NT  C--         12/25
+
+BA    9   CR     17/25   TR  0   CH  1   NT  G#-         12/25
+BA    9   CR     17/25   TR  2   CH  3   NT  E           12/25
+BA    9   CR    1+4/25   TR  1   CH  2   NT  F#'          7/25
+BA    9   CR   1+11/25   TR  0   CH  1   NT  G#          12/25
+BA    9   CR   1+11/25   TR  2   CH  3   NT  E-          12/25
+BA    9   CR   1+11/25   TR  3   CH 10   NT  C--         12/25
+BA    9   CR   1+23/25   TR  1   CH  2   NT  F#-          7/25
+BA    9   CR     2+1/5   TR  0   CH  1   NT  G#-         12/25
+BA    9   CR   2+17/25   TR  1   CH  2   NT  F#           7/25
+BA    9   CR   2+24/25   TR  0   CH  1   NT  Eb'         12/25
+BA    9   CR   2+24/25   TR  2   CH  3   NT  E-          12/25
+BA    9   CR   2+24/25   TR  3   CH 10   NT  C--         12/25
+BA    9   CR   3+18/25   TR  0   CH  1   NT  G#-         12/25
+BA    9   CR   3+18/25   TR  2   CH  3   NT  E           12/25
+
+BA   10   CR       1/5   TR  1   CH  2   NT  F#'          7/25
+BA   10   CR     12/25   TR  0   CH  1   NT  G#          12/25
+BA   10   CR     12/25   TR  2   CH  3   NT  B--         12/25
+BA   10   CR     12/25   TR  3   CH 10   NT  C--         12/25
+BA   10   CR     24/25   TR  1   CH  2   NT  F#--         7/25
+BA   10   CR    1+6/25   TR  0   CH  1   NT  G#-         12/25
+BA   10   CR    1+6/25   TR  3   CH 10   NT  C--         12/25
+BA   10   CR   1+18/25   TR  1   CH  2   NT  F#-          7/25
+BA   10   CR         2   TR  0   CH  1   NT  Eb'         12/25
+BA   10   CR         2   TR  2   CH  3   NT  B--         12/25
+BA   10   CR   2+19/25   TR  0   CH  1   NT  G#-         12/25
+BA   10   CR   2+19/25   TR  2   CH  3   NT  B-          12/25
+BA   10   CR    3+6/25   TR  1   CH  2   NT  F#           7/25
+BA   10   CR   3+13/25   TR  0   CH  1   NT  G#          12/25
+BA   10   CR   3+13/25   TR  2   CH  3   NT  B--         12/25
+BA   10   CR   3+13/25   TR  3   CH 10   NT  C--         12/25
+
+BA   11   CR         0   TR  1   CH  2   NT  F#--         7/25
+BA   11   CR      7/25   TR  0   CH  1   NT  G#-         12/25
+BA   11   CR      7/25   TR  3   CH 10   NT  C--         12/25
+BA   11   CR     19/25   TR  1   CH  2   NT  F#-          7/25
+BA   11   CR    1+1/25   TR  0   CH  1   NT  Eb'         12/25
+BA   11   CR    1+1/25   TR  2   CH  3   NT  B--         12/25
+BA   11   CR     1+4/5   TR  0   CH  1   NT  G#-         12/25
+BA   11   CR     1+4/5   TR  2   CH  3   NT  B-          12/25
+BA   11   CR    2+7/25   TR  1   CH  2   NT  F#           7/25
+BA   11   CR   2+14/25   TR  0   CH  1   NT  G#          12/25
+BA   11   CR   2+14/25   TR  2   CH  3   NT  E-          12/25
+BA   11   CR   2+14/25   TR  3   CH 10   NT  C--         12/25
+BA   11   CR    3+1/25   TR  1   CH  2   NT  F#-          7/25
+BA   11   CR    3+8/25   TR  0   CH  1   NT  G#-         12/25
+BA   11   CR     3+4/5   TR  1   CH  2   NT  F#           7/25
+
+BA   12   CR      2/25   TR  0   CH  1   NT  Eb'         12/25
+BA   12   CR      2/25   TR  2   CH  3   NT  E-          12/25
+BA   12   CR      2/25   TR  3   CH 10   NT  C--         12/25
+BA   12   CR     21/25   TR  0   CH  1   NT  G#-         12/25
+BA   12   CR     21/25   TR  2   CH  3   NT  E           12/25
+BA   12   CR    1+8/25   TR  1   CH  2   NT  F#'          7/25
+BA   12   CR     1+3/5   TR  0   CH  1   NT  G#          12/25
+BA   12   CR     1+3/5   TR  2   CH  3   NT  E-          12/25
+BA   12   CR     1+3/5   TR  3   CH 10   NT  C--         12/25
+BA   12   CR    2+2/25   TR  1   CH  2   NT  F#-          7/25
+BA   12   CR    2+9/25   TR  0   CH  1   NT  G#-         12/25
+BA   12   CR   2+21/25   TR  1   CH  2   NT  F#           7/25
+BA   12   CR    3+3/25   TR  0   CH  1   NT  Eb'         12/25
+BA   12   CR    3+3/25   TR  2   CH  3   NT  E-          12/25
+BA   12   CR    3+3/25   TR  3   CH 10   NT  C--         12/25
+BA   12   CR   3+22/25   TR  0   CH  1   NT  G#-         12/25
+BA   12   CR   3+22/25   TR  2   CH  3   NT  E           12/25
+
+BA   13   CR      9/25   TR  1   CH  2   NT  F#'          7/25
+BA   13   CR     16/25   TR  0   CH  1   NT  G#          12/25
+BA   13   CR     16/25   TR  2   CH  3   NT  B--         12/25
+BA   13   CR     16/25   TR  3   CH 10   NT  C--         12/25
+BA   13   CR    1+3/25   TR  1   CH  2   NT  F#--         7/25
+BA   13   CR     1+2/5   TR  0   CH  1   NT  G#-         12/25
+BA   13   CR     1+2/5   TR  3   CH 10   NT  C--         12/25
+BA   13   CR   1+22/25   TR  1   CH  2   NT  F#-          7/25
+BA   13   CR    2+4/25   TR  0   CH  1   NT  Eb'         12/25
+BA   13   CR    2+4/25   TR  2   CH  3   NT  B--         12/25
+BA   13   CR   2+23/25   TR  0   CH  1   NT  G#-         12/25
+BA   13   CR   2+23/25   TR  2   CH  3   NT  B-          12/25
+BA   13   CR     3+2/5   TR  1   CH  2   NT  F#           7/25
+BA   13   CR   3+17/25   TR  0   CH  1   NT  G#          12/25
+BA   13   CR   3+17/25   TR  2   CH  3   NT  B--         12/25
+BA   13   CR   3+17/25   TR  3   CH 10   NT  C--         12/25
+
+BA   14   CR      4/25   TR  1   CH  2   NT  F#--         7/25
+BA   14   CR     11/25   TR  0   CH  1   NT  G#-         12/25
+BA   14   CR     11/25   TR  3   CH 10   NT  C--         12/25
+BA   14   CR     23/25   TR  1   CH  2   NT  F#-          7/25
+BA   14   CR     1+1/5   TR  0   CH  1   NT  Eb'         12/25
+BA   14   CR     1+1/5   TR  2   CH  3   NT  B--         12/25
+BA   14   CR   1+24/25   TR  0   CH  1   NT  G#-         12/25
+BA   14   CR   1+24/25   TR  2   CH  3   NT  B-          12/25
+BA   14   CR   2+11/25   TR  1   CH  2   NT  F#           7/25
+BA   14   CR   2+18/25   TR  0   CH  1   NT  G#          12/25
+BA   14   CR   2+18/25   TR  2   CH  3   NT  E-          12/25
+BA   14   CR   2+18/25   TR  3   CH 10   NT  C--         12/25
+BA   14   CR     3+1/5   TR  1   CH  2   NT  F#-          7/25
+BA   14   CR   3+12/25   TR  0   CH  1   NT  G#-         12/25
+BA   14   CR   3+24/25   TR  1   CH  2   NT  F#           7/25
+
+BA   15   CR      6/25   TR  0   CH  1   NT  Eb'         12/25
+BA   15   CR      6/25   TR  2   CH  3   NT  E-          12/25
+BA   15   CR      6/25   TR  3   CH 10   NT  C--         12/25
+BA   15   CR         1   TR  0   CH  1   NT  G#-         12/25
+BA   15   CR         1   TR  2   CH  3   NT  E           12/25
+BA   15   CR   1+12/25   TR  1   CH  2   NT  F#'          7/25
+BA   15   CR   1+19/25   TR  0   CH  1   NT  G#          12/25
+BA   15   CR   1+19/25   TR  2   CH  3   NT  E-          12/25
+BA   15   CR   1+19/25   TR  3   CH 10   NT  C--         12/25
+BA   15   CR    2+6/25   TR  1   CH  2   NT  F#-          7/25
+BA   15   CR   2+13/25   TR  0   CH  1   NT  G#-         12/25
+BA   15   CR         3   TR  1   CH  2   NT  F#           7/25
+BA   15   CR    3+7/25   TR  0   CH  1   NT  Eb'         12/25
+BA   15   CR    3+7/25   TR  2   CH  3   NT  E-          12/25
+BA   15   CR    3+7/25   TR  3   CH 10   NT  C--         12/25
+
+BA   16   CR      1/25   TR  0   CH  1   NT  G#-         12/25
+BA   16   CR      1/25   TR  2   CH  3   NT  E           12/25
+BA   16   CR     13/25   TR  1   CH  2   NT  F#'          7/25
+BA   16   CR       4/5   TR  0   CH  1   NT  G#          12/25
+BA   16   CR       4/5   TR  2   CH  3   NT  B--         12/25
+BA   16   CR       4/5   TR  3   CH 10   NT  C--         12/25
+BA   16   CR    1+7/25   TR  1   CH  2   NT  F#--         7/25
+BA   16   CR   1+14/25   TR  0   CH  1   NT  G#-         12/25
+BA   16   CR   1+14/25   TR  3   CH 10   NT  C--         12/25
+BA   16   CR    2+1/25   TR  1   CH  2   NT  F#-          7/25
+BA   16   CR    2+8/25   TR  0   CH  1   NT  Eb'         12/25
+BA   16   CR    2+8/25   TR  2   CH  3   NT  B--         12/25
+BA   16   CR    3+2/25   TR  0   CH  1   NT  G#-         12/25
+BA   16   CR    3+2/25   TR  2   CH  3   NT  B-          12/25
+BA   16   CR   3+14/25   TR  1   CH  2   NT  F#           7/25
+BA   16   CR   3+21/25   TR  0   CH  1   NT  G#          12/25
+BA   16   CR   3+21/25   TR  2   CH  3   NT  B--         12/25
+BA   16   CR   3+21/25   TR  3   CH 10   NT  C--         12/25
+
+BA   17   CR      8/25   TR  1   CH  2   NT  F#--         7/25
+BA   17   CR       3/5   TR  0   CH  1   NT  G#-         12/25
+BA   17   CR       3/5   TR  3   CH 10   NT  C--         12/25
+BA   17   CR    1+2/25   TR  1   CH  2   NT  F#-          7/25
+BA   17   CR    1+9/25   TR  0   CH  1   NT  Eb'         12/25
+BA   17   CR    1+9/25   TR  2   CH  3   NT  B--         12/25
+BA   17   CR    2+3/25   TR  0   CH  1   NT  G#-         12/25
+BA   17   CR    2+3/25   TR  2   CH  3   NT  B-          12/25
+BA   17   CR     2+3/5   TR  1   CH  2   NT  F#           7/25
+BA   17   CR   2+22/25   TR  0   CH  1   NT  G#          12/25
+BA   17   CR   2+22/25   TR  2   CH  3   NT  E-          12/25
+BA   17   CR   2+22/25   TR  3   CH 10   NT  C--         12/25
+BA   17   CR    3+9/25   TR  1   CH  2   NT  F#-          7/25
+BA   17   CR   3+16/25   TR  0   CH  1   NT  G#-         12/25
+
+BA   18   CR      3/25   TR  1   CH  2   NT  F#           7/25
+BA   18   CR       2/5   TR  0   CH  1   NT  Eb'         12/25
+BA   18   CR       2/5   TR  2   CH  3   NT  E-          12/25
+BA   18   CR       2/5   TR  3   CH 10   NT  C--         12/25
+BA   18   CR    1+4/25   TR  0   CH  1   NT  G#-         12/25
+BA   18   CR    1+4/25   TR  2   CH  3   NT  E           12/25
+BA   18   CR   1+16/25   TR  1   CH  2   NT  F#'          7/25
+BA   18   CR   1+23/25   TR  0   CH  1   NT  G#          12/25
+BA   18   CR   1+23/25   TR  2   CH  3   NT  E-          12/25
+BA   18   CR   1+23/25   TR  3   CH 10   NT  C--         12/25
+BA   18   CR     2+2/5   TR  1   CH  2   NT  F#-          7/25
+BA   18   CR   2+17/25   TR  0   CH  1   NT  G#-         12/25
+BA   18   CR    3+4/25   TR  1   CH  2   NT  F#           7/25
+BA   18   CR   3+11/25   TR  0   CH  1   NT  Eb'         12/25
+BA   18   CR   3+11/25   TR  2   CH  3   NT  E-          12/25
+BA   18   CR   3+11/25   TR  3   CH 10   NT  C--         12/25
+
+BA   19   CR       1/5   TR  0   CH  1   NT  G#-         12/25
+BA   19   CR       1/5   TR  2   CH  3   NT  E           12/25
+BA   19   CR     17/25   TR  1   CH  2   NT  F#'          7/25
+BA   19   CR     24/25   TR  0   CH  1   NT  G#          12/25
+BA   19   CR     24/25   TR  2   CH  3   NT  B--         12/25
+BA   19   CR     24/25   TR  3   CH 10   NT  C--         12/25
+BA   19   CR   1+11/25   TR  1   CH  2   NT  F#--         7/25
+BA   19   CR   1+18/25   TR  0   CH  1   NT  G#-         12/25
+BA   19   CR   1+18/25   TR  3   CH 10   NT  C--         12/25
+BA   19   CR     2+1/5   TR  1   CH  2   NT  F#-          7/25
+BA   19   CR   2+12/25   TR  0   CH  1   NT  Eb'         12/25
+BA   19   CR   2+12/25   TR  2   CH  3   NT  B--         12/25
+BA   19   CR    3+6/25   TR  0   CH  1   NT  G#-         12/25
+BA   19   CR    3+6/25   TR  2   CH  3   NT  B-          12/25
+BA   19   CR   3+18/25   TR  1   CH  2   NT  F#           7/25
+
+BA   20   CR         0   TR  0   CH  1   NT  G#          12/25
+BA   20   CR         0   TR  2   CH  3   NT  B--         12/25
+BA   20   CR         0   TR  3   CH 10   NT  C--         12/25
+BA   20   CR     12/25   TR  1   CH  2   NT  F#--         7/25
+BA   20   CR     19/25   TR  0   CH  1   NT  G#-         12/25
+BA   20   CR     19/25   TR  3   CH 10   NT  C--         12/25
+BA   20   CR    1+6/25   TR  1   CH  2   NT  F#-          7/25
+BA   20   CR   1+13/25   TR  0   CH  1   NT  Eb'         12/25
+BA   20   CR   1+13/25   TR  2   CH  3   NT  B--         12/25
+BA   20   CR    2+7/25   TR  0   CH  1   NT  G#-         12/25
+BA   20   CR    2+7/25   TR  2   CH  3   NT  B-          12/25
+BA   20   CR   2+19/25   TR  1   CH  2   NT  F#           7/25
+BA   20   CR    3+1/25   TR  0   CH  1   NT  G#          12/25
+BA   20   CR    3+1/25   TR  2   CH  3   NT  E-          12/25
+BA   20   CR    3+1/25   TR  3   CH 10   NT  C--         12/25
+BA   20   CR   3+13/25   TR  1   CH  2   NT  F#-          7/25
+BA   20   CR     3+4/5   TR  0   CH  1   NT  G#-         12/25
+
+BA   21   CR      7/25   TR  1   CH  2   NT  F#           7/25
+BA   21   CR     14/25   TR  0   CH  1   NT  Eb'         12/25
+BA   21   CR     14/25   TR  2   CH  3   NT  E-          12/25
+BA   21   CR     14/25   TR  3   CH 10   NT  C--         12/25
+BA   21   CR    1+8/25   TR  0   CH  1   NT  G#-         12/25
+BA   21   CR    1+8/25   TR  2   CH  3   NT  E           12/25
+BA   21   CR     1+4/5   TR  1   CH  2   NT  F#'          7/25
+BA   21   CR    2+2/25   TR  0   CH  1   NT  G#          12/25
+BA   21   CR    2+2/25   TR  2   CH  3   NT  E-          12/25
+BA   21   CR    2+2/25   TR  3   CH 10   NT  C--         12/25
+BA   21   CR   2+14/25   TR  1   CH  2   NT  F#-          7/25
+BA   21   CR   2+21/25   TR  0   CH  1   NT  G#-         12/25
+BA   21   CR    3+8/25   TR  1   CH  2   NT  F#           7/25
+BA   21   CR     3+3/5   TR  0   CH  1   NT  Eb'         12/25
+BA   21   CR     3+3/5   TR  2   CH  3   NT  E-          12/25
+BA   21   CR     3+3/5   TR  3   CH 10   NT  C--         12/25
+
+BA   22   CR      9/25   TR  0   CH  1   NT  G#-         12/25
+BA   22   CR      9/25   TR  2   CH  3   NT  E           12/25
+BA   22   CR     21/25   TR  1   CH  2   NT  F#'          7/25
+BA   22   CR    1+3/25   TR  0   CH  1   NT  G#          12/25
+BA   22   CR    1+3/25   TR  2   CH  3   NT  B--         12/25
+BA   22   CR    1+3/25   TR  3   CH 10   NT  C--         12/25
+BA   22   CR     1+3/5   TR  1   CH  2   NT  F#--         7/25
+BA   22   CR   1+22/25   TR  0   CH  1   NT  G#-         12/25
+BA   22   CR   1+22/25   TR  3   CH 10   NT  C--         12/25
+BA   22   CR    2+9/25   TR  1   CH  2   NT  F#-          7/25
+BA   22   CR   2+16/25   TR  0   CH  1   NT  Eb'         12/25
+BA   22   CR   2+16/25   TR  2   CH  3   NT  B--         12/25
+BA   22   CR     3+2/5   TR  0   CH  1   NT  G#-         12/25
+BA   22   CR     3+2/5   TR  2   CH  3   NT  B-          12/25
+BA   22   CR   3+22/25   TR  1   CH  2   NT  F#           7/25
+
+BA   23   CR      4/25   TR  0   CH  1   NT  G#          12/25
+BA   23   CR      4/25   TR  2   CH  3   NT  B--         12/25
+BA   23   CR      4/25   TR  3   CH 10   NT  C--         12/25
+BA   23   CR     16/25   TR  1   CH  2   NT  F#--         7/25
+BA   23   CR     23/25   TR  0   CH  1   NT  G#-         12/25
+BA   23   CR     23/25   TR  3   CH 10   NT  C--         12/25
+BA   23   CR     1+2/5   TR  1   CH  2   NT  F#-          7/25
+BA   23   CR   1+17/25   TR  0   CH  1   NT  Eb'         12/25
+BA   23   CR   1+17/25   TR  2   CH  3   NT  B--         12/25
+BA   23   CR   2+11/25   TR  0   CH  1   NT  G#-         12/25
+BA   23   CR   2+11/25   TR  2   CH  3   NT  B-          12/25
+BA   23   CR   2+23/25   TR  1   CH  2   NT  F#           7/25
+BA   23   CR     3+1/5   TR  0   CH  1   NT  G#          12/25
+BA   23   CR     3+1/5   TR  2   CH  3   NT  E-          12/25
+BA   23   CR     3+1/5   TR  3   CH 10   NT  C--         12/25
+BA   23   CR   3+17/25   TR  1   CH  2   NT  F#-          7/25
+BA   23   CR   3+24/25   TR  0   CH  1   NT  G#-         12/25
+
+BA   24   CR     11/25   TR  1   CH  2   NT  F#           7/25
+BA   24   CR     18/25   TR  0   CH  1   NT  Eb'         12/25
+BA   24   CR     18/25   TR  2   CH  3   NT  E-          12/25
+BA   24   CR     18/25   TR  3   CH 10   NT  C--         12/25
+BA   24   CR   1+12/25   TR  0   CH  1   NT  G#-         12/25
+BA   24   CR   1+12/25   TR  2   CH  3   NT  E           12/25
+BA   24   CR   1+24/25   TR  1   CH  2   NT  F#'          7/25
+BA   24   CR    2+6/25   TR  0   CH  1   NT  G#          12/25
+BA   24   CR    2+6/25   TR  2   CH  3   NT  E-          12/25
+BA   24   CR    2+6/25   TR  3   CH 10   NT  C--         12/25
+BA   24   CR   2+18/25   TR  1   CH  2   NT  F#-          7/25
+BA   24   CR         3   TR  0   CH  1   NT  G#-         12/25
+BA   24   CR   3+12/25   TR  1   CH  2   NT  F#           7/25
+BA   24   CR   3+19/25   TR  0   CH  1   NT  Eb'         12/25
+BA   24   CR   3+19/25   TR  2   CH  3   NT  E-          12/25
+BA   24   CR   3+19/25   TR  3   CH 10   NT  C--         12/25
+
+BA   25   CR      6/25   TR  3   CH 16   End of track
+BA   25   CR     13/25   TR  0   CH  1   NT  G#-         12/25
+BA   25   CR     13/25   TR  2   CH  3   NT  E           12/25
+BA   25   CR         1   TR  0   CH 16   End of track
+BA   25   CR         1   TR  1   CH  2   NT  F#'     infinity
+# Warning tr=1 p=&7B7, note never turned off
+BA   25   CR         1   TR  1   CH 16   End of track
+BA   25   CR         1   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 48.5 seconds

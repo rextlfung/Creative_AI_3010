@@ -1,0 +1,48 @@
+format=1 tracks=3 division=480
+
+BA    1   CR         0   TR  0   CH 16   Tempo 180
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Main"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 7
+BA    1   CR         0   TR  1   CH  1   NT  C'        259/480   von=100   voff=80
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   Instrument 7
+BA    1   CR         0   TR  2   CH 16   End of track
+BA    1   CR      5/96   TR  1   CH  1   NT  C         247/480   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  G-            1/4   voff=80
+BA    1   CR         1   TR  1   CH  1   NT  G             1/4   voff=80
+BA    1   CR     1+1/2   TR  1   CH  1   NT  G             1/4   voff=80
+BA    1   CR     1+1/2   TR  1   CH  1   NT  G-            1/4   voff=80
+BA    1   CR         2   TR  1   CH  1   NT  G#            1/4   voff=80
+BA    1   CR         2   TR  1   CH  1   NT  G#-           1/4   voff=80
+BA    1   CR     2+1/2   TR  1   CH  1   NT  G             1/4   voff=80
+BA    1   CR     2+1/2   TR  1   CH  1   NT  G-            1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  F#            1/4   voff=80
+BA    1   CR         3   TR  1   CH  1   NT  F#-           1/4   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  G             1/4   voff=80
+BA    1   CR     3+1/2   TR  1   CH  1   NT  G-            1/4   voff=80
+
+BA    2   CR         0   TR  1   CH  1   NT  C'            1/4   voff=80
+BA    2   CR         0   TR  1   CH  1   NT  C             1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  G-            1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  B-            1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  B''           1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  B'            1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  G             1/4   voff=80
+BA    2   CR         1   TR  1   CH  1   NT  B             1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C'            1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C             1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C''           1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C'''          1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C             1/4   voff=80
+BA    2   CR         2   TR  1   CH  1   NT  C-            1/4   voff=80
+BA    2   CR     2+1/4   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 2.08333 seconds

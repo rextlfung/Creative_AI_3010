@@ -1,0 +1,51 @@
+format=1 tracks=5 division=120
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 217
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Balloon Kid"
+BA    1   CR         0   TR  1   CH  1   Instrument 81
+BA    1   CR         0   TR  1   CH  1   NT  F#'           1/2   von=100
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Game Over"
+BA    1   CR         0   TR  2   CH  2   Instrument 81
+BA    1   CR         0   TR  2   CH  2   NT  Eb-           1/4   von=100
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Sequenced by "
+BA    1   CR         0   TR  3   CH  3   Instrument 7
+BA    1   CR         0   TR  3   CH  3   NT  Eb'           1/2   von=100
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Troy Davis"
+BA    1   CR       1/2   TR  1   CH  1   NT  C#'           1/2
+BA    1   CR       1/2   TR  3   CH  3   NT  Bb            1/2
+BA    1   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA    1   CR         1   TR  3   CH  3   NT  G#            1/2
+BA    1   CR     1+1/2   TR  1   CH  1   NT  F#            1/2
+BA    1   CR     1+1/2   TR  3   CH  3   NT  Eb          11/24
+BA    1   CR         2   TR  1   CH  1   NT  B           11/24
+BA    1   CR         2   TR  2   CH  2   NT  Eb-           1/4
+BA    1   CR         2   TR  3   CH  3   NT  F#          11/24
+BA    1   CR         2   TR  4   CH 10   NT  Bb            1/2   von=100
+BA    1   CR     2+1/2   TR  1   CH  1   NT  B           11/24
+BA    1   CR     2+1/2   TR  3   CH  3   NT  F#          11/24
+BA    1   CR         3   TR  1   CH  1   NT  B               1
+BA    1   CR         3   TR  3   CH  3   NT  F#              1
+
+BA    2   CR         0   TR  1   CH  1   NT  C#'           1/2
+BA    2   CR         0   TR  3   CH  3   NT  A             1/2
+BA    2   CR         1   TR  1   CH  1   NT  C#'           1/2
+BA    2   CR         1   TR  2   CH  2   NT  Eb-           1/4
+BA    2   CR         1   TR  3   CH  3   NT  A             1/2
+BA    2   CR         1   TR  4   CH 10   NT  Bb            1/2
+BA    2   CR         2   TR  1   CH  1   NT  B             1/2
+BA    2   CR         2   TR  2   CH  2   NT  Eb-           1/4
+BA    2   CR         2   TR  3   CH  3   NT  Eb            1/2
+BA    2   CR         2   TR  4   CH 10   NT  Bb            1/2
+BA    2   CR     2+1/4   TR  2   CH 16   End of track
+BA    2   CR     2+1/2   TR  1   CH 16   End of track
+BA    2   CR     2+1/2   TR  3   CH 16   End of track
+BA    2   CR     2+1/2   TR  4   CH 16   End of track
+# Successfully parsed
+# Duration = 1.79724 seconds

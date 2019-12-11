@@ -1,0 +1,67 @@
+format=1 tracks=9 division=384
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 65
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 119 14 0
+BA    1   CR         0   TR  0   CH 16   Tempo 110.0002
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Melody A"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 35
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   NT  G--         31/32   von=127   voff=0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Melody B-1"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 57
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   NT  D'            1/2   von=127   voff=0
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Melody B-2"
+BA    1   CR         0   TR  3   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  3   CH  2   Instrument 57
+BA    1   CR         0   TR  3   CH  2   Channel volume 100
+BA    1   CR         0   TR  3   CH  2   NT  F           59/96   von=127   voff=0
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Drumset"
+BA    1   CR         0   TR  4   CH 10   ST &B9 &00 &00
+BA    1   CR         0   TR  4   CH 10   Instrument 1
+BA    1   CR         0   TR  4   CH 10   Channel volume 100
+BA    1   CR         0   TR  4   CH 10   NT  E--           1/4   von=127   voff=0
+BA    1   CR         0   TR  5   CH 16   Text type 3: ""Game Over""
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "FROM THE GAME: Dexter's Laboratory: Robot Rampage"
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "MIDI ARRANGEMENT SEQUENCED BY: Merit Celaire"
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         0   TR  8   CH 16   Text type 3: "EMAIL COMMENTS TO: mcelaire@netscape.net"
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR     65/96   TR  2   CH  2   NT  F           29/96   von=102   voff=0
+BA    1   CR     25/32   TR  3   CH  2   NT  D           11/48   von=115   voff=0
+BA    1   CR     11/12   TR  2   CH  2   NT  A             1/4   von=127   voff=0
+BA    1   CR     23/24   TR  3   CH  2   NT  F            1/48   von=127   voff=0
+BA    1   CR     1+1/8   TR  2   CH  2   NT  Bb           7/24   voff=0
+BA    1   CR    1+5/24   TR  3   CH  2   NT  G             1/4   voff=0
+BA    1   CR   1+19/48   TR  2   CH  2   NT  D'          29/96   voff=0
+BA    1   CR    1+5/12   TR  3   CH  2   NT  Bb          13/48   voff=0
+BA    1   CR   1+11/16   TR  2   CH  2   NT  F'          13/48   voff=0
+BA    1   CR   1+17/24   TR  3   CH  2   NT  C#'          5/24   voff=0
+BA    1   CR   1+43/48   TR  1   CH  1   NT  C-          85/96   voff=0
+BA    1   CR   1+91/96   TR  3   CH  2   NT  C'          61/96   voff=0
+BA    1   CR   1+23/24   TR  2   CH  2   NT  E'          49/96   voff=0
+BA    1   CR         2   TR  4   CH 10   NT  E--          7/24   voff=0
+BA    1   CR   2+49/96   TR  2   CH  2   NT  C'           7/96   voff=0
+BA    1   CR    2+7/12   TR  3   CH  2   NT  G           37/96   voff=0
+BA    1   CR    3+5/12   TR  2   CH  2   NT  G'        4+31/48   voff=0
+BA    1   CR   3+11/24   TR  1   CH  1   NT  F--         4+3/8   voff=0
+BA    1   CR   3+23/48   TR  3   CH  2   NT  C'         4+9/16   voff=0
+BA    1   CR     3+1/2   TR  4   CH 10   NT  E--           1/4   voff=0
+
+BA    2   CR   3+29/96   TR  4   CH 10   NT  C--         11/96   voff=0
+BA    2   CR     3+1/2   TR  4   CH 10   NT  C--         11/96   voff=0
+BA    2   CR   3+21/32   TR  4   CH 10   NT  C--          5/48   voff=0
+BA    2   CR     3+2/3   TR  4   CH 10   NT  A-           5/32   voff=0
+BA    2   CR   3+79/96   TR  4   CH 16   End of track
+BA    2   CR     3+5/6   TR  1   CH 16   End of track
+
+BA    3   CR      1/24   TR  3   CH 16   End of track
+BA    3   CR      1/16   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 4.39772 seconds

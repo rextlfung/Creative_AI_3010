@@ -1,0 +1,59 @@
+format=1 tracks=9 division=48
+
+BA    1   CR         0   TR  0   CH 16   Tempo 85
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         2   TR  1   CH  1   Instrument 55
+BA    1   CR         2   TR  1   CH  1   NT  C''             1   von=127   voff=0
+BA    1   CR         2   TR  2   CH  2   Instrument 47
+BA    1   CR         2   TR  2   CH  2   NT  G'              1   von=127   voff=0
+BA    1   CR         3   TR  1   CH  1   NT  G'              1   voff=0
+BA    1   CR         3   TR  2   CH  2   NT  Eb'             1   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    2   CR         0   TR  2   CH  2   NT  D'            1/2   voff=0
+BA    2   CR       1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  G'              2   voff=0
+BA    2   CR         1   TR  2   CH  2   NT  Eb'             2   voff=0
+BA    2   CR         3   TR  1   CH  1   NT  C''             1   voff=0
+BA    2   CR         3   TR  2   CH  2   NT  G'              1   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  G'              1   voff=0
+BA    3   CR         0   TR  2   CH  2   NT  Eb'             1   voff=0
+BA    3   CR         1   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    3   CR         1   TR  2   CH  2   NT  C#'           1/2   voff=0
+BA    3   CR     1+1/2   TR  1   CH  1   NT  F'            1/2   voff=0
+BA    3   CR         2   TR  1   CH  1   NT  G'              2   voff=0
+BA    3   CR         2   TR  2   CH  2   NT  Eb'             2   voff=0
+
+BA    4   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA    4   CR         1   TR  1   CH  1   NT  G#              1   voff=0
+BA    4   CR         1   TR  2   CH  2   NT  F               1   voff=0
+BA    4   CR         2   TR  1   CH  1   NT  Bb              1   voff=0
+BA    4   CR         2   TR  2   CH  2   NT  F#              1   voff=0
+BA    4   CR         3   TR  1   CH  1   NT  Eb'             1   voff=0
+
+BA    5   CR         0   TR  1   CH  1   NT  D'              1   voff=0
+BA    5   CR         0   TR  2   CH  2   NT  Bb              1   voff=0
+BA    5   CR         1   TR  1   CH  1   NT  Bb              1   voff=0
+BA    5   CR         3   TR  1   CH  1   NT  D'              1   voff=0
+BA    5   CR         3   TR  2   CH  2   NT  Bb              1   voff=0
+
+BA    6   CR         0   TR  1   CH  1   NT  C'              1   voff=0
+BA    6   CR         1   TR  1   CH  1   NT  Bb              1   voff=0
+BA    6   CR         1   TR  2   CH  2   NT  G               1   voff=0
+BA    6   CR         2   TR  1   CH  1   NT  C'              3   voff=0
+BA    6   CR         2   TR  2   CH  2   NT  E               1   voff=0
+BA    6   CR         3   TR  2   CH  2   NT  F               1   voff=0
+
+BA    7   CR         0   TR  2   CH  2   NT  G               1   voff=0
+BA    7   CR         1   TR  1   CH 16   End of track
+BA    7   CR         1   TR  2   CH 16   End of track
+BA    7   CR         1   TR  3   CH 16   End of track
+BA    7   CR         1   TR  4   CH 16   End of track
+BA    7   CR         1   TR  5   CH 16   End of track
+BA    7   CR         1   TR  6   CH 16   End of track
+BA    7   CR         1   TR  7   CH 16   End of track
+BA    7   CR         1   TR  8   CH 16   End of track
+# Successfully parsed
+# Duration = 17.6471 seconds

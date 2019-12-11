@@ -1,0 +1,125 @@
+format=1 tracks=9 division=89
+
+BA    1   CR         0   TR  0   CH 16   Text type 1: "untitled"
+BA    1   CR         0   TR  0   CH 16   Text type 3: "FM1"
+BA    1   CR         0   TR  0   CH  1   Instrument 34
+BA    1   CR         0   TR  0   CH  1   NT  F-          24/89   von=127
+BA    1   CR         0   TR  1   CH 16   Text type 3: "FM2"
+BA    1   CR         0   TR  1   CH  2   Instrument 3
+BA    1   CR         0   TR  1   CH  2   NT  F-          72/89   von=127
+BA    1   CR         0   TR  2   CH 16   Text type 3: "FM3"
+BA    1   CR         0   TR  2   CH  3   Instrument 3
+BA    1   CR         0   TR  2   CH  3   NT  F           72/89   von=127
+BA    1   CR         0   TR  3   CH 16   Text type 3: "FM4"
+BA    1   CR         0   TR  3   CH  4   Instrument 3
+BA    1   CR         0   TR  3   CH  4   NT  A           72/89   von=127
+BA    1   CR         0   TR  4   CH 16   Text type 3: "FM5"
+BA    1   CR         0   TR  4   CH  5   Instrument 3
+BA    1   CR         0   TR  4   CH  5   NT  C'          72/89   von=127
+BA    1   CR         0   TR  5   CH 16   Text type 3: "PSG1"
+BA    1   CR         0   TR  6   CH 16   Text type 3: "PSG2"
+BA    1   CR         0   TR  7   CH 16   Text type 3: "PSG3"
+BA    1   CR         0   TR  8   CH 16   Text type 3: "DAC"
+BA    1   CR         0   TR  8   CH 10   NT  D--     infinity   von=127
+# Warning tr=8 p=&2E8, note never turned off
+BA    1   CR     48/89   TR  0   CH  1   NT  F-          24/89
+BA    1   CR     48/89   TR  5   CH  6   Instrument 81
+BA    1   CR     48/89   TR  5   CH  6   NT  F'          24/89   von=127
+BA    1   CR     72/89   TR  0   CH  1   NT  F-          24/89
+BA    1   CR     72/89   TR  1   CH  2   NT  F-          72/89
+BA    1   CR     72/89   TR  2   CH  3   NT  F           72/89
+BA    1   CR     72/89   TR  3   CH  4   NT  A           72/89
+BA    1   CR     72/89   TR  4   CH  5   NT  C'          72/89
+BA    1   CR     72/89   TR  5   CH  6   NT  E'          48/89
+BA    1   CR     72/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&2F0, note never turned off
+BA    1   CR    1+7/89   TR  6   CH  7   Instrument 81
+BA    1   CR    1+7/89   TR  6   CH  7   NT  F'          24/89   von=78
+BA    1   CR    1+7/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&2F8, note never turned off
+BA    1   CR   1+31/89   TR  0   CH  1   NT  F-          24/89
+BA    1   CR   1+31/89   TR  5   CH  6   NT  F'          24/89
+BA    1   CR   1+31/89   TR  6   CH  7   NT  E'          48/89
+BA    1   CR   1+31/89   TR  7   CH  8   Instrument 81
+BA    1   CR   1+31/89   TR  7   CH  8   NT  F'          24/89   von=42
+BA    1   CR   1+31/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&300, note never turned off
+BA    1   CR   1+55/89   TR  0   CH  1   NT  E-          24/89
+BA    1   CR   1+55/89   TR  1   CH  2   NT  E-          72/89
+BA    1   CR   1+55/89   TR  2   CH  3   NT  E           72/89
+BA    1   CR   1+55/89   TR  3   CH  4   NT  G           72/89
+BA    1   CR   1+55/89   TR  4   CH  5   NT  B           72/89
+BA    1   CR   1+55/89   TR  5   CH  6   NT  G'          48/89
+BA    1   CR   1+55/89   TR  7   CH  8   NT  E'          48/89
+BA    1   CR   1+55/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&308, note never turned off
+BA    1   CR   1+79/89   TR  6   CH  7   NT  F'          24/89
+BA    1   CR   1+79/89   TR  8   CH 10   NT  B---    infinity
+# Warning tr=8 p=&310, note never turned off
+BA    1   CR   2+14/89   TR  0   CH  1   NT  E-          24/89
+BA    1   CR   2+14/89   TR  5   CH  6   NT  F#'         24/89
+BA    1   CR   2+14/89   TR  6   CH  7   NT  G'          48/89
+BA    1   CR   2+14/89   TR  7   CH  8   NT  F'          24/89
+BA    1   CR   2+14/89   TR  8   CH 10   NT  B---    infinity
+# Warning tr=8 p=&318, note never turned off
+BA    1   CR   2+38/89   TR  0   CH  1   NT  Eb-         24/89
+BA    1   CR   2+38/89   TR  1   CH  2   NT  E-          72/89
+BA    1   CR   2+38/89   TR  2   CH  3   NT  E           72/89
+BA    1   CR   2+38/89   TR  3   CH  4   NT  G           72/89
+BA    1   CR   2+38/89   TR  4   CH  5   NT  B           72/89
+BA    1   CR   2+38/89   TR  5   CH  6   NT  G'          48/89
+BA    1   CR   2+38/89   TR  7   CH  8   NT  G'          48/89
+BA    1   CR   2+38/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&320, note never turned off
+BA    1   CR   2+62/89   TR  6   CH  7   NT  F#'         24/89
+BA    1   CR   2+62/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&328, note never turned off
+BA    1   CR   2+86/89   TR  0   CH  1   NT  Eb-         24/89
+BA    1   CR   2+86/89   TR  5   CH  6   NT  A'          24/89
+BA    1   CR   2+86/89   TR  6   CH  7   NT  G'          48/89
+BA    1   CR   2+86/89   TR  7   CH  8   NT  F#'         24/89
+BA    1   CR   2+86/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&330, note never turned off
+BA    1   CR   3+21/89   TR  0   CH  1   NT  Bb--        24/89
+BA    1   CR   3+21/89   TR  1   CH  2   NT  Bb-         72/89
+BA    1   CR   3+21/89   TR  2   CH  3   NT  Bb          72/89
+BA    1   CR   3+21/89   TR  3   CH  4   NT  D'          72/89
+BA    1   CR   3+21/89   TR  4   CH  5   NT  F           72/89
+BA    1   CR   3+21/89   TR  5   CH  6   NT  Bb'         24/89
+BA    1   CR   3+21/89   TR  7   CH  8   NT  G'          48/89
+BA    1   CR   3+21/89   TR  8   CH 10   NT  B---    infinity
+# Warning tr=8 p=&338, note never turned off
+BA    1   CR   3+45/89   TR  6   CH  7   NT  A'          24/89
+BA    1   CR   3+69/89   TR  6   CH  7   NT  Bb'         24/89
+BA    1   CR   3+69/89   TR  7   CH  8   NT  A'          24/89
+BA    1   CR   3+69/89   TR  8   CH 10   NT  B---    infinity
+# Warning tr=8 p=&340, note never turned off
+
+BA    2   CR      4/89   TR  0   CH  1   NT  F--         24/89
+BA    2   CR      4/89   TR  1   CH  2   NT  Bb-         72/89
+BA    2   CR      4/89   TR  2   CH  3   NT  Bb          72/89
+BA    2   CR      4/89   TR  3   CH  4   NT  D'          72/89
+BA    2   CR      4/89   TR  4   CH  5   NT  F           72/89
+BA    2   CR      4/89   TR  5   CH  6   NT  A'          24/89
+BA    2   CR      4/89   TR  7   CH  8   NT  Bb'         24/89
+BA    2   CR      4/89   TR  8   CH 10   NT  D--     infinity
+# Warning tr=8 p=&348, note never turned off
+BA    2   CR     52/89   TR  0   CH  1   NT  Bb--        24/89
+BA    2   CR     52/89   TR  5   CH  6   NT  Bb'         24/89
+BA    2   CR     52/89   TR  6   CH  7   NT  A'          24/89
+BA    2   CR     52/89   TR  8   CH 10   NT  B---    infinity
+# Warning tr=8 p=&350, note never turned off
+BA    2   CR     52/89   TR  8   CH 16   End of track
+BA    2   CR     76/89   TR  0   CH 16   End of track
+BA    2   CR     76/89   TR  1   CH 16   End of track
+BA    2   CR     76/89   TR  2   CH 16   End of track
+BA    2   CR     76/89   TR  3   CH 16   End of track
+BA    2   CR     76/89   TR  4   CH 16   End of track
+BA    2   CR     76/89   TR  5   CH 16   End of track
+BA    2   CR     76/89   TR  7   CH  8   NT  A'          24/89
+BA    2   CR   1+11/89   TR  6   CH  7   NT  Bb'         24/89
+BA    2   CR   1+35/89   TR  6   CH 16   End of track
+BA    2   CR   1+35/89   TR  7   CH  8   NT  Bb'         24/89
+BA    2   CR   1+59/89   TR  7   CH 16   End of track
+# Successfully parsed
+# Duration = 2.83146 seconds

@@ -1,0 +1,61 @@
+format=1 tracks=7 division=192
+
+BA    1   CR         0   TR  0   CH 16   Tempo 110.0002
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "By Unregistered User"
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Game: Super Mario Land 2"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   Instrument 1
+BA    1   CR         0   TR  2   CH  1   NT  C#'         23/96   von=110
+BA    1   CR         0   TR  3   CH 16   Text type 3: "System: Game Boy"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  3   CH  2   Channel volume 85
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Instrument 25
+BA    1   CR         0   TR  3   CH  2   NT  A           23/96   von=110
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Title: Course clear!"
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  4   CH  6   Channel volume 127
+BA    1   CR         0   TR  4   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  4   CH  6   Instrument 33
+BA    1   CR         0   TR  4   CH  6   NT  A---          1/4   von=110
+BA    1   CR         0   TR  5   CH 16   Text type 3: "http://ar.geocities.com/peloso_oviedo"
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  5   CH 10   Channel volume 70
+BA    1   CR         0   TR  5   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  5   CH 10   Instrument 1
+BA    1   CR         0   TR  5   CH 10   NT  G#--        23/96   von=110
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Sequenced by: FireMario (17/Nov/2002)"
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   7
+BA    1   CR         0   TR  6   CH  8   Channel volume 127
+BA    1   CR         0   TR  6   CH  8   ST &B7 &0A &40
+BA    1   CR         0   TR  6   CH  8   Instrument 1
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR       1/2   TR  2   CH  1   NT  C'          23/96
+BA    1   CR       3/4   TR  2   CH  1   NT  C#'         23/96
+BA    1   CR     1+1/4   TR  2   CH  1   NT  E'          23/96
+BA    1   CR     1+1/4   TR  3   CH  2   NT  C#'         23/96
+BA    1   CR     1+1/2   TR  2   CH  1   NT  Eb'         23/96
+BA    1   CR         2   TR  2   CH  1   NT  E'          23/96
+BA    1   CR     2+1/4   TR  2   CH  1   NT  A'          23/96
+BA    1   CR     2+1/4   TR  3   CH  2   NT  E'          23/96
+BA    1   CR     2+3/4   TR  2   CH  1   NT  C#'         23/96
+BA    1   CR     2+3/4   TR  3   CH  2   NT  F'          23/96
+BA    1   CR         3   TR  2   CH  1   NT  D'          23/96
+BA    1   CR         3   TR  3   CH  2   NT  F#'         23/96
+
+BA    2   CR       1/2   TR  2   CH  1   NT  D''         23/96
+BA    2   CR       1/2   TR  3   CH  2   NT  F#'         23/96
+BA    2   CR       1/2   TR  4   CH  6   NT  D--         23/96
+BA    2   CR       1/2   TR  5   CH 10   NT  G#--        71/96
+BA    2   CR     71/96   TR  2   CH 16   End of track
+BA    2   CR     71/96   TR  3   CH 16   End of track
+BA    2   CR     71/96   TR  4   CH 16   End of track
+BA    2   CR   1+23/96   TR  5   CH 16   End of track
+# Successfully parsed
+# Duration = 2.85795 seconds

@@ -1,0 +1,92 @@
+format=1 tracks=5 division=192
+
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "By Unregistered User"
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Secuenced by: FireMario (23/Apr/2002)"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   Instrument 47
+BA    1   CR         0   TR  2   CH  1   NT  C'          11/96   von=110
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Game: Zelda, Oracle of Ages"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  3   CH  2   Channel volume 64
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Instrument 47
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Title: Tune of Ages"
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  4   CH  3   Channel volume 127
+BA    1   CR         0   TR  4   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  4   CH  3   Instrument 1
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR       1/8   TR  2   CH  1   NT  E'          11/96
+BA    1   CR       1/4   TR  2   CH  1   NT  G'          11/96
+BA    1   CR       3/8   TR  2   CH  1   NT  C''         23/96
+BA    1   CR       3/8   TR  3   CH  2   NT  C'          11/96   von=110
+BA    1   CR       1/2   TR  3   CH  2   NT  E'          11/96
+BA    1   CR       5/8   TR  2   CH  1   NT  B'          23/96
+BA    1   CR       5/8   TR  3   CH  2   NT  G'          11/96
+BA    1   CR       3/4   TR  3   CH  2   NT  C''         23/96
+BA    1   CR       7/8   TR  2   CH  1   NT  A'          23/96
+BA    1   CR         1   TR  3   CH  2   NT  B'          23/96
+BA    1   CR     1+1/8   TR  2   CH  1   NT  B'          23/96
+BA    1   CR     1+1/4   TR  3   CH  2   NT  A'          23/96
+BA    1   CR     1+3/8   TR  2   CH  1   NT  G'          23/96
+BA    1   CR     1+1/2   TR  3   CH  2   NT  B'          23/96
+BA    1   CR     1+5/8   TR  2   CH  1   NT  D''         23/96
+BA    1   CR     1+3/4   TR  3   CH  2   NT  G'          23/96
+BA    1   CR     1+7/8   TR  2   CH  1   NT  C''         23/96
+BA    1   CR         2   TR  3   CH  2   NT  D''         23/96
+BA    1   CR     2+1/8   TR  2   CH  1   NT  B'          23/96
+BA    1   CR     2+1/4   TR  3   CH  2   NT  C''         23/96
+BA    1   CR     2+3/8   TR  2   CH  1   NT  A'          23/96
+BA    1   CR     2+1/2   TR  3   CH  2   NT  B'          23/96
+BA    1   CR     2+5/8   TR  2   CH  1   NT  B'          23/96
+BA    1   CR     2+3/4   TR  3   CH  2   NT  A'          23/96
+BA    1   CR     2+7/8   TR  2   CH  1   NT  C''         23/96
+BA    1   CR         3   TR  3   CH  2   NT  B'          23/96
+BA    1   CR     3+1/8   TR  2   CH  1   NT  D''         23/96
+BA    1   CR     3+1/4   TR  3   CH  2   NT  C''         23/96
+BA    1   CR     3+3/8   TR  2   CH  1   NT  G'          23/96
+BA    1   CR     3+1/2   TR  3   CH  2   NT  D''         23/96
+BA    1   CR     3+5/8   TR  2   CH  1   NT  A'          23/96
+BA    1   CR     3+3/4   TR  3   CH  2   NT  G'          23/96
+BA    1   CR     3+7/8   TR  2   CH  1   NT  G'          23/96
+
+BA    2   CR         0   TR  3   CH  2   NT  A'          23/96
+BA    2   CR       1/8   TR  2   CH  1   NT  E'          23/96
+BA    2   CR       1/4   TR  3   CH  2   NT  G'          23/96
+BA    2   CR       3/8   TR  2   CH  1   NT  F'          47/96
+BA    2   CR       1/2   TR  3   CH  2   NT  E'          23/96
+BA    2   CR       3/4   TR  3   CH  2   NT  F'          47/96
+BA    2   CR       7/8   TR  2   CH  1   NT  A'          47/96
+BA    2   CR     1+1/4   TR  3   CH  2   NT  A'          47/96
+BA    2   CR     1+3/8   TR  2   CH  1   NT  C''         47/96
+BA    2   CR     1+3/4   TR  3   CH  2   NT  C''         47/96
+BA    2   CR     1+7/8   TR  2   CH  1   NT  D''         47/96
+BA    2   CR     2+1/4   TR  3   CH  2   NT  D''         47/96
+BA    2   CR     2+3/8   TR  2   CH  1   NT  E           11/96
+BA    2   CR     2+1/2   TR  2   CH  1   NT  G           11/96
+BA    2   CR     2+5/8   TR  2   CH  1   NT  B           11/96
+BA    2   CR     2+3/4   TR  2   CH  1   NT  C'          11/96
+BA    2   CR     2+3/4   TR  3   CH  2   NT  E           11/96
+BA    2   CR     2+7/8   TR  2   CH  1   NT  E'          11/96
+BA    2   CR     2+7/8   TR  3   CH  2   NT  G           11/96
+BA    2   CR         3   TR  2   CH  1   NT  G'          11/96
+BA    2   CR         3   TR  3   CH  2   NT  B           11/96
+BA    2   CR     3+1/8   TR  2   CH  1   NT  B'          11/96
+BA    2   CR     3+1/8   TR  3   CH  2   NT  C'          11/96
+BA    2   CR     3+1/4   TR  2   CH  1   NT  E''           5/6
+BA    2   CR     3+1/4   TR  3   CH  2   NT  E'          11/96
+BA    2   CR     3+3/8   TR  3   CH  2   NT  G'          11/96
+BA    2   CR     3+1/2   TR  3   CH  2   NT  B'          11/96
+BA    2   CR     3+5/8   TR  3   CH  2   NT  E''         47/96
+
+BA    3   CR      1/12   TR  2   CH 16   End of track
+BA    3   CR     11/96   TR  3   CH 16   End of track
+# Successfully parsed
+# Duration = 4.05729 seconds

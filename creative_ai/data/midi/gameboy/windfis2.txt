@@ -1,0 +1,126 @@
+format=1 tracks=3 division=96
+
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Tempo 126
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 80
+BA    1   CR         0   TR  1   CH  1   ST &B0 &5B &00
+BA    1   CR         0   TR  1   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH 16   Tempo 126
+BA    1   CR         0   TR  1   CH  1   NT  B'            1/2   von=127
+BA    1   CR         0   TR  2   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  2   CH  3   Instrument 80
+BA    1   CR         0   TR  2   CH  3   ST &B2 &5B &00
+BA    1   CR         0   TR  2   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  2   CH 16   Tempo 126
+BA    1   CR       1/4   TR  2   CH  3   NT  B'            1/2   von=106
+BA    1   CR       1/2   TR  1   CH  1   NT  C#''          1/2
+BA    1   CR       3/4   TR  2   CH  3   NT  C#''          1/2
+BA    1   CR         1   TR  1   CH  1   NT  D''             2
+BA    1   CR     1+1/4   TR  2   CH  3   NT  D''             2
+
+BA    2   CR         0   TR  1   CH  1   NT  B'            1/2
+BA    2   CR       1/4   TR  2   CH  3   NT  B'            1/2
+BA    2   CR       1/2   TR  1   CH  1   NT  C#''          1/2
+BA    2   CR       3/4   TR  2   CH  3   NT  C#''          1/2
+BA    2   CR         1   TR  1   CH  1   NT  D''             2
+BA    2   CR     1+1/4   TR  2   CH  3   NT  D''             2
+
+BA    3   CR         0   TR  1   CH  1   NT  C#''          1/2
+BA    3   CR       1/4   TR  2   CH  3   NT  C#''          1/2
+BA    3   CR       1/2   TR  1   CH  1   NT  B'            1/2
+BA    3   CR       3/4   TR  2   CH  3   NT  B'            1/2
+BA    3   CR         1   TR  1   CH  1   NT  F#'           1/2
+BA    3   CR     1+1/4   TR  2   CH  3   NT  F#'           1/2
+BA    3   CR     1+1/2   TR  1   CH  1   NT  A'        1+47/96
+BA    3   CR     1+3/4   TR  2   CH  3   NT  A'        1+47/96
+BA    3   CR         3   TR  1   CH  1   NT  B'         4+1/96
+BA    3   CR     3+1/4   TR  2   CH  3   NT  B'         4+1/96
+
+BA    5   CR         0   TR  1   CH  1   NT  B'            1/2
+BA    5   CR       1/4   TR  2   CH  3   NT  B'            1/2
+BA    5   CR       1/2   TR  1   CH  1   NT  C#''          1/2
+BA    5   CR       3/4   TR  2   CH  3   NT  C#''          1/2
+BA    5   CR         1   TR  1   CH  1   NT  D''             2
+BA    5   CR     1+1/4   TR  2   CH  3   NT  D''             2
+
+BA    6   CR         0   TR  1   CH  1   NT  A'            1/2
+BA    6   CR       1/4   TR  2   CH  3   NT  A'            1/2
+BA    6   CR       1/2   TR  1   CH  1   NT  D''           1/2
+BA    6   CR       3/4   TR  2   CH  3   NT  D''           1/2
+BA    6   CR         1   TR  1   CH  1   NT  G''             2
+BA    6   CR     1+1/4   TR  2   CH  3   NT  G''             2
+
+BA    7   CR         0   TR  1   CH  1   NT  F#''          1/2
+BA    7   CR       1/4   TR  2   CH  3   NT  F#''          1/2
+BA    7   CR       1/2   TR  1   CH  1   NT  E''           1/2
+BA    7   CR       3/4   TR  2   CH  3   NT  E''           1/2
+BA    7   CR         1   TR  1   CH  1   NT  F#''      4+11/16
+BA    7   CR     1+1/4   TR  2   CH  3   NT  F#''      4+11/16
+
+BA    9   CR         2   TR  1   CH  1   NT  C#'''           1
+BA    9   CR     2+1/4   TR  2   CH  3   NT  C#'''           1
+BA    9   CR         3   TR  1   CH  1   NT  B''             1
+BA    9   CR     3+1/4   TR  2   CH  3   NT  B''             1
+
+BA   10   CR         0   TR  0   CH 16   Tempo 126
+BA   10   CR         0   TR  0   CH 16   End of track
+BA   10   CR         0   TR  1   CH 16   Tempo 126
+BA   10   CR         0   TR  1   CH  1   NT  F#''            1
+BA   10   CR         0   TR  2   CH 16   Tempo 126
+BA   10   CR       1/4   TR  2   CH  3   NT  F#''            1
+BA   10   CR         1   TR  1   CH  1   NT  F#''      1+47/96
+BA   10   CR     1+1/4   TR  2   CH  3   NT  F#''      1+47/96
+BA   10   CR     2+1/2   TR  1   CH  1   NT  G''       2+65/96
+BA   10   CR     2+3/4   TR  2   CH  3   NT  G''       2+65/96
+
+BA   11   CR         2   TR  1   CH  1   NT  E'''          1/2
+BA   11   CR     2+1/4   TR  2   CH  3   NT  E'''          1/2
+BA   11   CR     2+1/2   TR  1   CH  1   NT  D'''          1/2
+BA   11   CR     2+3/4   TR  2   CH  3   NT  D'''          1/2
+BA   11   CR         3   TR  1   CH  1   NT  C#'''         1/2
+BA   11   CR     3+1/4   TR  2   CH  3   NT  C#'''         1/2
+BA   11   CR     3+1/2   TR  1   CH  1   NT  B''           1/2
+BA   11   CR     3+3/4   TR  2   CH  3   NT  B''           1/2
+
+BA   12   CR         0   TR  1   CH  1   NT  F#''          1/2
+BA   12   CR       1/4   TR  2   CH  3   NT  F#''          1/2
+BA   12   CR       1/2   TR  1   CH  1   NT  E''           1/2
+BA   12   CR       3/4   TR  2   CH  3   NT  E''           1/2
+BA   12   CR         1   TR  1   CH  1   NT  F#''          1/2
+BA   12   CR     1+1/4   TR  2   CH  3   NT  F#''          1/2
+BA   12   CR     1+1/2   TR  1   CH  1   NT  B''           1/2
+BA   12   CR     1+3/4   TR  2   CH  3   NT  B''           1/2
+BA   12   CR         2   TR  1   CH  1   NT  G''             1
+BA   12   CR     2+1/4   TR  2   CH  3   NT  G''             1
+BA   12   CR     3+1/2   TR  1   CH  1   NT  G''           1/2
+BA   12   CR     3+3/4   TR  2   CH  3   NT  G''           1/2
+
+BA   13   CR         0   TR  1   CH  1   NT  A''             2
+BA   13   CR       1/4   TR  2   CH  3   NT  A''             2
+BA   13   CR     2+1/2   TR  1   CH  1   NT  C''           1/2
+BA   13   CR     2+3/4   TR  2   CH  3   NT  C''           1/2
+BA   13   CR         3   TR  1   CH  1   NT  E''           1/2
+BA   13   CR     3+1/4   TR  2   CH  3   NT  E''           1/2
+BA   13   CR     3+1/2   TR  1   CH  1   NT  A''           1/2
+BA   13   CR     3+3/4   TR  2   CH  3   NT  A''           1/2
+
+BA   14   CR         0   TR  1   CH  1   NT  F#''            2
+BA   14   CR       1/4   TR  2   CH  3   NT  F#''            2
+BA   14   CR     3+1/2   TR  1   CH  1   NT  D''           1/2
+BA   14   CR     3+3/4   TR  2   CH  3   NT  D''           1/2
+
+BA   15   CR         0   TR  1   CH  1   NT  B''       3+95/96
+BA   15   CR       1/4   TR  2   CH  3   NT  B''       3+95/96
+
+BA   16   CR       1/2   TR  1   CH  1   NT  Bb''      1+47/96
+BA   16   CR       3/4   TR  2   CH  3   NT  Bb''      1+47/96
+BA   16   CR         2   TR  1   CH  1   NT  G'''      1+47/96
+BA   16   CR     2+1/4   TR  2   CH  3   NT  G'''      1+47/96
+BA   16   CR     3+1/2   TR  1   CH  1   NT  F#'''     1+47/96
+BA   16   CR     3+3/4   TR  2   CH  3   NT  F#'''     1+47/96
+
+BA   17   CR     95/96   TR  1   CH 16   End of track
+BA   17   CR   1+23/96   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 31.0664 seconds

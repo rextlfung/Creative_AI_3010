@@ -1,0 +1,135 @@
+format=0 tracks=1 division=120
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "untitled"
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  0   CH  1   Sysex event &F0  &7E &7F &09 &01 &F7
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &21   0
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Tempo 240
+BA    1   CR         0   TR  0   CH  1   ST &B0 &0B &7F
+BA    1   CR    1+1/60   TR  0   CH  1   Instrument 25
+BA    1   CR    1+1/40   TR  0   CH  1   Channel volume 100
+BA    1   CR    1+1/40   TR  0   CH  1   ST &B0 &0A &40
+
+BA    2   CR       1/4   TR  0   CH  1   NT  C-            7/8   von=43
+BA    2   CR     1+1/4   TR  0   CH  1   NT  E-            5/8   von=62
+BA    2   CR     1+1/4   TR  0   CH  1   NT  E             7/8   von=91
+BA    2   CR         2   TR  0   CH  1   NT  G--           3/4   von=10
+BA    2   CR     3+1/8   TR  0   CH  1   NT  E-            5/8   von=64
+BA    2   CR     3+1/8   TR  0   CH  1   NT  G             5/8   von=105
+
+BA    3   CR         0   TR  0   CH  1   NT  B--           7/8   von=34
+BA    3   CR       1/8   TR  0   CH  1   NT  Eb            5/8   von=83
+BA    3   CR         1   TR  0   CH  1   NT  Eb-           7/8   von=57
+BA    3   CR         1   TR  0   CH  1   NT  B           1+1/4   von=102
+BA    3   CR     2+7/8   TR  0   CH  1   NT  Eb-           5/8   von=57
+BA    3   CR     2+7/8   TR  0   CH  1   NT  A             5/8   von=114
+BA    3   CR     3+3/4   TR  0   CH  1   NT  C-            7/8   von=42
+BA    3   CR     3+7/8   TR  0   CH  1   NT  G             5/8   von=122
+
+BA    4   CR       3/4   TR  0   CH  1   NT  E-            5/8   von=62
+BA    4   CR       7/8   TR  0   CH  1   NT  E           1+1/4   von=105
+BA    4   CR     1+1/2   TR  0   CH  1   NT  G--           3/4   von=10
+BA    4   CR     2+5/8   TR  0   CH  1   NT  E-            5/8   von=64
+BA    4   CR     2+3/4   TR  0   CH  1   NT  C             1/2   von=71
+BA    4   CR     3+1/2   TR  0   CH  1   NT  B--           7/8   von=35
+BA    4   CR     3+5/8   TR  0   CH  1   NT  B-            5/8   von=91
+
+BA    5   CR       1/2   TR  0   CH  1   NT  Eb-           7/8   von=58
+BA    5   CR     1+1/2   TR  0   CH  1   NT  B             5/8   von=108
+BA    5   CR     2+3/8   TR  0   CH  1   NT  Eb-           5/8   von=58
+BA    5   CR     2+3/8   TR  0   CH  1   NT  A             5/8   von=115
+BA    5   CR     3+1/4   TR  0   CH  1   NT  C-            7/8   von=43
+BA    5   CR     3+3/8   TR  0   CH  1   NT  G           1+1/2   von=94
+
+BA    6   CR       1/4   TR  0   CH  1   NT  E-            5/8   von=62
+BA    6   CR         1   TR  0   CH  1   NT  G--           3/4   von=12
+BA    6   CR     1+1/8   TR  0   CH  1   NT  A             7/8   von=108
+BA    6   CR     2+1/8   TR  0   CH  1   NT  E-            5/8   von=64
+BA    6   CR     2+1/8   TR  0   CH  1   NT  B             7/8   von=120
+BA    6   CR         3   TR  0   CH  1   NT  A--           3/4   von=20
+BA    6   CR         3   TR  0   CH  1   NT  C'            3/4   von=115
+
+BA    7   CR         0   TR  0   CH  1   NT  E-            5/8   von=62
+BA    7   CR         0   TR  0   CH  1   NT  D'            3/4   von=101
+BA    7   CR       7/8   TR  0   CH  1   NT  C-            7/8   von=43
+BA    7   CR       7/8   TR  0   CH  1   NT  E'            3/4   von=103
+BA    7   CR     1+7/8   TR  0   CH  1   NT  E-            5/8   von=62
+BA    7   CR     1+7/8   TR  0   CH  1   NT  F'            3/4   von=111
+BA    7   CR     2+3/4   TR  0   CH  1   NT  G'              1   von=118
+BA    7   CR     2+7/8   TR  0   CH  1   NT  D-            3/4   von=53
+BA    7   CR     3+3/4   TR  0   CH  1   NT  F-            5/8   von=67
+
+BA    8   CR       5/8   TR  0   CH  1   NT  A--           3/4   von=20
+BA    8   CR       5/8   TR  0   CH  1   NT  F'            5/8   von=122
+BA    8   CR     1+5/8   TR  0   CH  1   NT  F-            5/8   von=68
+BA    8   CR     1+5/8   TR  0   CH  1   NT  C#'           3/4   von=99
+BA    8   CR     2+3/8   TR  0   CH  1   NT  G--           7/8   von=15
+BA    8   CR     2+5/8   TR  0   CH  1   NT  E'            3/4   von=119
+BA    8   CR     3+3/8   TR  0   CH  1   NT  A--           7/8   von=23
+
+BA    9   CR       3/8   TR  0   CH  1   NT  B--           3/4   von=34
+BA    9   CR       1/2   TR  0   CH  1   NT  D'            7/8   von=123
+BA    9   CR     1+1/4   TR  0   CH  1   NT  G--           5/8   von=7
+BA    9   CR     2+1/4   TR  0   CH  1   NT  A'            3/4   von=113
+BA    9   CR     2+3/8   TR  0   CH  1   NT  F-            3/4   von=68
+BA    9   CR     3+1/4   TR  0   CH  1   NT  A-            5/8   von=84
+BA    9   CR     3+1/4   TR  0   CH  1   NT  F'            7/8   von=105
+
+BA   10   CR       1/8   TR  0   CH  1   NT  C-            7/8   von=41
+BA   10   CR     1+1/8   TR  0   CH  1   NT  A-            5/8   von=84
+BA   10   CR     1+1/8   TR  0   CH  1   NT  E'            5/8   von=91
+BA   10   CR         2   TR  0   CH  1   NT  B--           7/8   von=38
+BA   10   CR         2   TR  0   CH  1   NT  Eb'           3/4   von=115
+BA   10   CR         3   TR  0   CH  1   NT  F#-           5/8   von=73
+
+BA   11   CR         0   TR  0   CH  1   NT  Eb-           7/8   von=59
+BA   11   CR       7/8   TR  0   CH  1   NT  A'            3/4   von=122
+BA   11   CR         1   TR  0   CH  1   NT  F#-           1/2   von=72
+BA   11   CR     1+3/4   TR  0   CH  1   NT  G'            3/4   von=110
+BA   11   CR     1+7/8   TR  0   CH  1   NT  E-            3/4   von=64
+BA   11   CR     2+3/4   TR  0   CH  1   NT  G-            5/8   von=77
+BA   11   CR     2+3/4   TR  0   CH  1   NT  E'            7/8   von=102
+BA   11   CR     3+5/8   TR  0   CH  1   NT  B--           3/4   von=33
+
+BA   12   CR       5/8   TR  0   CH  1   NT  G-            5/8   von=76
+BA   12   CR       5/8   TR  0   CH  1   NT  G'            5/8   von=78
+BA   12   CR     1+3/8   TR  0   CH  1   NT  A--             1   von=24
+BA   12   CR     1+1/2   TR  0   CH  1   NT  C#'           3/4   von=109
+BA   12   CR     2+1/2   TR  0   CH  1   NT  E-            5/8   von=63
+BA   12   CR     3+3/8   TR  0   CH  1   NT  C#-           7/8   von=47
+BA   12   CR     3+3/8   TR  0   CH  1   NT  A'            3/4   von=125
+
+BA   13   CR       3/8   TR  0   CH  1   NT  E-            5/8   von=63
+BA   13   CR       3/8   TR  0   CH  1   NT  G'            7/8   von=111
+BA   13   CR     1+3/8   TR  0   CH  1   NT  D-            3/4   von=54
+BA   13   CR     1+3/8   TR  0   CH  1   NT  G'            1/2   von=116
+BA   13   CR     2+1/4   TR  0   CH  1   NT  F-            5/8   von=67
+BA   13   CR     2+1/4   TR  0   CH  1   NT  F'            1/2   von=72
+BA   13   CR         3   TR  0   CH  1   NT  A--           7/8   von=24
+BA   13   CR     3+1/8   TR  0   CH  1   NT  E'            3/4   von=113
+
+BA   14   CR       1/8   TR  0   CH  1   NT  F-            5/8   von=68
+BA   14   CR       1/8   TR  0   CH  1   NT  F'            1/2   von=80
+BA   14   CR         1   TR  0   CH  1   NT  G'            3/4   von=116
+BA   14   CR     1+1/8   TR  0   CH  1   NT  D-            7/8   von=53
+BA   14   CR         2   TR  0   CH  1   NT  F'            1/2   von=101
+BA   14   CR     2+1/8   TR  0   CH  1   NT  F-            1/2   von=68
+BA   14   CR     2+3/4   TR  0   CH  1   NT  A--           3/4   von=22
+BA   14   CR     2+7/8   TR  0   CH  1   NT  A'            3/4   von=117
+BA   14   CR     3+5/8   TR  0   CH  1   NT  G#--          3/4   von=13
+BA   14   CR     3+7/8   TR  0   CH  1   NT  C''           3/4   von=119
+
+BA   15   CR       1/2   TR  0   CH  1   NT  G--             1   von=12
+BA   15   CR       3/4   TR  0   CH  1   NT  E''           3/4   von=127
+BA   15   CR     1+3/4   TR  0   CH  1   NT  D-            3/4   von=52
+BA   15   CR     1+3/4   TR  0   CH  1   NT  D''           3/4   von=112
+BA   15   CR     2+5/8   TR  0   CH  1   NT  C''           5/8   von=118
+BA   15   CR     3+5/8   TR  0   CH  1   NT  D-            5/8   von=53
+
+BA   16   CR       1/2   TR  0   CH  1   NT  G--         1+3/8   von=25
+BA   16   CR       1/2   TR  0   CH  1   NT  D''         1+3/8   von=112
+BA   16   CR     1+7/8   TR  0   CH 16   End of track
+# Successfully parsed
+# Duration = 15.4688 seconds

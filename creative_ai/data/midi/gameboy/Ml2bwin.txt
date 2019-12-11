@@ -1,0 +1,116 @@
+format=1 tracks=9 division=192
+
+BA    1   CR         0   TR  0   CH 16   Tempo 180
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "By Unregistered User"
+BA    1   CR         0   TR  1   CH 16   End of track
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Game: Super Mario Land 2"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  2   CH  1   Channel volume 127
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   Instrument 72
+BA    1   CR         0   TR  2   CH  1   NT  A--         47/96   von=110
+BA    1   CR         0   TR  3   CH 16   Text type 3: "System: Game Boy"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  3   CH  2   Channel volume 127
+BA    1   CR         0   TR  3   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  3   CH  2   Instrument 33
+BA    1   CR         0   TR  3   CH  2   NT  A--         47/96   von=110
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Title: Bonus win fanfare"
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  4   CH  3   Channel volume 60
+BA    1   CR         0   TR  4   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  4   CH  3   Instrument 80
+BA    1   CR         0   TR  5   CH 16   Text type 3: "(c) 1992 Nintendo"
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  5   CH 10   Channel volume 70
+BA    1   CR         0   TR  5   CH 10   ST &B9 &0A &40
+BA    1   CR         0   TR  5   CH 10   Instrument 1
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Sequenced by: FireMario (17/Nov/2002)"
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR  6   CH  5   Channel volume 60
+BA    1   CR         0   TR  6   CH  5   ST &B4 &0A &40
+BA    1   CR         0   TR  6   CH  5   Instrument 72
+BA    1   CR         0   TR  7   CH 16   Text type 3: "http://ar.geocities.com/peloso_oviedo"
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  7   CH  6   Channel volume 70
+BA    1   CR         0   TR  7   CH  6   ST &B5 &0A &40
+BA    1   CR         0   TR  7   CH  6   Instrument 72
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Original composer: Kazumi Totaka"
+BA    1   CR         0   TR  8   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR  8   CH  7   Channel volume 127
+BA    1   CR         0   TR  8   CH  7   ST &B6 &0A &40
+BA    1   CR         0   TR  8   CH  7   Instrument 1
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR       1/2   TR  2   CH  1   NT  Bb--        47/96
+BA    1   CR       1/2   TR  3   CH  2   NT  Bb--        47/96
+BA    1   CR         1   TR  2   CH  1   NT  B--         47/96
+BA    1   CR         1   TR  3   CH  2   NT  B--         47/96
+BA    1   CR     1+1/2   TR  2   CH  1   NT  Bb--        47/96
+BA    1   CR     1+1/2   TR  3   CH  2   NT  Bb--        47/96
+BA    1   CR         2   TR  2   CH  1   NT  A--         47/96
+BA    1   CR         2   TR  3   CH  2   NT  A--           5/6
+
+BA    3   CR         0   TR  2   CH  1   NT  E'          47/96
+BA    3   CR         0   TR  4   CH  3   NT  G'          47/96   von=110
+BA    3   CR         0   TR  5   CH 10   NT  G#--        23/96   von=110
+BA    3   CR         0   TR  7   CH  6   NT  D--          1/12   von=110
+BA    3   CR      1/12   TR  7   CH  6   NT  C--          1/12
+BA    3   CR       1/6   TR  7   CH  6   NT  Bb---        1/12
+BA    3   CR       1/4   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR       1/2   TR  2   CH  1   NT  Eb'         47/96
+BA    3   CR       1/2   TR  4   CH  3   NT  F#'         47/96
+BA    3   CR       1/2   TR  5   CH 10   NT  D--         47/96
+BA    3   CR         1   TR  2   CH  1   NT  E'          47/96
+BA    3   CR         1   TR  4   CH  3   NT  G'          47/96
+BA    3   CR         1   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR         1   TR  7   CH  6   NT  D--          1/12
+BA    3   CR    1+1/12   TR  7   CH  6   NT  C--          1/12
+BA    3   CR     1+1/6   TR  7   CH  6   NT  Bb---        1/12
+BA    3   CR     1+1/4   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR     1+1/2   TR  2   CH  1   NT  A'          47/96
+BA    3   CR     1+1/2   TR  4   CH  3   NT  C#''        47/96
+BA    3   CR     1+1/2   TR  5   CH 10   NT  D--         47/96
+BA    3   CR         2   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR         2   TR  7   CH  6   NT  D--          1/12
+BA    3   CR    2+1/12   TR  7   CH  6   NT  C--          1/12
+BA    3   CR     2+1/6   TR  7   CH  6   NT  Bb---        1/12
+BA    3   CR     2+1/4   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR     2+1/2   TR  2   CH  1   NT  A'          47/96
+BA    3   CR     2+1/2   TR  4   CH  3   NT  C#''        47/96
+BA    3   CR     2+1/2   TR  5   CH 10   NT  D--         47/96
+BA    3   CR         3   TR  2   CH  1   NT  C#'         47/96
+BA    3   CR         3   TR  4   CH  3   NT  F'          47/96
+BA    3   CR         3   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR         3   TR  7   CH  6   NT  D--          1/12
+BA    3   CR    3+1/12   TR  7   CH  6   NT  C--          1/12
+BA    3   CR     3+1/6   TR  7   CH  6   NT  Bb---        1/12
+BA    3   CR     3+1/4   TR  5   CH 10   NT  G#--        23/96
+BA    3   CR     3+1/2   TR  5   CH 10   NT  D--         47/96
+
+BA    4   CR         0   TR  2   CH  1   NT  D'          47/96
+BA    4   CR         0   TR  4   CH  3   NT  F#'         47/96
+BA    4   CR         0   TR  5   CH 10   NT  D--           5/6
+BA    4   CR         0   TR  7   CH  6   NT  D--          1/12
+BA    4   CR      1/12   TR  7   CH  6   NT  C--          1/12
+BA    4   CR       1/6   TR  7   CH  6   NT  Bb---        1/12
+BA    4   CR       1/4   TR  7   CH 16   End of track
+BA    4   CR     47/96   TR  2   CH 16   End of track
+BA    4   CR     47/96   TR  4   CH 16   End of track
+BA    4   CR       5/6   TR  5   CH 16   End of track
+BA    4   CR         1   TR  3   CH  2   NT  A--         47/96
+BA    4   CR         1   TR  6   CH  5   NT  A--         47/96   von=110
+BA    4   CR     1+1/2   TR  3   CH  2   NT  Bb--        47/96
+BA    4   CR     1+1/2   TR  6   CH  5   NT  Bb--        47/96
+BA    4   CR         2   TR  3   CH  2   NT  B--         47/96
+BA    4   CR         2   TR  6   CH  5   NT  B--         47/96
+BA    4   CR     2+1/2   TR  3   CH  2   NT  Bb--        47/96
+BA    4   CR     2+1/2   TR  6   CH  5   NT  Bb--        47/96
+BA    4   CR         3   TR  3   CH  2   NT  A--         47/96
+BA    4   CR         3   TR  6   CH  5   NT  A--         47/96
+BA    4   CR   3+47/96   TR  3   CH 16   End of track
+BA    4   CR   3+47/96   TR  6   CH 16   End of track
+# Successfully parsed
+# Duration = 5.16319 seconds

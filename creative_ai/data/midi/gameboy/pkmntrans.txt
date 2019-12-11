@@ -1,0 +1,61 @@
+format=1 tracks=2 division=96
+
+BA    1   CR         0   TR  0   CH 16   Tempo 75
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "MIDI out"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    1   CR         0   TR  1   CH  1   Instrument 81
+BA    1   CR         0   TR  1   CH  1   NT  C           23/96   von=99   voff=99
+BA    1   CR         0   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR       1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    1   CR       1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR         1   TR  1   CH  1   NT  C           23/96   voff=99
+BA    1   CR         1   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR     1+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    1   CR     1+1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR         2   TR  1   CH  1   NT  C           23/96   voff=99
+BA    1   CR         2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR     2+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    1   CR     2+1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR         3   TR  1   CH  1   NT  C           23/96   voff=99
+BA    1   CR         3   TR  1   CH  1   NT  G           23/96   voff=99
+BA    1   CR     3+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    1   CR     3+1/2   TR  1   CH  1   NT  A           47/96   voff=99
+
+BA    2   CR         0   TR  1   CH  1   NT  C           23/96   voff=99
+BA    2   CR         0   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR       1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    2   CR       1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR         1   TR  1   CH  1   NT  C           23/96   voff=99
+BA    2   CR         1   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR     1+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    2   CR     1+1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR         2   TR  1   CH  1   NT  C           23/96   voff=99
+BA    2   CR         2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR     2+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    2   CR     2+1/2   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR         3   TR  1   CH  1   NT  C           23/96   voff=99
+BA    2   CR         3   TR  1   CH  1   NT  G           23/96   voff=99
+BA    2   CR     3+1/2   TR  1   CH  1   NT  D           23/96   voff=99
+BA    2   CR     3+1/2   TR  1   CH  1   NT  B           47/96   voff=99
+
+BA    3   CR         0   TR  1   CH  1   ST &B0 &79 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &79 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &65 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &64 &00
+BA    3   CR         0   TR  1   CH  1   ST &B0 &06 &0C
+BA    3   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    3   CR         0   TR  1   CH  1   Channel volume 100
+BA    3   CR         0   TR  1   CH  1   ST &E0 &00 &40
+BA    3   CR         0   TR  1   CH  1   Instrument 81
+BA    3   CR         0   TR  1   CH 16   End of track
+# Successfully parsed
+# Duration = 6.4 seconds

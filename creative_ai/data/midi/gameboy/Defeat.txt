@@ -1,0 +1,82 @@
+format=1 tracks=33 division=480
+
+BA    1   CR         0   TR  0   CH 16   Tempo 180
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Time signature 2/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   ST &B0 &20 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 76
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   ST &B1 &20 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 76
+BA    1   CR         0   TR  2   CH  2   Channel volume 100
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         1   TR  1   CH  1   Channel volume 100
+BA    1   CR    1+1/48   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR    1+1/24   TR  1   CH  1   ST &B0 &0B &7F
+BA    1   CR    1+1/16   TR  2   CH  2   Channel volume 100
+BA    1   CR    1+1/12   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR    1+5/48   TR  2   CH  2   ST &B1 &0B &7F
+
+BA    2   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    2   CR         0   TR  1   CH  1   NT  C''           1/4   von=100
+BA    2   CR         0   TR  2   CH  2   NT  C             1/2   von=100
+BA    2   CR       3/4   TR  1   CH  1   NT  B'            1/4
+BA    2   CR       3/4   TR  2   CH  2   NT  G             1/4
+BA    2   CR         1   TR  1   CH  1   NT  Bb'           1/4
+BA    2   CR         1   TR  2   CH  2   NT  E'            1/2
+BA    2   CR     1+3/4   TR  1   CH  1   NT  A'            1/4
+BA    2   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    2   CR         2   TR  1   CH  1   NT  G#'           1/3
+BA    2   CR         2   TR  2   CH  2   NT  G#            1/3
+BA    2   CR     2+1/3   TR  2   CH  2   NT  Eb            1/3
+BA    2   CR     2+2/3   TR  1   CH  1   NT  Eb'           5/6
+BA    2   CR     2+2/3   TR  2   CH  2   NT  G#            1/3
+BA    2   CR         3   TR  2   CH  2   NT  C'            3/4
+BA    2   CR     3+3/4   TR  1   CH  1   NT  G#'           1/4
+BA    2   CR     3+3/4   TR  2   CH  2   NT  G#            1/4
+
+BA    3   CR         0   TR  1   CH  1   NT  G'            1/2
+BA    3   CR         0   TR  2   CH  2   NT  G             1/2
+BA    3   CR         2   TR  1   CH  1   NT  F#''        11/80
+BA    3   CR     2+1/8   TR  1   CH  1   NT  G''           3/8
+
+BA    4   CR         0   TR  1   CH  1   ST &B0 &0B &7F
+
+BA    5   CR         0   TR  0   CH 16   End of track
+BA    5   CR         0   TR  1   CH 16   End of track
+BA    5   CR         0   TR  2   CH 16   End of track
+BA    5   CR         0   TR  3   CH 16   End of track
+BA    5   CR         0   TR  4   CH 16   End of track
+BA    5   CR         0   TR  5   CH 16   End of track
+BA    5   CR         0   TR  6   CH 16   End of track
+BA    5   CR         0   TR  7   CH 16   End of track
+BA    5   CR         0   TR  8   CH 16   End of track
+BA    5   CR         0   TR  9   CH 16   End of track
+BA    5   CR         0   TR 10   CH 16   End of track
+BA    5   CR         0   TR 11   CH 16   End of track
+BA    5   CR         0   TR 12   CH 16   End of track
+BA    5   CR         0   TR 13   CH 16   End of track
+BA    5   CR         0   TR 14   CH 16   End of track
+BA    5   CR         0   TR 15   CH 16   End of track
+BA    5   CR         0   TR 16   CH 16   End of track
+BA    5   CR         0   TR 17   CH 16   End of track
+BA    5   CR         0   TR 18   CH 16   End of track
+BA    5   CR         0   TR 19   CH 16   End of track
+BA    5   CR         0   TR 20   CH 16   End of track
+BA    5   CR         0   TR 21   CH 16   End of track
+BA    5   CR         0   TR 22   CH 16   End of track
+BA    5   CR         0   TR 23   CH 16   End of track
+BA    5   CR         0   TR 24   CH 16   End of track
+BA    5   CR         0   TR 25   CH 16   End of track
+BA    5   CR         0   TR 26   CH 16   End of track
+BA    5   CR         0   TR 27   CH 16   End of track
+BA    5   CR         0   TR 28   CH 16   End of track
+BA    5   CR         0   TR 29   CH 16   End of track
+BA    5   CR         0   TR 30   CH 16   End of track
+BA    5   CR         0   TR 31   CH 16   End of track
+BA    5   CR         0   TR 32   CH 16   End of track
+# Successfully parsed
+# Duration = 4.66666 seconds

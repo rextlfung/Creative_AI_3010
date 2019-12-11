@@ -1,0 +1,500 @@
+format=1 tracks=18 division=384
+
+BA    1   CR         0   TR  0   CH 16   Time signature 1/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   0 0 65
+BA    1   CR         0   TR  0   CH 16   Tempo 97.9
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Melody"
+BA    1   CR         0   TR  1   CH  1   ST &B0 &00 &00
+BA    1   CR         0   TR  1   CH  1   Instrument 42
+BA    1   CR         0   TR  1   CH  1   Channel volume 81
+BA    1   CR         0   TR  1   CH 16   Key Eb minor
+BA    1   CR         0   TR  1   CH  1   NT  Eb          47/96   von=100   voff=100
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Harmony"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &00 &00
+BA    1   CR         0   TR  2   CH  2   Instrument 42
+BA    1   CR         0   TR  2   CH  2   Channel volume 102
+BA    1   CR         0   TR  2   CH 16   Key Eb minor
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Bass"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &00 &00
+BA    1   CR         0   TR  3   CH  3   Instrument 43
+BA    1   CR         0   TR  3   CH  3   Channel volume 102
+BA    1   CR         0   TR  3   CH 16   Key Eb minor
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Tinkle"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  4   CH  4   Instrument 3
+BA    1   CR         0   TR  4   CH  4   Channel volume 102
+BA    1   CR         0   TR  4   CH 16   Key Eb minor
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Gargoyle's Quest"
+BA    1   CR         0   TR  5   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  5   CH  4   Instrument 3
+BA    1   CR         0   TR  5   CH  4   Channel volume 102
+BA    1   CR         0   TR  5   CH 16   Key Eb minor
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Intro Theme"
+BA    1   CR         0   TR  6   CH  4   ST &B3 &00 &00
+BA    1   CR         0   TR  6   CH  4   Instrument 3
+BA    1   CR         0   TR  6   CH  4   Channel volume 102
+BA    1   CR         0   TR  6   CH 16   Key Eb minor
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Sequenced by:"
+BA    1   CR         0   TR  7   CH 16   Key C major
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Jared Copeland"
+BA    1   CR         0   TR  8   CH 16   Key C major
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR         0   TR  9   CH 16   Text type 3: "latin333@aztec.asu.edu"
+BA    1   CR         0   TR  9   CH 16   Key C major
+BA    1   CR         0   TR  9   CH 16   End of track
+BA    1   CR         0   TR 10   CH 16   Key C major
+BA    1   CR         0   TR 10   CH 16   End of track
+BA    1   CR         0   TR 11   CH 16   Key C major
+BA    1   CR         0   TR 11   CH 16   End of track
+BA    1   CR         0   TR 12   CH 16   Key C major
+BA    1   CR         0   TR 12   CH 16   End of track
+BA    1   CR         0   TR 13   CH 16   Key C major
+BA    1   CR         0   TR 13   CH 16   End of track
+BA    1   CR         0   TR 14   CH 16   Key C major
+BA    1   CR         0   TR 14   CH 16   End of track
+BA    1   CR         0   TR 15   CH 16   Key C major
+BA    1   CR         0   TR 15   CH 16   End of track
+BA    1   CR         0   TR 16   CH 16   Key C major
+BA    1   CR         0   TR 16   CH 16   End of track
+BA    1   CR         0   TR 17   CH 16   Key C major
+BA    1   CR         0   TR 17   CH 16   End of track
+BA    1   CR       1/2   TR  1   CH  1   NT  Bb          47/96   voff=100
+
+BA    2   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 96, crotchets/32ndnote 8
+BA    2   CR         0   TR  0   CH 16   End of track
+BA    2   CR         0   TR  1   CH  1   NT  A         1+23/24   voff=100
+BA    2   CR         0   TR  2   CH  2   NT  F         1+23/24   von=100   voff=100
+BA    2   CR         0   TR  3   CH  3   NT  Eb-       1+23/24   von=120   voff=100
+BA    2   CR         0   TR  3   CH  3   NT  Bb--      1+23/24   voff=100
+BA    2   CR         2   TR  1   CH  1   NT  Bb          23/24   voff=100
+BA    2   CR         2   TR  2   CH  2   NT  F#        1+23/24
+BA    2   CR         2   TR  3   CH  3   NT  Eb-       1+23/24
+BA    2   CR         2   TR  3   CH  3   NT  Bb--      1+23/24
+BA    2   CR         3   TR  1   CH  1   NT  Eb          11/24   voff=100
+BA    2   CR     3+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+
+BA    3   CR         0   TR  1   CH  1   NT  A           23/24   voff=100
+BA    3   CR         1   TR  1   CH  1   NT  A'          23/24   voff=100
+BA    3   CR         1   TR  2   CH  2   NT  F'          23/24   voff=100
+BA    3   CR         1   TR  3   CH  3   NT  Eb-         23/24   voff=100
+BA    3   CR         2   TR  1   CH  1   NT  Bb'         23/24   voff=100
+BA    3   CR         2   TR  2   CH  2   NT  F#'         23/24   voff=100
+BA    3   CR         2   TR  3   CH  3   NT  Eb-         23/24   voff=100
+BA    3   CR         3   TR  1   CH  1   NT  Eb          11/24   voff=100
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+
+BA    4   CR         0   TR  1   CH  1   NT  A         1+11/24   voff=100
+BA    4   CR         0   TR  2   CH  2   NT  F           23/24   voff=100
+BA    4   CR         0   TR  3   CH  3   NT  Eb-         11/24   voff=100
+BA    4   CR       1/2   TR  3   CH  3   NT  D-          11/24   voff=100
+BA    4   CR         1   TR  2   CH  2   NT  F#          23/24   voff=100
+BA    4   CR         1   TR  3   CH  3   NT  B--         11/24   voff=100
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA    4   CR     1+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA    4   CR         2   TR  1   CH  1   NT  D'          11/24   voff=100
+BA    4   CR         2   TR  2   CH  2   NT  F           11/24   voff=100
+BA    4   CR         2   TR  3   CH  3   NT  G#--        11/24   voff=100
+BA    4   CR     2+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA    4   CR     2+1/2   TR  2   CH  2   NT  D           11/24   voff=100
+BA    4   CR     2+1/2   TR  3   CH  3   NT  F--         11/24   voff=100
+BA    4   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    4   CR         3   TR  2   CH  2   NT  Bb          23/24   voff=100
+BA    4   CR         3   TR  3   CH  3   NT  F#--        11/24   voff=100
+BA    4   CR     3+1/2   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA    4   CR     3+1/2   TR  3   CH  3   NT  Eb--        11/24   voff=100
+
+BA    5   CR         0   TR  1   CH  1   NT  F'        1+23/24   voff=100
+BA    5   CR         0   TR  2   CH  2   NT  A           23/24   voff=100
+BA    5   CR         0   TR  3   CH  3   NT  F--       1+23/24   voff=100
+BA    5   CR         1   TR  2   CH  2   NT  Eb'         23/24   voff=100
+BA    5   CR         2   TR  1   CH  1   NT  F'        1+17/24
+BA    5   CR         2   TR  2   CH  2   NT  D'        1+17/24
+BA    5   CR         2   TR  3   CH  3   NT  Bb---     1+17/24
+
+BA    6   CR         0   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA    6   CR         0   TR  2   CH  2   NT  Bb        3+23/24
+BA    6   CR         0   TR  3   CH  3   NT  Eb-       1+23/24   voff=100
+BA    6   CR       1/2   TR  1   CH  1   NT  F'          11/24   voff=100
+BA    6   CR         1   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA    6   CR     1+1/2   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    6   CR         2   TR  1   CH  1   NT  F'        1+23/24
+BA    6   CR         2   TR  3   CH  3   NT  D-          11/24   voff=100
+BA    6   CR     2+1/2   TR  3   CH  3   NT  C-          11/24   voff=100
+BA    6   CR         3   TR  3   CH  3   NT  D-          11/24   voff=100
+BA    6   CR     3+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+
+BA    7   CR         0   TR  1   CH  1   NT  E'          11/24   voff=100
+BA    7   CR         0   TR  2   CH  2   NT  G#        3+23/24
+BA    7   CR         0   TR  3   CH  3   NT  C#-       1+23/24   voff=100
+BA    7   CR       1/2   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    7   CR         1   TR  1   CH  1   NT  E'          11/24   voff=100
+BA    7   CR     1+1/2   TR  1   CH  1   NT  C#'         11/24   voff=100
+BA    7   CR         2   TR  1   CH  1   NT  Eb'       1+23/24
+BA    7   CR         2   TR  3   CH  3   NT  C-          11/24   voff=100
+BA    7   CR     2+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA    7   CR         3   TR  3   CH  3   NT  C-          11/24   voff=100
+BA    7   CR     3+1/2   TR  3   CH  3   NT  G#--        11/24   voff=100
+
+BA    8   CR         0   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    8   CR         0   TR  2   CH  2   NT  F#        1+11/24   voff=100
+BA    8   CR         0   TR  3   CH  3   NT  B--         11/24   voff=100
+BA    8   CR       1/2   TR  1   CH  1   NT  D'          11/24   voff=100
+BA    8   CR       1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA    8   CR         1   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    8   CR         1   TR  3   CH  3   NT  B--         11/24   voff=100
+BA    8   CR     1+1/2   TR  1   CH  1   NT  B           11/24   voff=100
+BA    8   CR     1+1/2   TR  2   CH  2   NT  D           11/24   voff=100
+BA    8   CR     1+1/2   TR  3   CH  3   NT  G#--        11/24   voff=100
+BA    8   CR         2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA    8   CR         2   TR  2   CH  2   NT  Eb          11/24   voff=100
+BA    8   CR         2   TR  3   CH  3   NT  F#--        11/24   voff=100
+BA    8   CR     2+1/2   TR  1   CH  1   NT  G#          11/24   voff=100
+BA    8   CR     2+1/2   TR  2   CH  2   NT  Bb-       1+11/24
+BA    8   CR     2+1/2   TR  3   CH  3   NT  D--         11/24   voff=100
+BA    8   CR         3   TR  1   CH  1   NT  F#          11/24   voff=100
+BA    8   CR         3   TR  3   CH  3   NT  Eb--        11/24   voff=100
+BA    8   CR     3+1/2   TR  1   CH  1   NT  F           11/24   voff=100
+BA    8   CR     3+1/2   TR  3   CH  3   NT  Bb---       11/24   voff=100
+
+BA    9   CR         0   TR  1   CH  1   NT  Eb        1+23/24   voff=100
+BA    9   CR         0   TR  2   CH  2   NT  G#-         23/24   voff=100
+BA    9   CR         0   TR  3   CH  3   NT  B---        23/24   voff=100
+BA    9   CR         1   TR  2   CH  2   NT  F-          23/24   voff=100
+BA    9   CR         1   TR  3   CH  3   NT  G#---       23/24   voff=100
+BA    9   CR         2   TR  1   CH  1   NT  Eb          23/24   voff=100
+BA    9   CR         2   TR  2   CH  2   NT  F#-        1+7/16   voff=100
+BA    9   CR         2   TR  3   CH  3   NT  Eb--       1+7/16   voff=100
+BA    9   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA    9   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   10   CR         0   TR  1   CH  1   NT  A'        1+23/24   voff=100
+BA   10   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   10   CR         0   TR  4   CH  4   NT  F''         47/96   von=100   voff=100
+BA   10   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   10   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   10   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   10   CR         2   TR  1   CH  1   NT  Bb'         23/24   voff=100
+BA   10   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   10   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   10   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   10   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   10   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   10   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   11   CR         0   TR  1   CH  1   NT  A'          23/24   voff=100
+BA   11   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   11   CR         0   TR  4   CH  4   NT  F''         47/96   voff=100
+BA   11   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   11   CR         1   TR  1   CH  1   NT  A''         23/24   voff=100
+BA   11   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   11   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   11   CR         2   TR  1   CH  1   NT  Bb''        23/24   voff=100
+BA   11   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   11   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   11   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   11   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   11   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   11   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   12   CR         0   TR  1   CH  1   NT  A'        1+11/24   voff=100
+BA   12   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   12   CR         0   TR  4   CH  4   NT  F''         47/96   voff=100
+BA   12   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   12   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   12   CR     1+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   12   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   12   CR         2   TR  1   CH  1   NT  D''         11/24   voff=100
+BA   12   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   12   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   12   CR     2+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   12   CR         3   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   12   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   12   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   12   CR     3+1/2   TR  1   CH  1   NT  F#''        11/24   voff=100
+
+BA   13   CR         0   TR  1   CH  1   NT  F''       1+23/24   voff=100
+BA   13   CR         0   TR  3   CH  3   NT  F--           7/8   voff=100
+BA   13   CR         1   TR  3   CH  3   NT  C-            7/8   voff=100
+BA   13   CR         2   TR  1   CH  1   NT  F''         23/24   voff=100
+BA   13   CR         2   TR  3   CH  3   NT  Bb---         7/8   voff=100
+BA   13   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+
+BA   14   CR         0   TR  1   CH  1   NT  F#''        11/24   voff=100
+BA   14   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   14   CR       1/2   TR  1   CH  1   NT  F''         11/24   voff=100
+BA   14   CR         1   TR  1   CH  1   NT  F#''        11/24   voff=100
+BA   14   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   14   CR         1   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   14   CR         2   TR  1   CH  1   NT  F''       1+23/24
+BA   14   CR         2   TR  3   CH  3   NT  D--           7/8   voff=100
+BA   14   CR     2+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   14   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   14   CR         3   TR  4   CH  4   NT  Bb'         47/96   voff=100
+BA   14   CR     3+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+
+BA   15   CR         0   TR  1   CH  1   NT  E''         11/24   voff=100
+BA   15   CR         0   TR  3   CH  3   NT  C#--          7/8   voff=100
+BA   15   CR       1/2   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   15   CR         1   TR  1   CH  1   NT  E''         11/24   voff=100
+BA   15   CR         1   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   15   CR         1   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   15   CR     1+1/2   TR  1   CH  1   NT  C#''        11/24   voff=100
+BA   15   CR         2   TR  1   CH  1   NT  Eb''      1+23/24
+BA   15   CR         2   TR  3   CH  3   NT  C--           7/8   voff=100
+BA   15   CR     2+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   15   CR         3   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   15   CR         3   TR  4   CH  4   NT  G#'         47/96   voff=100
+BA   15   CR     3+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+
+BA   16   CR         0   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   16   CR         0   TR  3   CH  3   NT  B---          7/8   voff=100
+BA   16   CR       1/2   TR  1   CH  1   NT  D''         11/24   voff=100
+BA   16   CR         1   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   16   CR         1   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   16   CR     1+1/2   TR  1   CH  1   NT  B'          11/24   voff=100
+BA   16   CR     1+1/2   TR  4   CH  4   NT  B''         47/96   voff=100
+BA   16   CR         2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   16   CR         2   TR  3   CH  3   NT  F#--        47/96   voff=100
+BA   16   CR         2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   16   CR     2+1/2   TR  1   CH  1   NT  G#'         11/24   voff=100
+BA   16   CR     2+1/2   TR  3   CH  3   NT  D--         47/96   voff=100
+BA   16   CR     2+1/2   TR  4   CH  4   NT  B''         47/96   voff=100
+BA   16   CR         3   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA   16   CR         3   TR  3   CH  3   NT  Eb--        47/96   voff=100
+BA   16   CR     3+1/2   TR  1   CH  1   NT  F'          11/24   voff=100
+BA   16   CR     3+1/2   TR  3   CH  3   NT  Bb---       47/96   voff=100
+
+BA   17   CR         0   TR  1   CH  1   NT  Eb'       1+23/24   voff=100
+BA   17   CR         0   TR  3   CH  3   NT  B--         95/96   voff=100
+BA   17   CR         0   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   17   CR       1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   17   CR         1   TR  3   CH  3   NT  G#--        95/96   voff=100
+BA   17   CR     1+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   17   CR         2   TR  1   CH  1   NT  Eb          23/24   voff=100
+BA   17   CR         2   TR  3   CH  3   NT  Eb-         95/96   voff=100
+BA   17   CR         2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   17   CR         3   TR  1   CH  1   NT  Eb          47/96   voff=100
+BA   17   CR     3+1/2   TR  1   CH  1   NT  Bb          47/96   voff=100
+
+BA   18   CR         0   TR  1   CH  1   NT  A         1+23/24   voff=100
+BA   18   CR         0   TR  2   CH  2   NT  F         1+23/24   voff=100
+BA   18   CR         0   TR  3   CH  3   NT  Eb-       1+23/24   voff=100
+BA   18   CR         0   TR  3   CH  3   NT  Bb--      1+23/24   voff=100
+BA   18   CR         2   TR  1   CH  1   NT  Bb          23/24   voff=100
+BA   18   CR         2   TR  2   CH  2   NT  F#        1+23/24
+BA   18   CR         2   TR  3   CH  3   NT  Eb-       1+23/24
+BA   18   CR         2   TR  3   CH  3   NT  Bb--      1+23/24
+BA   18   CR         3   TR  1   CH  1   NT  Eb          11/24   voff=100
+BA   18   CR     3+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+
+BA   19   CR         0   TR  1   CH  1   NT  A           23/24   voff=100
+BA   19   CR         1   TR  1   CH  1   NT  A'          23/24   voff=100
+BA   19   CR         1   TR  2   CH  2   NT  F'          23/24   voff=100
+BA   19   CR         1   TR  3   CH  3   NT  Eb-         23/24   voff=100
+BA   19   CR         2   TR  1   CH  1   NT  Bb'         23/24   voff=100
+BA   19   CR         2   TR  2   CH  2   NT  F#'         23/24   voff=100
+BA   19   CR         2   TR  3   CH  3   NT  Eb-         23/24   voff=100
+BA   19   CR         3   TR  1   CH  1   NT  Eb          11/24   voff=100
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+
+BA   20   CR         0   TR  1   CH  1   NT  A         1+11/24   voff=100
+BA   20   CR         0   TR  2   CH  2   NT  F           23/24   voff=100
+BA   20   CR         0   TR  3   CH  3   NT  Eb-         11/24   voff=100
+BA   20   CR       1/2   TR  3   CH  3   NT  D-          11/24   voff=100
+BA   20   CR         1   TR  2   CH  2   NT  F#          23/24   voff=100
+BA   20   CR         1   TR  3   CH  3   NT  B--         11/24   voff=100
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA   20   CR     1+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA   20   CR         2   TR  1   CH  1   NT  D'          11/24   voff=100
+BA   20   CR         2   TR  2   CH  2   NT  F           11/24   voff=100
+BA   20   CR         2   TR  3   CH  3   NT  G#--        11/24   voff=100
+BA   20   CR     2+1/2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA   20   CR     2+1/2   TR  2   CH  2   NT  D           11/24   voff=100
+BA   20   CR     2+1/2   TR  3   CH  3   NT  F--         11/24   voff=100
+BA   20   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   20   CR         3   TR  2   CH  2   NT  Bb          23/24   voff=100
+BA   20   CR         3   TR  3   CH  3   NT  F#--        11/24   voff=100
+BA   20   CR     3+1/2   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA   20   CR     3+1/2   TR  3   CH  3   NT  Eb--        11/24   voff=100
+
+BA   21   CR         0   TR  1   CH  1   NT  F'        1+23/24   voff=100
+BA   21   CR         0   TR  2   CH  2   NT  A           23/24   voff=100
+BA   21   CR         0   TR  3   CH  3   NT  F--       1+23/24   voff=100
+BA   21   CR         1   TR  2   CH  2   NT  Eb'         23/24   voff=100
+BA   21   CR         2   TR  1   CH  1   NT  F'        1+17/24
+BA   21   CR         2   TR  2   CH  2   NT  D'        1+17/24
+BA   21   CR         2   TR  3   CH  3   NT  Bb---     1+17/24
+
+BA   22   CR         0   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA   22   CR         0   TR  2   CH  2   NT  Bb        3+23/24
+BA   22   CR         0   TR  3   CH  3   NT  Eb-       1+23/24   voff=100
+BA   22   CR       1/2   TR  1   CH  1   NT  F'          11/24   voff=100
+BA   22   CR         1   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA   22   CR     1+1/2   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   22   CR         2   TR  1   CH  1   NT  F'        1+23/24
+BA   22   CR         2   TR  3   CH  3   NT  D-          11/24   voff=100
+BA   22   CR     2+1/2   TR  3   CH  3   NT  C-          11/24   voff=100
+BA   22   CR         3   TR  3   CH  3   NT  D-          11/24   voff=100
+BA   22   CR     3+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+
+BA   23   CR         0   TR  1   CH  1   NT  E'          11/24   voff=100
+BA   23   CR         0   TR  2   CH  2   NT  G#        3+23/24
+BA   23   CR         0   TR  3   CH  3   NT  C#-       1+23/24   voff=100
+BA   23   CR       1/2   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   23   CR         1   TR  1   CH  1   NT  E'          11/24   voff=100
+BA   23   CR     1+1/2   TR  1   CH  1   NT  C#'         11/24   voff=100
+BA   23   CR         2   TR  1   CH  1   NT  Eb'       1+23/24
+BA   23   CR         2   TR  3   CH  3   NT  C-          11/24   voff=100
+BA   23   CR     2+1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA   23   CR         3   TR  3   CH  3   NT  C-          11/24   voff=100
+BA   23   CR     3+1/2   TR  3   CH  3   NT  G#--        11/24   voff=100
+
+BA   24   CR         0   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   24   CR         0   TR  2   CH  2   NT  F#        1+11/24   voff=100
+BA   24   CR         0   TR  3   CH  3   NT  B--         11/24   voff=100
+BA   24   CR       1/2   TR  1   CH  1   NT  D'          11/24   voff=100
+BA   24   CR       1/2   TR  3   CH  3   NT  Bb--        11/24   voff=100
+BA   24   CR         1   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   24   CR         1   TR  3   CH  3   NT  B--         11/24   voff=100
+BA   24   CR     1+1/2   TR  1   CH  1   NT  B           11/24   voff=100
+BA   24   CR     1+1/2   TR  2   CH  2   NT  D           11/24   voff=100
+BA   24   CR     1+1/2   TR  3   CH  3   NT  G#--        11/24   voff=100
+BA   24   CR         2   TR  1   CH  1   NT  Bb          11/24   voff=100
+BA   24   CR         2   TR  2   CH  2   NT  Eb          11/24   voff=100
+BA   24   CR         2   TR  3   CH  3   NT  F#--        11/24   voff=100
+BA   24   CR     2+1/2   TR  1   CH  1   NT  G#          11/24   voff=100
+BA   24   CR     2+1/2   TR  2   CH  2   NT  Bb-       1+11/24
+BA   24   CR     2+1/2   TR  3   CH  3   NT  D--         11/24   voff=100
+BA   24   CR         3   TR  1   CH  1   NT  F#          11/24   voff=100
+BA   24   CR         3   TR  3   CH  3   NT  Eb--        11/24   voff=100
+BA   24   CR     3+1/2   TR  1   CH  1   NT  F           11/24   voff=100
+BA   24   CR     3+1/2   TR  3   CH  3   NT  Bb---       11/24   voff=100
+
+BA   25   CR         0   TR  1   CH  1   NT  Eb        1+23/24   voff=100
+BA   25   CR         0   TR  2   CH  2   NT  G#-         23/24   voff=100
+BA   25   CR         0   TR  3   CH  3   NT  B---        23/24   voff=100
+BA   25   CR         1   TR  2   CH  2   NT  F-          23/24   voff=100
+BA   25   CR         1   TR  3   CH  3   NT  G#---       23/24   voff=100
+BA   25   CR         2   TR  1   CH  1   NT  Eb          23/24   voff=100
+BA   25   CR         2   TR  2   CH  2   NT  F#-        1+7/16   voff=100
+BA   25   CR         2   TR  3   CH  3   NT  Eb--       1+7/16   voff=100
+BA   25   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   25   CR    3+7/16   TR  2   CH 16   End of track
+BA   25   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   26   CR         0   TR  1   CH  1   NT  A'        1+23/24   voff=100
+BA   26   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   26   CR         0   TR  4   CH  4   NT  F''         47/96   voff=100
+BA   26   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   26   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   26   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   26   CR         2   TR  1   CH  1   NT  Bb'         23/24   voff=100
+BA   26   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   26   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   26   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   26   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   26   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   26   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   27   CR         0   TR  1   CH  1   NT  A'          23/24   voff=100
+BA   27   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   27   CR         0   TR  4   CH  4   NT  F''         47/96   voff=100
+BA   27   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   27   CR         1   TR  1   CH  1   NT  A''         23/24   voff=100
+BA   27   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   27   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   27   CR         2   TR  1   CH  1   NT  Bb''        23/24   voff=100
+BA   27   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   27   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   27   CR         3   TR  1   CH  1   NT  Eb'         11/24   voff=100
+BA   27   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   27   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   27   CR     3+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+
+BA   28   CR         0   TR  1   CH  1   NT  A'        1+11/24   voff=100
+BA   28   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   28   CR         0   TR  4   CH  4   NT  F''         47/96   voff=100
+BA   28   CR       1/2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   28   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   28   CR     1+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   28   CR     1+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   28   CR         2   TR  1   CH  1   NT  D''         11/24   voff=100
+BA   28   CR         2   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   28   CR         2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   28   CR     2+1/2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   28   CR         3   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   28   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   28   CR         3   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   28   CR     3+1/2   TR  1   CH  1   NT  F#''        11/24   voff=100
+
+BA   29   CR         0   TR  1   CH  1   NT  F''       1+23/24   voff=100
+BA   29   CR         0   TR  3   CH  3   NT  F--           7/8   voff=100
+BA   29   CR         1   TR  3   CH  3   NT  C-            7/8   voff=100
+BA   29   CR         2   TR  1   CH  1   NT  F''         23/24   voff=100
+BA   29   CR         2   TR  3   CH  3   NT  Bb---         7/8   voff=100
+BA   29   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+
+BA   30   CR         0   TR  1   CH  1   NT  F#''        11/24   voff=100
+BA   30   CR         0   TR  3   CH  3   NT  Eb--          7/8   voff=100
+BA   30   CR       1/2   TR  1   CH  1   NT  F''         11/24   voff=100
+BA   30   CR         1   TR  1   CH  1   NT  F#''        11/24   voff=100
+BA   30   CR         1   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   30   CR         1   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   30   CR     1+1/2   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   30   CR         2   TR  1   CH  1   NT  F''       1+23/24
+BA   30   CR         2   TR  3   CH  3   NT  D--           7/8   voff=100
+BA   30   CR     2+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+BA   30   CR         3   TR  3   CH  3   NT  Bb--          7/8   voff=100
+BA   30   CR         3   TR  4   CH  4   NT  Bb'         47/96   voff=100
+BA   30   CR     3+1/2   TR  4   CH  4   NT  Bb''        47/96   voff=100
+
+BA   31   CR         0   TR  1   CH  1   NT  E''         11/24   voff=100
+BA   31   CR         0   TR  3   CH  3   NT  C#--          7/8   voff=100
+BA   31   CR       1/2   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   31   CR         1   TR  1   CH  1   NT  E''         11/24   voff=100
+BA   31   CR         1   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   31   CR         1   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   31   CR     1+1/2   TR  1   CH  1   NT  C#''        11/24   voff=100
+BA   31   CR         2   TR  1   CH  1   NT  Eb''      1+23/24
+BA   31   CR         2   TR  3   CH  3   NT  C--           7/8   voff=100
+BA   31   CR     2+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   31   CR         3   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   31   CR         3   TR  4   CH  4   NT  G#'         47/96   voff=100
+BA   31   CR     3+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+
+BA   32   CR         0   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   32   CR         0   TR  3   CH  3   NT  B---          7/8   voff=100
+BA   32   CR       1/2   TR  1   CH  1   NT  D''         11/24   voff=100
+BA   32   CR         1   TR  1   CH  1   NT  Eb''        11/24   voff=100
+BA   32   CR         1   TR  3   CH  3   NT  G#--          7/8   voff=100
+BA   32   CR     1+1/2   TR  1   CH  1   NT  B'          11/24   voff=100
+BA   32   CR     1+1/2   TR  4   CH  4   NT  B''         47/96   voff=100
+BA   32   CR         2   TR  1   CH  1   NT  Bb'         11/24   voff=100
+BA   32   CR         2   TR  3   CH  3   NT  F#--        47/96   voff=100
+BA   32   CR         2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   32   CR     2+1/2   TR  1   CH  1   NT  G#'         11/24   voff=100
+BA   32   CR     2+1/2   TR  3   CH  3   NT  D--         47/96   voff=100
+BA   32   CR     2+1/2   TR  4   CH  4   NT  B''         47/96   voff=100
+BA   32   CR         3   TR  1   CH  1   NT  F#'         11/24   voff=100
+BA   32   CR         3   TR  3   CH  3   NT  Eb--        47/96   voff=100
+BA   32   CR     3+1/2   TR  1   CH  1   NT  F'          11/24   voff=100
+BA   32   CR     3+1/2   TR  3   CH  3   NT  Bb---       47/96   voff=100
+
+BA   33   CR         0   TR  1   CH  1   NT  Eb'       1+23/24   voff=100
+BA   33   CR         0   TR  3   CH  3   NT  B--         95/96   voff=100
+BA   33   CR         0   TR  4   CH  4   NT  F#''        47/96   voff=100
+BA   33   CR       1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   33   CR         1   TR  3   CH  3   NT  G#--        95/96   voff=100
+BA   33   CR     1+1/2   TR  4   CH  4   NT  G#''        47/96   voff=100
+BA   33   CR         2   TR  1   CH  1   NT  Eb          23/24   voff=100
+BA   33   CR         2   TR  3   CH  3   NT  Eb-         95/96   voff=100
+BA   33   CR         2   TR  4   CH  4   NT  Eb''        47/96   voff=100
+BA   33   CR   2+47/96   TR  4   CH 16   End of track
+BA   33   CR   2+23/24   TR  1   CH 16   End of track
+BA   33   CR   2+95/96   TR  3   CH 16   End of track
+# Successfully parsed
+# Duration = 78.441 seconds

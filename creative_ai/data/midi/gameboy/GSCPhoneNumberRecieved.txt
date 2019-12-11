@@ -1,0 +1,76 @@
+format=1 tracks=5 division=960
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 51 46 49 50 46 48 49
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Tempo 80
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &31
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH  1   Channel volume 99
+BA    1   CR         0   TR  1   CH  1   Instrument 6
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   NT  Eb            1/4   von=88   voff=0
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &54
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH  2   Channel volume 76
+BA    1   CR         0   TR  2   CH  2   Instrument 25
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Track 2"
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  2   CH  2   NT  C             1/2   von=88   voff=0
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  3   CH  3   Channel volume 70
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &3B
+BA    1   CR         0   TR  3   CH  3   Instrument 40
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Track 3"
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH  3   NT  Eb-             1   von=88   voff=0
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 35 255 0 0 0 1 1 1 0 4 0 65 0 72 0 56 0 37 0 49
+BA    1   CR         0   TR  4   CH 10   Channel volume 60
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  4   CH 10   Instrument 1
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 3 1
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Track 4"
+BA    1   CR       1/4   TR  1   CH  1   NT  C#            1/4   voff=0
+BA    1   CR       1/2   TR  1   CH  1   NT  C             1/4   voff=0
+BA    1   CR       1/2   TR  2   CH  2   NT  G#            1/2   voff=0
+BA    1   CR       3/4   TR  1   CH  1   NT  Eb            1/4   voff=0
+BA    1   CR         1   TR  1   CH  1   NT  F             3/8   voff=0
+BA    1   CR         1   TR  2   CH  2   NT  Eb'           1/4   voff=0
+BA    1   CR         1   TR  3   CH  3   NT  G#-           3/8   voff=0
+BA    1   CR     1+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA    1   CR     1+3/8   TR  1   CH  1   NT  G#            3/8   voff=0
+BA    1   CR     1+3/8   TR  2   CH  2   NT  G#            1/4   voff=0
+BA    1   CR     1+3/8   TR  3   CH  3   NT  C-            3/8   voff=0
+BA    1   CR     1+5/8   TR  2   CH  2   NT  C             1/8   voff=0
+BA    1   CR     1+3/4   TR  1   CH  1   NT  C'            1/4   voff=0
+BA    1   CR     1+3/4   TR  2   CH  2   NT  F             1/4   voff=0
+BA    1   CR     1+3/4   TR  3   CH  3   NT  G#-           1/4   voff=0
+BA    1   CR         2   TR  1   CH  1   NT  Eb'           3/8   voff=0
+BA    1   CR         2   TR  2   CH  2   NT  Bb            3/8   voff=0
+BA    1   CR         2   TR  3   CH  3   NT  G-            3/8   voff=0
+BA    1   CR         2   TR  4   CH 10   NT  G#-           1/4   von=88   voff=0
+BA    1   CR     2+1/4   TR  4   CH 10   NT  C#--          1/4   voff=0
+BA    1   CR     2+3/8   TR  1   CH  1   NT  G             3/8   voff=0
+BA    1   CR     2+3/8   TR  2   CH  2   NT  C#'           3/8   voff=0
+BA    1   CR     2+3/8   TR  3   CH  3   NT  Bb-           3/8   voff=0
+BA    1   CR     2+3/8   TR  4   CH 10   NT  F             1/4   voff=0
+BA    1   CR     2+3/4   TR  1   CH  1   NT  G#            1/2   voff=0
+BA    1   CR     2+3/4   TR  2   CH  2   NT  C'            1/2   voff=0
+BA    1   CR     2+3/4   TR  3   CH  3   NT  G#-           3/8   voff=0
+BA    1   CR     2+3/4   TR  4   CH 10   NT  C#-           1/4   voff=0
+BA    1   CR     2+3/4   TR  4   CH 10   NT  F             1/4   voff=0
+BA    1   CR     2+3/4   TR  4   CH 10   NT  C'            1/2   voff=0
+BA    1   CR     3+1/8   TR  3   CH 16   End of track
+BA    1   CR     3+1/4   TR  1   CH 16   End of track
+BA    1   CR     3+1/4   TR  2   CH 16   End of track
+BA    1   CR     3+1/4   TR  4   CH 16   End of track
+# Successfully parsed
+# Duration = 2.4375 seconds

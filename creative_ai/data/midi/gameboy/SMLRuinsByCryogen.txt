@@ -1,0 +1,2136 @@
+format=1 tracks=8 division=960
+
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 18 0 0 127 127 0
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &7F   5 15 28 50 48 48 50 46 49 50 46 48 50
+BA    1   CR         0   TR  0   CH 16   Key C major
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Track 0"
+BA    1   CR         0   TR  0   CH 16   Tempo 120
+BA    1   CR         0   TR  0   CH 16   End of track
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Melody (Clarinet)"
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH  1   Instrument 72
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  1   CH  1   Channel volume 127
+BA    1   CR         0   TR  1   CH 16   Meta Event   type &20   0
+BA    1   CR         0   TR  1   CH  1   NT  G               1   von=64   voff=0
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Melody Echo (Clarinet)"
+BA    1   CR         0   TR  2   CH  2   ST &B1 &0A &40
+BA    1   CR         0   TR  2   CH  2   Channel volume 108
+BA    1   CR         0   TR  2   CH  2   Instrument 72
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  2   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Melody (Synth Voice)"
+BA    1   CR         0   TR  3   CH  3   ST &B2 &0A &40
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  3   CH  3   Instrument 55
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  3   CH 16   Meta Event   type &20   2
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  3   CH  3   Channel volume 127
+BA    1   CR         0   TR  3   CH  3   NT  G               1   von=64   voff=0
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Melody Echo (Synth Voice)"
+BA    1   CR         0   TR  4   CH  4   ST &B3 &0A &40
+BA    1   CR         0   TR  4   CH  4   Channel volume 108
+BA    1   CR         0   TR  4   CH  4   Instrument 55
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   1
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  4   CH 16   Meta Event   type &20   3
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Track 2"
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Track 1"
+BA    1   CR         0   TR  5   CH 16   Text type 3: "Bass (Pizzicato Strings)"
+BA    1   CR         0   TR  5   CH  5   Instrument 46
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  5   CH  5   Channel volume 127
+BA    1   CR         0   TR  5   CH 16   Meta Event   type &20   4
+BA    1   CR         0   TR  5   CH  5   NT  G-            1/2   von=64   voff=0
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Bass Boost (Drawbar Organ)"
+BA    1   CR         0   TR  6   CH  6   Instrument 17
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &7F   5 15 9 0 64
+BA    1   CR         0   TR  6   CH 16   Meta Event   type &20   5
+BA    1   CR         0   TR  6   CH  6   Channel volume 127
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Track 5"
+BA    1   CR         0   TR  6   CH  6   NT  G-            1/2   von=64   voff=0
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Percussion (GM Drums)"
+BA    1   CR         0   TR  7   CH 10   Channel volume 64
+BA    1   CR         0   TR  7   CH 10   Instrument 1
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   9
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &7F   5 15 6 71 101 110 101 114 97 108 32 77 73 68 73
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &7F   5 15 9 64 72
+BA    1   CR         0   TR  7   CH 16   Meta Event   type &20   6
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Track 6"
+BA    1   CR         0   TR  7   CH 10   NT  G#--          1/2   von=64   voff=0
+BA    1   CR       1/2   TR  2   CH  2   NT  G               1   von=64   voff=0
+BA    1   CR       1/2   TR  4   CH  4   NT  G               1   von=64   voff=0
+BA    1   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    1   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    1   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA    1   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA    1   CR         1   TR  5   CH  5   Channel volume 127
+BA    1   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    1   CR         1   TR  6   CH  6   Channel volume 127
+BA    1   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    1   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    1   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA    1   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA    1   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    1   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    1   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA    1   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA    1   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA    1   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA    1   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA    1   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA    1   CR         2   TR  5   CH  5   Channel volume 127
+BA    1   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    1   CR         2   TR  6   CH  6   Channel volume 127
+BA    1   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    1   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    1   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA    1   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA    1   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA    1   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA    1   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA    1   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA    1   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    1   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    1   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR         3   TR  5   CH  5   Channel volume 127
+BA    1   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    1   CR         3   TR  6   CH  6   Channel volume 127
+BA    1   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    1   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    1   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA    1   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA    1   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    1   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    1   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    1   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    2   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA    2   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA    2   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA    2   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA    2   CR         0   TR  5   CH  5   Channel volume 127
+BA    2   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    2   CR         0   TR  6   CH  6   Channel volume 127
+BA    2   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    2   CR         0   TR  7   CH 10   Channel volume 64
+BA    2   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    2   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA    2   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA    2   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    2   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    2   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA    2   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA    2   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR         1   TR  1   CH  1   NT  G#-           1/2   voff=0
+BA    2   CR         1   TR  3   CH  3   NT  G#-           1/2   voff=0
+BA    2   CR         1   TR  5   CH  5   Channel volume 127
+BA    2   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    2   CR         1   TR  6   CH  6   Channel volume 127
+BA    2   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    2   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    2   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA    2   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA    2   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=0
+BA    2   CR     1+1/2   TR  2   CH  2   NT  G#-           1/2   voff=0
+BA    2   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2   voff=0
+BA    2   CR     1+1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA    2   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    2   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    2   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA    2   CR         2   TR  2   CH  2   NT  Bb-           1/2   voff=0
+BA    2   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA    2   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA    2   CR         2   TR  5   CH  5   Channel volume 127
+BA    2   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    2   CR         2   TR  6   CH  6   Channel volume 127
+BA    2   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    2   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    2   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA    2   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA    2   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    2   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    2   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR         3   TR  5   CH  5   Channel volume 127
+BA    2   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    2   CR         3   TR  6   CH  6   Channel volume 127
+BA    2   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    2   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    2   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    2   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    2   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    2   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    3   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA    3   CR         0   TR  1   CH  1   Channel volume 127
+BA    3   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA    3   CR         0   TR  3   CH  3   Channel volume 127
+BA    3   CR         0   TR  5   CH  5   Channel volume 127
+BA    3   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    3   CR         0   TR  5   CH  5   Channel volume 127
+BA    3   CR         0   TR  6   CH  6   Channel volume 127
+BA    3   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    3   CR         0   TR  6   CH  6   Channel volume 127
+BA    3   CR         0   TR  7   CH 10   Channel volume 64
+BA    3   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    3   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA    3   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA    3   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    3   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    3   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA    3   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA    3   CR         1   TR  5   CH  5   Channel volume 127
+BA    3   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    3   CR         1   TR  6   CH  6   Channel volume 127
+BA    3   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    3   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    3   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA    3   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA    3   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    3   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    3   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA    3   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA    3   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA    3   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA    3   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA    3   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA    3   CR         2   TR  5   CH  5   Channel volume 127
+BA    3   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    3   CR         2   TR  6   CH  6   Channel volume 127
+BA    3   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    3   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    3   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA    3   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA    3   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA    3   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA    3   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA    3   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA    3   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    3   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    3   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR         3   TR  5   CH  5   Channel volume 127
+BA    3   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    3   CR         3   TR  6   CH  6   Channel volume 127
+BA    3   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    3   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    3   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA    3   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA    3   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    3   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    3   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    3   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    4   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA    4   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA    4   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA    4   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA    4   CR         0   TR  5   CH  5   Channel volume 127
+BA    4   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    4   CR         0   TR  5   CH  5   Channel volume 127
+BA    4   CR         0   TR  6   CH  6   Channel volume 127
+BA    4   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    4   CR         0   TR  6   CH  6   Channel volume 127
+BA    4   CR         0   TR  7   CH 10   Channel volume 64
+BA    4   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    4   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA    4   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA    4   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    4   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    4   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA    4   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA    4   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR         1   TR  1   CH  1   NT  C             1/2   voff=0
+BA    4   CR         1   TR  3   CH  3   NT  C             1/2   voff=0
+BA    4   CR         1   TR  5   CH  5   Channel volume 127
+BA    4   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    4   CR         1   TR  6   CH  6   Channel volume 127
+BA    4   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    4   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    4   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA    4   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/8   voff=0
+BA    4   CR     1+1/2   TR  2   CH  2   NT  C             1/2   voff=0
+BA    4   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/8   voff=0
+BA    4   CR     1+1/2   TR  4   CH  4   NT  C             1/2   voff=0
+BA    4   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    4   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    4   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR     1+5/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA    4   CR     1+5/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA    4   CR     1+3/4   TR  1   CH  1   NT  F#-           1/8   voff=0
+BA    4   CR     1+3/4   TR  3   CH  3   NT  F#-           1/8   voff=0
+BA    4   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR     1+7/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA    4   CR     1+7/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA    4   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA    4   CR         2   TR  2   CH  2   NT  Bb-           1/8   voff=0
+BA    4   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA    4   CR         2   TR  4   CH  4   NT  Bb-           1/8   voff=0
+BA    4   CR         2   TR  5   CH  5   Channel volume 127
+BA    4   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    4   CR         2   TR  6   CH  6   Channel volume 127
+BA    4   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    4   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    4   CR     2+1/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA    4   CR     2+1/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA    4   CR     2+1/4   TR  2   CH  2   NT  F#-           1/8   voff=0
+BA    4   CR     2+1/4   TR  4   CH  4   NT  F#-           1/8   voff=0
+BA    4   CR     2+3/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA    4   CR     2+3/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA    4   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA    4   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA    4   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    4   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    4   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR         3   TR  5   CH  5   Channel volume 127
+BA    4   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    4   CR         3   TR  6   CH  6   Channel volume 127
+BA    4   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    4   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    4   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    4   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    4   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    4   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    5   CR         0   TR  1   CH  1   Channel volume 127
+BA    5   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA    5   CR         0   TR  3   CH  3   Channel volume 127
+BA    5   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA    5   CR         0   TR  5   CH  5   Channel volume 127
+BA    5   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    5   CR         0   TR  5   CH  5   Channel volume 127
+BA    5   CR         0   TR  6   CH  6   Channel volume 127
+BA    5   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    5   CR         0   TR  6   CH  6   Channel volume 127
+BA    5   CR         0   TR  7   CH 10   Channel volume 64
+BA    5   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    5   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA    5   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA    5   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    5   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    5   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA    5   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA    5   CR         1   TR  5   CH  5   Channel volume 127
+BA    5   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    5   CR         1   TR  6   CH  6   Channel volume 127
+BA    5   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    5   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    5   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA    5   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA    5   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    5   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    5   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA    5   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA    5   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA    5   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA    5   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA    5   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA    5   CR         2   TR  5   CH  5   Channel volume 127
+BA    5   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    5   CR         2   TR  6   CH  6   Channel volume 127
+BA    5   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    5   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    5   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA    5   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA    5   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA    5   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA    5   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA    5   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA    5   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    5   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    5   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR         3   TR  5   CH  5   Channel volume 127
+BA    5   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    5   CR         3   TR  6   CH  6   Channel volume 127
+BA    5   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    5   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    5   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA    5   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA    5   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    5   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    5   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    5   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    6   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA    6   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA    6   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA    6   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA    6   CR         0   TR  5   CH  5   Channel volume 127
+BA    6   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    6   CR         0   TR  5   CH  5   Channel volume 127
+BA    6   CR         0   TR  6   CH  6   Channel volume 127
+BA    6   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    6   CR         0   TR  6   CH  6   Channel volume 127
+BA    6   CR         0   TR  7   CH 10   Channel volume 64
+BA    6   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    6   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA    6   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA    6   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    6   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    6   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA    6   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA    6   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR         1   TR  1   CH  1   NT  G#-           1/2   voff=0
+BA    6   CR         1   TR  3   CH  3   NT  G#-           1/2   voff=0
+BA    6   CR         1   TR  5   CH  5   Channel volume 127
+BA    6   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    6   CR         1   TR  6   CH  6   Channel volume 127
+BA    6   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    6   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    6   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA    6   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA    6   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=0
+BA    6   CR     1+1/2   TR  2   CH  2   NT  G#-           1/2   voff=0
+BA    6   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2   voff=0
+BA    6   CR     1+1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA    6   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    6   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    6   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA    6   CR         2   TR  2   CH  2   NT  Bb-           1/2   voff=0
+BA    6   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA    6   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA    6   CR         2   TR  5   CH  5   Channel volume 127
+BA    6   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    6   CR         2   TR  6   CH  6   Channel volume 127
+BA    6   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    6   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    6   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA    6   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA    6   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    6   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    6   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR         3   TR  5   CH  5   Channel volume 127
+BA    6   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    6   CR         3   TR  6   CH  6   Channel volume 127
+BA    6   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    6   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    6   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    6   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    6   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    6   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    7   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA    7   CR         0   TR  1   CH  1   Channel volume 127
+BA    7   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA    7   CR         0   TR  3   CH  3   Channel volume 127
+BA    7   CR         0   TR  5   CH  5   Channel volume 127
+BA    7   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    7   CR         0   TR  6   CH  6   Channel volume 127
+BA    7   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    7   CR         0   TR  7   CH 10   Channel volume 64
+BA    7   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    7   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA    7   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA    7   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    7   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    7   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA    7   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA    7   CR         1   TR  5   CH  5   Channel volume 127
+BA    7   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    7   CR         1   TR  6   CH  6   Channel volume 127
+BA    7   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    7   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    7   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA    7   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA    7   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    7   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    7   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA    7   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA    7   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA    7   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA    7   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA    7   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA    7   CR         2   TR  5   CH  5   Channel volume 127
+BA    7   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    7   CR         2   TR  6   CH  6   Channel volume 127
+BA    7   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    7   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    7   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA    7   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA    7   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA    7   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA    7   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA    7   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA    7   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    7   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    7   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR         3   TR  5   CH  5   Channel volume 127
+BA    7   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    7   CR         3   TR  6   CH  6   Channel volume 127
+BA    7   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    7   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    7   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA    7   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA    7   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    7   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    7   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    7   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    8   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA    8   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA    8   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA    8   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA    8   CR         0   TR  5   CH  5   Channel volume 127
+BA    8   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    8   CR         0   TR  5   CH  5   Channel volume 127
+BA    8   CR         0   TR  6   CH  6   Channel volume 127
+BA    8   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    8   CR         0   TR  6   CH  6   Channel volume 127
+BA    8   CR         0   TR  7   CH 10   Channel volume 64
+BA    8   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    8   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA    8   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA    8   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    8   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    8   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA    8   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA    8   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR         1   TR  1   CH  1   NT  C             1/2   voff=0
+BA    8   CR         1   TR  3   CH  3   NT  C             1/2   voff=0
+BA    8   CR         1   TR  5   CH  5   Channel volume 127
+BA    8   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    8   CR         1   TR  6   CH  6   Channel volume 127
+BA    8   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    8   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    8   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA    8   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA    8   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/8   voff=0
+BA    8   CR     1+1/2   TR  2   CH  2   NT  C             1/2   voff=0
+BA    8   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/8   voff=0
+BA    8   CR     1+1/2   TR  4   CH  4   NT  C             1/2   voff=0
+BA    8   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA    8   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA    8   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR     1+5/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA    8   CR     1+5/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA    8   CR     1+3/4   TR  1   CH  1   NT  F#-           1/8   voff=0
+BA    8   CR     1+3/4   TR  3   CH  3   NT  F#-           1/8   voff=0
+BA    8   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR     1+7/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA    8   CR     1+7/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA    8   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA    8   CR         2   TR  2   CH  2   NT  Bb-           1/8   voff=0
+BA    8   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA    8   CR         2   TR  4   CH  4   NT  Bb-           1/8   voff=0
+BA    8   CR         2   TR  5   CH  5   Channel volume 127
+BA    8   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    8   CR         2   TR  6   CH  6   Channel volume 127
+BA    8   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    8   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    8   CR     2+1/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA    8   CR     2+1/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA    8   CR     2+1/4   TR  2   CH  2   NT  F#-           1/8   voff=0
+BA    8   CR     2+1/4   TR  4   CH  4   NT  F#-           1/8   voff=0
+BA    8   CR     2+3/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA    8   CR     2+3/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA    8   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA    8   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA    8   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    8   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    8   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR         3   TR  5   CH  5   Channel volume 127
+BA    8   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA    8   CR         3   TR  6   CH  6   Channel volume 127
+BA    8   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA    8   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    8   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA    8   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA    8   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    8   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA    9   CR         0   TR  1   CH  1   NT  G#-             3   voff=0
+BA    9   CR         0   TR  3   CH  3   NT  G#-             3   voff=0
+BA    9   CR         0   TR  5   CH  5   Channel volume 127
+BA    9   CR         0   TR  5   CH  5   Channel volume 127
+BA    9   CR         0   TR  5   CH  5   Channel volume 127
+BA    9   CR         0   TR  5   CH  5   Channel volume 127
+BA    9   CR         0   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    9   CR         0   TR  6   CH  6   Channel volume 127
+BA    9   CR         0   TR  6   CH  6   Channel volume 127
+BA    9   CR         0   TR  6   CH  6   Channel volume 127
+BA    9   CR         0   TR  6   CH  6   Channel volume 127
+BA    9   CR         0   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    9   CR         0   TR  7   CH 10   Channel volume 64
+BA    9   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    9   CR       1/2   TR  2   CH  2   NT  G#-             3   voff=0
+BA    9   CR       1/2   TR  4   CH  4   NT  G#-             3   voff=0
+BA    9   CR       1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA    9   CR       1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA    9   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR         1   TR  5   CH  5   Channel volume 127
+BA    9   CR         1   TR  5   CH  5   Channel volume 127
+BA    9   CR         1   TR  5   CH  5   Channel volume 127
+BA    9   CR         1   TR  5   CH  5   Channel volume 127
+BA    9   CR         1   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    9   CR         1   TR  6   CH  6   Channel volume 127
+BA    9   CR         1   TR  6   CH  6   Channel volume 127
+BA    9   CR         1   TR  6   CH  6   Channel volume 127
+BA    9   CR         1   TR  6   CH  6   Channel volume 127
+BA    9   CR         1   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    9   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    9   CR     1+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA    9   CR     1+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA    9   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR         2   TR  5   CH  5   Channel volume 127
+BA    9   CR         2   TR  5   CH  5   Channel volume 127
+BA    9   CR         2   TR  5   CH  5   Channel volume 127
+BA    9   CR         2   TR  5   CH  5   Channel volume 127
+BA    9   CR         2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    9   CR         2   TR  6   CH  6   Channel volume 127
+BA    9   CR         2   TR  6   CH  6   Channel volume 127
+BA    9   CR         2   TR  6   CH  6   Channel volume 127
+BA    9   CR         2   TR  6   CH  6   Channel volume 127
+BA    9   CR         2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    9   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA    9   CR     2+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA    9   CR     2+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA    9   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR         3   TR  1   CH  1   NT  C               1   voff=0
+BA    9   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA    9   CR         3   TR  5   CH  5   Channel volume 127
+BA    9   CR         3   TR  5   CH  5   Channel volume 127
+BA    9   CR         3   TR  5   CH  5   Channel volume 127
+BA    9   CR         3   TR  5   CH  5   Channel volume 127
+BA    9   CR         3   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA    9   CR         3   TR  6   CH  6   Channel volume 127
+BA    9   CR         3   TR  6   CH  6   Channel volume 127
+BA    9   CR         3   TR  6   CH  6   Channel volume 127
+BA    9   CR         3   TR  6   CH  6   Channel volume 127
+BA    9   CR         3   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA    9   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA    9   CR     3+1/2   TR  2   CH  2   NT  C               1   voff=0
+BA    9   CR     3+1/2   TR  4   CH  4   NT  C               1   voff=0
+BA    9   CR     3+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA    9   CR     3+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA    9   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA    9   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   10   CR         0   TR  1   CH  1   NT  F               2   voff=0
+BA   10   CR         0   TR  3   CH  3   NT  F               2   voff=0
+BA   10   CR         0   TR  5   CH  5   Channel volume 127
+BA   10   CR         0   TR  5   CH  5   Channel volume 127
+BA   10   CR         0   TR  5   CH  5   Channel volume 127
+BA   10   CR         0   TR  5   CH  5   Channel volume 127
+BA   10   CR         0   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   10   CR         0   TR  6   CH  6   Channel volume 127
+BA   10   CR         0   TR  6   CH  6   Channel volume 127
+BA   10   CR         0   TR  6   CH  6   Channel volume 127
+BA   10   CR         0   TR  6   CH  6   Channel volume 127
+BA   10   CR         0   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   10   CR         0   TR  7   CH 10   Channel volume 64
+BA   10   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   10   CR       1/2   TR  2   CH  2   NT  F               2   voff=0
+BA   10   CR       1/2   TR  4   CH  4   NT  F               2   voff=0
+BA   10   CR       1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   10   CR       1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   10   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR         1   TR  5   CH  5   Channel volume 127
+BA   10   CR         1   TR  5   CH  5   Channel volume 127
+BA   10   CR         1   TR  5   CH  5   Channel volume 127
+BA   10   CR         1   TR  5   CH  5   Channel volume 127
+BA   10   CR         1   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   10   CR         1   TR  6   CH  6   Channel volume 127
+BA   10   CR         1   TR  6   CH  6   Channel volume 127
+BA   10   CR         1   TR  6   CH  6   Channel volume 127
+BA   10   CR         1   TR  6   CH  6   Channel volume 127
+BA   10   CR         1   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   10   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   10   CR     1+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   10   CR     1+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   10   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR         2   TR  1   CH  1   NT  Eb          1+1/2   voff=0
+BA   10   CR         2   TR  3   CH  3   NT  Eb          1+1/2   voff=0
+BA   10   CR         2   TR  5   CH  5   Channel volume 127
+BA   10   CR         2   TR  5   CH  5   Channel volume 127
+BA   10   CR         2   TR  5   CH  5   Channel volume 127
+BA   10   CR         2   TR  5   CH  5   Channel volume 127
+BA   10   CR         2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   10   CR         2   TR  6   CH  6   Channel volume 127
+BA   10   CR         2   TR  6   CH  6   Channel volume 127
+BA   10   CR         2   TR  6   CH  6   Channel volume 127
+BA   10   CR         2   TR  6   CH  6   Channel volume 127
+BA   10   CR         2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   10   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   10   CR     2+1/2   TR  2   CH  2   NT  Eb          1+1/2   voff=0
+BA   10   CR     2+1/2   TR  4   CH  4   NT  Eb          1+1/2   voff=0
+BA   10   CR     2+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   10   CR     2+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   10   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR         3   TR  5   CH  5   Channel volume 127
+BA   10   CR         3   TR  5   CH  5   Channel volume 127
+BA   10   CR         3   TR  5   CH  5   Channel volume 127
+BA   10   CR         3   TR  5   CH  5   Channel volume 127
+BA   10   CR         3   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   10   CR         3   TR  6   CH  6   Channel volume 127
+BA   10   CR         3   TR  6   CH  6   Channel volume 127
+BA   10   CR         3   TR  6   CH  6   Channel volume 127
+BA   10   CR         3   TR  6   CH  6   Channel volume 127
+BA   10   CR         3   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   10   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   10   CR     3+1/2   TR  1   CH  1   NT  F             1/4   voff=0
+BA   10   CR     3+1/2   TR  3   CH  3   NT  F             1/4   voff=0
+BA   10   CR     3+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   10   CR     3+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   10   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   10   CR     3+3/4   TR  1   CH  1   NT  Eb            1/4   voff=0
+BA   10   CR     3+3/4   TR  3   CH  3   NT  Eb            1/4   voff=0
+BA   10   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   11   CR         0   TR  1   CH  1   NT  D               3   voff=0
+BA   11   CR         0   TR  2   CH  2   NT  F             1/4   voff=0
+BA   11   CR         0   TR  3   CH  3   NT  D               3   voff=0
+BA   11   CR         0   TR  4   CH  4   NT  F             1/4   voff=0
+BA   11   CR         0   TR  5   CH  5   Channel volume 127
+BA   11   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   11   CR         0   TR  6   CH  6   Channel volume 127
+BA   11   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   11   CR         0   TR  7   CH 10   Channel volume 64
+BA   11   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   11   CR       1/4   TR  2   CH  2   NT  Eb            1/4   voff=0
+BA   11   CR       1/4   TR  4   CH  4   NT  Eb            1/4   voff=0
+BA   11   CR       1/2   TR  2   CH  2   NT  D               3   voff=0
+BA   11   CR       1/2   TR  4   CH  4   NT  D               3   voff=0
+BA   11   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   11   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   11   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR         1   TR  5   CH  5   Channel volume 127
+BA   11   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   11   CR         1   TR  6   CH  6   Channel volume 127
+BA   11   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   11   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   11   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   11   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   11   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR         2   TR  5   CH  5   Channel volume 127
+BA   11   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   11   CR         2   TR  6   CH  6   Channel volume 127
+BA   11   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   11   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   11   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   11   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   11   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR         3   TR  5   CH  5   Channel volume 127
+BA   11   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   11   CR         3   TR  6   CH  6   Channel volume 127
+BA   11   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   11   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   11   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   11   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   11   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   11   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   12   CR         0   TR  5   CH  5   Channel volume 127
+BA   12   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   12   CR         0   TR  6   CH  6   Channel volume 127
+BA   12   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   12   CR         0   TR  7   CH 10   Channel volume 64
+BA   12   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   12   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   12   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   12   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR         1   TR  5   CH  5   Channel volume 127
+BA   12   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   12   CR         1   TR  6   CH  6   Channel volume 127
+BA   12   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   12   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   12   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   12   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   12   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR         2   TR  5   CH  5   Channel volume 127
+BA   12   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   12   CR         2   TR  6   CH  6   Channel volume 127
+BA   12   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   12   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   12   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   12   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   12   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR         3   TR  5   CH  5   Channel volume 127
+BA   12   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   12   CR         3   TR  6   CH  6   Channel volume 127
+BA   12   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   12   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   12   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   12   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   12   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   12   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   13   CR         0   TR  1   CH  1   Channel volume 127
+BA   13   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA   13   CR         0   TR  3   CH  3   Channel volume 127
+BA   13   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA   13   CR         0   TR  5   CH  5   Channel volume 127
+BA   13   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   13   CR         0   TR  6   CH  6   Channel volume 127
+BA   13   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   13   CR         0   TR  7   CH 10   Channel volume 64
+BA   13   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   13   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA   13   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA   13   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   13   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   13   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA   13   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA   13   CR         1   TR  5   CH  5   Channel volume 127
+BA   13   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   13   CR         1   TR  6   CH  6   Channel volume 127
+BA   13   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   13   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   13   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA   13   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA   13   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   13   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   13   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA   13   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA   13   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA   13   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA   13   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA   13   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   13   CR         2   TR  5   CH  5   Channel volume 127
+BA   13   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   13   CR         2   TR  6   CH  6   Channel volume 127
+BA   13   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   13   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   13   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA   13   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA   13   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA   13   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA   13   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA   13   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   13   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   13   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   13   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR         3   TR  5   CH  5   Channel volume 127
+BA   13   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   13   CR         3   TR  6   CH  6   Channel volume 127
+BA   13   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   13   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   13   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA   13   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA   13   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   13   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   13   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   13   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   14   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA   14   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA   14   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA   14   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA   14   CR         0   TR  5   CH  5   Channel volume 127
+BA   14   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   14   CR         0   TR  6   CH  6   Channel volume 127
+BA   14   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   14   CR         0   TR  7   CH 10   Channel volume 64
+BA   14   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   14   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA   14   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA   14   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   14   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   14   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA   14   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA   14   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR         1   TR  1   CH  1   NT  G#-           1/2   voff=0
+BA   14   CR         1   TR  3   CH  3   NT  G#-           1/2   voff=0
+BA   14   CR         1   TR  5   CH  5   Channel volume 127
+BA   14   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   14   CR         1   TR  6   CH  6   Channel volume 127
+BA   14   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   14   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   14   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA   14   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=0
+BA   14   CR     1+1/2   TR  2   CH  2   NT  G#-           1/2   voff=0
+BA   14   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2   voff=0
+BA   14   CR     1+1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   14   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   14   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   14   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA   14   CR         2   TR  2   CH  2   NT  Bb-           1/2   voff=0
+BA   14   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   14   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   14   CR         2   TR  5   CH  5   Channel volume 127
+BA   14   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   14   CR         2   TR  6   CH  6   Channel volume 127
+BA   14   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   14   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   14   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA   14   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA   14   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   14   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   14   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR         3   TR  5   CH  5   Channel volume 127
+BA   14   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   14   CR         3   TR  6   CH  6   Channel volume 127
+BA   14   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   14   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   14   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   14   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   14   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   14   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   15   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA   15   CR         0   TR  1   CH  1   Channel volume 127
+BA   15   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA   15   CR         0   TR  3   CH  3   Channel volume 127
+BA   15   CR         0   TR  5   CH  5   Channel volume 127
+BA   15   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   15   CR         0   TR  5   CH  5   Channel volume 127
+BA   15   CR         0   TR  6   CH  6   Channel volume 127
+BA   15   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   15   CR         0   TR  6   CH  6   Channel volume 127
+BA   15   CR         0   TR  7   CH 10   Channel volume 64
+BA   15   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   15   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA   15   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA   15   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   15   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   15   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA   15   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA   15   CR         1   TR  5   CH  5   Channel volume 127
+BA   15   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   15   CR         1   TR  6   CH  6   Channel volume 127
+BA   15   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   15   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   15   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA   15   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA   15   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   15   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   15   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA   15   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA   15   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA   15   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA   15   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA   15   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   15   CR         2   TR  5   CH  5   Channel volume 127
+BA   15   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   15   CR         2   TR  6   CH  6   Channel volume 127
+BA   15   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   15   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   15   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA   15   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA   15   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA   15   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA   15   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA   15   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   15   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   15   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   15   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR         3   TR  5   CH  5   Channel volume 127
+BA   15   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   15   CR         3   TR  6   CH  6   Channel volume 127
+BA   15   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   15   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   15   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA   15   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA   15   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   15   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   15   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   15   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   16   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA   16   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA   16   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA   16   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA   16   CR         0   TR  5   CH  5   Channel volume 127
+BA   16   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   16   CR         0   TR  5   CH  5   Channel volume 127
+BA   16   CR         0   TR  6   CH  6   Channel volume 127
+BA   16   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   16   CR         0   TR  6   CH  6   Channel volume 127
+BA   16   CR         0   TR  7   CH 10   Channel volume 64
+BA   16   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   16   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA   16   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA   16   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   16   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   16   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA   16   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA   16   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR         1   TR  1   CH  1   NT  C             1/2   voff=0
+BA   16   CR         1   TR  3   CH  3   NT  C             1/2   voff=0
+BA   16   CR         1   TR  5   CH  5   Channel volume 127
+BA   16   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   16   CR         1   TR  6   CH  6   Channel volume 127
+BA   16   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   16   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   16   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA   16   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA   16   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/8   voff=0
+BA   16   CR     1+1/2   TR  2   CH  2   NT  C             1/2   voff=0
+BA   16   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/8   voff=0
+BA   16   CR     1+1/2   TR  4   CH  4   NT  C             1/2   voff=0
+BA   16   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   16   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   16   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR     1+5/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA   16   CR     1+5/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA   16   CR     1+3/4   TR  1   CH  1   NT  F#-           1/8   voff=0
+BA   16   CR     1+3/4   TR  3   CH  3   NT  F#-           1/8   voff=0
+BA   16   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR     1+7/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA   16   CR     1+7/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA   16   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA   16   CR         2   TR  2   CH  2   NT  Bb-           1/8   voff=0
+BA   16   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   16   CR         2   TR  4   CH  4   NT  Bb-           1/8   voff=0
+BA   16   CR         2   TR  5   CH  5   Channel volume 127
+BA   16   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   16   CR         2   TR  6   CH  6   Channel volume 127
+BA   16   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   16   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   16   CR     2+1/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA   16   CR     2+1/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   16   CR     2+1/4   TR  2   CH  2   NT  F#-           1/8   voff=0
+BA   16   CR     2+1/4   TR  4   CH  4   NT  F#-           1/8   voff=0
+BA   16   CR     2+3/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA   16   CR     2+3/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   16   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA   16   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA   16   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   16   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   16   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR         3   TR  5   CH  5   Channel volume 127
+BA   16   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   16   CR         3   TR  6   CH  6   Channel volume 127
+BA   16   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   16   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   16   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   16   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   16   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   16   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   17   CR         0   TR  1   CH  1   Channel volume 127
+BA   17   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA   17   CR         0   TR  3   CH  3   Channel volume 127
+BA   17   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA   17   CR         0   TR  5   CH  5   Channel volume 127
+BA   17   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   17   CR         0   TR  5   CH  5   Channel volume 127
+BA   17   CR         0   TR  6   CH  6   Channel volume 127
+BA   17   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   17   CR         0   TR  6   CH  6   Channel volume 127
+BA   17   CR         0   TR  7   CH 10   Channel volume 64
+BA   17   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   17   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA   17   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA   17   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   17   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   17   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA   17   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA   17   CR         1   TR  5   CH  5   Channel volume 127
+BA   17   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   17   CR         1   TR  6   CH  6   Channel volume 127
+BA   17   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   17   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   17   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA   17   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA   17   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   17   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   17   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA   17   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA   17   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA   17   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA   17   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA   17   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   17   CR         2   TR  5   CH  5   Channel volume 127
+BA   17   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   17   CR         2   TR  6   CH  6   Channel volume 127
+BA   17   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   17   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   17   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA   17   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA   17   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA   17   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA   17   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA   17   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   17   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   17   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   17   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR         3   TR  5   CH  5   Channel volume 127
+BA   17   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   17   CR         3   TR  6   CH  6   Channel volume 127
+BA   17   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   17   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   17   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA   17   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA   17   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   17   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   17   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   17   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   18   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA   18   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA   18   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA   18   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA   18   CR         0   TR  5   CH  5   Channel volume 127
+BA   18   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   18   CR         0   TR  5   CH  5   Channel volume 127
+BA   18   CR         0   TR  6   CH  6   Channel volume 127
+BA   18   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   18   CR         0   TR  6   CH  6   Channel volume 127
+BA   18   CR         0   TR  7   CH 10   Channel volume 64
+BA   18   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   18   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA   18   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA   18   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   18   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   18   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA   18   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA   18   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR         1   TR  1   CH  1   NT  G#-           1/2   voff=0
+BA   18   CR         1   TR  3   CH  3   NT  G#-           1/2   voff=0
+BA   18   CR         1   TR  5   CH  5   Channel volume 127
+BA   18   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   18   CR         1   TR  6   CH  6   Channel volume 127
+BA   18   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   18   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   18   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA   18   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/2   voff=0
+BA   18   CR     1+1/2   TR  2   CH  2   NT  G#-           1/2   voff=0
+BA   18   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/2   voff=0
+BA   18   CR     1+1/2   TR  4   CH  4   NT  G#-           1/2   voff=0
+BA   18   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   18   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   18   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA   18   CR         2   TR  2   CH  2   NT  Bb-           1/2   voff=0
+BA   18   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   18   CR         2   TR  4   CH  4   NT  Bb-           1/2   voff=0
+BA   18   CR         2   TR  5   CH  5   Channel volume 127
+BA   18   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   18   CR         2   TR  6   CH  6   Channel volume 127
+BA   18   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   18   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   18   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA   18   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA   18   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   18   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   18   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR         3   TR  5   CH  5   Channel volume 127
+BA   18   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   18   CR         3   TR  6   CH  6   Channel volume 127
+BA   18   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   18   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   18   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   18   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   18   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   18   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   19   CR         0   TR  1   CH  1   NT  G               1   voff=0
+BA   19   CR         0   TR  1   CH  1   Channel volume 127
+BA   19   CR         0   TR  3   CH  3   NT  G               1   voff=0
+BA   19   CR         0   TR  3   CH  3   Channel volume 127
+BA   19   CR         0   TR  5   CH  5   Channel volume 127
+BA   19   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   19   CR         0   TR  6   CH  6   Channel volume 127
+BA   19   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   19   CR         0   TR  7   CH 10   Channel volume 64
+BA   19   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   19   CR       1/2   TR  2   CH  2   NT  G               1   voff=0
+BA   19   CR       1/2   TR  4   CH  4   NT  G               1   voff=0
+BA   19   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   19   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   19   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR         1   TR  1   CH  1   NT  F#            3/4   voff=0
+BA   19   CR         1   TR  3   CH  3   NT  F#            3/4   voff=0
+BA   19   CR         1   TR  5   CH  5   Channel volume 127
+BA   19   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   19   CR         1   TR  6   CH  6   Channel volume 127
+BA   19   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   19   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   19   CR     1+1/2   TR  2   CH  2   NT  F#            3/4   voff=0
+BA   19   CR     1+1/2   TR  4   CH  4   NT  F#            3/4   voff=0
+BA   19   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   19   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   19   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR     1+3/4   TR  1   CH  1   NT  Eb            1/8   voff=0
+BA   19   CR     1+3/4   TR  3   CH  3   NT  Eb            1/8   voff=0
+BA   19   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR     1+7/8   TR  1   CH  1   NT  F#            1/8   voff=0
+BA   19   CR     1+7/8   TR  3   CH  3   NT  F#            1/8   voff=0
+BA   19   CR         2   TR  1   CH  1   NT  D           1+1/2   voff=0
+BA   19   CR         2   TR  3   CH  3   NT  D           1+1/2   voff=0
+BA   19   CR         2   TR  5   CH  5   Channel volume 127
+BA   19   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   19   CR         2   TR  6   CH  6   Channel volume 127
+BA   19   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   19   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   19   CR     2+1/4   TR  2   CH  2   NT  Eb            1/8   voff=0
+BA   19   CR     2+1/4   TR  4   CH  4   NT  Eb            1/8   voff=0
+BA   19   CR     2+3/8   TR  2   CH  2   NT  F#            1/8   voff=0
+BA   19   CR     2+3/8   TR  4   CH  4   NT  F#            1/8   voff=0
+BA   19   CR     2+1/2   TR  2   CH  2   NT  D           1+1/2   voff=0
+BA   19   CR     2+1/2   TR  4   CH  4   NT  D           1+1/2   voff=0
+BA   19   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   19   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   19   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR         3   TR  5   CH  5   Channel volume 127
+BA   19   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   19   CR         3   TR  6   CH  6   Channel volume 127
+BA   19   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   19   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   19   CR     3+1/2   TR  1   CH  1   NT  G-            1/2   voff=0
+BA   19   CR     3+1/2   TR  3   CH  3   NT  G-            1/2   voff=0
+BA   19   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   19   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   19   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   19   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   20   CR         0   TR  1   CH  1   NT  G#-           3/4   voff=0
+BA   20   CR         0   TR  2   CH  2   NT  G-            1/2   voff=0
+BA   20   CR         0   TR  3   CH  3   NT  G#-           3/4   voff=0
+BA   20   CR         0   TR  4   CH  4   NT  G-            1/2   voff=0
+BA   20   CR         0   TR  5   CH  5   Channel volume 127
+BA   20   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   20   CR         0   TR  5   CH  5   Channel volume 127
+BA   20   CR         0   TR  6   CH  6   Channel volume 127
+BA   20   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   20   CR         0   TR  6   CH  6   Channel volume 127
+BA   20   CR         0   TR  7   CH 10   Channel volume 64
+BA   20   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   20   CR       1/2   TR  2   CH  2   NT  G#-           3/4   voff=0
+BA   20   CR       1/2   TR  4   CH  4   NT  G#-           3/4   voff=0
+BA   20   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   20   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   20   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR       3/4   TR  1   CH  1   NT  Bb-           1/4   voff=0
+BA   20   CR       3/4   TR  3   CH  3   NT  Bb-           1/4   voff=0
+BA   20   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR         1   TR  1   CH  1   NT  C             1/2   voff=0
+BA   20   CR         1   TR  3   CH  3   NT  C             1/2   voff=0
+BA   20   CR         1   TR  5   CH  5   Channel volume 127
+BA   20   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   20   CR         1   TR  6   CH  6   Channel volume 127
+BA   20   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   20   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   20   CR     1+1/4   TR  2   CH  2   NT  Bb-           1/4   voff=0
+BA   20   CR     1+1/4   TR  4   CH  4   NT  Bb-           1/4   voff=0
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb-           1/8   voff=0
+BA   20   CR     1+1/2   TR  2   CH  2   NT  C             1/2   voff=0
+BA   20   CR     1+1/2   TR  3   CH  3   NT  Bb-           1/8   voff=0
+BA   20   CR     1+1/2   TR  4   CH  4   NT  C             1/2   voff=0
+BA   20   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   20   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   20   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR     1+5/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA   20   CR     1+5/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA   20   CR     1+3/4   TR  1   CH  1   NT  F#-           1/8   voff=0
+BA   20   CR     1+3/4   TR  3   CH  3   NT  F#-           1/8   voff=0
+BA   20   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR     1+7/8   TR  1   CH  1   NT  G#-           1/8   voff=0
+BA   20   CR     1+7/8   TR  3   CH  3   NT  G#-           1/8   voff=0
+BA   20   CR         2   TR  1   CH  1   NT  G-              2   voff=0
+BA   20   CR         2   TR  2   CH  2   NT  Bb-           1/8   voff=0
+BA   20   CR         2   TR  3   CH  3   NT  G-              2   voff=0
+BA   20   CR         2   TR  4   CH  4   NT  Bb-           1/8   voff=0
+BA   20   CR         2   TR  5   CH  5   Channel volume 127
+BA   20   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   20   CR         2   TR  6   CH  6   Channel volume 127
+BA   20   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   20   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   20   CR     2+1/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA   20   CR     2+1/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   20   CR     2+1/4   TR  2   CH  2   NT  F#-           1/8   voff=0
+BA   20   CR     2+1/4   TR  4   CH  4   NT  F#-           1/8   voff=0
+BA   20   CR     2+3/8   TR  2   CH  2   NT  G#-           1/8   voff=0
+BA   20   CR     2+3/8   TR  4   CH  4   NT  G#-           1/8   voff=0
+BA   20   CR     2+1/2   TR  2   CH  2   NT  G-              2   voff=0
+BA   20   CR     2+1/2   TR  4   CH  4   NT  G-              2   voff=0
+BA   20   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   20   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   20   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR         3   TR  5   CH  5   Channel volume 127
+BA   20   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   20   CR         3   TR  6   CH  6   Channel volume 127
+BA   20   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   20   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   20   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   20   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   20   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   20   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   21   CR         0   TR  1   CH  1   NT  G#-             3   voff=0
+BA   21   CR         0   TR  3   CH  3   NT  G#-             3   voff=0
+BA   21   CR         0   TR  5   CH  5   Channel volume 127
+BA   21   CR         0   TR  5   CH  5   Channel volume 127
+BA   21   CR         0   TR  5   CH  5   Channel volume 127
+BA   21   CR         0   TR  5   CH  5   Channel volume 127
+BA   21   CR         0   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   21   CR         0   TR  6   CH  6   Channel volume 127
+BA   21   CR         0   TR  6   CH  6   Channel volume 127
+BA   21   CR         0   TR  6   CH  6   Channel volume 127
+BA   21   CR         0   TR  6   CH  6   Channel volume 127
+BA   21   CR         0   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   21   CR         0   TR  7   CH 10   Channel volume 64
+BA   21   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   21   CR       1/2   TR  2   CH  2   NT  G#-             3   voff=0
+BA   21   CR       1/2   TR  4   CH  4   NT  G#-             3   voff=0
+BA   21   CR       1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   21   CR       1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   21   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR         1   TR  5   CH  5   Channel volume 127
+BA   21   CR         1   TR  5   CH  5   Channel volume 127
+BA   21   CR         1   TR  5   CH  5   Channel volume 127
+BA   21   CR         1   TR  5   CH  5   Channel volume 127
+BA   21   CR         1   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   21   CR         1   TR  6   CH  6   Channel volume 127
+BA   21   CR         1   TR  6   CH  6   Channel volume 127
+BA   21   CR         1   TR  6   CH  6   Channel volume 127
+BA   21   CR         1   TR  6   CH  6   Channel volume 127
+BA   21   CR         1   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   21   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   21   CR     1+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   21   CR     1+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   21   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR         2   TR  5   CH  5   Channel volume 127
+BA   21   CR         2   TR  5   CH  5   Channel volume 127
+BA   21   CR         2   TR  5   CH  5   Channel volume 127
+BA   21   CR         2   TR  5   CH  5   Channel volume 127
+BA   21   CR         2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   21   CR         2   TR  6   CH  6   Channel volume 127
+BA   21   CR         2   TR  6   CH  6   Channel volume 127
+BA   21   CR         2   TR  6   CH  6   Channel volume 127
+BA   21   CR         2   TR  6   CH  6   Channel volume 127
+BA   21   CR         2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   21   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   21   CR     2+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   21   CR     2+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   21   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR         3   TR  1   CH  1   NT  C               1   voff=0
+BA   21   CR         3   TR  3   CH  3   NT  C               1   voff=0
+BA   21   CR         3   TR  5   CH  5   Channel volume 127
+BA   21   CR         3   TR  5   CH  5   Channel volume 127
+BA   21   CR         3   TR  5   CH  5   Channel volume 127
+BA   21   CR         3   TR  5   CH  5   Channel volume 127
+BA   21   CR         3   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   21   CR         3   TR  6   CH  6   Channel volume 127
+BA   21   CR         3   TR  6   CH  6   Channel volume 127
+BA   21   CR         3   TR  6   CH  6   Channel volume 127
+BA   21   CR         3   TR  6   CH  6   Channel volume 127
+BA   21   CR         3   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   21   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   21   CR     3+1/2   TR  2   CH  2   NT  C               1   voff=0
+BA   21   CR     3+1/2   TR  4   CH  4   NT  C               1   voff=0
+BA   21   CR     3+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   21   CR     3+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   21   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   21   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   22   CR         0   TR  1   CH  1   NT  F               2   voff=0
+BA   22   CR         0   TR  3   CH  3   NT  F               2   voff=0
+BA   22   CR         0   TR  5   CH  5   Channel volume 127
+BA   22   CR         0   TR  5   CH  5   Channel volume 127
+BA   22   CR         0   TR  5   CH  5   Channel volume 127
+BA   22   CR         0   TR  5   CH  5   Channel volume 127
+BA   22   CR         0   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   22   CR         0   TR  6   CH  6   Channel volume 127
+BA   22   CR         0   TR  6   CH  6   Channel volume 127
+BA   22   CR         0   TR  6   CH  6   Channel volume 127
+BA   22   CR         0   TR  6   CH  6   Channel volume 127
+BA   22   CR         0   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   22   CR         0   TR  7   CH 10   Channel volume 64
+BA   22   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   22   CR       1/2   TR  2   CH  2   NT  F               2   voff=0
+BA   22   CR       1/2   TR  4   CH  4   NT  F               2   voff=0
+BA   22   CR       1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   22   CR       1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   22   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR         1   TR  5   CH  5   Channel volume 127
+BA   22   CR         1   TR  5   CH  5   Channel volume 127
+BA   22   CR         1   TR  5   CH  5   Channel volume 127
+BA   22   CR         1   TR  5   CH  5   Channel volume 127
+BA   22   CR         1   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   22   CR         1   TR  6   CH  6   Channel volume 127
+BA   22   CR         1   TR  6   CH  6   Channel volume 127
+BA   22   CR         1   TR  6   CH  6   Channel volume 127
+BA   22   CR         1   TR  6   CH  6   Channel volume 127
+BA   22   CR         1   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   22   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   22   CR     1+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   22   CR     1+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   22   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR         2   TR  1   CH  1   NT  Eb          1+1/2   voff=0
+BA   22   CR         2   TR  3   CH  3   NT  Eb          1+1/2   voff=0
+BA   22   CR         2   TR  5   CH  5   Channel volume 127
+BA   22   CR         2   TR  5   CH  5   Channel volume 127
+BA   22   CR         2   TR  5   CH  5   Channel volume 127
+BA   22   CR         2   TR  5   CH  5   Channel volume 127
+BA   22   CR         2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   22   CR         2   TR  6   CH  6   Channel volume 127
+BA   22   CR         2   TR  6   CH  6   Channel volume 127
+BA   22   CR         2   TR  6   CH  6   Channel volume 127
+BA   22   CR         2   TR  6   CH  6   Channel volume 127
+BA   22   CR         2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   22   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   22   CR     2+1/2   TR  2   CH  2   NT  Eb          1+1/2   voff=0
+BA   22   CR     2+1/2   TR  4   CH  4   NT  Eb          1+1/2   voff=0
+BA   22   CR     2+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   22   CR     2+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   22   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR         3   TR  5   CH  5   Channel volume 127
+BA   22   CR         3   TR  5   CH  5   Channel volume 127
+BA   22   CR         3   TR  5   CH  5   Channel volume 127
+BA   22   CR         3   TR  5   CH  5   Channel volume 127
+BA   22   CR         3   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   22   CR         3   TR  6   CH  6   Channel volume 127
+BA   22   CR         3   TR  6   CH  6   Channel volume 127
+BA   22   CR         3   TR  6   CH  6   Channel volume 127
+BA   22   CR         3   TR  6   CH  6   Channel volume 127
+BA   22   CR         3   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   22   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   22   CR     3+1/2   TR  1   CH  1   NT  F             1/4   voff=0
+BA   22   CR     3+1/2   TR  3   CH  3   NT  F             1/4   voff=0
+BA   22   CR     3+1/2   TR  5   CH  5   NT  Eb            1/2   voff=0
+BA   22   CR     3+1/2   TR  6   CH  6   NT  Eb            1/2   voff=0
+BA   22   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   22   CR     3+3/4   TR  1   CH  1   NT  Eb            1/4   voff=0
+BA   22   CR     3+3/4   TR  3   CH  3   NT  Eb            1/4   voff=0
+BA   22   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   23   CR         0   TR  1   CH  1   NT  D               3   voff=0
+BA   23   CR         0   TR  2   CH  2   NT  F             1/4   voff=0
+BA   23   CR         0   TR  3   CH  3   NT  D               3   voff=0
+BA   23   CR         0   TR  4   CH  4   NT  F             1/4   voff=0
+BA   23   CR         0   TR  5   CH  5   Channel volume 127
+BA   23   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   23   CR         0   TR  6   CH  6   Channel volume 127
+BA   23   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   23   CR         0   TR  7   CH 10   Channel volume 64
+BA   23   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   23   CR       1/4   TR  2   CH  2   NT  Eb            1/4   voff=0
+BA   23   CR       1/4   TR  4   CH  4   NT  Eb            1/4   voff=0
+BA   23   CR       1/2   TR  2   CH  2   NT  D               3   voff=0
+BA   23   CR       1/2   TR  4   CH  4   NT  D               3   voff=0
+BA   23   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   23   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   23   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR         1   TR  5   CH  5   Channel volume 127
+BA   23   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   23   CR         1   TR  6   CH  6   Channel volume 127
+BA   23   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   23   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   23   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   23   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   23   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR         2   TR  5   CH  5   Channel volume 127
+BA   23   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   23   CR         2   TR  6   CH  6   Channel volume 127
+BA   23   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   23   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   23   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   23   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   23   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR         3   TR  5   CH  5   Channel volume 127
+BA   23   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   23   CR         3   TR  6   CH  6   Channel volume 127
+BA   23   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   23   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   23   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   23   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   23   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   23   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   24   CR         0   TR  5   CH  5   Channel volume 127
+BA   24   CR         0   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   24   CR         0   TR  6   CH  6   Channel volume 127
+BA   24   CR         0   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   24   CR         0   TR  7   CH 10   Channel volume 64
+BA   24   CR         0   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   24   CR       1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   24   CR       1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   24   CR       1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR       3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR         1   TR  5   CH  5   Channel volume 127
+BA   24   CR         1   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   24   CR         1   TR  6   CH  6   Channel volume 127
+BA   24   CR         1   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   24   CR         1   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   24   CR     1+1/2   TR  5   CH  5   NT  D             1/2   voff=0
+BA   24   CR     1+1/2   TR  6   CH  6   NT  D             1/2   voff=0
+BA   24   CR     1+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR     1+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR         2   TR  5   CH  5   Channel volume 127
+BA   24   CR         2   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   24   CR         2   TR  6   CH  6   Channel volume 127
+BA   24   CR         2   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   24   CR         2   TR  7   CH 10   NT  G#--          1/2   voff=0
+BA   24   CR     2+1/2   TR  5   CH  5   NT  G#-           1/2   voff=0
+BA   24   CR     2+1/2   TR  6   CH  6   NT  G#-           1/2   voff=0
+BA   24   CR     2+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR     2+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR         3   TR  5   CH  5   Channel volume 127
+BA   24   CR         3   TR  5   CH  5   NT  G-            1/2   voff=0
+BA   24   CR         3   TR  6   CH  6   Channel volume 127
+BA   24   CR         3   TR  6   CH  6   NT  G-            1/2   voff=0
+BA   24   CR         3   TR  7   CH 10   NT  C#'           1/2   voff=0
+BA   24   CR     3+1/2   TR  5   CH  5   NT  F-            1/2   voff=0
+BA   24   CR     3+1/2   TR  6   CH  6   NT  F-            1/2   voff=0
+BA   24   CR     3+1/2   TR  7   CH 10   NT  G#--          1/4   voff=0
+BA   24   CR     3+3/4   TR  7   CH 10   NT  G#--          1/4   voff=0
+
+BA   25   CR         0   TR  1   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR         0   TR  1   CH 16   End of track
+BA   25   CR         0   TR  3   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR         0   TR  3   CH  3   Channel volume 127
+BA   25   CR         0   TR  3   CH 16   End of track
+BA   25   CR         0   TR  5   CH  5   Channel volume 127
+BA   25   CR         0   TR  5   CH  5   Channel volume 127
+BA   25   CR         0   TR  5   CH  5   Channel volume 127
+BA   25   CR         0   TR  5   CH  5   Channel volume 127
+BA   25   CR         0   TR  5   CH 16   End of track
+BA   25   CR         0   TR  6   CH  6   Channel volume 127
+BA   25   CR         0   TR  6   CH  6   Channel volume 127
+BA   25   CR         0   TR  6   CH  6   Channel volume 127
+BA   25   CR         0   TR  6   CH  6   Channel volume 127
+BA   25   CR         0   TR  6   CH 16   End of track
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3460, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3464, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3468, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&346C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3470, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3474, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3478, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&347C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3480, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3484, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3488, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&348C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3490, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3494, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3498, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&349C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34A0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34A4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34A8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34AC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34B0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34B4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34B8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34BC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34C0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34C4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34C8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34CC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34D0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34D4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34D8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34DC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34E0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34E4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34E8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34EC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34F0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34F4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34F8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&34FC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3500, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3504, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3508, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&350C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3510, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3514, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3518, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&351C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3520, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3524, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3528, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&352C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3530, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3534, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3538, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&353C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3540, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3544, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3548, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&354C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3550, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3554, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3558, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&355C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3560, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3564, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3568, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&356C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3570, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3574, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3578, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&357C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3580, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3584, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3588, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&358C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3590, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3594, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3598, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&359C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35A0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35A4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35A8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35AC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35B0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35B4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35B8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35BC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35C0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35C4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35C8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35CC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35D0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35D4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35D8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35DC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35E0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35E4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35E8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35EC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35F0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35F4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35F8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&35FC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3600, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3604, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3608, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&360C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3610, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3614, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3618, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&361C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3620, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3624, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3628, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&362C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3630, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3634, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3638, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&363C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3640, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3644, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3648, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&364C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3650, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3654, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3658, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&365C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3660, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3664, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3668, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&366C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3670, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3674, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3678, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&367C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3680, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3684, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3688, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&368C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3690, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3694, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3698, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&369C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36A0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36A4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36A8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36AC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36B0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36B4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36B8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36BC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36C0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36C4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36C8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36CC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36D0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36D4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36D8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36DC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36E0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36E4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36E8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36EC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36F0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36F4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36F8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&36FC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3700, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3704, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3708, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&370C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3710, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3714, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3718, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&371C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3720, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3724, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3728, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&372C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3730, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3734, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3738, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&373C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3740, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3744, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3748, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&374C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3750, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3754, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3758, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&375C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3760, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3764, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3768, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&376C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3770, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3774, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3778, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&377C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3780, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3784, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3788, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&378C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3790, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3794, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&3798, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&379C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37A0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37A4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37A8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37AC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37B0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37B4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37B8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37BC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37C0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37C4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37C8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37CC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37D0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37D4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37D8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37DC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37E0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37E4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37E8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37EC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37F0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  G#--    infinity
+# Warning tr=7 p=&37F4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&37F8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&37FC, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3800, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3804, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3808, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&380C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3810, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3814, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3818, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&381C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3820, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3824, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3828, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&382C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3830, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3834, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3838, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&383C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3840, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3844, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3848, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&384C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3850, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3854, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3858, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&385C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3860, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3864, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3868, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&386C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3870, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3874, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3878, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&387C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3880, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3884, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3888, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&388C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3890, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&3894, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&3898, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&389C, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&38A0, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&38A4, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  C#'     infinity
+# Warning tr=7 p=&38A8, note never turned off
+BA   25   CR         0   TR  7   CH 10   NT  Bb'     infinity
+# Warning tr=7 p=&38AC, note never turned off
+BA   25   CR         0   TR  7   CH 16   End of track
+BA   25   CR       1/2   TR  2   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR       1/2   TR  2   CH 16   End of track
+BA   25   CR       1/2   TR  4   CH 16   Meta Event   type &7F   5 15 10
+BA   25   CR       1/2   TR  4   CH 16   End of track
+# Successfully parsed
+# Duration = 48.25 seconds

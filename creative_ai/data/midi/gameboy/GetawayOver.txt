@@ -1,0 +1,2572 @@
+format=1 tracks=16 division=96
+
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Game Over"
+BA    1   CR         0   TR  0   CH  1   Instrument 30
+BA    1   CR         0   TR  0   CH  1   NT  C             1/2   von=127
+BA    1   CR         0   TR  2   CH  2   Instrument 31
+BA    1   CR         0   TR  2   CH  2   NT  C             1/4   von=127
+BA    1   CR         0   TR  3   CH  3   Instrument 39
+BA    1   CR         0   TR  3   CH  3   NT  C---          3/4   von=127
+BA    1   CR         0   TR  4   CH 10   NT  F#--    infinity   von=127
+# Warning tr=4 p=&1C4F, note never turned off
+BA    1   CR         0   TR  6   CH 10   NT  C--     infinity   von=127
+# Warning tr=6 p=&31BF, note never turned off
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR         0   TR  9   CH 16   End of track
+BA    1   CR         0   TR 10   CH 16   End of track
+BA    1   CR         0   TR 11   CH 16   End of track
+BA    1   CR         0   TR 12   CH 16   End of track
+BA    1   CR         0   TR 13   CH 16   End of track
+BA    1   CR         0   TR 14   CH 16   End of track
+BA    1   CR         0   TR 15   CH 16   End of track
+BA    1   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    1   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C57, note never turned off
+BA    1   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA    1   CR       1/2   TR  1   CH  1   Instrument 30
+BA    1   CR       1/2   TR  1   CH  1   NT  Eb            1/4   von=127
+BA    1   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    1   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C5F, note never turned off
+BA    1   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA    1   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    1   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    1   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    1   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C67, note never turned off
+BA    1   CR         1   TR  2   CH  2   NT  G             1/4
+BA    1   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1C6F, note never turned off
+BA    1   CR         1   TR  5   CH 10   NT  E--     infinity   von=127
+# Warning tr=5 p=&2C57, note never turned off
+BA    1   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31C7, note never turned off
+BA    1   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    1   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C77, note never turned off
+BA    1   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA    1   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA    1   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    1   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA    1   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C7F, note never turned off
+BA    1   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    1   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1C87, note never turned off
+BA    1   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C5F, note never turned off
+BA    1   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    1   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C8F, note never turned off
+BA    1   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31CF, note never turned off
+BA    1   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    1   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C97, note never turned off
+BA    1   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    1   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    1   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1C9F, note never turned off
+BA    1   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    1   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CA7, note never turned off
+BA    1   CR         3   TR  1   CH  1   NT  C'            1/2
+BA    1   CR         3   TR  2   CH  2   NT  F             1/4
+BA    1   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1CAF, note never turned off
+BA    1   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C67, note never turned off
+BA    1   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31D7, note never turned off
+BA    1   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    1   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CB7, note never turned off
+BA    1   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C6F, note never turned off
+BA    1   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    1   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    1   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA    1   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CBF, note never turned off
+BA    1   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    1   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1CC7, note never turned off
+BA    1   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C77, note never turned off
+
+BA    2   CR         0   TR  0   CH  1   NT  C             1/2
+BA    2   CR         0   TR  1   CH  1   NT  C'            1/2
+BA    2   CR         0   TR  2   CH  2   NT  C             1/4
+BA    2   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    2   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CCF, note never turned off
+BA    2   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31DF, note never turned off
+BA    2   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    2   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CD7, note never turned off
+BA    2   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA    2   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA    2   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    2   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CDF, note never turned off
+BA    2   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA    2   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    2   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    2   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    2   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CE7, note never turned off
+BA    2   CR         1   TR  2   CH  2   NT  G             1/4
+BA    2   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1CEF, note never turned off
+BA    2   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C7F, note never turned off
+BA    2   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31E7, note never turned off
+BA    2   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    2   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CF7, note never turned off
+BA    2   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA    2   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA    2   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    2   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA    2   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1CFF, note never turned off
+BA    2   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    2   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1D07, note never turned off
+BA    2   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C87, note never turned off
+BA    2   CR         2   TR  0   CH  1   NT  C               1
+BA    2   CR         2   TR  1   CH  1   NT  D               1
+BA    2   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    2   CR         2   TR  3   CH  3   NT  C---            1
+BA    2   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D0F, note never turned off
+BA    2   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31EF, note never turned off
+BA    2   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    2   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D17, note never turned off
+BA    2   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    2   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D1F, note never turned off
+BA    2   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    2   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D27, note never turned off
+BA    2   CR         3   TR  0   CH  1   NT  C             3/4
+BA    2   CR         3   TR  1   CH  1   NT  D             1/2
+BA    2   CR         3   TR  2   CH  2   NT  F             1/4
+BA    2   CR         3   TR  3   CH  3   NT  C---          3/4
+BA    2   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1D2F, note never turned off
+BA    2   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C8F, note never turned off
+BA    2   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31F7, note never turned off
+BA    2   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    2   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D37, note never turned off
+BA    2   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C97, note never turned off
+BA    2   CR     3+1/2   TR  1   CH  1   NT  C             1/4
+BA    2   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    2   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D3F, note never turned off
+BA    2   CR     3+3/4   TR  0   CH  1   NT  C             1/4
+BA    2   CR     3+3/4   TR  1   CH  1   NT  G             1/4
+BA    2   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    2   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA    2   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1D47, note never turned off
+BA    2   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2C9F, note never turned off
+
+BA    3   CR         0   TR  0   CH  1   NT  C               4
+BA    3   CR         0   TR  1   CH  1   NT  G#            1/2
+BA    3   CR         0   TR  2   CH  2   NT  C             1/4
+BA    3   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    3   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D4F, note never turned off
+BA    3   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&31FF, note never turned off
+BA    3   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    3   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D57, note never turned off
+BA    3   CR       1/2   TR  1   CH  1   NT  G             1/4
+BA    3   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    3   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D5F, note never turned off
+BA    3   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    3   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    3   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    3   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D67, note never turned off
+BA    3   CR         1   TR  2   CH  2   NT  G             1/4
+BA    3   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1D6F, note never turned off
+BA    3   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CA7, note never turned off
+BA    3   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3207, note never turned off
+BA    3   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    3   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D77, note never turned off
+BA    3   CR     1+1/2   TR  1   CH  1   NT  G             1/2
+BA    3   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    3   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA    3   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D7F, note never turned off
+BA    3   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    3   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1D87, note never turned off
+BA    3   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CAF, note never turned off
+BA    3   CR         2   TR  1   CH  1   NT  G#              1
+BA    3   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    3   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D8F, note never turned off
+BA    3   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&320F, note never turned off
+BA    3   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    3   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D97, note never turned off
+BA    3   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    3   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1D9F, note never turned off
+BA    3   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    3   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DA7, note never turned off
+BA    3   CR         3   TR  1   CH  1   NT  Bb            1/4
+BA    3   CR         3   TR  2   CH  2   NT  F             1/4
+BA    3   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1DAF, note never turned off
+BA    3   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CB7, note never turned off
+BA    3   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3217, note never turned off
+BA    3   CR     3+1/4   TR  1   CH  1   NT  Bb-           1/4
+BA    3   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    3   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DB7, note never turned off
+BA    3   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CBF, note never turned off
+BA    3   CR     3+1/2   TR  1   CH  1   NT  Eb            1/4
+BA    3   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    3   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA    3   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DBF, note never turned off
+BA    3   CR     3+3/4   TR  1   CH  1   NT  C             1/4
+BA    3   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    3   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1DC7, note never turned off
+BA    3   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CC7, note never turned off
+
+BA    4   CR         0   TR  0   CH  1   NT  G           1+1/2
+BA    4   CR         0   TR  1   CH  1   NT  Bb            1/2
+BA    4   CR         0   TR  2   CH  2   NT  C             1/4
+BA    4   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    4   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DCF, note never turned off
+BA    4   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&321F, note never turned off
+BA    4   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    4   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DD7, note never turned off
+BA    4   CR       1/2   TR  1   CH  1   NT  A             1/4
+BA    4   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    4   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DDF, note never turned off
+BA    4   CR       3/4   TR  1   CH  1   NT  G             3/4
+BA    4   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    4   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    4   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DE7, note never turned off
+BA    4   CR         1   TR  2   CH  2   NT  G             1/4
+BA    4   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1DEF, note never turned off
+BA    4   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CCF, note never turned off
+BA    4   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3227, note never turned off
+BA    4   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    4   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DF7, note never turned off
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    4   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    4   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA    4   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1DFF, note never turned off
+BA    4   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    4   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1E07, note never turned off
+BA    4   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CD7, note never turned off
+BA    4   CR         2   TR  0   CH  1   NT  C'            3/4
+BA    4   CR         2   TR  1   CH  1   NT  C'            3/4
+BA    4   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    4   CR         2   TR  3   CH  3   NT  C---            1
+BA    4   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E0F, note never turned off
+BA    4   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&322F, note never turned off
+BA    4   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    4   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E17, note never turned off
+BA    4   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    4   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E1F, note never turned off
+BA    4   CR     2+3/4   TR  1   CH  1   NT  C             1/4
+BA    4   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    4   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E27, note never turned off
+BA    4   CR         3   TR  1   CH  1   NT  C'            1/8
+BA    4   CR         3   TR  2   CH  2   NT  F             1/4
+BA    4   CR         3   TR  3   CH  3   NT  C---          3/4
+BA    4   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1E2F, note never turned off
+BA    4   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CDF, note never turned off
+BA    4   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3237, note never turned off
+BA    4   CR     3+1/8   TR  1   CH  1   NT  Bb            1/8
+BA    4   CR     3+1/4   TR  1   CH  1   NT  G#            1/8
+BA    4   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    4   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E37, note never turned off
+BA    4   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CE7, note never turned off
+BA    4   CR     3+3/8   TR  1   CH  1   NT  G             1/8
+BA    4   CR     3+1/2   TR  1   CH  1   NT  F             1/8
+BA    4   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    4   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E3F, note never turned off
+BA    4   CR     3+5/8   TR  1   CH  1   NT  Eb            1/8
+BA    4   CR     3+3/4   TR  1   CH  1   NT  D             1/8
+BA    4   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    4   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA    4   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1E47, note never turned off
+BA    4   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CEF, note never turned off
+BA    4   CR     3+7/8   TR  1   CH  1   NT  C             5/8
+
+BA    5   CR         0   TR  0   CH  1   NT  C             1/2
+BA    5   CR         0   TR  2   CH  2   NT  C             1/4
+BA    5   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    5   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E4F, note never turned off
+BA    5   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&323F, note never turned off
+BA    5   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    5   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E57, note never turned off
+BA    5   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA    5   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA    5   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    5   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E5F, note never turned off
+BA    5   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA    5   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    5   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    5   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    5   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E67, note never turned off
+BA    5   CR         1   TR  2   CH  2   NT  G             1/4
+BA    5   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1E6F, note never turned off
+BA    5   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CF7, note never turned off
+BA    5   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3247, note never turned off
+BA    5   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    5   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E77, note never turned off
+BA    5   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA    5   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA    5   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    5   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA    5   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E7F, note never turned off
+BA    5   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    5   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1E87, note never turned off
+BA    5   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2CFF, note never turned off
+BA    5   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    5   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E8F, note never turned off
+BA    5   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&324F, note never turned off
+BA    5   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    5   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E97, note never turned off
+BA    5   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    5   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    5   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1E9F, note never turned off
+BA    5   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    5   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EA7, note never turned off
+BA    5   CR         3   TR  1   CH  1   NT  C'            1/2
+BA    5   CR         3   TR  2   CH  2   NT  F             1/4
+BA    5   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1EAF, note never turned off
+BA    5   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D07, note never turned off
+BA    5   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3257, note never turned off
+BA    5   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    5   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EB7, note never turned off
+BA    5   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D0F, note never turned off
+BA    5   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    5   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    5   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA    5   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EBF, note never turned off
+BA    5   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    5   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1EC7, note never turned off
+BA    5   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D17, note never turned off
+
+BA    6   CR         0   TR  0   CH  1   NT  C             1/2
+BA    6   CR         0   TR  1   CH  1   NT  C'            1/2
+BA    6   CR         0   TR  2   CH  2   NT  C             1/4
+BA    6   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    6   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1ECF, note never turned off
+BA    6   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&325F, note never turned off
+BA    6   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    6   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1ED7, note never turned off
+BA    6   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA    6   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA    6   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    6   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EDF, note never turned off
+BA    6   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA    6   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    6   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    6   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    6   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EE7, note never turned off
+BA    6   CR         1   TR  2   CH  2   NT  G             1/4
+BA    6   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1EEF, note never turned off
+BA    6   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D1F, note never turned off
+BA    6   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3267, note never turned off
+BA    6   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    6   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EF7, note never turned off
+BA    6   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA    6   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA    6   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    6   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA    6   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1EFF, note never turned off
+BA    6   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    6   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1F07, note never turned off
+BA    6   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D27, note never turned off
+BA    6   CR         2   TR  0   CH  1   NT  C               1
+BA    6   CR         2   TR  1   CH  1   NT  D               1
+BA    6   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    6   CR         2   TR  3   CH  3   NT  C---            1
+BA    6   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F0F, note never turned off
+BA    6   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&326F, note never turned off
+BA    6   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    6   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F17, note never turned off
+BA    6   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    6   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F1F, note never turned off
+BA    6   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    6   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F27, note never turned off
+BA    6   CR         3   TR  0   CH  1   NT  C             3/4
+BA    6   CR         3   TR  1   CH  1   NT  D             1/2
+BA    6   CR         3   TR  2   CH  2   NT  F             1/4
+BA    6   CR         3   TR  3   CH  3   NT  C---          3/4
+BA    6   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1F2F, note never turned off
+BA    6   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D2F, note never turned off
+BA    6   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3277, note never turned off
+BA    6   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    6   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F37, note never turned off
+BA    6   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D37, note never turned off
+BA    6   CR     3+1/2   TR  1   CH  1   NT  C             1/4
+BA    6   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    6   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F3F, note never turned off
+BA    6   CR     3+3/4   TR  0   CH  1   NT  C             1/4
+BA    6   CR     3+3/4   TR  1   CH  1   NT  G             1/4
+BA    6   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    6   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA    6   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1F47, note never turned off
+BA    6   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D3F, note never turned off
+
+BA    7   CR         0   TR  0   CH  1   NT  C               4
+BA    7   CR         0   TR  1   CH  1   NT  G#            1/2
+BA    7   CR         0   TR  2   CH  2   NT  C             1/4
+BA    7   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    7   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F4F, note never turned off
+BA    7   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&327F, note never turned off
+BA    7   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    7   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F57, note never turned off
+BA    7   CR       1/2   TR  1   CH  1   NT  G             1/4
+BA    7   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    7   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F5F, note never turned off
+BA    7   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA    7   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    7   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    7   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F67, note never turned off
+BA    7   CR         1   TR  2   CH  2   NT  G             1/4
+BA    7   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1F6F, note never turned off
+BA    7   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D47, note never turned off
+BA    7   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3287, note never turned off
+BA    7   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    7   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F77, note never turned off
+BA    7   CR     1+1/2   TR  1   CH  1   NT  G             1/2
+BA    7   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    7   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA    7   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F7F, note never turned off
+BA    7   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    7   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1F87, note never turned off
+BA    7   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D4F, note never turned off
+BA    7   CR         2   TR  1   CH  1   NT  G#              1
+BA    7   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    7   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F8F, note never turned off
+BA    7   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&328F, note never turned off
+BA    7   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    7   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F97, note never turned off
+BA    7   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    7   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1F9F, note never turned off
+BA    7   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    7   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FA7, note never turned off
+BA    7   CR         3   TR  1   CH  1   NT  Bb            1/4
+BA    7   CR         3   TR  2   CH  2   NT  F             1/4
+BA    7   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1FAF, note never turned off
+BA    7   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D57, note never turned off
+BA    7   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3297, note never turned off
+BA    7   CR     3+1/4   TR  1   CH  1   NT  Bb-           1/4
+BA    7   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    7   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FB7, note never turned off
+BA    7   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D5F, note never turned off
+BA    7   CR     3+1/2   TR  1   CH  1   NT  Eb            1/4
+BA    7   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    7   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA    7   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FBF, note never turned off
+BA    7   CR     3+3/4   TR  1   CH  1   NT  C             1/4
+BA    7   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    7   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1FC7, note never turned off
+BA    7   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D67, note never turned off
+
+BA    8   CR         0   TR  0   CH  1   NT  G           1+1/2
+BA    8   CR         0   TR  1   CH  1   NT  Bb            1/2
+BA    8   CR         0   TR  2   CH  2   NT  C             1/4
+BA    8   CR         0   TR  3   CH  3   NT  C---          3/4
+BA    8   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FCF, note never turned off
+BA    8   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&329F, note never turned off
+BA    8   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA    8   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FD7, note never turned off
+BA    8   CR       1/2   TR  1   CH  1   NT  A             1/4
+BA    8   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA    8   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FDF, note never turned off
+BA    8   CR       3/4   TR  1   CH  1   NT  G             3/4
+BA    8   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA    8   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA    8   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FE7, note never turned off
+BA    8   CR         1   TR  2   CH  2   NT  G             1/4
+BA    8   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&1FEF, note never turned off
+BA    8   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D6F, note never turned off
+BA    8   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32A7, note never turned off
+BA    8   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA    8   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FF7, note never turned off
+BA    8   CR     1+1/2   TR  1   CH  1   NT  Bb            1/2
+BA    8   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA    8   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA    8   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&1FFF, note never turned off
+BA    8   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA    8   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2007, note never turned off
+BA    8   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D77, note never turned off
+BA    8   CR         2   TR  0   CH  1   NT  C'            3/4
+BA    8   CR         2   TR  1   CH  1   NT  C'            3/4
+BA    8   CR         2   TR  2   CH  2   NT  C'            1/4
+BA    8   CR         2   TR  3   CH  3   NT  C---            1
+BA    8   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&200F, note never turned off
+BA    8   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32AF, note never turned off
+BA    8   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA    8   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2017, note never turned off
+BA    8   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA    8   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&201F, note never turned off
+BA    8   CR     2+3/4   TR  1   CH  1   NT  C             1/4
+BA    8   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA    8   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2027, note never turned off
+BA    8   CR         3   TR  1   CH  1   NT  C'            1/8
+BA    8   CR         3   TR  2   CH  2   NT  F             1/4
+BA    8   CR         3   TR  3   CH  3   NT  C---          3/4
+BA    8   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&202F, note never turned off
+BA    8   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D7F, note never turned off
+BA    8   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32B7, note never turned off
+BA    8   CR     3+1/8   TR  1   CH  1   NT  Bb            1/8
+BA    8   CR     3+1/4   TR  1   CH  1   NT  G#            1/8
+BA    8   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA    8   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2037, note never turned off
+BA    8   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D87, note never turned off
+BA    8   CR     3+3/8   TR  1   CH  1   NT  G             1/8
+BA    8   CR     3+1/2   TR  1   CH  1   NT  F             1/8
+BA    8   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA    8   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&203F, note never turned off
+BA    8   CR     3+1/2   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D8F, note never turned off
+BA    8   CR     3+5/8   TR  1   CH  1   NT  Eb            1/8
+BA    8   CR     3+5/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D97, note never turned off
+BA    8   CR     3+3/4   TR  1   CH  1   NT  D             1/8
+BA    8   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA    8   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA    8   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2047, note never turned off
+BA    8   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2D9F, note never turned off
+BA    8   CR     3+7/8   TR  1   CH  1   NT  C             1/8
+BA    8   CR     3+7/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DA7, note never turned off
+
+BA    9   CR         0   TR  0   CH  1   NT  C-              1
+BA    9   CR         0   TR  1   CH  1   NT  C               1
+BA    9   CR         0   TR  2   CH  2   NT  G-              1
+BA    9   CR         0   TR  3   CH  3   NT  C---            1
+BA    9   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&204F, note never turned off
+BA    9   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32BF, note never turned off
+BA    9   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2057, note never turned off
+BA    9   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&205F, note never turned off
+BA    9   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2067, note never turned off
+BA    9   CR         1   TR  0   CH  1   NT  D-              1
+BA    9   CR         1   TR  1   CH  1   NT  D               1
+BA    9   CR         1   TR  2   CH  2   NT  A-              1
+BA    9   CR         1   TR  3   CH  3   NT  D---            1
+BA    9   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&206F, note never turned off
+BA    9   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DAF, note never turned off
+BA    9   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32C7, note never turned off
+BA    9   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2077, note never turned off
+BA    9   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&207F, note never turned off
+BA    9   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2087, note never turned off
+BA    9   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DB7, note never turned off
+BA    9   CR         2   TR  0   CH  1   NT  Eb-             1
+BA    9   CR         2   TR  1   CH  1   NT  Eb              1
+BA    9   CR         2   TR  2   CH  2   NT  Bb-             1
+BA    9   CR         2   TR  3   CH  3   NT  Eb---           1
+BA    9   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&208F, note never turned off
+BA    9   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32CF, note never turned off
+BA    9   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2097, note never turned off
+BA    9   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&209F, note never turned off
+BA    9   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20A7, note never turned off
+BA    9   CR         3   TR  0   CH  1   NT  F-              1
+BA    9   CR         3   TR  1   CH  1   NT  F               1
+BA    9   CR         3   TR  2   CH  2   NT  C               1
+BA    9   CR         3   TR  3   CH  3   NT  F---            1
+BA    9   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&20AF, note never turned off
+BA    9   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DBF, note never turned off
+BA    9   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32D7, note never turned off
+BA    9   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20B7, note never turned off
+BA    9   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DC7, note never turned off
+BA    9   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20BF, note never turned off
+BA    9   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&20C7, note never turned off
+BA    9   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DCF, note never turned off
+
+BA   10   CR         0   TR  0   CH  1   NT  G-              1
+BA   10   CR         0   TR  1   CH  1   NT  G               1
+BA   10   CR         0   TR  2   CH  2   NT  D               1
+BA   10   CR         0   TR  3   CH  3   NT  G---            1
+BA   10   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20CF, note never turned off
+BA   10   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32DF, note never turned off
+BA   10   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20D7, note never turned off
+BA   10   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20DF, note never turned off
+BA   10   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20E7, note never turned off
+BA   10   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   10   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA   10   CR         1   TR  2   CH  2   NT  F             1/2
+BA   10   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   10   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&20EF, note never turned off
+BA   10   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DD7, note never turned off
+BA   10   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32E7, note never turned off
+BA   10   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20F7, note never turned off
+BA   10   CR     1+1/2   TR  0   CH  1   NT  C               1
+BA   10   CR     1+1/2   TR  1   CH  1   NT  C'              1
+BA   10   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   10   CR     1+1/2   TR  3   CH  3   NT  C--           1/2
+BA   10   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&20FF, note never turned off
+BA   10   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2107, note never turned off
+BA   10   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DDF, note never turned off
+BA   10   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&210F, note never turned off
+BA   10   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32EF, note never turned off
+BA   10   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2117, note never turned off
+BA   10   CR     2+1/2   TR  0   CH  1   NT  Eb            1/2
+BA   10   CR     2+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   10   CR     2+1/2   TR  3   CH  3   NT  C--           1/2
+BA   10   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&211F, note never turned off
+BA   10   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2127, note never turned off
+BA   10   CR         3   TR  0   CH  1   NT  D             1/2
+BA   10   CR         3   TR  1   CH  1   NT  D'            1/2
+BA   10   CR         3   TR  3   CH  3   NT  C--           1/2
+BA   10   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&212F, note never turned off
+BA   10   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DE7, note never turned off
+BA   10   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32F7, note never turned off
+BA   10   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2137, note never turned off
+BA   10   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DEF, note never turned off
+BA   10   CR     3+1/2   TR  0   CH  1   NT  C             1/2
+BA   10   CR     3+1/2   TR  1   CH  1   NT  C'            1/2
+BA   10   CR     3+1/2   TR  3   CH  3   NT  C--           1/2
+BA   10   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&213F, note never turned off
+BA   10   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2147, note never turned off
+BA   10   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DF7, note never turned off
+
+BA   11   CR         0   TR  0   CH  1   NT  Eb              1
+BA   11   CR         0   TR  1   CH  1   NT  Eb'             1
+BA   11   CR         0   TR  2   CH  2   NT  Eb            1/2
+BA   11   CR         0   TR  3   CH  3   NT  F---            1
+BA   11   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&214F, note never turned off
+BA   11   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&32FF, note never turned off
+BA   11   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2157, note never turned off
+BA   11   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&215F, note never turned off
+BA   11   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2167, note never turned off
+BA   11   CR         1   TR  0   CH  1   NT  G               1
+BA   11   CR         1   TR  1   CH  1   NT  G'              1
+BA   11   CR         1   TR  2   CH  2   NT  Eb'             1
+BA   11   CR         1   TR  3   CH  3   NT  G---            1
+BA   11   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&216F, note never turned off
+BA   11   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2DFF, note never turned off
+BA   11   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3307, note never turned off
+BA   11   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2177, note never turned off
+BA   11   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&217F, note never turned off
+BA   11   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2187, note never turned off
+BA   11   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E07, note never turned off
+BA   11   CR         2   TR  0   CH  1   NT  D             1/2
+BA   11   CR         2   TR  1   CH  1   NT  D'            1/2
+BA   11   CR         2   TR  2   CH  2   NT  D             1/2
+BA   11   CR         2   TR  3   CH  3   NT  G#---           1
+BA   11   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&218F, note never turned off
+BA   11   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&330F, note never turned off
+BA   11   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2197, note never turned off
+BA   11   CR     2+1/2   TR  0   CH  1   NT  Eb            1/2
+BA   11   CR     2+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   11   CR     2+1/2   TR  2   CH  2   NT  Eb            1/2
+BA   11   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&219F, note never turned off
+BA   11   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21A7, note never turned off
+BA   11   CR         3   TR  0   CH  1   NT  D             1/2
+BA   11   CR         3   TR  1   CH  1   NT  D'            1/2
+BA   11   CR         3   TR  2   CH  2   NT  D             1/2
+BA   11   CR         3   TR  3   CH  3   NT  Bb---           1
+BA   11   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&21AF, note never turned off
+BA   11   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E0F, note never turned off
+BA   11   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3317, note never turned off
+BA   11   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21B7, note never turned off
+BA   11   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E17, note never turned off
+BA   11   CR     3+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   11   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   11   CR     3+1/2   TR  2   CH  2   NT  Bb-           1/2
+BA   11   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21BF, note never turned off
+BA   11   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&21C7, note never turned off
+BA   11   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E1F, note never turned off
+
+BA   12   CR         0   TR  0   CH  1   NT  C               1
+BA   12   CR         0   TR  1   CH  1   NT  C'              1
+BA   12   CR         0   TR  2   CH  2   NT  C             3/4
+BA   12   CR         0   TR  3   CH  3   NT  C--             1
+BA   12   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21CF, note never turned off
+BA   12   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&331F, note never turned off
+BA   12   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21D7, note never turned off
+BA   12   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21DF, note never turned off
+BA   12   CR       3/4   TR  2   CH  2   NT  C'            3/4
+BA   12   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21E7, note never turned off
+BA   12   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   12   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA   12   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   12   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&21EF, note never turned off
+BA   12   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E27, note never turned off
+BA   12   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3327, note never turned off
+BA   12   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21F7, note never turned off
+BA   12   CR     1+1/2   TR  0   CH  1   NT  C               1
+BA   12   CR     1+1/2   TR  1   CH  1   NT  C'              1
+BA   12   CR     1+1/2   TR  2   CH  2   NT  C               1
+BA   12   CR     1+1/2   TR  3   CH  3   NT  C--         2+1/2
+BA   12   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&21FF, note never turned off
+BA   12   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2207, note never turned off
+BA   12   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E2F, note never turned off
+BA   12   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&220F, note never turned off
+BA   12   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&332F, note never turned off
+BA   12   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2217, note never turned off
+BA   12   CR     2+1/2   TR  0   CH  1   NT  G-          1+1/2
+BA   12   CR     2+1/2   TR  1   CH  1   NT  G           1+1/2
+BA   12   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   12   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&221F, note never turned off
+BA   12   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2227, note never turned off
+BA   12   CR         3   TR  2   CH  2   NT  G             1/4
+BA   12   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&222F, note never turned off
+BA   12   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E37, note never turned off
+BA   12   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3337, note never turned off
+BA   12   CR     3+1/4   TR  2   CH  2   NT  F             1/4
+BA   12   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2237, note never turned off
+BA   12   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E3F, note never turned off
+BA   12   CR     3+1/2   TR  2   CH  2   NT  Eb            1/4
+BA   12   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&223F, note never turned off
+BA   12   CR     3+3/4   TR  2   CH  2   NT  D             1/4
+BA   12   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2247, note never turned off
+BA   12   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E47, note never turned off
+
+BA   13   CR         0   TR  0   CH  1   NT  G             1/2
+BA   13   CR         0   TR  1   CH  1   NT  G-            1/2
+BA   13   CR         0   TR  2   CH  2   NT  G'            1/4
+BA   13   CR         0   TR  3   CH  3   NT  C---            1
+BA   13   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&224F, note never turned off
+BA   13   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&333F, note never turned off
+BA   13   CR       1/4   TR  2   CH  2   NT  F'            1/4
+BA   13   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2257, note never turned off
+BA   13   CR       1/2   TR  0   CH  1   NT  F             1/2
+BA   13   CR       1/2   TR  1   CH  1   NT  F-            1/2
+BA   13   CR       1/2   TR  2   CH  2   NT  Eb'           1/4
+BA   13   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&225F, note never turned off
+BA   13   CR       3/4   TR  2   CH  2   NT  D'            1/4
+BA   13   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2267, note never turned off
+BA   13   CR         1   TR  0   CH  1   NT  Eb            1/2
+BA   13   CR         1   TR  1   CH  1   NT  Eb-           1/2
+BA   13   CR         1   TR  2   CH  2   NT  C'            1/2
+BA   13   CR         1   TR  3   CH  3   NT  D---            1
+BA   13   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&226F, note never turned off
+BA   13   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E4F, note never turned off
+BA   13   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3347, note never turned off
+BA   13   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2277, note never turned off
+BA   13   CR     1+1/2   TR  0   CH  1   NT  G             1/2
+BA   13   CR     1+1/2   TR  1   CH  1   NT  G-            1/2
+BA   13   CR     1+1/2   TR  2   CH  2   NT  F'            1/4
+BA   13   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&227F, note never turned off
+BA   13   CR     1+3/4   TR  2   CH  2   NT  Eb'           1/4
+BA   13   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2287, note never turned off
+BA   13   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E57, note never turned off
+BA   13   CR         2   TR  0   CH  1   NT  Eb            1/2
+BA   13   CR         2   TR  1   CH  1   NT  Eb-           1/2
+BA   13   CR         2   TR  2   CH  2   NT  D'            1/4
+BA   13   CR         2   TR  3   CH  3   NT  Eb---           1
+BA   13   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&228F, note never turned off
+BA   13   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&334F, note never turned off
+BA   13   CR     2+1/4   TR  2   CH  2   NT  C'            1/4
+BA   13   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2297, note never turned off
+BA   13   CR     2+1/2   TR  0   CH  1   NT  D             1/2
+BA   13   CR     2+1/2   TR  1   CH  1   NT  D-            1/2
+BA   13   CR     2+1/2   TR  2   CH  2   NT  Bb            1/2
+BA   13   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&229F, note never turned off
+BA   13   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22A7, note never turned off
+BA   13   CR         3   TR  0   CH  1   NT  G             1/2
+BA   13   CR         3   TR  1   CH  1   NT  G-            1/2
+BA   13   CR         3   TR  2   CH  2   NT  Eb'           1/4
+BA   13   CR         3   TR  3   CH  3   NT  F---            1
+BA   13   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&22AF, note never turned off
+BA   13   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E5F, note never turned off
+BA   13   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3357, note never turned off
+BA   13   CR     3+1/4   TR  2   CH  2   NT  D'            1/4
+BA   13   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22B7, note never turned off
+BA   13   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E67, note never turned off
+BA   13   CR     3+1/2   TR  0   CH  1   NT  D             1/2
+BA   13   CR     3+1/2   TR  1   CH  1   NT  D-            1/2
+BA   13   CR     3+1/2   TR  2   CH  2   NT  C'            1/4
+BA   13   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22BF, note never turned off
+BA   13   CR     3+3/4   TR  2   CH  2   NT  Bb            1/4
+BA   13   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&22C7, note never turned off
+BA   13   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E6F, note never turned off
+
+BA   14   CR         0   TR  0   CH  1   NT  C             1/2
+BA   14   CR         0   TR  1   CH  1   NT  C-            1/2
+BA   14   CR         0   TR  2   CH  2   NT  G#            3/4
+BA   14   CR         0   TR  3   CH  3   NT  G---            1
+BA   14   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22CF, note never turned off
+BA   14   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&335F, note never turned off
+BA   14   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22D7, note never turned off
+BA   14   CR       1/2   TR  0   CH  1   NT  G             1/2
+BA   14   CR       1/2   TR  1   CH  1   NT  G-            1/2
+BA   14   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22DF, note never turned off
+BA   14   CR       3/4   TR  2   CH  2   NT  G             3/4
+BA   14   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22E7, note never turned off
+BA   14   CR         1   TR  0   CH  1   NT  C             1/2
+BA   14   CR         1   TR  1   CH  1   NT  C-            1/2
+BA   14   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   14   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&22EF, note never turned off
+BA   14   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E77, note never turned off
+BA   14   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3367, note never turned off
+BA   14   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22F7, note never turned off
+BA   14   CR     1+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Bb--          1/2
+BA   14   CR     1+1/2   TR  2   CH  2   NT  G#              1
+BA   14   CR     1+1/2   TR  3   CH  3   NT  C--           1/2
+BA   14   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&22FF, note never turned off
+BA   14   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2307, note never turned off
+BA   14   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E7F, note never turned off
+BA   14   CR         2   TR  0   CH  1   NT  G             1/2
+BA   14   CR         2   TR  1   CH  1   NT  G-            1/2
+BA   14   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&230F, note never turned off
+BA   14   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&336F, note never turned off
+BA   14   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2317, note never turned off
+BA   14   CR     2+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   14   CR     2+1/2   TR  1   CH  1   NT  Bb--          1/2
+BA   14   CR     2+1/2   TR  2   CH  2   NT  G           1+1/2
+BA   14   CR     2+1/2   TR  3   CH  3   NT  C--           1/2
+BA   14   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&231F, note never turned off
+BA   14   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2327, note never turned off
+BA   14   CR         3   TR  0   CH  1   NT  G#-           1/2
+BA   14   CR         3   TR  1   CH  1   NT  G#--          1/2
+BA   14   CR         3   TR  3   CH  3   NT  C--           1/2
+BA   14   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&232F, note never turned off
+BA   14   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E87, note never turned off
+BA   14   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3377, note never turned off
+BA   14   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2337, note never turned off
+BA   14   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E8F, note never turned off
+BA   14   CR     3+1/2   TR  0   CH  1   NT  G-            1/2
+BA   14   CR     3+1/2   TR  1   CH  1   NT  G--           1/2
+BA   14   CR     3+1/2   TR  3   CH  3   NT  C--           1/2
+BA   14   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&233F, note never turned off
+BA   14   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2347, note never turned off
+BA   14   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E97, note never turned off
+
+BA   15   CR         0   TR  0   CH  1   NT  F-              1
+BA   15   CR         0   TR  1   CH  1   NT  F--             1
+BA   15   CR         0   TR  2   CH  2   NT  G#            1/2
+BA   15   CR         0   TR  3   CH  3   NT  F---            1
+BA   15   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&234F, note never turned off
+BA   15   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&337F, note never turned off
+BA   15   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2357, note never turned off
+BA   15   CR       1/2   TR  2   CH  2   NT  G             1/4
+BA   15   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&235F, note never turned off
+BA   15   CR       3/4   TR  2   CH  2   NT  F             3/4
+BA   15   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2367, note never turned off
+BA   15   CR         1   TR  0   CH  1   NT  G-              1
+BA   15   CR         1   TR  1   CH  1   NT  G--             1
+BA   15   CR         1   TR  3   CH  3   NT  G---            1
+BA   15   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&236F, note never turned off
+BA   15   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2E9F, note never turned off
+BA   15   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3387, note never turned off
+BA   15   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2377, note never turned off
+BA   15   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   15   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&237F, note never turned off
+BA   15   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2387, note never turned off
+BA   15   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EA7, note never turned off
+BA   15   CR         2   TR  0   CH  1   NT  G#-             1
+BA   15   CR         2   TR  1   CH  1   NT  G#--            1
+BA   15   CR         2   TR  2   CH  2   NT  G#            1/4
+BA   15   CR         2   TR  3   CH  3   NT  G#---           1
+BA   15   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&238F, note never turned off
+BA   15   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&338F, note never turned off
+BA   15   CR     2+1/4   TR  2   CH  2   NT  G             3/8
+BA   15   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2397, note never turned off
+BA   15   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&239F, note never turned off
+BA   15   CR     2+5/8   TR  2   CH  2   NT  F             3/8
+BA   15   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23A7, note never turned off
+BA   15   CR         3   TR  0   CH  1   NT  Bb-             1
+BA   15   CR         3   TR  1   CH  1   NT  Bb--            1
+BA   15   CR         3   TR  2   CH  2   NT  Bb            1/2
+BA   15   CR         3   TR  3   CH  3   NT  Bb---           1
+BA   15   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&23AF, note never turned off
+BA   15   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EAF, note never turned off
+BA   15   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3397, note never turned off
+BA   15   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23B7, note never turned off
+BA   15   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EB7, note never turned off
+BA   15   CR     3+1/2   TR  2   CH  2   NT  C             1/2
+BA   15   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23BF, note never turned off
+BA   15   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&23C7, note never turned off
+BA   15   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EBF, note never turned off
+
+BA   16   CR         0   TR  0   CH  1   NT  C               1
+BA   16   CR         0   TR  1   CH  1   NT  C-              1
+BA   16   CR         0   TR  2   CH  2   NT  C'              1
+BA   16   CR         0   TR  3   CH  3   NT  C--             1
+BA   16   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23CF, note never turned off
+BA   16   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&339F, note never turned off
+BA   16   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23D7, note never turned off
+BA   16   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23DF, note never turned off
+BA   16   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23E7, note never turned off
+BA   16   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   16   CR         1   TR  1   CH  1   NT  Bb--          1/2
+BA   16   CR         1   TR  2   CH  2   NT  Bb            1/2
+BA   16   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   16   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&23EF, note never turned off
+BA   16   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EC7, note never turned off
+BA   16   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33A7, note never turned off
+BA   16   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23F7, note never turned off
+BA   16   CR     1+1/2   TR  0   CH  1   NT  C             1/4
+BA   16   CR     1+1/2   TR  1   CH  1   NT  C-            1/4
+BA   16   CR     1+1/2   TR  2   CH  2   NT  C'              1
+BA   16   CR     1+1/2   TR  3   CH  3   NT  C--             1
+BA   16   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&23FF, note never turned off
+BA   16   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2407, note never turned off
+BA   16   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2ECF, note never turned off
+BA   16   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&240F, note never turned off
+BA   16   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33AF, note never turned off
+BA   16   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2417, note never turned off
+BA   16   CR     2+1/2   TR  2   CH  2   NT  B               1
+BA   16   CR     2+1/2   TR  3   CH  3   NT  B----           1
+BA   16   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&241F, note never turned off
+BA   16   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2427, note never turned off
+BA   16   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&242F, note never turned off
+BA   16   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2ED7, note never turned off
+BA   16   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33B7, note never turned off
+BA   16   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2437, note never turned off
+BA   16   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EDF, note never turned off
+BA   16   CR     3+1/2   TR  2   CH  2   NT  B             1/2
+BA   16   CR     3+1/2   TR  3   CH  3   NT  B----         1/2
+BA   16   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&243F, note never turned off
+BA   16   CR     3+1/2   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EE7, note never turned off
+BA   16   CR     3+5/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EEF, note never turned off
+BA   16   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2447, note never turned off
+BA   16   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EF7, note never turned off
+BA   16   CR     3+7/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2EFF, note never turned off
+
+BA   17   CR         0   TR  0   CH  1   NT  C             1/2
+BA   17   CR         0   TR  2   CH  2   NT  C             1/4
+BA   17   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   17   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&244F, note never turned off
+BA   17   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33BF, note never turned off
+BA   17   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   17   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2457, note never turned off
+BA   17   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA   17   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA   17   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   17   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&245F, note never turned off
+BA   17   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA   17   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   17   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   17   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   17   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2467, note never turned off
+BA   17   CR         1   TR  2   CH  2   NT  G             1/4
+BA   17   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&246F, note never turned off
+BA   17   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F07, note never turned off
+BA   17   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33C7, note never turned off
+BA   17   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   17   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2477, note never turned off
+BA   17   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA   17   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA   17   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   17   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA   17   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&247F, note never turned off
+BA   17   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   17   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2487, note never turned off
+BA   17   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F0F, note never turned off
+BA   17   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   17   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&248F, note never turned off
+BA   17   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33CF, note never turned off
+BA   17   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   17   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2497, note never turned off
+BA   17   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   17   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   17   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&249F, note never turned off
+BA   17   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   17   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24A7, note never turned off
+BA   17   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   17   CR         3   TR  2   CH  2   NT  F             1/4
+BA   17   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&24AF, note never turned off
+BA   17   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F17, note never turned off
+BA   17   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33D7, note never turned off
+BA   17   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   17   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24B7, note never turned off
+BA   17   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F1F, note never turned off
+BA   17   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   17   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   17   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA   17   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24BF, note never turned off
+BA   17   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   17   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&24C7, note never turned off
+BA   17   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F27, note never turned off
+
+BA   18   CR         0   TR  0   CH  1   NT  C             1/2
+BA   18   CR         0   TR  1   CH  1   NT  C'            1/2
+BA   18   CR         0   TR  2   CH  2   NT  C             1/4
+BA   18   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   18   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24CF, note never turned off
+BA   18   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33DF, note never turned off
+BA   18   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   18   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24D7, note never turned off
+BA   18   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA   18   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA   18   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   18   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24DF, note never turned off
+BA   18   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA   18   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   18   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   18   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   18   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24E7, note never turned off
+BA   18   CR         1   TR  2   CH  2   NT  G             1/4
+BA   18   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&24EF, note never turned off
+BA   18   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F2F, note never turned off
+BA   18   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33E7, note never turned off
+BA   18   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   18   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24F7, note never turned off
+BA   18   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA   18   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   18   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA   18   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&24FF, note never turned off
+BA   18   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   18   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2507, note never turned off
+BA   18   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F37, note never turned off
+BA   18   CR         2   TR  0   CH  1   NT  C               1
+BA   18   CR         2   TR  1   CH  1   NT  D               1
+BA   18   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   18   CR         2   TR  3   CH  3   NT  C---            1
+BA   18   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&250F, note never turned off
+BA   18   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33EF, note never turned off
+BA   18   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   18   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2517, note never turned off
+BA   18   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   18   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&251F, note never turned off
+BA   18   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   18   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2527, note never turned off
+BA   18   CR         3   TR  0   CH  1   NT  C             3/4
+BA   18   CR         3   TR  1   CH  1   NT  D             1/2
+BA   18   CR         3   TR  2   CH  2   NT  F             1/4
+BA   18   CR         3   TR  3   CH  3   NT  C---          3/4
+BA   18   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&252F, note never turned off
+BA   18   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F3F, note never turned off
+BA   18   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33F7, note never turned off
+BA   18   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   18   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2537, note never turned off
+BA   18   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F47, note never turned off
+BA   18   CR     3+1/2   TR  1   CH  1   NT  C             1/4
+BA   18   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   18   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&253F, note never turned off
+BA   18   CR     3+3/4   TR  0   CH  1   NT  C             1/4
+BA   18   CR     3+3/4   TR  1   CH  1   NT  G             1/4
+BA   18   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   18   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA   18   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2547, note never turned off
+BA   18   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F4F, note never turned off
+
+BA   19   CR         0   TR  0   CH  1   NT  C               4
+BA   19   CR         0   TR  1   CH  1   NT  G#            1/2
+BA   19   CR         0   TR  2   CH  2   NT  C             1/4
+BA   19   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   19   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&254F, note never turned off
+BA   19   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&33FF, note never turned off
+BA   19   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   19   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2557, note never turned off
+BA   19   CR       1/2   TR  1   CH  1   NT  G             1/4
+BA   19   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   19   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&255F, note never turned off
+BA   19   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   19   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   19   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   19   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2567, note never turned off
+BA   19   CR         1   TR  2   CH  2   NT  G             1/4
+BA   19   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&256F, note never turned off
+BA   19   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F57, note never turned off
+BA   19   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3407, note never turned off
+BA   19   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   19   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2577, note never turned off
+BA   19   CR     1+1/2   TR  1   CH  1   NT  G             1/2
+BA   19   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   19   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA   19   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&257F, note never turned off
+BA   19   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   19   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2587, note never turned off
+BA   19   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F5F, note never turned off
+BA   19   CR         2   TR  1   CH  1   NT  G#              1
+BA   19   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   19   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&258F, note never turned off
+BA   19   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&340F, note never turned off
+BA   19   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   19   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2597, note never turned off
+BA   19   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   19   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&259F, note never turned off
+BA   19   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   19   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25A7, note never turned off
+BA   19   CR         3   TR  1   CH  1   NT  Bb            1/4
+BA   19   CR         3   TR  2   CH  2   NT  F             1/4
+BA   19   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&25AF, note never turned off
+BA   19   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F67, note never turned off
+BA   19   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3417, note never turned off
+BA   19   CR     3+1/4   TR  1   CH  1   NT  Bb-           1/4
+BA   19   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   19   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25B7, note never turned off
+BA   19   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F6F, note never turned off
+BA   19   CR     3+1/2   TR  1   CH  1   NT  Eb            1/4
+BA   19   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   19   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA   19   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25BF, note never turned off
+BA   19   CR     3+3/4   TR  1   CH  1   NT  C             1/4
+BA   19   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   19   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&25C7, note never turned off
+BA   19   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F77, note never turned off
+
+BA   20   CR         0   TR  0   CH  1   NT  G           1+1/2
+BA   20   CR         0   TR  1   CH  1   NT  Bb            1/2
+BA   20   CR         0   TR  2   CH  2   NT  C             1/4
+BA   20   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   20   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25CF, note never turned off
+BA   20   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&341F, note never turned off
+BA   20   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   20   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25D7, note never turned off
+BA   20   CR       1/2   TR  1   CH  1   NT  A             1/4
+BA   20   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   20   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25DF, note never turned off
+BA   20   CR       3/4   TR  1   CH  1   NT  G             3/4
+BA   20   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   20   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   20   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25E7, note never turned off
+BA   20   CR         1   TR  2   CH  2   NT  G             1/4
+BA   20   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&25EF, note never turned off
+BA   20   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F7F, note never turned off
+BA   20   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3427, note never turned off
+BA   20   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   20   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25F7, note never turned off
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   20   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   20   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA   20   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&25FF, note never turned off
+BA   20   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   20   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2607, note never turned off
+BA   20   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F87, note never turned off
+BA   20   CR         2   TR  0   CH  1   NT  C'            3/4
+BA   20   CR         2   TR  1   CH  1   NT  C'            3/4
+BA   20   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   20   CR         2   TR  3   CH  3   NT  C---            1
+BA   20   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&260F, note never turned off
+BA   20   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&342F, note never turned off
+BA   20   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   20   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2617, note never turned off
+BA   20   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   20   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&261F, note never turned off
+BA   20   CR     2+3/4   TR  1   CH  1   NT  C             1/4
+BA   20   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   20   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2627, note never turned off
+BA   20   CR         3   TR  1   CH  1   NT  C'            1/8
+BA   20   CR         3   TR  2   CH  2   NT  F             1/4
+BA   20   CR         3   TR  3   CH  3   NT  C---          3/4
+BA   20   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&262F, note never turned off
+BA   20   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F8F, note never turned off
+BA   20   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3437, note never turned off
+BA   20   CR     3+1/8   TR  1   CH  1   NT  Bb            1/8
+BA   20   CR     3+1/4   TR  1   CH  1   NT  G#            1/8
+BA   20   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   20   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2637, note never turned off
+BA   20   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F97, note never turned off
+BA   20   CR     3+3/8   TR  1   CH  1   NT  G             1/8
+BA   20   CR     3+1/2   TR  1   CH  1   NT  F             1/8
+BA   20   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   20   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&263F, note never turned off
+BA   20   CR     3+5/8   TR  1   CH  1   NT  Eb            1/8
+BA   20   CR     3+3/4   TR  1   CH  1   NT  D             1/8
+BA   20   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   20   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA   20   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2647, note never turned off
+BA   20   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2F9F, note never turned off
+BA   20   CR     3+7/8   TR  1   CH  1   NT  C             5/8
+
+BA   21   CR         0   TR  0   CH  1   NT  C             1/2
+BA   21   CR         0   TR  2   CH  2   NT  C             1/4
+BA   21   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   21   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&264F, note never turned off
+BA   21   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&343F, note never turned off
+BA   21   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   21   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2657, note never turned off
+BA   21   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA   21   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA   21   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   21   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&265F, note never turned off
+BA   21   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA   21   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   21   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   21   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   21   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2667, note never turned off
+BA   21   CR         1   TR  2   CH  2   NT  G             1/4
+BA   21   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&266F, note never turned off
+BA   21   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FA7, note never turned off
+BA   21   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3447, note never turned off
+BA   21   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   21   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2677, note never turned off
+BA   21   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA   21   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA   21   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   21   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA   21   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&267F, note never turned off
+BA   21   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   21   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2687, note never turned off
+BA   21   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FAF, note never turned off
+BA   21   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   21   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&268F, note never turned off
+BA   21   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&344F, note never turned off
+BA   21   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   21   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2697, note never turned off
+BA   21   CR     2+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   21   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   21   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&269F, note never turned off
+BA   21   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   21   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26A7, note never turned off
+BA   21   CR         3   TR  1   CH  1   NT  C'            1/2
+BA   21   CR         3   TR  2   CH  2   NT  F             1/4
+BA   21   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&26AF, note never turned off
+BA   21   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FB7, note never turned off
+BA   21   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3457, note never turned off
+BA   21   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   21   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26B7, note never turned off
+BA   21   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FBF, note never turned off
+BA   21   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   21   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   21   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA   21   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26BF, note never turned off
+BA   21   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   21   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&26C7, note never turned off
+BA   21   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FC7, note never turned off
+
+BA   22   CR         0   TR  0   CH  1   NT  C             1/2
+BA   22   CR         0   TR  1   CH  1   NT  C'            1/2
+BA   22   CR         0   TR  2   CH  2   NT  C             1/4
+BA   22   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   22   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26CF, note never turned off
+BA   22   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&345F, note never turned off
+BA   22   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   22   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26D7, note never turned off
+BA   22   CR       1/2   TR  0   CH  1   NT  C             1/4
+BA   22   CR       1/2   TR  1   CH  1   NT  Eb            1/4
+BA   22   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   22   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26DF, note never turned off
+BA   22   CR       3/4   TR  0   CH  1   NT  C             3/4
+BA   22   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   22   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   22   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   22   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26E7, note never turned off
+BA   22   CR         1   TR  2   CH  2   NT  G             1/4
+BA   22   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&26EF, note never turned off
+BA   22   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FCF, note never turned off
+BA   22   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3467, note never turned off
+BA   22   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   22   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26F7, note never turned off
+BA   22   CR     1+1/2   TR  0   CH  1   NT  C             1/2
+BA   22   CR     1+1/2   TR  1   CH  1   NT  Eb            1/2
+BA   22   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   22   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA   22   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&26FF, note never turned off
+BA   22   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   22   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2707, note never turned off
+BA   22   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FD7, note never turned off
+BA   22   CR         2   TR  0   CH  1   NT  C               1
+BA   22   CR         2   TR  1   CH  1   NT  D               1
+BA   22   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   22   CR         2   TR  3   CH  3   NT  C---            1
+BA   22   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&270F, note never turned off
+BA   22   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&346F, note never turned off
+BA   22   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   22   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2717, note never turned off
+BA   22   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   22   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&271F, note never turned off
+BA   22   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   22   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2727, note never turned off
+BA   22   CR         3   TR  0   CH  1   NT  C             3/4
+BA   22   CR         3   TR  1   CH  1   NT  D             1/2
+BA   22   CR         3   TR  2   CH  2   NT  F             1/4
+BA   22   CR         3   TR  3   CH  3   NT  C---          3/4
+BA   22   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&272F, note never turned off
+BA   22   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FDF, note never turned off
+BA   22   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3477, note never turned off
+BA   22   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   22   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2737, note never turned off
+BA   22   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FE7, note never turned off
+BA   22   CR     3+1/2   TR  1   CH  1   NT  C             1/4
+BA   22   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   22   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&273F, note never turned off
+BA   22   CR     3+3/4   TR  0   CH  1   NT  C             1/4
+BA   22   CR     3+3/4   TR  1   CH  1   NT  G             1/4
+BA   22   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   22   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA   22   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2747, note never turned off
+BA   22   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FEF, note never turned off
+
+BA   23   CR         0   TR  0   CH  1   NT  C               4
+BA   23   CR         0   TR  1   CH  1   NT  G#            1/2
+BA   23   CR         0   TR  2   CH  2   NT  C             1/4
+BA   23   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   23   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&274F, note never turned off
+BA   23   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&347F, note never turned off
+BA   23   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   23   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2757, note never turned off
+BA   23   CR       1/2   TR  1   CH  1   NT  G             1/4
+BA   23   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   23   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&275F, note never turned off
+BA   23   CR       3/4   TR  1   CH  1   NT  F             3/4
+BA   23   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   23   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   23   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2767, note never turned off
+BA   23   CR         1   TR  2   CH  2   NT  G             1/4
+BA   23   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&276F, note never turned off
+BA   23   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FF7, note never turned off
+BA   23   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3487, note never turned off
+BA   23   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   23   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2777, note never turned off
+BA   23   CR     1+1/2   TR  1   CH  1   NT  G             1/2
+BA   23   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   23   CR     1+1/2   TR  3   CH  3   NT  C---          1/4
+BA   23   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&277F, note never turned off
+BA   23   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   23   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2787, note never turned off
+BA   23   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&2FFF, note never turned off
+BA   23   CR         2   TR  1   CH  1   NT  G#              1
+BA   23   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   23   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&278F, note never turned off
+BA   23   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&348F, note never turned off
+BA   23   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   23   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2797, note never turned off
+BA   23   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   23   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&279F, note never turned off
+BA   23   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   23   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27A7, note never turned off
+BA   23   CR         3   TR  1   CH  1   NT  Bb            1/4
+BA   23   CR         3   TR  2   CH  2   NT  F             1/4
+BA   23   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&27AF, note never turned off
+BA   23   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3007, note never turned off
+BA   23   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3497, note never turned off
+BA   23   CR     3+1/4   TR  1   CH  1   NT  Bb-           1/4
+BA   23   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   23   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27B7, note never turned off
+BA   23   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&300F, note never turned off
+BA   23   CR     3+1/2   TR  1   CH  1   NT  Eb            1/4
+BA   23   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   23   CR     3+1/2   TR  3   CH  3   NT  Bb----        1/2
+BA   23   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27BF, note never turned off
+BA   23   CR     3+3/4   TR  1   CH  1   NT  C             1/4
+BA   23   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   23   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&27C7, note never turned off
+BA   23   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3017, note never turned off
+
+BA   24   CR         0   TR  0   CH  1   NT  G           1+1/2
+BA   24   CR         0   TR  1   CH  1   NT  Bb            1/2
+BA   24   CR         0   TR  2   CH  2   NT  C             1/4
+BA   24   CR         0   TR  3   CH  3   NT  C---          3/4
+BA   24   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27CF, note never turned off
+BA   24   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&349F, note never turned off
+BA   24   CR       1/4   TR  2   CH  2   NT  D             1/4
+BA   24   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27D7, note never turned off
+BA   24   CR       1/2   TR  1   CH  1   NT  A             1/4
+BA   24   CR       1/2   TR  2   CH  2   NT  Eb            1/4
+BA   24   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27DF, note never turned off
+BA   24   CR       3/4   TR  1   CH  1   NT  G             3/4
+BA   24   CR       3/4   TR  2   CH  2   NT  F             1/4
+BA   24   CR       3/4   TR  3   CH  3   NT  C---          3/4
+BA   24   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27E7, note never turned off
+BA   24   CR         1   TR  2   CH  2   NT  G             1/4
+BA   24   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&27EF, note never turned off
+BA   24   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&301F, note never turned off
+BA   24   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34A7, note never turned off
+BA   24   CR     1+1/4   TR  2   CH  2   NT  G#            1/4
+BA   24   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27F7, note never turned off
+BA   24   CR     1+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   24   CR     1+1/2   TR  2   CH  2   NT  Bb            1/4
+BA   24   CR     1+1/2   TR  3   CH  3   NT  C---          1/2
+BA   24   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&27FF, note never turned off
+BA   24   CR     1+3/4   TR  2   CH  2   NT  C'            1/4
+BA   24   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2807, note never turned off
+BA   24   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3027, note never turned off
+BA   24   CR         2   TR  0   CH  1   NT  C'            3/4
+BA   24   CR         2   TR  1   CH  1   NT  C'            3/4
+BA   24   CR         2   TR  2   CH  2   NT  C'            1/4
+BA   24   CR         2   TR  3   CH  3   NT  C---            1
+BA   24   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&280F, note never turned off
+BA   24   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34AF, note never turned off
+BA   24   CR     2+1/4   TR  2   CH  2   NT  Bb            1/4
+BA   24   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2817, note never turned off
+BA   24   CR     2+1/2   TR  2   CH  2   NT  G#            1/4
+BA   24   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&281F, note never turned off
+BA   24   CR     2+3/4   TR  1   CH  1   NT  C             1/4
+BA   24   CR     2+3/4   TR  2   CH  2   NT  G             1/4
+BA   24   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2827, note never turned off
+BA   24   CR         3   TR  1   CH  1   NT  C'            1/8
+BA   24   CR         3   TR  2   CH  2   NT  F             1/4
+BA   24   CR         3   TR  3   CH  3   NT  C---          3/4
+BA   24   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&282F, note never turned off
+BA   24   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&302F, note never turned off
+BA   24   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34B7, note never turned off
+BA   24   CR     3+1/8   TR  1   CH  1   NT  Bb            1/8
+BA   24   CR     3+1/4   TR  1   CH  1   NT  G#            1/8
+BA   24   CR     3+1/4   TR  2   CH  2   NT  Eb            1/4
+BA   24   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2837, note never turned off
+BA   24   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3037, note never turned off
+BA   24   CR     3+3/8   TR  1   CH  1   NT  G             1/8
+BA   24   CR     3+1/2   TR  1   CH  1   NT  F             1/8
+BA   24   CR     3+1/2   TR  2   CH  2   NT  D             1/4
+BA   24   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&283F, note never turned off
+BA   24   CR     3+1/2   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&303F, note never turned off
+BA   24   CR     3+5/8   TR  1   CH  1   NT  Eb            1/8
+BA   24   CR     3+5/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3047, note never turned off
+BA   24   CR     3+3/4   TR  1   CH  1   NT  D             1/8
+BA   24   CR     3+3/4   TR  2   CH  2   NT  C             1/4
+BA   24   CR     3+3/4   TR  3   CH  3   NT  C--           1/4
+BA   24   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2847, note never turned off
+BA   24   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&304F, note never turned off
+BA   24   CR     3+7/8   TR  1   CH  1   NT  C             1/8
+BA   24   CR     3+7/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3057, note never turned off
+
+BA   25   CR         0   TR  0   CH  1   NT  C-              1
+BA   25   CR         0   TR  1   CH  1   NT  C               1
+BA   25   CR         0   TR  2   CH  2   NT  G-              1
+BA   25   CR         0   TR  3   CH  3   NT  C---            1
+BA   25   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&284F, note never turned off
+BA   25   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34BF, note never turned off
+BA   25   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2857, note never turned off
+BA   25   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&285F, note never turned off
+BA   25   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2867, note never turned off
+BA   25   CR         1   TR  0   CH  1   NT  D-              1
+BA   25   CR         1   TR  1   CH  1   NT  D               1
+BA   25   CR         1   TR  2   CH  2   NT  A-              1
+BA   25   CR         1   TR  3   CH  3   NT  D---            1
+BA   25   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&286F, note never turned off
+BA   25   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&305F, note never turned off
+BA   25   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34C7, note never turned off
+BA   25   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2877, note never turned off
+BA   25   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&287F, note never turned off
+BA   25   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2887, note never turned off
+BA   25   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3067, note never turned off
+BA   25   CR         2   TR  0   CH  1   NT  Eb-             1
+BA   25   CR         2   TR  1   CH  1   NT  Eb              1
+BA   25   CR         2   TR  2   CH  2   NT  Bb-             1
+BA   25   CR         2   TR  3   CH  3   NT  Eb---           1
+BA   25   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&288F, note never turned off
+BA   25   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34CF, note never turned off
+BA   25   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2897, note never turned off
+BA   25   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&289F, note never turned off
+BA   25   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28A7, note never turned off
+BA   25   CR         3   TR  0   CH  1   NT  F-              1
+BA   25   CR         3   TR  1   CH  1   NT  F               1
+BA   25   CR         3   TR  2   CH  2   NT  C               1
+BA   25   CR         3   TR  3   CH  3   NT  F---            1
+BA   25   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&28AF, note never turned off
+BA   25   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&306F, note never turned off
+BA   25   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34D7, note never turned off
+BA   25   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28B7, note never turned off
+BA   25   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3077, note never turned off
+BA   25   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28BF, note never turned off
+BA   25   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&28C7, note never turned off
+BA   25   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&307F, note never turned off
+
+BA   26   CR         0   TR  0   CH  1   NT  G-              1
+BA   26   CR         0   TR  1   CH  1   NT  G               1
+BA   26   CR         0   TR  2   CH  2   NT  D               1
+BA   26   CR         0   TR  3   CH  3   NT  G---            1
+BA   26   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28CF, note never turned off
+BA   26   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34DF, note never turned off
+BA   26   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28D7, note never turned off
+BA   26   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28DF, note never turned off
+BA   26   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28E7, note never turned off
+BA   26   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   26   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA   26   CR         1   TR  2   CH  2   NT  F             1/2
+BA   26   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   26   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&28EF, note never turned off
+BA   26   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3087, note never turned off
+BA   26   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34E7, note never turned off
+BA   26   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28F7, note never turned off
+BA   26   CR     1+1/2   TR  0   CH  1   NT  C               1
+BA   26   CR     1+1/2   TR  1   CH  1   NT  C'              1
+BA   26   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   26   CR     1+1/2   TR  3   CH  3   NT  C--           1/2
+BA   26   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&28FF, note never turned off
+BA   26   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2907, note never turned off
+BA   26   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&308F, note never turned off
+BA   26   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&290F, note never turned off
+BA   26   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34EF, note never turned off
+BA   26   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2917, note never turned off
+BA   26   CR     2+1/2   TR  0   CH  1   NT  Eb            1/2
+BA   26   CR     2+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   26   CR     2+1/2   TR  3   CH  3   NT  C--           1/2
+BA   26   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&291F, note never turned off
+BA   26   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2927, note never turned off
+BA   26   CR         3   TR  0   CH  1   NT  D             1/2
+BA   26   CR         3   TR  1   CH  1   NT  D'            1/2
+BA   26   CR         3   TR  3   CH  3   NT  C--           1/2
+BA   26   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&292F, note never turned off
+BA   26   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3097, note never turned off
+BA   26   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34F7, note never turned off
+BA   26   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2937, note never turned off
+BA   26   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&309F, note never turned off
+BA   26   CR     3+1/2   TR  0   CH  1   NT  C             1/2
+BA   26   CR     3+1/2   TR  1   CH  1   NT  C'            1/2
+BA   26   CR     3+1/2   TR  3   CH  3   NT  C--           1/2
+BA   26   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&293F, note never turned off
+BA   26   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2947, note never turned off
+BA   26   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30A7, note never turned off
+
+BA   27   CR         0   TR  0   CH  1   NT  Eb              1
+BA   27   CR         0   TR  1   CH  1   NT  Eb'             1
+BA   27   CR         0   TR  2   CH  2   NT  Eb            1/2
+BA   27   CR         0   TR  3   CH  3   NT  F---            1
+BA   27   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&294F, note never turned off
+BA   27   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&34FF, note never turned off
+BA   27   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2957, note never turned off
+BA   27   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&295F, note never turned off
+BA   27   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2967, note never turned off
+BA   27   CR         1   TR  0   CH  1   NT  G               1
+BA   27   CR         1   TR  1   CH  1   NT  G'              1
+BA   27   CR         1   TR  2   CH  2   NT  Eb'             1
+BA   27   CR         1   TR  3   CH  3   NT  G---            1
+BA   27   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&296F, note never turned off
+BA   27   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30AF, note never turned off
+BA   27   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3507, note never turned off
+BA   27   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2977, note never turned off
+BA   27   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&297F, note never turned off
+BA   27   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2987, note never turned off
+BA   27   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30B7, note never turned off
+BA   27   CR         2   TR  0   CH  1   NT  D             1/2
+BA   27   CR         2   TR  1   CH  1   NT  D'            1/2
+BA   27   CR         2   TR  2   CH  2   NT  D             1/2
+BA   27   CR         2   TR  3   CH  3   NT  G#---           1
+BA   27   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&298F, note never turned off
+BA   27   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&350F, note never turned off
+BA   27   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2997, note never turned off
+BA   27   CR     2+1/2   TR  0   CH  1   NT  Eb            1/2
+BA   27   CR     2+1/2   TR  1   CH  1   NT  Eb'           1/2
+BA   27   CR     2+1/2   TR  2   CH  2   NT  Eb            1/2
+BA   27   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&299F, note never turned off
+BA   27   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29A7, note never turned off
+BA   27   CR         3   TR  0   CH  1   NT  D             1/2
+BA   27   CR         3   TR  1   CH  1   NT  D'            1/2
+BA   27   CR         3   TR  2   CH  2   NT  D             1/2
+BA   27   CR         3   TR  3   CH  3   NT  Bb---           1
+BA   27   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&29AF, note never turned off
+BA   27   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30BF, note never turned off
+BA   27   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3517, note never turned off
+BA   27   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29B7, note never turned off
+BA   27   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30C7, note never turned off
+BA   27   CR     3+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   27   CR     3+1/2   TR  1   CH  1   NT  Bb            1/2
+BA   27   CR     3+1/2   TR  2   CH  2   NT  Bb-           1/2
+BA   27   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29BF, note never turned off
+BA   27   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&29C7, note never turned off
+BA   27   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30CF, note never turned off
+
+BA   28   CR         0   TR  0   CH  1   NT  C               1
+BA   28   CR         0   TR  1   CH  1   NT  C'              1
+BA   28   CR         0   TR  2   CH  2   NT  C             3/4
+BA   28   CR         0   TR  3   CH  3   NT  C--             1
+BA   28   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29CF, note never turned off
+BA   28   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&351F, note never turned off
+BA   28   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29D7, note never turned off
+BA   28   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29DF, note never turned off
+BA   28   CR       3/4   TR  2   CH  2   NT  C'            3/4
+BA   28   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29E7, note never turned off
+BA   28   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   28   CR         1   TR  1   CH  1   NT  Bb            1/2
+BA   28   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   28   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&29EF, note never turned off
+BA   28   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30D7, note never turned off
+BA   28   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3527, note never turned off
+BA   28   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29F7, note never turned off
+BA   28   CR     1+1/2   TR  0   CH  1   NT  C               1
+BA   28   CR     1+1/2   TR  1   CH  1   NT  C'              1
+BA   28   CR     1+1/2   TR  2   CH  2   NT  C               1
+BA   28   CR     1+1/2   TR  3   CH  3   NT  C--         2+1/2
+BA   28   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&29FF, note never turned off
+BA   28   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2A07, note never turned off
+BA   28   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30DF, note never turned off
+BA   28   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A0F, note never turned off
+BA   28   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&352F, note never turned off
+BA   28   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A17, note never turned off
+BA   28   CR     2+1/2   TR  0   CH  1   NT  G-          1+1/2
+BA   28   CR     2+1/2   TR  1   CH  1   NT  G           1+1/2
+BA   28   CR     2+1/2   TR  2   CH  2   NT  G             1/2
+BA   28   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A1F, note never turned off
+BA   28   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A27, note never turned off
+BA   28   CR         3   TR  2   CH  2   NT  G             1/4
+BA   28   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2A2F, note never turned off
+BA   28   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30E7, note never turned off
+BA   28   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3537, note never turned off
+BA   28   CR     3+1/4   TR  2   CH  2   NT  F             1/4
+BA   28   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A37, note never turned off
+BA   28   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30EF, note never turned off
+BA   28   CR     3+1/2   TR  2   CH  2   NT  Eb            1/4
+BA   28   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A3F, note never turned off
+BA   28   CR     3+3/4   TR  2   CH  2   NT  D             1/4
+BA   28   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2A47, note never turned off
+BA   28   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30F7, note never turned off
+
+BA   29   CR         0   TR  0   CH  1   NT  G             1/2
+BA   29   CR         0   TR  1   CH  1   NT  G-            1/2
+BA   29   CR         0   TR  2   CH  2   NT  G'            1/4
+BA   29   CR         0   TR  3   CH  3   NT  C---            1
+BA   29   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A4F, note never turned off
+BA   29   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&353F, note never turned off
+BA   29   CR       1/4   TR  2   CH  2   NT  F'            1/4
+BA   29   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A57, note never turned off
+BA   29   CR       1/2   TR  0   CH  1   NT  F             1/2
+BA   29   CR       1/2   TR  1   CH  1   NT  F-            1/2
+BA   29   CR       1/2   TR  2   CH  2   NT  Eb'           1/4
+BA   29   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A5F, note never turned off
+BA   29   CR       3/4   TR  2   CH  2   NT  D'            1/4
+BA   29   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A67, note never turned off
+BA   29   CR         1   TR  0   CH  1   NT  Eb            1/2
+BA   29   CR         1   TR  1   CH  1   NT  Eb-           1/2
+BA   29   CR         1   TR  2   CH  2   NT  C'            1/2
+BA   29   CR         1   TR  3   CH  3   NT  D---            1
+BA   29   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2A6F, note never turned off
+BA   29   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&30FF, note never turned off
+BA   29   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3547, note never turned off
+BA   29   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A77, note never turned off
+BA   29   CR     1+1/2   TR  0   CH  1   NT  G             1/2
+BA   29   CR     1+1/2   TR  1   CH  1   NT  G-            1/2
+BA   29   CR     1+1/2   TR  2   CH  2   NT  F'            1/4
+BA   29   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A7F, note never turned off
+BA   29   CR     1+3/4   TR  2   CH  2   NT  Eb'           1/4
+BA   29   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2A87, note never turned off
+BA   29   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3107, note never turned off
+BA   29   CR         2   TR  0   CH  1   NT  Eb            1/2
+BA   29   CR         2   TR  1   CH  1   NT  Eb-           1/2
+BA   29   CR         2   TR  2   CH  2   NT  D'            1/4
+BA   29   CR         2   TR  3   CH  3   NT  Eb---           1
+BA   29   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A8F, note never turned off
+BA   29   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&354F, note never turned off
+BA   29   CR     2+1/4   TR  2   CH  2   NT  C'            1/4
+BA   29   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A97, note never turned off
+BA   29   CR     2+1/2   TR  0   CH  1   NT  D             1/2
+BA   29   CR     2+1/2   TR  1   CH  1   NT  D-            1/2
+BA   29   CR     2+1/2   TR  2   CH  2   NT  Bb            1/2
+BA   29   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2A9F, note never turned off
+BA   29   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AA7, note never turned off
+BA   29   CR         3   TR  0   CH  1   NT  G             1/2
+BA   29   CR         3   TR  1   CH  1   NT  G-            1/2
+BA   29   CR         3   TR  2   CH  2   NT  Eb'           1/4
+BA   29   CR         3   TR  3   CH  3   NT  F---            1
+BA   29   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2AAF, note never turned off
+BA   29   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&310F, note never turned off
+BA   29   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3557, note never turned off
+BA   29   CR     3+1/4   TR  2   CH  2   NT  D'            1/4
+BA   29   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AB7, note never turned off
+BA   29   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3117, note never turned off
+BA   29   CR     3+1/2   TR  0   CH  1   NT  D             1/2
+BA   29   CR     3+1/2   TR  1   CH  1   NT  D-            1/2
+BA   29   CR     3+1/2   TR  2   CH  2   NT  C'            1/4
+BA   29   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2ABF, note never turned off
+BA   29   CR     3+3/4   TR  2   CH  2   NT  Bb            1/4
+BA   29   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2AC7, note never turned off
+BA   29   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&311F, note never turned off
+
+BA   30   CR         0   TR  0   CH  1   NT  C             1/2
+BA   30   CR         0   TR  1   CH  1   NT  C-            1/2
+BA   30   CR         0   TR  2   CH  2   NT  G#            3/4
+BA   30   CR         0   TR  3   CH  3   NT  G---            1
+BA   30   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2ACF, note never turned off
+BA   30   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&355F, note never turned off
+BA   30   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AD7, note never turned off
+BA   30   CR       1/2   TR  0   CH  1   NT  G             1/2
+BA   30   CR       1/2   TR  1   CH  1   NT  G-            1/2
+BA   30   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2ADF, note never turned off
+BA   30   CR       3/4   TR  2   CH  2   NT  G             3/4
+BA   30   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AE7, note never turned off
+BA   30   CR         1   TR  0   CH  1   NT  C             1/2
+BA   30   CR         1   TR  1   CH  1   NT  C-            1/2
+BA   30   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   30   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2AEF, note never turned off
+BA   30   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3127, note never turned off
+BA   30   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3567, note never turned off
+BA   30   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AF7, note never turned off
+BA   30   CR     1+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   30   CR     1+1/2   TR  1   CH  1   NT  Bb--          1/2
+BA   30   CR     1+1/2   TR  2   CH  2   NT  G#              1
+BA   30   CR     1+1/2   TR  3   CH  3   NT  C--           1/2
+BA   30   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2AFF, note never turned off
+BA   30   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2B07, note never turned off
+BA   30   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&312F, note never turned off
+BA   30   CR         2   TR  0   CH  1   NT  G             1/2
+BA   30   CR         2   TR  1   CH  1   NT  G-            1/2
+BA   30   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B0F, note never turned off
+BA   30   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&356F, note never turned off
+BA   30   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B17, note never turned off
+BA   30   CR     2+1/2   TR  0   CH  1   NT  Bb-           1/2
+BA   30   CR     2+1/2   TR  1   CH  1   NT  Bb--          1/2
+BA   30   CR     2+1/2   TR  2   CH  2   NT  G           1+1/2
+BA   30   CR     2+1/2   TR  3   CH  3   NT  C--           1/2
+BA   30   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B1F, note never turned off
+BA   30   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B27, note never turned off
+BA   30   CR         3   TR  0   CH  1   NT  G#-           1/2
+BA   30   CR         3   TR  1   CH  1   NT  G#--          1/2
+BA   30   CR         3   TR  3   CH  3   NT  C--           1/2
+BA   30   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2B2F, note never turned off
+BA   30   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3137, note never turned off
+BA   30   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3577, note never turned off
+BA   30   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B37, note never turned off
+BA   30   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&313F, note never turned off
+BA   30   CR     3+1/2   TR  0   CH  1   NT  G-            1/2
+BA   30   CR     3+1/2   TR  1   CH  1   NT  G--           1/2
+BA   30   CR     3+1/2   TR  3   CH  3   NT  C--           1/2
+BA   30   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B3F, note never turned off
+BA   30   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2B47, note never turned off
+BA   30   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3147, note never turned off
+
+BA   31   CR         0   TR  0   CH  1   NT  F-              1
+BA   31   CR         0   TR  1   CH  1   NT  F--             1
+BA   31   CR         0   TR  2   CH  2   NT  G#            1/2
+BA   31   CR         0   TR  3   CH  3   NT  F---            1
+BA   31   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B4F, note never turned off
+BA   31   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&357F, note never turned off
+BA   31   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B57, note never turned off
+BA   31   CR       1/2   TR  2   CH  2   NT  G             1/4
+BA   31   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B5F, note never turned off
+BA   31   CR       3/4   TR  2   CH  2   NT  F             3/4
+BA   31   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B67, note never turned off
+BA   31   CR         1   TR  0   CH  1   NT  G-              1
+BA   31   CR         1   TR  1   CH  1   NT  G--             1
+BA   31   CR         1   TR  3   CH  3   NT  G---            1
+BA   31   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2B6F, note never turned off
+BA   31   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&314F, note never turned off
+BA   31   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3587, note never turned off
+BA   31   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B77, note never turned off
+BA   31   CR     1+1/2   TR  2   CH  2   NT  G             1/2
+BA   31   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B7F, note never turned off
+BA   31   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2B87, note never turned off
+BA   31   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3157, note never turned off
+BA   31   CR         2   TR  0   CH  1   NT  G#-             1
+BA   31   CR         2   TR  1   CH  1   NT  G#--            1
+BA   31   CR         2   TR  2   CH  2   NT  G#            1/4
+BA   31   CR         2   TR  3   CH  3   NT  G#---           1
+BA   31   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B8F, note never turned off
+BA   31   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&358F, note never turned off
+BA   31   CR     2+1/4   TR  2   CH  2   NT  G             3/8
+BA   31   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B97, note never turned off
+BA   31   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2B9F, note never turned off
+BA   31   CR     2+5/8   TR  2   CH  2   NT  F             3/8
+BA   31   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BA7, note never turned off
+BA   31   CR         3   TR  0   CH  1   NT  Bb-             1
+BA   31   CR         3   TR  1   CH  1   NT  Bb--            1
+BA   31   CR         3   TR  2   CH  2   NT  Bb            1/2
+BA   31   CR         3   TR  3   CH  3   NT  Bb---           1
+BA   31   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2BAF, note never turned off
+BA   31   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&315F, note never turned off
+BA   31   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&3597, note never turned off
+BA   31   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BB7, note never turned off
+BA   31   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3167, note never turned off
+BA   31   CR     3+1/2   TR  2   CH  2   NT  C             1/2
+BA   31   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BBF, note never turned off
+BA   31   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2BC7, note never turned off
+BA   31   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&316F, note never turned off
+
+BA   32   CR         0   TR  0   CH  1   NT  C               1
+BA   32   CR         0   TR  1   CH  1   NT  C-              1
+BA   32   CR         0   TR  2   CH  2   NT  C'              1
+BA   32   CR         0   TR  3   CH  3   NT  C--             1
+BA   32   CR         0   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BCF, note never turned off
+BA   32   CR         0   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&359F, note never turned off
+BA   32   CR       1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BD7, note never turned off
+BA   32   CR       1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BDF, note never turned off
+BA   32   CR       3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BE7, note never turned off
+BA   32   CR         1   TR  0   CH  1   NT  Bb-           1/2
+BA   32   CR         1   TR  1   CH  1   NT  Bb--          1/2
+BA   32   CR         1   TR  2   CH  2   NT  Bb            1/2
+BA   32   CR         1   TR  3   CH  3   NT  Bb---         1/2
+BA   32   CR         1   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2BEF, note never turned off
+BA   32   CR         1   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3177, note never turned off
+BA   32   CR         1   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&35A7, note never turned off
+BA   32   CR     1+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BF7, note never turned off
+BA   32   CR     1+1/2   TR  0   CH  1   NT  C             1/4
+BA   32   CR     1+1/2   TR  1   CH  1   NT  C-            1/4
+BA   32   CR     1+1/2   TR  2   CH  2   NT  C'              1
+BA   32   CR     1+1/2   TR  3   CH  3   NT  C--             1
+BA   32   CR     1+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2BFF, note never turned off
+BA   32   CR     1+3/4   TR  0   CH 16   End of track
+BA   32   CR     1+3/4   TR  1   CH 16   End of track
+BA   32   CR     1+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2C07, note never turned off
+BA   32   CR     1+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&317F, note never turned off
+BA   32   CR         2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C0F, note never turned off
+BA   32   CR         2   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&35AF, note never turned off
+BA   32   CR     2+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C17, note never turned off
+BA   32   CR     2+1/2   TR  2   CH  2   NT  B               1
+BA   32   CR     2+1/2   TR  3   CH  3   NT  B----           1
+BA   32   CR     2+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C1F, note never turned off
+BA   32   CR     2+3/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C27, note never turned off
+BA   32   CR         3   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2C2F, note never turned off
+BA   32   CR         3   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3187, note never turned off
+BA   32   CR         3   TR  6   CH 10   NT  C--     infinity
+# Warning tr=6 p=&35B7, note never turned off
+BA   32   CR         3   TR  6   CH 16   End of track
+BA   32   CR     3+1/4   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C37, note never turned off
+BA   32   CR     3+1/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&318F, note never turned off
+BA   32   CR     3+1/2   TR  2   CH  2   NT  B       infinity
+# Warning tr=2 p=&176A, note never turned off
+BA   32   CR     3+1/2   TR  2   CH 16   End of track
+BA   32   CR     3+1/2   TR  3   CH  3   NT  B----   infinity
+# Warning tr=3 p=&1C3F, note never turned off
+BA   32   CR     3+1/2   TR  3   CH 16   End of track
+BA   32   CR     3+1/2   TR  4   CH 10   NT  F#--    infinity
+# Warning tr=4 p=&2C3F, note never turned off
+BA   32   CR     3+1/2   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&3197, note never turned off
+BA   32   CR     3+5/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&319F, note never turned off
+BA   32   CR     3+3/4   TR  4   CH 10   NT  Bb--    infinity
+# Warning tr=4 p=&2C47, note never turned off
+BA   32   CR     3+3/4   TR  4   CH 16   End of track
+BA   32   CR     3+3/4   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&31A7, note never turned off
+BA   32   CR     3+7/8   TR  5   CH 10   NT  E--     infinity
+# Warning tr=5 p=&31AF, note never turned off
+BA   32   CR     3+7/8   TR  5   CH 16   End of track
+# Successfully parsed
+# Duration = 63.9375 seconds
