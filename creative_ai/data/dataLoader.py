@@ -134,17 +134,20 @@ def loadMusic(dirName):
             # extract pitch and duration from .txt song data, convert
             # those values to pysynth format, and add the
             # (pitch, duration) tuple to the song list
-            if "TR" in line and int(line[line.index("TR") + 1]) <= 2 \
+            try:
+                if "TR" in line and int(line[line.index("TR") + 1]) <= 2 \
                     and "NT" in line:
-                noteIndex = line.index("NT")
-                pitch = line[noteIndex + 1].replace(" ", "")
-                pitch = formatPitch(pitch)
+                    noteIndex = line.index("NT")
+                    pitch = line[noteIndex + 1].replace(" ", "")
+                    pitch = formatPitch(pitch)
 
-                duration = line[noteIndex + 2]
-                duration = formatDuration(duration)
+                    duration = line[noteIndex + 2]
+                    duration = formatDuration(duration)
 
-                pysynthTuple = (pitch, duration)
-                song.append(pysynthTuple)
+                    pysynthTuple = (pitch, duration)
+                    song.append(pysynthTuple)
+            except:
+                pass
 
         if song:
             songs.append(song)
