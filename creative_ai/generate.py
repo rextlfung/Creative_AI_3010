@@ -4,9 +4,7 @@ sys.dont_write_bytecode = True # Suppress .pyc files
 
 import random
 
-import pysynth_s
 import pysynth_e
-import pysynth_b
 import numpy
 from creative_ai.utils.menu import Menu
 from creative_ai.data.dataLoader import *
@@ -210,7 +208,7 @@ def runMusicGenerator(models, songName):
     D = makeSongComponent(models, 3/2)
     chorus.extend(D+A+D+B+D+C+D+B)
     # Reuse sentence: buildup over 8 bars
-    A = makeSongComponent(models, 3)
+    A = (makeSongComponent(models, 1))*3
     B = buildupSong(A, 2)
     C = buildupSong(A, 1, 4)
     D = buildupSong(A, 1, 8)
@@ -221,27 +219,10 @@ def runMusicGenerator(models, songName):
     song.extend(chorus)
     song.extend(verseOne)
     song.extend(preChorus)
-    song.extend([("r", 4), ("a0", 4)])
+    song.extend([("r", 8),("d1",16),("c#1",16),("c1",16),("b1",16),("a#1",16),("a1",16)])
     song.extend(chorus)
 
-    # Calculate songDuration:
-    #songBars = 0.0
-    #for note in song:
-        #songBars += (1.0 / note[1]) #longer notes have smaller duration values
-
-    #Disabled backbeat since it doesn't sound good
-
-    # Generate corresponding backbeat
-    #backbeatKick = [('a0', 4), ('r', 4), ('a0', 4), ('r', 4)]
-    #backbeatKick *= int(songBars)
-    #backbeatSnare = [('r', 4), ('a0', 4), ('r', 4), ('a0', 4)]
-    #backbeatSnare *= int(songBars)
-
     pysynth_e.make_wav(song, fn=songName)
-    #pysynth_b.make_wav(backbeatKick, fn=songName[:-4] + "Kick.wav")
-    #pysynth_e.make_wav(backbeatSnare, fn=songName[:-4] + "Snare.wav")
-    #pysynth_s.mix_files(songName[:-4] + "Kick.wav", songName[:-4] + "Snare.wav", songName[:-4] + "Backbeat.wav")
-    #pysynth_s.mix_files(songName, songName[:-4] + "Backbeat.wav", songName[:-4] + "Mixed.wav")
 
     return song
 

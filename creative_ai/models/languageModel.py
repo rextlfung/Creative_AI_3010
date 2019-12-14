@@ -3,6 +3,7 @@ from creative_ai.data.dataLoader import prepData
 from creative_ai.models.unigramModel import UnigramModel
 from creative_ai.models.bigramModel import BigramModel
 from creative_ai.models.trigramModel import TrigramModel
+from creative_ai.models.quadgramModel import QuadgramModel
 from creative_ai.utils.print_helpers import key_value_pairs
 
 class LanguageModel():
@@ -20,7 +21,7 @@ class LanguageModel():
         if models != None:
             self.models = models
         else:
-            self.models = [TrigramModel(), BigramModel(), UnigramModel()]
+            self.models = [QuadgramModel(), TrigramModel(), BigramModel(), UnigramModel()]
 
     def __str__(self):
         """
@@ -91,8 +92,10 @@ class LanguageModel():
             return self.models[0]
         elif self.models[1].trainingDataHasNGram(sentence) == True:
             return self.models[1]
-        else:
+        elif self.models[2].trainingDataHasNGram(sentence) == True:
             return self.models[2]
+        else:
+            return self.models[3]
 
     def weightedChoice(self, candidates):
         """
@@ -105,21 +108,6 @@ class LanguageModel():
         choose things from a dictionary
         returns an item described by the algorithm from the spec
 
-        """
-        # Isaac's original code
-        """
-        min = 0
-        max = 1 #FIXME
-        for index in candidates:
-            max += candidates[index]
-        cumulative_count = 0
-        randomNumber = random.randrange(min, max)
-        for index in candidates:
-            cumulative_count += candidates[index]
-            if randomNumber > cumulative_count:
-                continue
-            else:
-                return index
         """
         tokens = []
         cumulativeCount = []
@@ -163,6 +151,8 @@ class LanguageModel():
             Dictionary = self.models[1].getCandidateDictionary(sentence)
         elif self.selectNGramModel(sentence) == self.models[2]:
             Dictionary = self.models[2].getCandidateDictionary(sentence)
+        elif self.selectNGramModel(sentence) == self.models[3]:
+            Dictionary = self.models[3].getCandidateDictionary(sentence)
 
         #returns a choice from weighted dictionary
         if filter == None:

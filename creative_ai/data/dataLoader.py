@@ -135,8 +135,8 @@ def loadMusic(dirName):
             # those values to pysynth format, and add the
             # (pitch, duration) tuple to the song list
             try:
-                if "TR" in line and int(line[line.index("TR") + 1]) <= 2 \
-                    and "NT" in line:
+                if "TR" in line and (int(line[line.index("TR") + 1]) >= 0 \
+                    or int(line[line.index("TR") + 1]) < 0) and "NT" in line:
                     noteIndex = line.index("NT")
                     pitch = line[noteIndex + 1].replace(" ", "")
                     pitch = formatPitch(pitch)
