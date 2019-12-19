@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import sys
-sys.dont_write_bytecode = True # Suppress .pyc files
+
+sys.dont_write_bytecode = True  # Suppress .pyc files
 
 import random
 
@@ -20,7 +21,8 @@ TESTLYRICSDIRS = ['the_beatles_test']
 MUSICDIRS = ['kirby']
 WAVDIR = 'creative_ai/wav/'
 
-def output_models(val, output_fn = None):
+
+def output_models(val, output_fn=None):
     """
     Requires: nothing
     Modifies: nothing
@@ -36,6 +38,7 @@ def output_models(val, output_fn = None):
     with open('TEST_OUTPUT/' + output_fn, 'wt') as out:
         pprint(val, stream=out)
 
+
 def sentenceTooLong(desiredLength, currentLength):
     """
     Requires: nothing
@@ -48,6 +51,7 @@ def sentenceTooLong(desiredLength, currentLength):
     STDEV = 1
     val = random.gauss(currentLength, STDEV)
     return val > desiredLength
+
 
 def printSongLyrics(verseOne, verseTwo, chorus):
     """
@@ -64,6 +68,7 @@ def printSongLyrics(verseOne, verseTwo, chorus):
         for line in verse:
             print((' '.join(line)).capitalize())
         print()
+
 
 def trainLyricModels(lyricDirs, test=False):
     """
@@ -86,6 +91,7 @@ def trainLyricModels(lyricDirs, test=False):
 
     return model
 
+
 def trainMusicModels(musicDirs):
     """
     Requires: musicDirs is a list of directories in data/midi/
@@ -106,6 +112,7 @@ def trainMusicModels(musicDirs):
 
     return model
 
+
 def runLyricsGenerator(models):
     """
     Requires: models is a list of a trained nGramModel child class objects
@@ -123,6 +130,7 @@ def runLyricsGenerator(models):
         chorus.append(generateTokenSentence(models, 9))
 
     printSongLyrics(verseOne, verseTwo, chorus)
+
 
 def makeSongComponent(model, desiredBars):
     '''
@@ -156,6 +164,7 @@ def makeSongComponent(model, desiredBars):
     # Return sentence without starting characters
     return sentence[2:]
 
+
 def buildupSong(source, sourceBars, magnitude=2):
     '''
     Requires: source is a list of pysynth tuples, sourceBars is the length of
@@ -183,6 +192,7 @@ def buildupSong(source, sourceBars, magnitude=2):
     sentence *= magnitude
     return sentence
 
+
 def runMusicGenerator(models, songName):
     """
     Requires: models is a list of trained models
@@ -191,40 +201,41 @@ def runMusicGenerator(models, songName):
               named songName.wav
     Returns:  the generated song as a list of tuples
     """
-    verseOne = [] #8 Bars
-    verseTwo = [] #8 Bars
-    preChorus = [] #7 Bars
-    chorus = [] #8 Bars
+    verseOne = []  # 8 Bars
+    verseTwo = []  # 8 Bars
+    preChorus = []  # 7 Bars
+    chorus = []  # 8 Bars
 
     # Reuse sentence: AABBCCBB
     A = makeSongComponent(models, 1)
     B = makeSongComponent(models, 1)
     C = makeSongComponent(models, 1)
-    verseOne.extend(A*2+B*2+C*2+B*2)
+    verseOne.extend(A * 2 + B * 2 + C * 2 + B * 2)
     # Reuse sentence: ABCB Motif: DDD-
-    A = makeSongComponent(models, 1/2)
-    B = makeSongComponent(models, 1/2)
-    C = makeSongComponent(models, 1/2)
-    D = makeSongComponent(models, 3/2)
-    chorus.extend(D+A+D+B+D+C+D+B)
+    A = makeSongComponent(models, 1 / 2)
+    B = makeSongComponent(models, 1 / 2)
+    C = makeSongComponent(models, 1 / 2)
+    D = makeSongComponent(models, 3 / 2)
+    chorus.extend(D + A + D + B + D + C + D + B)
     # Reuse sentence: buildup over 8 bars
-    A = (makeSongComponent(models, 1))*3
+    A = (makeSongComponent(models, 1)) * 3
     B = buildupSong(A, 2)
     C = buildupSong(A, 1, 4)
     D = buildupSong(A, 1, 8)
-    preChorus.extend(A+B+C+D)
+    preChorus.extend(A + B + C + D)
 
     # Make song
     song = []
     song.extend(chorus)
     song.extend(verseOne)
     song.extend(preChorus)
-    song.extend([("r", 8),("d1",16),("c#1",16),("c1",16),("b1",16),("a#1",16),("a1",16)])
+    song.extend([("r", 8), ("d1", 16), ("c#1", 16), ("c1", 16), ("b1", 16), ("a#1", 16), ("a1", 16)])
     song.extend(chorus)
 
     pysynth_e.make_wav(song, fn=songName)
 
     return song
+
 
 ###############################################################################
 # Begin Core >> FOR CORE IMPLEMENTION, DO NOT EDIT OUTSIDE OF THIS SECTION <<
@@ -242,25 +253,26 @@ def generateTokenSentence(model, desiredLength):
               For more details about generating a sentence using the
               NGramModels, see the spec.
     """
-    #Create sentence with starting characters
+    # Create sentence with starting characters
     sentence = ["^::^", "^:::^"]
-    #Continuously add new words until sentence needs to end
+    # Continuously add new words until sentence needs to end
     while True:
         if sentence[-1] == "$:::$":
             break
-        #Discount starting characters
-        currentLength = len(sentence) - 2
-        if currentLength >= desiredLength:
+        # Discount starting characters
+        current_length = len(sentence) - 2
+        if current_length >= desiredLength:
             break
-        if sentenceTooLong(desiredLength, currentLength):
+        if sentenceTooLong(desiredLength, current_length):
             break
-        #Add new word to sentence
+        # Add new word to sentence
         sentence.append(model.getNextToken(sentence))
-    #Clear ending character if present
+    # Clear ending character if present
     if sentence[-1] == "$:::$":
         sentence.remove("$:::$")
-    #Return sentence without starting characters
+    # Return sentence without starting characters
     return sentence[2:]
+
 
 ###############################################################################
 # End Core
@@ -276,6 +288,7 @@ PROMPT = [
     'Generate a bot post of video game music *Limited to one post every 10 minutes*',
     'Quit the music generator'
 ]
+
 
 def main():
     """
@@ -335,6 +348,7 @@ def main():
         elif userInput == 4:
             print('Thank you for using the {} music generator!'.format(TEAM))
             sys.exit()
+
 
 # This is how python tells if the file is being run as main
 if __name__ == '__main__':

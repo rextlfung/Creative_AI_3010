@@ -43,17 +43,18 @@ class BigramModel():
                   Returns self.nGramCounts
         """
         # Iterates through each sentence in text
-        for list in text:
+        for lst in text:
             # Iterates through each word other than last
-            for index in range(len(list) - 1):
+            for i in range(len(lst) - 1):
                 # Updates bigram model
-                if list[index] in self.nGramCounts:
-                    if list[index + 1] in self.nGramCounts[list[index]]:
-                        self.nGramCounts[list[index]][list[index + 1]] += 1
+                curr_word = list[i]
+                if curr_word in self.nGramCounts:
+                    if lst[i+1] in self.nGramCounts[curr_word]:
+                        self.nGramCounts[curr_word][lst[i+1]] += 1
                     else:
-                        self.nGramCounts[list[index]][list[index + 1]] = 1
+                        self.nGramCounts[curr_word][lst[i+1]] = 1
                 else:
-                    self.nGramCounts[list[index]] = {list[index + 1]: 1}
+                    self.nGramCounts[curr_word] = {lst[i+1]: 1}
 
         return self.nGramCounts
 

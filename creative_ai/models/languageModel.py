@@ -88,11 +88,11 @@ class LanguageModel():
 
         """
 
-        if self.models[0].trainingDataHasNGram(sentence) == True:
+        if self.models[0].trainingDataHasNGram(sentence):
             return self.models[0]
-        elif self.models[1].trainingDataHasNGram(sentence) == True:
+        elif self.models[1].trainingDataHasNGram(sentence):
             return self.models[1]
-        elif self.models[2].trainingDataHasNGram(sentence) == True:
+        elif self.models[2].trainingDataHasNGram(sentence):
             return self.models[2]
         else:
             return self.models[3]
@@ -109,16 +109,17 @@ class LanguageModel():
         returns an item described by the algorithm from the spec
 
         """
-        tokens = []
-        cumulativeCount = []
-        totalCount = 0
-        for k, v in candidates.items():
-            tokens.append(k)
-            totalCount += v
-            cumulativeCount.append(totalCount)
-        randNum = random.randrange(0, cumulativeCount[-1])
-        for i in range(len(cumulativeCount)):
-            if cumulativeCount[i] > randNum:
+        tokens = candidates.keys()
+        cumulative_count = []
+        for v in candidates.values():
+            if (len(cumulative_count) == 0):
+                # empty, first case
+                cumulative_count.append(v)
+            else:
+                cumulative_count.append(v + cumulative_count[-1])
+        rand_num = random.randrange(0, cumulative_count[-1])
+        for i in range(len(cumulative_count)):
+            if cumulative_count[i] > rand_num:
                 return tokens[i]
         return "FIXME"
 
@@ -143,33 +144,36 @@ class LanguageModel():
         if filter is used, while no model produces a next token through the filter, filter chooses random token
 
         """
-        #gives dictionary to use, whichever of the three models
-        Dictionary = {}
-        if self.selectNGramModel(sentence) == self.models[0]:
-            Dictionary = self.models[0].getCandidateDictionary(sentence)
-        elif self.selectNGramModel(sentence) == self.models[1]:
-            Dictionary = self.models[1].getCandidateDictionary(sentence)
-        elif self.selectNGramModel(sentence) == self.models[2]:
-            Dictionary = self.models[2].getCandidateDictionary(sentence)
-        elif self.selectNGramModel(sentence) == self.models[3]:
-            Dictionary = self.models[3].getCandidateDictionary(sentence)
+        # gives dictionary to use, whichever of the three models
 
-        #returns a choice from weighted dictionary
+        dict = self.selectNGramModel(sentence).getCandidateDictionary(sentence)
+
+        # if self.selectNGramModel(sentence) == self.models[0]:
+        #     Dictionary = self.models[0].getCandidateDictionary(sentence)
+        # elif self.selectNGramModel(sentence) == self.models[1]:
+        #     Dictionary = self.models[1].getCandidateDictionary(sentence)
+        # elif self.selectNGramModel(sentence) == self.models[2]:
+        #     Dictionary = self.models[2].getCandidateDictionary(sentence)
+        # elif self.selectNGramModel(sentence) == self.models[3]:
+        #     Dictionary = self.models[3].getCandidateDictionary(sentence)
+
+        # returns a choice from weighted dictionary
         if filter == None:
-            return self.weightedChoice(Dictionary)
+            return self.weightedChoice(dict)
 
-        #if there are strings in filter
+        # if there are strings in filter
         else:
-            filteredCandidates = {}
-            for index, value in Dictionary.items():
-                if index in filter:
-                    filteredCandidates[index] = value
+            filtered_candidates = {fc: dict[fc] for fc in filter}
+            # filteredCandidates = {}
+            # for fc in filter:
+            #     if index in filter:
+            #         filteredCandidates[index] = value
         #if there are no items in filteredCandidates
-            if filteredCandidates == {}:
+            if filtered_candidates == {}:
                 return random.choice(filter)
         #if there are items in filteredCandidates
             else:
-                return self.weightedChoice(filteredCandidates)
+                return self.weightedChoice(filtered_candidates)
 
 ###############################################################################
 # End Core

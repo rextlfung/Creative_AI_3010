@@ -42,23 +42,24 @@ class UnigramModel():
                   Returns self.nGramCounts
         """
         temp_dict = self.nGramCounts.copy()
-        word_count = 0
         joined_text = []
         # Merges all lists in text into single list of words
-        for i in text:
-            joined_text += i
+        for words in text:
+            joined_text += words
         # Adds new word to temporary dictionary if in text
         for word in joined_text:
             if ((word != '^::^') and (word != '^:::^')):
-                word_count = joined_text.count(word)
-                temp_dict[word] = word_count
+                if (not (word in temp_dict)):
+                    word_count = joined_text.count(word)
+                    temp_dict[word] = word_count
+
         # Combines existing dict values with temp dict values to existing dict
         for word in self.nGramCounts:
             if word in temp_dict:
-                temp_val = self.nGramCounts[word]
-                temp_val2 = temp_dict[word]
-                temp_dict[word] = temp_val + temp_val2
-        self.nGramCounts = temp_dict
+                # temp_val = self.nGramCounts[word]
+                # temp_val2 = temp_dict[word]
+                self.nGramCounts[word] += temp_dict[word]
+        # self.nGramCounts = temp_dict
 
         return self.nGramCounts
 
