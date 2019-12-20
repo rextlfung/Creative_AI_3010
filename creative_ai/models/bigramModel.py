@@ -47,7 +47,7 @@ class BigramModel():
             # Iterates through each word other than last
             for i in range(len(lst) - 1):
                 # Updates bigram model
-                curr_word = list[i]
+                curr_word = lst[i]
                 if curr_word in self.nGramCounts:
                     if lst[i+1] in self.nGramCounts[curr_word]:
                         self.nGramCounts[curr_word][lst[i+1]] += 1

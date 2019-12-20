@@ -109,7 +109,7 @@ class LanguageModel():
         returns an item described by the algorithm from the spec
 
         """
-        tokens = candidates.keys()
+        tokens = list(candidates.keys())
         cumulative_count = []
         for v in candidates.values():
             if (len(cumulative_count) == 0):
